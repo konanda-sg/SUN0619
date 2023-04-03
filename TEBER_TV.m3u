@@ -198,14 +198,9 @@ http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:62 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53/CLCTV.PNG", CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
-#EXTINF:63, KAÇKAR TV
-http://149.62.177.140:8000/play/a00g/index.m3u8
 
-#EXTINF:-64,ANADOLU D.TV
-http://149.62.177.140:8000/play/a00w/index.m3u8
-
-#EXTINF:65, ZAZA TV
-http://149.62.177.140:8000/play/a00o/index.m3u8
+#EXTINF:20,TV20  
+http://tvyirmi18205.ozelip.com:29020/denizli55/denizli55/chunklist_w28770223.m3u8
 
 #EXTINF: 68 tvg-logo=/ATV.png" group-title="ULUSAL", ATV alanya
 https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
