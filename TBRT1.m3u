@@ -82,8 +82,9 @@ https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks
 
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER ON TV
 https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
+
 #EXTINF:11, TELEON TV HD
-https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
+https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_showtimeapp_4kultrahd_/chunks.m3u8
 
 #EXTINF:27, YANSIMA KLASİK TV
 https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
@@ -101,8 +102,7 @@ http://iptvh.it/vrt.hd
 
 #EXTINF:94,TEBER Y.GEÇİDİ TV
 http://tv86905.radyotelekomtv.com:22808/ceyhantv/ceyhantv/chunklist.m3u8
-#EXTINF:-1,TR: Vatan TV
-http://stream.live-ip.tv:8080/Dnmkserkangtdhghghrt/34tgtrvsbe56zt75ujrunfdct6ze65dgfsder/5147
+
 #EXTINF:1,DEM int TV
 http://77.68.121.3/hls/stream.m3u8
 #EXTINF:21 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV FHD
@@ -132,8 +132,11 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.3
 #EXTINF:1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 
-#EXTINF:-12,TOKAT TV
+#EXTINF:-1,TOKAT TV1
 https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/chunklist.m3u8
+
+#EXTINF:1,TOKAT TV2
+https://cdn10-tokattv.yayin.com.tr/tokattv/tokattv/playlist.m3u8
 
 #EXTINF:-12,BÜLTEN TV
 https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/chunklist_w886123543_b1996000.m3u8

@@ -31,7 +31,7 @@ https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks
 https://live-server-2.splitstream.io/fe992241-c5b5-464d-a0b6-b9aa254d5ff6/tracks-v1a1/mono.m3u8
 
 #EXTINF:11, TELEON TV HD
-https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
+https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_showtimeapp_4kultrahd_/chunks.m3u8
 
 #EXTINF:-1,TR:YANSIMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
@@ -51,8 +51,11 @@ http://77.68.121.3/hls/stream.m3u8
 #EXTINF:1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 
-#EXTINF:-12,TOKAT TV
+#EXTINF:-1,TOKAT TV1
 https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/chunklist.m3u8
+
+#EXTINF:1,TOKAT TV2
+https://cdn10-tokattv.yayin.com.tr/tokattv/tokattv/playlist.m3u8
 
 #EXTINF:-12,BÜLTEN TV
 https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/chunklist_w886123543_b1996000.m3u8
@@ -92,8 +95,6 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:22 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61951f4c866ac31a807822e8?w=80&q=75", KRT TV HD 
 http://135.125.234.9:8081/krttv/index.m3u8
 
-#EXTINF:23 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6JqFlq8rN2oSy0ZPkpnXcD58SUc-BC9KWR39JYdykgSn7kMC6gjwX3MDqOegSV2H4vMJYeGnYnkeBaYem3oEwdn7xeBiDq3VUmqlmh6ONHsDH-tef-158dWQlsBLa7VA_xR68MFYSCDtcYo2r6KK6OS-BpF1upZeRg6YpvPq5THpe4sP1N666YRp_3g/w172-h46/28tv.PNG", KARADENiZ 28 TV HD
-http://91.134.203.253:30124/karadeniz/karadeniz/sec-f5-v1-a1.m3u8
 
 #EXTINF:24 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEIRhIdevHQ_dWxDHDe_87JyX7MHh1XqBQ9GzjtC6XBSbxk3Z9uzAAEopCY9Sxljp-karj8Ybs8KesYGrhEjm0sPc5lRxofWbvLee5u4y9KPJimdga8i062kBMBF-mbcUYDlljhwzNDU58jmHw0N2V7qeMmvGN__wHYMjdw3piiJLbEorcIpEt9jwuQ/w152-h36/karap%C4%B1nartv.jpg", KARAPINAR MEDYA TV
 http://91.134.203.253:30124/karapinar/karapinar/sec-f5-v1-a1.m3u8
@@ -166,9 +167,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:47 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/82cb5fa5-3f14-4740-a091-c2056fe43e1b.png" group-title= "YEREL KANALLAR", Kanal Avrupa
 http://51.15.2.151/hls/kanalavrupa.m3u8
-
-#EXTINF:48 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/0fc7abfd-4793-4e88-9c73-2f76a4587b0a.png" group-title= "YEREL KANALLAR", Tokat TV
-https://cdn10-tokattv.yayin.com.tr/tokattv/tokattv/playlist.m3u8
 
 #EXTINF:49 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b1041556-d3be-4753-8ed1-709112e53c27.png" group-title= "YEREL KANALLAR", Boztepe TV
 https://broadcasttr.com:446/btv/bant1/chunklist_w287512980.m3u8
