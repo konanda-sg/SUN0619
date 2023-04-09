@@ -11,7 +11,10 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:4,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
-#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT5 AVAZ
+#EXTINF:102, CINE5 TV HD
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+
+#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT6 AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 
@@ -28,28 +31,30 @@ http://195.142.1.211:4022/udp/224.2.2.33:10001|User-Agent=Lavf53.32.100
 #http://135.125.234.9:8081/tv8/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg" group-title="ULUSAL-int",TV8 INT ᴴᴰ
-http://95.0.226.197:8000/play/a037
-#http://nx4545.xyz:80/suleymansenol/suleyman.49/63947
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
 http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100 
+
+#EXTINF:-12,VRT HD
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
 #EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:0 type="stream" channelId="4628" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4628", ATV AVRUPA
 http://62.182.82.104/atv_turk/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
 http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100 
 
-#EXTINF:-1 tvg-id="A2.tr"tvg-name="A2.tr"tvg-logo="https://picon-13398.kxcdn.com/a2hdtr.jpg" group-title="ULUSAL",A2 ᵁᴴᴰ⁺
-http://31.177.62.182:8004/play/s13
-#http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
+#EXTINF:-1,A2 ᵁᴴᴰ⁺
+http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.1:10001|User-Agent=Lavf53.32.100 
-#http://canli.haber365.com.tr/tr/startv/index.m3u8
+http://canli.haber365.com.tr/tr/startv/index.m3u8
 
-#EXTINF:0 type="stream" channelId="4630" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-D3Z_juwLUO4/YI3eODT7eKI/AAAAAAAATQ4/nd79x-fS78A4rx11kbKNzwRCUdCOY6roQCLcBGAsYHQ/s0/EUROSTAR%2B-%2BKopya.png", EURO STAR
+#EXTINF:0, EURO STAR
 http://135.125.234.9:8081/eurostar/index.m3u8
 
 #EXTINF:0 type="stream" channelId="3119" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png", SHOW TV HD
@@ -58,8 +63,8 @@ http://canli.haber365.com.tr/tr/showtv/index.m3u8
 #EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW TURK HD
 http://135.125.234.9:8081/showturk/index.m3u8  
 
-#EXTINF:0 type="stream" channelId="4632" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4632", SHOWMAX HD
-http://ig8npqfb.rostelekom.xyz/iptv/GNCPU3XQDZA3L4/6890/index.m3u8
+#EXTINF:-1,Showmax HD
+http://1985h.pw:80/live/sefa/123456/129789.ts
 
 #EXTINF:-40,Kanal D Hd
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
@@ -94,8 +99,6 @@ https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks
 #EXTINF:11, TİMUR TV
 https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
 
-#EXTINF:-12,VRT HD
-http://iptvh.it/vrt.hd
 
 #EXTINF:94,TEBER Y.GEÇİDİ TV
 http://tv86905.radyotelekomtv.com:22808/ceyhantv/ceyhantv/chunklist.m3u8
