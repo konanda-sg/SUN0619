@@ -28,9 +28,9 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
 http://195.142.1.211:4022/udp/224.2.2.33:10001|User-Agent=Lavf53.32.100 
-#http://135.125.234.9:8081/tv8/index.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg" group-title="ULUSAL-int",TV8 INT ᴴᴰ
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg" group-title="ULUSAL-int",TV8 YDK ᴴᴰ
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 
@@ -95,6 +95,8 @@ https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks
 #EXTINF:-1,TR:YANSIMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,GOZDE TV FHD
+http://31.223.85.34:9999/play/a0ci/index.m3u8
 
 #EXTINF:11, TİMUR TV
 https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
@@ -116,6 +118,12 @@ http://91.134.203.253:30124/karapinar/karapinar/sec-f5-v1-a1.m3u8
 
 #EXTINF: 28 tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="AVRUPA", TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+
+#EXTINF:30,BAHAR TÜRK
+http://31.223.85.34:9999/play/a0cj/index. m3u8
+
+#EXTINF:-1,AKILLI TV
+http://31.223.85.34:9999/play/a09k/index…
 
 #EXTINF:30, EM TV
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
@@ -167,13 +175,14 @@ http://135.125.234.9:8081/tele1/index.m3u8
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
-#EXTINF:-80, KADIRGA TV
-http://149.62.177.140:8000/play/a032/index.m3u8
-#EXTINF:81 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/9f00ccad-90ec-4cdd-b2bf-e23eee2baec3.png" group-title= "YEREL KANALLAR", Kanal Urfa
-https://broadcasttr.com:446/kanalurfa/bant1/chunklist_w1125528664.m3u8
+#EXTINF:-1,TV A 
+https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
 
-#EXTINF:82 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/abe5c095-0dfc-489e-96dd-a52aab2f6f11.png" group-title= "YEREL KANALLAR", GRT Gaziantep
-https://waw1.artiyerelmedya.net/grt/bant1/chunks.m3u8
+#EXTINF:102,RT1 TV 
+https://stream.guventechnology.com:19360/rt1turktv/rt1turktv.m3u8
+
+#EXTINF:102, UNİ TV
+https://tv.digitalbox.xyz:19360/unitv/unitv.m3u8
 
 #EXTINF:58 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/48e5a212-b440-4682-a613-2b0fb18e663f.png" group-title= "YEREL KANALLAR", Gurbet 24 Erzincan
 http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
@@ -212,12 +221,20 @@ https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
 #EXTINF:20,TV20  
 http://tvyirmi18205.ozelip.com:29020/denizli55/denizli55/chunklist_w28770223.m3u8
+#EXTINF:-1,TVDEN Aydın
+http://canli.tvden.com.tr/hls/live.m3u8
 
+#EXTINF:-1,Van Gölü TV  
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
 #EXTINF: 68 tvg-logo=/ATV.png" group-title="ULUSAL", ATV alanya
 https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
+#EXTINF:-1,Cadde TV 
+http://1985h.pw:80/live/sefa/123456/236540.ts
 
-#EXTINF:69,TVA
-http://yerelmedya.tv:1935/tva/bant1/playlist.m3u8
+#EXTINF:-1,Kadırga TV 
+http://1985h.pw:80/live/sefa/123456/236549.ts
+#EXTINF:-1,Net TV 
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 
 #EXTINF:70 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/59a5e6e2-8ae5-432d-948b-509ab7ea4d70.png" group-title= "YEREL KANALLAR", Aras TV
 http://1.rtmp.org/tv217/yayin.stream/chunklist_w1620641153.m3u8
@@ -245,91 +262,12 @@ http://yerelmedya.tv:1935/olaytv/_definst_/bant1/playlist.m3u8
 
 #EXTINF:78 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dd622845-6ef1-42e5-bb37-63e774af3daf.png" group-title= "YEREL KANALLAR", Kanal Fırat
 https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
-
-#EXTINF:-79, BURSA TV
-https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
-
-#EXTINF:-80, KADIRGA TV
-http://149.62.177.140:8000/play/a032/index.m3u8
-
-#EXTINF:81 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/9f00ccad-90ec-4cdd-b2bf-e23eee2baec3.png" group-title= "YEREL KANALLAR", Kanal Urfa
-https://broadcasttr.com:446/kanalurfa/bant1/chunklist_w1125528664.m3u8
-
-#EXTINF:82 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/abe5c095-0dfc-489e-96dd-a52aab2f6f11.png" group-title= "YEREL KANALLAR", GRT Gaziantep
-https://waw1.artiyerelmedya.net/grt/bant1/chunks.m3u8
-
-#EXTINF:58 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/48e5a212-b440-4682-a613-2b0fb18e663f.png" group-title= "YEREL KANALLAR", Gurbet 24 Erzincan
-http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
-
-#EXTINF:-83,NTV
-https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.2:10001
-#https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-#http://31.223.85.34:9999/play/a05s/index.m3u8
-#https://cors.deno.dev/http://213.172.73.133:8081/nimble_live/9066_NTV_HD/playlist.m3u8
-
-#EXTINF:84,TVNET
-https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
-
-#EXTINF:-85 tvg-id="CNNTurk.tr" tvg-name="CNNTurk" tvg-logo="https://picon-13398.kxcdn.com/cnnturkradio.jpg" group-title="HABER",CNN TURK ᴴᴰ⁺
-https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.10:10001
-#http://31.177.62.182:8006/play/s16
-#https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#https://cors.deno.dev/http://213.172.73.133:8081/nimble_live/9107_CNN_Turk_HD/playlist.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001153/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001153&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-86 tvg-id="TV100.tr" tvg-name="TV 100 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tv100tr.jpg" group-title="HABER",TV100 ᴴᴰ⁺
-https://cors.deno.dev/https://tv100.blutv.com/blutv_tv100_live/live.m3u8| User-Agent=Lavf53.32.100    #http://31.223.85.34:9999/play/a08c/index.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001259/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001259&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-87 tvg-id="TRTHaber.tr" tvg-name="TRT Haber HD TR" tvg-logo="https://picon-13398.kxcdn.com/trthaberhdtr.jpg"tvg-url="" group-title="HABER",TRT HABER  ᴴᴰ⁺
-https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_trthaber2/live.m3u8| User-Agent=Lavf53.32.100    
-#http://31.223.85.34:9999/play/a08z/index.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001252/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001252&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-88 tvg-id="AHaber.tr" tvg-name="A Haber TR" tvg-logo="https://picon-13398.kxcdn.com/ahabertr.jpg" group-title="HABER",A HABER ᴴᴰ⁺
-https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.20:10001
-#https://cors.deno.dev/http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001016/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001016&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#http://135.125.234.9:8081/ahaber/tracks-v1a1/mono.m3u8| User-Agent=Lavf53.32.100
-
-#EXTINF:-89 tvg-id="24TV.tr" tvg-name="24 TV HD" tvg-logo="https://picon-13398.kxcdn.com/24tvtr.jpg" group-title="HABER",24 TV ᴴᴰ⁺
-https://cors.deno.dev/https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001013/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001013&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-#https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.57:10001/index.m3u8
-
-
-#EXTINF:-90 tvg-id="UlkeTV.tr" tvg-name="Ulke TV TR" tvg-logo="https://picon-13398.kxcdn.com/ulketvtr.jpg" group-title="HABER",ULKE TV ᴴᴰ⁺
-https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8| User-Agent=Lavf53.32.100       #http://31.177.62.182:8010/play/s19
-#http://185.234.217.19:8038/play/a015
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001304/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001304&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-91 tvg-id="TVNet.tr" tvg-name="TV Net TR" tvg-logo="https://picon-13398.kxcdn.com/tvnettr.jpg" group-title="HABER",TV NET ᴴᴰ⁺
-https://cors.deno.dev/https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-#https://cors.deno.dev/http://iptvmasterlink.dyndns.org:8080/TvNetHd/playlist.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001262/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001262&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-92 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/haber-global-tr.png" group-title="HABER",HABER GLOBAL ᴴᴰ⁺
-https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.45:10001
-#https://cors.deno.dev/https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8| User-Agent=Lavf53.32.100 #http://31.223.85.34:9999/play/a081/index.m3u8
-#https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001170/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001170&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:-93 tvg-id="Haberturk.tr" tvg-name="Haber Turk TR" tvg-logo="https://picon-13398.kxcdn.com/haberturktr.jpg" group-title="HABER",HABER TURK ᴴᴰ⁺
-https://cors.deno.dev/https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
-#https://cors.deno.dev/http://213.172.73.133:8081/nimble_live/9148_Haberturk_HD/playlist.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001171/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTiETZ6gzmgSLCw==&RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001171&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=5&s=64832626&IASHttpSessionId=
-
-#EXTINF:94,TEBER Y.GEÇİDİ TV
-http://tv86905.radyotelekomtv.com:22808/ceyhantv/ceyhantv/chunklist.m3u8
-
-#EXTINF:-95 tvg-id="TV4.tr" tvg-name="TV4.tr" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/tv4-logo. png" group-title="ULUSAL",TV 4 ᵁᴴᴰ⁺
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#https://cors.deno.dev/http://itv224218.tmp.tivibu.com.tr:6410/001/2/ch00000090990000001851/sec-f5-v1-a1.m3u8?t=l&JITPDRMType=2WYywfPOTIETZ6gzmgSLCw== &RateHigh=6000000&u=SU64832626&client_version=3&ztecid=ch00000090990000001851&virtualDomain=001.live_hls.zte.com&ispcode=75&terminalflag=4&s=64832626&IASHttpSessionId=
-
 #EXTINF:-96,BİR TV HD
 https://h59.artiyerelmedya.net/birtv/bant1/chunks.m3u8
+
 #EXTINF:97,AKTİF TV
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
+
 #EXTINF:98, DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
@@ -363,9 +301,6 @@ https://arajans.ozelip.com:3234/live/arajanslive.m3u8
 #EXTINF:109, AFYON TÜRK TV
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:110,Anadolu Dost Tv
-https://59cba4d34b678.streamlock.net/canlitv/anadoludosttv/chunklist_w1433375139.m3u8
-
 #EXTINF:111,GOP SEN TV
 http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
 
@@ -381,8 +316,6 @@ https://59cba4d34b678.streamlock.net/live/marmaratv/chunklist_w291666692.m3u8
 #EXTINF:115,VİZYON 58
 https://h59.artiyerelmedya.net/vizyon58/bant1/chunks.m3u8
 
-#EXTINF:116,Y.Karadeniz Tv
-http://tv86905.radyotelekomtv.com:22808/ykaradeniztv/ykaradeniztv/chunklist.m3u8
 
 #EXTINF:117, NTN YESiLCAM HD
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
@@ -396,21 +329,17 @@ http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
 #EXTINF:120,ViYANA TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
-#EXTINF:1, BLU PLAY 1 HD
-https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
-
-#EXTINF:1, BLU PLAY 2 HD
-https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
-
 #EXTINF:1,ALMANYA TV
 http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
 
 #EXTINF:1, KANAL AVRUPA
 http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 
-
 #EXTINF:1,KONYA OLAY TV
 https://bit.ly/3wA62wY
+
+#EXTINF :-1,XX_S_BG_Balkanika
+http://85.223.221.130:8000/play/a06o
 
 #EXTINF:0 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-TQtYSXJnwiY/X32Nqsq8tNI/AAAAAAAAPLI/McOIycnS7aEMC21vln9OIGwWKHB6vjgGgCLcBGAsYHQ/s0/tvden.png" size="Small", TV DEN YEDEK
 http://135.125.234.9:8081/tvden/index.m3u8
@@ -475,7 +404,7 @@ https://waw2.artiyerelmedya.net/hunattv/bant1/playlist.m3u8
 #EXTINF:-1,Icel TV 
 http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
 
-#EXTINF:-1,MaviKaradeniz
+#EXTINF:-1,MK HABER
 http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8
 
 #EXTINF:1,,İSVİCRE TV 
@@ -508,8 +437,239 @@ https://h125.artiyerelmedya.net/kanal16/bant1/chunks.m3u8
 #EXTINF:-1,TELE 1 HD
 http://31.223.85.34:9999/play/a09d/index.m3u8
 
-#EXTINF:-1 tvg-id="Teve2.tr" tvg-name="|TR| TEVE 2 HD" tvg-logo="http://profesyonel-tv-logo.cf/tvlogo/turkeyT/teve2.png " group-title="| TR | ULUSAL",|TR| TEVE 2 HD
-http://lserver110.xyz:8080/5yH2pGd4cw/Hs7vcuX5J8/109969
+#EXTINF :-1,AGRO TV
+http://31.223.85.34:9999/play/a0av/index.m3u8
+#EXTINF :-1,AKILLI TV
+http://31.223.85.34:9999/play/a09k/index .m3u8
+#EXTINF :-1,AKRT
+http://31.223.85.34:9999/play/a0ck/index.m3u8
+#EXTINF :-1,AKSU TV
+http://31.223.85.34:9999/play/a0a2/index. m3u8
+#EXTINF :-1,ANADOLU DERNEK TV
+http://31.223.85.34:9999/play/a09i/index.m3u8
+#EXTINF :-1,BAHARTURK
+http://31.223.85.34:9999/play/a0cj/index. m3u8
+#EXTINF :-1,BBNTURK
+http://31.223.85.34:9999/play/a0c4/index.m3u8
+#EXTINF :-1,BENG⅛ T⅛RK HD
+http://31.223.85.34:9999/play/a0bp/index. m3u8
+#EXTINF :-1,BIR TV
+http://31.223.85.34:9999/play/a0ak/index.m3u8
+#EXTINF :-1,BITLIS TV
+http://31.223.85.34:9999/play/a0c6/index.m3u8
+#EXTINF :-1,BRTV ANADOLU
+http://31.223.85.34:9999/play/a0a8/index.m3u8
+#EXTINF :-1,BURSA TV
+http://31.223.85.34:9999/play/a0ay/index.m3u8
+#EXTINF :-1,CADDE TV
+http://31.223.85.34:9999/play/a0ce/index.m3u8
+#EXTINF :-1,ÇAY TV
+http://31.223.85.34:9999/play/a0b9/index.m3u8
+#EXTINF :-1,CEM RADYO
+http://31.223.85.34:9999/play/a0ca/index.m3u8
+#EXTINF :-1,CEM TV
+http://31.223.85.34:9999/play/a0c3/index.m3u8
+#EXTINF :-1,CIFTCI TV
+http://31.223.85.34:9999/play/a0a4/index.m3u8
+#EXTINF :-1,CINE 1
+http://31.223.85.34:9999/play/a0ai/index.m3u8
+#EXTINF :-1,DIYAR TV
+http://31.223.85.34:9999/play/a0an/index.m3u8
+#EXTINF :-1,DOST TV
+http://31.223.85.34:9999/play/a0bb/index.m3u8
+#EXTINF :-1,DREAM TÜRK
+http://31.223.85.34:9999/play/a09g/index.m3u8
+#EXTINF :-1,DRT DENİZLİ TV
+http://31.223.85.34:9999/play/a0c0/index.m3u8
+#EXTINF :-1,EDESSA TV
+http://31.223.85.34:9999/play/a0b2/index.m3u8
+#EXTINF :-1,EKİNTÜRK TV
+http://31.223.85.34:9999/play/a09o/index.m3u8
+#EXTINF :-1,ER TV
+http://31.223.85.34:9999/play/a0a5/index.m3u8
+#EXTINF :-1,ES TV
+http://31.223.85.34:9999/play/a0a3/index.m3u8
+#EXTINF :-1,EYmen
+http://31.223.85.34:9999/play/a09u/index.m3u8
+#EXTINF :-1,EvaTv
+http://31.223.85.34:9999/play/a09l/index.m3u8
+#EXTINF :-1,ÖZGÜRLÜK
+http://31.223.85.34:9999/play/a0bn/index.m3u8
+#EXTINF :-1,GAZİANTEP OLAY TV
+http://31.223.85.34:9999/play/a0ch/index.m3u8
+#EXTINF :-1,GONCA TV
+http://31.223.85.34:9999/play/a0au/index.m3u8
+#EXTINF :-1,GÖZDE TV
+http://31.223.85.34:9999/play/a0ci/index.m3u8
+#EXTINF :-1,GRT TV
+http://31.223.85.34:9999/play/a0bf/index.m3u8
+#EXTINF :-1,GÜNEYDOĞU TV
+http://31.223.85.34:9999/play/a0b4/index.m3u8
+#EXTINF :-1,HRT AKDENİZ TV
+http://31.223.85.34:9999/play/a0be/index.m3u8
+#EXTINF :-1,K KARDELEN TV
+http://31.223.85.34:9999/play/a0bh/index.m3u8
+#EXTINF :-1 ,KAÇKAR TV
+http://31.223.85.34:9999/play/a0as/index.m3u8
+#EXTINF :-1,KADIRGA TV
+http://31.223.85.34:9999/play/a0ax/index.m3u8
+#EXTINF :-1,KANAL 15
+http://31.223.85.34:9999/play/a0af/index.m3u8
+#EXTINF :-1,KANAL 23
+http://31.223.85.34:9999/play/a0ae/index.m3u8
+#EXTINF :-1,KANAL 26
+http://31.223.85.34:9999/play/a0a1/index.m3u8
+#EXTINF :-1,KANAL 3
+http://31.223.85.34:9999/play/a0aq/index.m3u8
+#EXTINF :-1,KANAL 32
+http://31.223.85.34:9999/play/a0bm/index.m3u8
+#EXTINF :-1,KANAL 33
+http://31.223.85.34:9999/play/a0bx/index.m3u8
+#EXTINF :-1,KANAL 58
+http://31.223.85.34:9999/play/a0ap/index.m3u8
+#EXTINF :-1,KANAL 68
+http://31.223.85.34:9999/play/a0a9/index.m3u8
+#EXTINF :-1,KANAL 7 AVRUPA HD
+http://31.223.85.34:9999/play/a0az/index.m3u8
+#EXTINF :-1,KANAL ANTALYA
+http://31.223.85.34:9999/play/a09f/index.m3u8
+#EXTINF :-1, KANAL AVRUPA
+http://31.223.85.34:9999/play/a0bw/index.m3u8
+#EXTINF :-1,KANAL EGE
+http://31.223.85.34:9999/play/a0cg/index.m3u8
+#EXTINF :-1, KANAL FIRAT
+http://31.223.85.34:9999/play/a0a7/index.m3u8
+#EXTINF :-1,KANAL S
+http://31.223.85.34:9999/play/a0c5/index.m3u8
+#EXTINF :-1, KANAL URFA
+http://31.223.85.34:9999/play/a0b3/index.m3u8
+#EXTINF :-1,KANAL V
+http://31.223.85.34:9999/play/a09w/index.m3u8
+#EXTINF :-1,KENT TÜRK
+http://31.223.85.34:9999/play/a0a0/index.m3u8
+#EXTINF :-1,KON TV
+http://31.223.85.34:9999/play/a0bj/index.m3u8
+#EXTINF :-1,KÖY TV
+http://31.223.85.34:9999/play/a0bq/index.m3u8
+#EXTINF :-1,KOZA TV
+http://31.223.85.34:9999/play/a0bg/index.m3u8
+#EXTINF :-1,KUDUS TV
+http://31.223.85.34:9999/play/a0bv/index.m3u8
+#EXTINF :-1,LALEGÜL TV
+http://31.223.85.34:9999/play/a0bd/index.m3u8
+#EXTINF :-1,LINE TV
+http://31.223.85.34:9999/play/a0b5/index.m3u8
+#EXTINF :-1,LUYS TV
+http://31.223.85.34:9999/play/a0c8/index.m3u8
+#EXTINF :-1,LİDER HABER
+http://31.223.85.34:9999/play/a09j/index.m3u8
+#EXTINF :-1,MALATYA VUSLAT TV
+http://31.223.85.34:9999/play/a0aj/index.m3u8
+#EXTINF :-1,MAVI KARADENİZ
+http://31.223.85.34:9999/play/a0ab/index.m3u8
+#EXTINF :-1,MEK TV
+http://31.223.85.34:9999/play/a0cf/index.m3u8
+#EXTINF :-1,MELTEM TV
+http://31.223.85.34:9999/play/a0b1/index.m3u8
+#EXTINF :-1,MERCAN TV
+http://31.223.85.34:9999/play/a0a6/index.m3u8
+#EXTINF :-1,NR1 TÜRK TV
+http://31.223.85.34:9999/play/a0by/index.m3u8
+#EXTINF :-1,ON4 TV
+http://31.223.85.34:9999/play/a0c2/index.m3u8
+#EXTINF :-1,ORDU ALTAŞ TV
+http://31.223.85.34:9999/play/a0br/index.m3u8
+#EXTINF :-1,PAMUKKALETV
+http://31.223.85.34:9999/play/a0bz/index.m3u8
+#EXTINF :-1,POWER HD
+http://31.223.85.34:9999/play/a09x/index.m3u8
+#EXTINF :-1,REHBERTV
+http://31.223.85.34:9999/play/a0b8/index.m3u8
+#EXTINF :-1,RUMELİ TV
+http ://31.223.85.34:9999/play/a09n/index.m3u8
+#EXTINF :-1,SAT7TURK
+http://31.223.85.34:9999/play/a0ah/index.m3u8
+#EXTINF :-1,SEMERKAND HD
+http://31.223.85.34:9999/play/a0cc/index.m3u8
+#EXTINF :-1,SEMERKAND YOLU
+http://31.223.85.34:9999/play/a0cd/index.m3u8
+#EXTINF :-1,SPORTS TV
+http://31.223.85.34:9999/play/a0b7/index.m3u8
+#EXTINF :-1,SUN RTV
+http://31.223.85.34:9999/play/a09v/index.m3u8
+#EXTINF :-1,TAY TV
+http://31.223.85.34:9999/play/a09r/index.m3u8
+#EXTINF :-1,TARIM ORMAN
+http://31.223.85.34:9999/play/a0cb/index.m3u8
+#EXTINF :-1,TATLISES TV
+http://31.223.85.34:9999/play/a09y/index.m3u8
+#EXTINF :-1,TEK RUMELI TV
+http://31.223.85.34:9999/play/a0ba/index.m3u8
+#EXTINF :-1,TEMPO televizyon
+http://31.223.85.34:9999/play/a0ac/index.m3u8
+#EXTINF :-1,TEVE63
+http://31.223.85.34:9999/play/a0c7/index.m3u8
+#EXTINF :-1,TGRT BELGESEL
+http ://31.223.85.34:9999/play/a09p/index.m3u8
+#EXTINF :-1,TGRT EU
+http://31.223.85.34:9999/play/a09q/index.m3u8
+#EXTINF :-1,TH TÜRKHABER
+http ://31.223.85.34:9999/play/a0bc/index.m3u8
+#EXTINF :-1,TMB TV
+http://31.223.85.34:9999/play/a0bi/index.m3u8
+#EXTINF :-1,TON TV
+http ://31.223.85.34:9999/play/a0ag/index.m3u8
+#EXTINF :-1,TR35
+http://31.223.85.34:9999/play/a09s/index.m3u8
+#EXTINF :-1,TRAKYA TÜRK
+http://31.223.85.34:9999/play/a0al/index.m3u8
+#EXTINF :-1,TV 1
+http://31.223.85.34:9999/play/a0bk/index.m3u8
+#EXTINF :-1,TV 264
+http://31.223.85.34:9999/play/a0bu/index.m3u8
+#EXTINF :-1,TV 41
+http://31.223.85.34:9999/play/a0aa/index.m3u8
+#EXTINF :-1,TV 52
+http://31.223.85.34:9999/play/a0bs/index.m3u8
+#EXTINF :-1,TV A
+http://31.223.85.34:9999/play/a0ao/index.m3u8
+#EXTINF :-1,TV DEN
+http://31.223.85.34:9999/play/a0bt/index.m3u8
+#EXTINF :-1,TV KAYSERİ
+http://31.223.85.34:9999/play/a0bl/index.m3u8
+#EXTINF :-1,TV42
+http://31.223.85.34:9999/play/a0bo/index.m3u8
+#EXTINF :-1,TV5
+http://31.223.85.34:9999/play/a0c1/index.m3u8
+#EXTINF :-1,Tivi6
+http: //31.223.85.34:9999/play/a09z/index.m3u8
+#EXTINF :-1,UZAY HABER
+http://31.223.85.34:9999/play/a0b6/index.m3u8
+#EXTINF :-1,VİZYON 58
+http: //31.223.85.34:9999/play/a0ad/index.m3u8
+#EXTINF :-1,WM TV KADIN KADIN
+http://31.223.85.34:9999/play/a09h/index.m3u8
+#EXTINF :-1,DÜNYA TÜRK
+http://31.223.85.34:9999/play/a0am/index.m3u8
+#EXTINF :-1,YENİ KOCAELİ TV
+http://31.223.85.34:9999/play/a09t/index.m3u8
+#EXTINF :-1,YILDIZ TR
+http://31.223.85.34:9999/play/a0ar/index.m3u8
+#EXTINF :-1,YON RADYO
+http://31.223.85.34:9999/play/a0c9/index.m3u8
+#EXTINF :-1,Z ZAZA TV
+http://31.223.85.34:9999/play/a09e/index.m3u8
+#EXTINF :-1,ZAROK TV
+http://31.223.85.34:9999/play/a0b0/index.m3u8
+
+#EXTINF :-1,AZ Sinema HD
+http://168.194.171.33:8000/play/a0d0/index.m3u8
+
+#EXTINF :-1, NatGeo Vahşi HD (VK)
+http://185.234.217.107:8001/play/a03w/index.m3u8
+
+#EXTINF :-1,Animal Planet HD (VK)
+http://181.78.7.92:6500/play/a01b /index.m3u8
 
 #EXTINF:1,Metropol Tv
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
@@ -558,6 +718,25 @@ https://h92.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
 
 #EXTINF:-1,RUMELİ TV
 http://149.62.177.140:8000/play/a010/index.m3u8
+
+#EXTINF :0,TRT 1
+http://77.92.139.136:8200/bysid/10500
+#EXTINF :0,TRT HABER
+http://77.92.139.136:8200/bysid/10501
+#EXTINF :0,TRT TÜRK
+http ://77.92.139.136:8200/bysid/10502
+#EXTINF :0,TRT ÇOCUK
+http://77.92.139.136:8200/bysid/10504
+#EXTINF :0,TRT BELGESEL
+http://77.92.139.136:8200/bysid /10505
+#EXTINF :0,TRT2 HD
+http://77.92.139.136:8200/bysid/10506
+#EXTINF :0,TRT MÜZİK
+http://77.92.139.136:8200/bysid/10507
+#EXTINF :0,TRT SPOR YILDIZ
+http://77.92.139.136:8200/bysid/10525
+#EXTINF :0,TRT 3-SPOR
+http://77.92.139.136:8200/bysid/10503
 
 --------------------------ÇOCUK TV----------------------------------
 
