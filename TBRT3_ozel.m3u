@@ -107,8 +107,11 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.3
 #EXTINF:-1,GOZDE TV FHD
 http://31.223.85.34:9999/play/a0ci/index.m3u8
 
-#EXTINF:11, TİMUR TV
+#EXTINF:11, AĞRI TİMUR TV
 https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
+
+#EXTINF:11, AĞRI KÜLTÜR TV 
+https://ssh101.bozztv.com/ssh101/agrikulturtv/chunks.m3u8
 
 
 #EXTINF:94,TEBER Y.GEÇİDİ TV
