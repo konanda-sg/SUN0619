@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-id="TRT1.tr"tvg-name="TRT 1 HD" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg"tvg-url="" group-title="ULUSAL",TRT1 ᵁᴴᴰ⁺
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 
@@ -57,6 +57,10 @@ https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
 
 #EXTINF:3 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER ON LNK3
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber2/chunklist_w909642297.m3u8
+
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER HBB TV
+https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,TR:YANSIMA TV
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
@@ -5763,4 +5767,3 @@ http://45.12.1.14:80/movie/BlIm21564/agf7Fp264/53483.mkv
 http://45.12.1.14:80/movie/BlIm21564/agf7Fp264/53484.mkv
 #EXTINF:-1,Teachers Nylon Fetish [Adult-2019]
 http://45.12.1.14:80/movie/BlIm21564/agf7Fp264/53485.mkv
-
