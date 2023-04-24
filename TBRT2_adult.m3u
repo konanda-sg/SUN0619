@@ -37,16 +37,16 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
 http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100 
 
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER TV
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER MEDYA TV
 https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
 
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER TV YDK1
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER MEDYA TV YDK1
 https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
 
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER TV YDK2
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER MEDYA TV YDK2
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER TV YDK3
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER MEDYA TV YDK3
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
 
 #EXTINF:-1,TR:YANSIMA TV
@@ -4495,7 +4495,7 @@ http://sochi.camera:8080/cam_105/index.m3u8?token=null
 #EXTINF:0 type="stream" channelId="-1" group-title="38_CANLI_KAMERALAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", RUSYA SOCHi Gagarin Kargo Alani
 http://sochi.camera:8080/cam_106/index.m3u8?token=null
 
-#EXTM3U 
+#EXTM3U
 --------ADULT---KANALLAR-------
 ---TEBER---XXL-----
 #EXTINF:0 type="stream" channelId="-1" name="jopon1" group="iPTV_KANALLAR" tvg-country="tr",  TEBER MEDYAYA AİT XXL
@@ -4664,16 +4664,6 @@ https://video1.tizam.cc/roliki/snogsshibatel_nye.mp4
 https://video1.tizam.cc/vk/NanaNinomiya.mp4
 #EXTINF:0 type="stream" channelId="-1" group="iPTV_KANALLAR", jAPON 80
 https://video2.tizam.cc/films/Cravin-An-Asian-4.mp4
-
-
----XXL--SÜPER RUS---
-
-#EXTINF:-1 ,FTV Midnight Secrets (SD)
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 ,Miami TV Live
-http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-#EXTINF:-1 ,Visit-X TV
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 ,Babestation 24 (DE)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 #EXTINF:-1 ,Playboy TV (дубль)
@@ -4720,1137 +4710,315 @@ http://live.redtraffic.xyz/russian.m3u8
 http://live.redtraffic.xyz/teen.m3u8
 #EXTINF:-1 ,Redtraffic Threesome
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1 ,AST.TV CHANNEL 1 (1080p)
-http://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 ,AST.TV CHANNEL 2 (1080p)
-http://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 ,Visit-X TV HD
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1 ,C0930中江寻乃
+https://fc.maa1804.com/n/gemfgbagrl/gemfgbagrl.m3u8
+#EXTINF:-1 ,C0930今杉香帆子
+https://fc.maa1804.com/e/kjkrnilrqm/kjkrnilrqm.m3u8
+#EXTINF:-1 ,cadv-679
+http://video1.rhsj520.com:8091/nyrm3/zzmmx/cadv-679/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Campus Cuties / Вот такие милашки
+https://video1.tizam.cc/files/2440887/campus_cuties.mp4
+#EXTINF:-1 ,Candy stripers / Конфетки в униформе (1978)
+https://video2.tizam.cc/files/1646550/konfetki_v_uniforme.mp4
+#EXTINF:-1 ,capture-1
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/17781.mp4
+#EXTINF:-1 ,capture-1
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/20112.mp4
+#EXTINF:-1 ,capture-1 (2)
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/20157.mp4
+#EXTINF:-1 ,capture-2
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/20529.mp4
+#EXTINF:-1 ,capture-2
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/21551.mp4
+#EXTINF:-1 ,capture-5 (2)
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/18214.mp4
+#EXTINF:-1 ,capture-7
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/17938.mp4
+#EXTINF:-1 ,capture-10
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/19196.mp4
+#EXTINF:-1 ,Caribbean-010111-576 つかもと友希
+http://video1.rhsj520.com:8091/nyrm3/jlb-112/010111-576-1/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Caribbean-010211-578
+http://video1.rhsj520.com:8091/nyrm3/jlb-112/010211-578/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Caribbean-011014-519
+http://video1.rhsj520.com:8091/nyrm3/20181220/jlb/011014-519/index.m3u8
+#EXTINF:-1 ,Caribbean-011115-781
+http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/3/1bd/011115-781/index.m3u8
+#EXTINF:-1 ,Caribbean-013011-605 進藤みか
+http://video1.rhsj520.com:8091/nyrm3/jlb-03-02/013011-605/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Caribbean-020213-254 春日由衣
+http://video1.rhsj520.com:8091/nyrm3/20180105/3/020213-254/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Caribbean-021414-002 愛原みほ
+http://video1.rhsj520.com:8091/nyrm3/20181220/jlb/021414-002/index.m3u8
+#EXTINF:-1 ,Caribbean-021814-545
+http://video1.rhsj520.com:8091/nyrm3/2011225/jlb/021814-545/index.m3u8
+#EXTINF:-1 ,Caribbean-022614-551
+http://video1.rhsj520.com:8091/nyrm3/2011225/jlb/022614-551/index.m3u8
+#EXTINF:-1 ,Caribbean-031113-285
+http://video1.rhsj520.com:8091/nyrm3/20180105/3/031113-285/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Caribbean-032116-001 マンコ図鑑 宮崎愛莉
+http://videocdnbaidu.rhsj520.com/rbny/20181005/jlbx/032116-001/index.m3u8
+#EXTINF:-1 ,Caribbean-041916-140 上原亜衣
+http://videocdnbaidu.rhsj520.com/rbny/20181005/jlbx/041916-140/index.m3u8
+#EXTINF:-1 ,Caribbean-042312-001
+http://video1.rhsj520.com:8091/nyrm3/jlb201902/042312-001/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Caribbean-042313-318 春香るり
+http://video1.rhsj520.com:8091/nyrm3/20180105/3/042313-318/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Caribbean-042413-319 宮崎由麻
+http://video1.rhsj520.com:8091/nyrm3/20180105/3/042413-319/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Caribbean-042817-420
+http://video1.feimanzb.com:8091/20180205/CM5KLOR420/650kb/hls/index.m3u8
+#EXTINF:-1 ,Caribbean-050514-596
+http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/jlb/050514-596/index.m3u8
+#EXTINF:-1 ,Caribbean-050614-597
+http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/jlb/050614-597/index.m3u8
+#EXTINF:-1 ,Caribbean-052314-606
+http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/jlb/052314-606/index.m3u8
+#EXTINF:-1 ,Caribbean-061017-442
+http://video1.feimanzb.com:8091/20180205/CZC4NCRK442/650kb/hls/index.m3u8
+#EXTINF:-1 ,Caribbean-061413-360
+http://video1.rhsj520.com:8091/nyrm3/20180105/3/061413-360/1500kb/hls/index.m3u8
+#EXTINF:-1 ,heyzo-0456金髮
+https://fc.maa1809.com/c/jcsedulecl/jcsedulecl.m3u8
+#EXTINF:-1 ,Heyzo-0457
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0457_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0458
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0458_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,HEYZO-0458 山城みずほ
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0458_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0460
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0460_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0461
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0461_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0462
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0462_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0463
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0463_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0464
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0464_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0465
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0465_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0466
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0466_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0467
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0467_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0468
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0468_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0470
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0470_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0472
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0472_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0473
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0473_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0474
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0474_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0475
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0475_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0476
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0476_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0477
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0477_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0478
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0478_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0480
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0480_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0481
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0481_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0482
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0482_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0483
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0483_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0484
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0484_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0485
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0485_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0486
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0486_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0487
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0487_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0488
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0488_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0489
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0489_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0490
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0490_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0491
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0491_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0492
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0492_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0493
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0493_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0494
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0494_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0495
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0495_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0499
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0499_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0500
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0500_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0501
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0501_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0502
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0502_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0504
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0504_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0505
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0505_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0506
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0506_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0507
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0507_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0509
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0509_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0510
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0510_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0511
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0511_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0512
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0512_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0513
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0513_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0514
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0514_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0515
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0515_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0516
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0516_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0517
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0517_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0518
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0518_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0519
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0519_full/1500kb/hls/index.m3u8
+#EXTINF:-1 ,Heyzo-0520
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0520_full/1500kb/hls/index.m3u8
+EXTINF:-1, Heyzo-0600
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0600_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0601
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0601_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0602
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0602_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0603
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0603_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0604
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0604_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0605
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0605_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0606
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0606_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0607
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0607_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0608
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0608_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0609
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0609_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0610
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0610_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0611
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0611_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0612
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0612_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0613
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0613_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0614
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0614_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0615
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0615_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0616
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0616_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0617
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0617_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0618
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0618_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0619
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0619_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0620
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0620_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0621
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0621_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0622
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0622_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0623
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0623_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0624
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0624_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0625
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0625_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0626
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0626_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0627
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0627_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0628
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0628_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0629
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0629_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0631
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0631_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0632
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0632_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0633
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0633_full/1500kb/hls/index.m3u8
+#EXTINF:-1, Heyzo-0634
+http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0634_full/1500kb/hls/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 ,Возмутительницы Спокойствия
-https://video1.tizam.cc/old_films/PrivateGold70SexRebels.mp4
-#EXTINF:-1 ,В Живую 2
-https://video1.tizam.cc/old_films/Reality-2.mp4
-#EXTINF:-1 ,Каждому мужчине по...
-https://video2.tizam.cc/files/2102006/fetish_kazhdogo_muzhchiny_1.mp4
-#EXTINF:-1 ,Молодо-Зелено
-https://video1.tizam.cc/old_films/TeenFuckHoles2005.mp4
-#EXTINF:-1 ,Девушки за 50
-https://video2.tizam.cc/files/2284683/malyshki_za_50.mp4
-#EXTINF:-1 ,Доктор Макс и очень грудастые малышки
-https://video2.tizam.cc/files/2121448/doktor_maks_i_ochen_grudastye_devushki__18_let.mp4
-#EXTINF:-1 ,Открытие Мисти Бетховен
-https://video2.tizam.cc/files/2156511/the_opening_of_misty_beethoven.mp4
-#EXTINF:-1 ,Секс на ферме
-https://video1.tizam.cc/films/PrivateMatador13.mp4
-#EXTINF:-1 ,Анна Полина Горничная ученица
-https://video2.tizam.cc/files/2395590/anna_apprentie_soubrette.mp4
-#EXTINF:-1 ,Остров Сокровищ
-https://video1.tizam.cc/old_films/SelentheGirlofTreasureIsland.mp4
-#EXTINF:-1 ,Горячие Ленты
-https://video1.tizam.cc/old_films/SexTapes.mp4
-#EXTINF:-1 ,Интрига и Удовольствие
-https://video2.tizam.cc/files/1954635/intrigue__and__pleasure.mp4
-#EXTINF:-1 ,Горячие поцелуи
-https://video2.tizam.cc/files/2102044/goryachie_potselui.mp4
-#EXTINF:-1 ,Кастинг Пьера Вудмана 27
-https://video1.tizam.cc/old_films/CastingsbaPierrWoodman27.mp4
-#EXTINF:-1 ,Ненасытные Сучки С Маленькими Сиськами
-https://video1.tizam.cc/old_films/BestByPrivate121SmallTittedSuperSluts.mp4
-#EXTINF:-1 ,Мир зрелых красоток
-https://video1.tizam.cc/old_films/Cougarland.mp4
-#EXTINF:-1 ,Смуглая Леди
-https://video2.tizam.cc/files/1507797/the_dark_lady__shpionka.mp4
-#EXTINF:-1 ,Тери Вайгель на обложке журнала
-https://video1.tizam.cc/old_films/Centerfold.mp4
-#EXTINF:-1 ,Джессика Императрица похоти
-https://video1.tizam.cc/vk/Jessica-imperatrice-du-plaisir.mp4
-#EXTINF:-1 ,Рокко Сумасшедший Жеребец
-https://video2.tizam.cc/files/1962413/rocco_cavallo_pazzo_with_cd1.mp4
-#EXTINF:-1 ,Рокко путь К Любви
-https://video1.tizam.cc/vk/Roccos-Way-To-Love.mp4
-#EXTINF:-1 ,Нерон: Извращения Императора
-https://video2.tizam.cc/files/2102078/neron___izvrashcheniya_imperatora__1997.mp4
-#EXTINF:-1 ,Провокация
-https://video2.tizam.cc/files/2215886/pervyy_raz__provokatsiya____la_prima_volta__provocazioni.mp4
-#EXTINF:-1 ,Жизнь Райли
-https://video1.tizam.cc/old_films/LifeOfRiley.mp4
-#EXTINF:-1 ,Живой секс
-https://video1.tizam.cc/old_films/RealityDerReizerwischtzuwerden.mp4
-#EXTINF:-1 ,Сучки с престижными концами
-https://video1.tizam.cc/old_films/StraponSally10.mp4
-#EXTINF:-1 ,Первоклассные задницы
-https://video2.tizam.cc/files/2102101/pervoklassnye_zadnitsy_weltklasse_arsche.mp4
-#EXTINF:-1 ,Жопы мирового класса 2
-https://video2.tizam.cc/files/2102100/zhopy_mirovogo_klassa_2_weltklasse_arsche_2.mp4
-#EXTINF:-1 ,Роскошные 2
-https://video1.tizam.cc/old_films/Luxurious2.mp4
-#EXTINF:-1 ,Анальная свобода
-https://video1.tizam.cc/old_films/180AnalFreedom.mp4
-#EXTINF:-1 ,Роскошные 4
-https://video1.tizam.cc/old_films/Luxurious4.mp4
-#EXTINF:-1 ,Роскошные 5
-https://video1.tizam.cc/old_films/Luxurious5.mp4
-#EXTINF:-1 ,Кристина Роуз грязная девочка
-https://video2.tizam.cc/files/2185104/kristina_rouz_gryaznaya_devushka__18_let___1__s_perevodom.mp4
-#EXTINF:-1 ,Кристина Роуз Шлюшка
-https://video2.tizam.cc/files/2212826/kristina_rouz_shlyushka__1.mp4
-#EXTINF:-1 ,Гламурные сучки 2
-https://video1.tizam.cc/vk/GlamourGirls2.mp4
-#EXTINF:-1 ,Затычка для девочек
-https://video1.tizam.cc/old_films/Gagging-Gals-2007.mp4
-#EXTINF:-1 ,Женщина Ягодка 40
-https://video1.tizam.cc/new_films/zhenwina_yagodka_40.mp4
-#EXTINF:-1 ,Большие попки любят большие члены
-https://video1.tizam.cc/old_films/Big-Butts-Like-it-Big.mp4
-#EXTINF:-1 ,Измененные аппетитные задницы 3
-https://video1.tizam.cc/old_films/AlteredAssholes3.mp4
-#EXTINF:-1 ,Лучшие горячие сцены от 21 Sextury 5
-https://video1.tizam.cc/old_films/Bestof2SexturyVol5Rus.mp4
-#EXTINF:-1 ,Грязные девченки 3
-https://video2.tizam.cc/files/1689550/dirty_girlz_3.mp4
-#EXTINF:-1 ,Двойной динамит 3
-https://video1.tizam.cc/old_films/DoubleDynamite3.mp4
-#EXTINF:-1 ,Евро шлюшки 9
-https://video1.tizam.cc/old_films/EuroAngels9.mp4
-#EXTINF:-1 ,Оттраханные девушки из салона
-https://video1.tizam.cc/old_films/FuckTheBeauty1.mp4
-#EXTINF:-1 ,Любовники
-https://video1.tizam.cc/old_films/4-Some.mp4
-#EXTINF:-1 ,Отчет о девственницах
-https://video2.tizam.cc/files/2102158/otchet_o_devstvennitsah.mp4
-#EXTINF:-1 ,Точка Вспышки
-https://video1.tizam.cc/vk/Flashpoint.mp4
-#EXTINF:-1 ,Тореадор
-https://video2.tizam.cc/files/2156527/torero.mp4
-#EXTINF:-1 ,Большие попки любят большие члены 2
-https://video1.tizam.cc/old_films/Big-Butts-like-it-Big-2.mp4
-#EXTINF:-1 ,Пирамида 3
-https://video2.tizam.cc/files/1406950/piramida_3__1996.mp4
-
-#EXTINF:-1, #1
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/19781.mp4
-#EXTINF:-1, #1
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/21491.mp4
-#EXTINF:-1, #1
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/21752.mp4
-#EXTINF:-1, #1
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/21839.mp4
-#EXTINF:-1, #2
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/19731.mp4
-#EXTINF:-1, #2
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/21174.mp4
-#EXTINF:-1, #2
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/21524.mp4
-#EXTINF:-1, #2
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/21535.mp4
-#EXTINF:-1, #3
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/16510.mp4
-#EXTINF:-1, #3
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/20218.mp4
-#EXTINF:-1, #3
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/20978.mp4
-#EXTINF:-1, #3
-http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/21274.mp4
-#EXTINF:-1, 18 Ans Une Sacree Soiree FRENCH
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193540.mp4
-#EXTINF:-1, 18 Yo Cookies In Uniform
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194600.mp4
-#EXTINF:-1, 18Eighteen 16 Kate Mission Accomplished
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196565.mp4
-#EXTINF:-1, 20 Ana Fo Hardbody
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196402.mp4
-#EXTINF:-1, 20 Ans Et Deja Tres Coquines
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194362.mp4
-#EXTINF:-1, 20 Chanel Shortcake Closeup -Rated
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196824.mp4
-#EXTINF:-1, 20 Megan Hughes Sex Talk
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196014.mp4
-#EXTINF:-1, 20 Sera Mann Delicate Goddess
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195266.mp4
-#EXTINF:-1, 20 Workshop Sex Toys At The Office
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196106.mp4
-#EXTINF:-1, 21 Alexandra Rose BTS
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194713.mp4
-#EXTINF:-1, 21 Amirah Adara Red Fox Tiffany Tatum And Angelika Lesbian Orgy
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194971.mp4
-#EXTINF:-1, 21 Joana Bliss Romanian Idol
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197115.mp4
-#EXTINF:-1, 21 Kamryn Monroe Stiff Nipples And A Wet Cookie
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197114.mp4
-#EXTINF:-1, 21 Katherinne Sofia Finding Bliss
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195290.mp4
-#EXTINF:-1, 21 Kyler Quinn Not So Innocent
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195237.mp4
-#EXTINF:-1, 21 Megan Hughes Shower
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196013.mp4
-#EXTINF:-1, 21 Naturals Porn
-https://pornercdns.com/hls/0044000/44859/hq/hq.m3u8
-#EXTINF:-1, 21EroticAnal 16 Kate Rich Candle Light
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195218.mp4
-#EXTINF:-1, 21EroticAnal 20 Verona Sky Fit And Hot
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195874.mp4
-#EXTINF:-1, 21FootArt 23 Tina Kay Follow My Footsteps
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195873.mp4
-#EXTINF:-1, 21FootArt Alecia Fox Flexible And Sweet
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196564.mp4
-#EXTINF:-1, 21Naturals 17 Poppy Pleasure After School Detour
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195870.mp4
-#EXTINF:-1, 21Naturals 26 Amber B Such A Tease
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195871.mp4
-#EXTINF:-1, 21Naturals 31 Anya Krey A Simple Touch
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196563.mp4
-#EXTINF:-1, 21Naturals Anya Krey Fine And Firm
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195217.mp4
-#EXTINF:-1, 21Naturals Jozephine Jackson Office Games
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195872.mp4
-#EXTINF:-1, 21Naturals Kristin Morning Cuddles
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195215.mp4
-#EXTINF:-1, 21Naturals Nicole Love A Way To Spend The Day
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195216.mp4
-#EXTINF:-1, 23 Allie Addison BTS
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196823.mp4
-#EXTINF:-1, 23 Alyssa Reece Ladies With Toys
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195842.mp4
-#EXTINF:-1, 23 Casca Akashova One-On-One
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197113.mp4
-#EXTINF:-1, 23 Flora Garai Sweet Charmer
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195264.mp4
-#EXTINF:-1, 23 Kalila Kane
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196399.mp4
-#EXTINF:-1, 23 Miluniel Louis Catching Rays
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197128.mp4
-#EXTINF:-1, 24 Allie Addison Naked Closeup
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196822.mp4
-#EXTINF:-1, 24 Ania Kinski Such A Demanding Boss
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196865.mp4
-#EXTINF:-1, 24 Heidi Romanova Great Form
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196411.mp4
-#EXTINF:-1, 24 Katherine Sofia Shoreline Dreams
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197127.mp4
-#EXTINF:-1, 24 Playmate September  Kirby Griffin
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195288.mp4
-#EXTINF:-1, 24 Scarlet Louise Interview
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196557.mp4
-#EXTINF:-1, 24 Sundown Sensations
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195263.mp4
-#EXTINF:-1, 26 Allie Addison Shower
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196820.mp4
-#EXTINF:-1, 26 Clea Gaultier Will Do Anything For A Contract
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196113.mp4
-#EXTINF:-1, 26 Gypsy Vixen Interview
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195841.mp4
-#EXTINF:-1, 26 Kate Bloom Returns Naked Closeup
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196012.mp4
-#EXTINF:-1, 26 Sofi Ka Sea Of Tranquility
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195261.mp4
-#EXTINF:-1, 27 Allie Addison Closeup -Rated
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196819.mp4
-#EXTINF:-1, 27 Katya Clover Prized Possessions
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197126.mp4
-#EXTINF:-1, 27 Lillian Tesh Mature Pleasure
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196555.mp4
-#EXTINF:-1, 27 Rebecca Volpetti To Share
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196864.mp4
-#EXTINF:-1, 27 Toni Maria Seeing Clearly
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195287.mp4
-#EXTINF:-1, 27 Zhenya Belaya Kate Great And Nirmala Cozy Cabin
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195286.mp4
-#EXTINF:-1, 28 CJ Mature Fetish
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196554.mp4
-#EXTINF:-1, 28 Heidi Romanova Perfect Solitude
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195285.mp4
-#EXTINF:-1, 28 Jahla Vivid Impression
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197125.mp4
-#EXTINF:-1, 28 Kate Bloom Shower
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196011.mp4
-#EXTINF:-1, 28 Kennedy Kressler Returns Again BTS
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195424.mp4
-#EXTINF:-1, 28 Kianna Dior Tsunami Tug Job
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197112.mp4
-#EXTINF:-1, 28 Megan Marx BTS
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194711.mp4
-#EXTINF:-1, 28 Trinity Michaels Big Heavy Tits
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197111.mp4
-#EXTINF:-1, 28 Vicky Love Interview
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196553.mp4
-#EXTINF:-1, 31 Amirah Adara And Rebecca Volpetti Wet Massage
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196863.mp4
-#EXTINF:-1, 31 Becca Pierce Naked Closeup
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196817.mp4
-#EXTINF:-1, 31 Emily Bloom Natural Light
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197122.mp4
-#EXTINF:-1, 31 Playmate October  Olga De Mar
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195282.mp4
-#EXTINF:-1, 40 Ans Bourgeoises 100% Volages
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194363.mp4
-#EXTINF:-1, 40 Years Old Temptations Of A Married Woman
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194598.mp4
-
-#EXTINF:-1, ABP-198 冬月かえで
-http://videocdnbaidu.rhsj520.com/rbny/20180915/dyf/ABP-198/index.m3u8
-#EXTINF:-1, ABP-298
-http://videocdnbaidu.rhsj520.com/rbny/20180807/cgcly/ABP-298/index.m3u8
-#EXTINF:-1, ABP-366 天然成分由來嶋野遙香體液120％
-http://video1.feimanzb.com:8091/20180115/ABP-366-C/550kb/hls/index.m3u8
-#EXTINF:-1, ABP-442 阪井里美的各種萌萌cosplay！
-http://video1.feimanzb.com:8091/20180115/ABP-442-C/550kb/hls/index.m3u8
-#EXTINF:-1, ABP-500 香椎りあ
-http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/xzly/ABP-500/index.m3u8
-#EXTINF:-1, ABP-569 凰香奈芽來伺候您超最新讓你上癮美體沙龍
-http://video1.feimanzb.com:8091/20180210/PB0TJIK569/650kb/hls/index.m3u8
-#EXTINF:-1, ABP-591 淫蕩之星 今永紗奈
-http://video1.feimanzb.com:8091/20180210/PK6HTE591/650kb/hls/index.m3u8
-#EXTINF:-1, ABP-609 累積快感到爆表猛幹砲ACT .02 今永紗奈
-http://video1.feimanzb.com:8091/20180210/PKI0EHT609/650kb/hls/index.m3u8
-#EXTINF:-1, ABP-614 天然成分由來 日向澪 120% 45
-http://video1.feimanzb.com:8091/20180210/PJKE6TH614/650kb/hls/index.m3u8
-#EXTINF:-1, ABP-616 戛然而止絕頂性交彩美史上1最淫亂！彩美還能繼續進化！ ACT.03 彩美旬果有碼高清
-http://video1.feimanzb.com:8091/20180210/PKE2DTH616/650kb/hls/index.m3u8
-#EXTINF:-1, ABP-689Ac-単体作品顔射
-http://videocdn.quweikm.com:8091/20181001/ABP-689Ac/index.m3u8
-#EXTINF:-1, ABP-689Bc-単体作品顔射
-http://videocdn.quweikm.com:8091/20181001/ABP-689Bc/index.m3u8
-#EXTINF:-1, ABP-697Ac-究極性交
-http://videocdn.quweikm.com:8091/20181001/ABP-697Ac/index.m3u8
-#EXTINF:-1, ABP-697Cc-究極性交
-http://videocdn.quweikm.com:8091/20181001/ABP-697Cc/index.m3u8
-#EXTINF:-1, ABP-699Ac-潮吹単体作品
-http://videocdn.quweikm.com:8091/20181001/ABP-699Ac/index.m3u8
-#EXTINF:-1, ABP-699Bc-潮吹単体作品
-http://videocdn.quweikm.com:8091/20181001/ABP-699Bc/index.m3u8
-#EXTINF:-1, ABP-869 真奈りおな
-https://videojc.hndtl.com:8091/20190807/ABP-869c/1000kb/hls/index.m3u8
-#EXTINF:-1, ADN-072 公交上的色狼立花美涼
-http://video1.feimanzb.com:8091/20180115/ADN-072-C/550kb/hls/index.m3u8
-#EXTINF:-1, ADN-130 復仇凌辱被迫墮落成肉壺的女人2 希島愛理
-http://video1.feimanzb.com:8091/20180210/NTE5JKO130/650kb/hls/index.m3u8
-#EXTINF:-1, ANX-054 波多野結衣
-http://videocdnbaidu.rhsj520.com/rbny/20180915/bdyjy/ANX-054/index.m3u8
-#EXTINF:-1, AP-392 深喉嚨強迫口爆洨逆流癡漢
-http://video1.feimanzb.com:8091/20180210/PJK4WET392/650kb/hls/index.m3u8
-#EXTINF:-1, AP-442 追著肏到顏面噴精癡漢
-http://video1.feimanzb.com:8091/20180210/PK4ETH442/650kb/hls/index.m3u8
-#EXTINF:-1, AP-469 公廁美女清潔員體內放尿中出痴漢
-http://video1.feimanzb.com:8091/20180210/PKE5TH469/650kb/hls/index.m3u8
-#EXTINF:-1, AP-545c-本屋中出癡漢
-http://videocdn.quweikm.com:8091/20181001/AP-545c/index.m3u8
-#EXTINF:-1, APAA-280
-http://video1.rhsj520.com:8091/nyrm3/lyaml/APAA-280/1500kb/hls/index.m3u8
-#EXTINF:-1, APKH-086 八尋麻衣
-http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/2/new/apkh-086/index.m3u8
-
-#EXTINF:-1, Accouplements Pour Voyeurs / Связь С Любителями
-https://video2.tizam.cc/files/2145056/accouplements_pour_voyeurs___svyaz_s_lyubitelyami.mp4
-#EXTINF:-1, Accro Au Sexe A Plusieurs
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193776.mp4
-#EXTINF:-1, Action 2 DiSC1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193777.mp4
-#EXTINF:-1, Action 2 DiSC2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193778.mp4
-#EXTINF:-1, Action DiSC1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193555.mp4
-#EXTINF:-1, Action DiSC2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193556.mp4
-#EXTINF:-1, Adorable Lola / Восхитительная Лола
-https://video2.tizam.cc/files/2150175/adorable_lola___voshititelnaya_lola.mp4
-#EXTINF:-1, AdultAuditions E279 Paige Our First Adult Audition
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195212.mp4
-#EXTINF:-1, AdultAuditions E281 Martina Porn Stars First Archive Audition
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195210.mp4
-#EXTINF:-1, AdultAuditions E283 Maddy My Creampie Sleepover
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195868.mp4
-#EXTINF:-1, AdultAuditions E285 Julia My Creampie Video
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195866.mp4
-#EXTINF:-1, AdultIPTV.net Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1, AdultIPTV.net Asian
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1, AdultIPTV.net Big Ass
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1, AdultIPTV.net Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1, AdultIPTV.net Big Tits
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1, AdultIPTV.net Blonde
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1, AdultIPTV.net Blowjob
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1, AdultIPTV.net Brunette
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1, AdultIPTV.net Compilation
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1, AdultIPTV.net Cuckold
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1, AdultIPTV.net Fetish
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1, AdultIPTV.net Gangbang
-http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1, AdultIPTV.net Gay
-http://cdn.adultiptv.net/gay.m3u8
-#EXTINF:-1, AdultIPTV.net Hardcore
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1, AdultIPTV.net Interracial
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1, AdultIPTV.net Latina
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1, AdultIPTV.net Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1, AdultIPTV.net Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1, AdultIPTV.net MILF
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1, AdultIPTV.net Pornstar
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1, AdultIPTV.net POV
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1, AdultIPTV.net Rough
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1, AdultIPTV.net Russian
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1, AdultIPTV.net Teen
-http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1, AdultIPTV.net Threesome
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1, AdultTime 24 Falicha Karr Mornings Rise
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195861.mp4
-#EXTINF:-1, AdultTime Mischievous Kitty Spoiling The Wife
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196562.mp4
-#EXTINF:-1, Adventures In Cosplay
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194596.mp4
-#EXTINF:-1, Affairs  DiSC1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193557.mp4
-#EXTINF:-1, Affairs  DiSC2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193558.mp4
-#EXTINF:-1, AFS-030Bc-人妻自宅中出
-http://videocdn.quweikm.com:8091/20181001/AFS-030Bc/index.m3u8
-#EXTINF:-1, After Dark DiSC1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194595.mp4
-#EXTINF:-1, After Dark DiSC2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194594.mp4
-#EXTINF:-1, Aggressive POV 2 DiSC2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194592.mp4
-#EXTINF:-1, Aj Applegate Sex Addict
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194591.mp4
-#EXTINF:-1, AleahJasmine 11 Water Me
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195856.mp4
-#EXTINF:-1, AleahJasmine 13 Gaped Again
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195206.mp4
-#EXTINF:-1, AleahJasmine 13 Hostage
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195860.mp4
-#EXTINF:-1, AleahJasmine 16 Dom
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195205.mp4
-#EXTINF:-1, AleahJasmine 27 After Night Club
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195858.mp4
-#EXTINF:-1, AleahJasmine Birthday Doggy Style
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195859.mp4
-#EXTINF:-1, AleahJasmine Lingerie Cop BJ
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195207.mp4
-#EXTINF:-1, AleahJasmine Snowing Outside
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195208.mp4
-#EXTINF:-1, AleahJasmine Tanning
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195857.mp4
-#EXTINF:-1, Aleska Par Devant Et Par Derriere FRENCH
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193548.mp4
-#EXTINF:-1, Aletta Deux Bites Pour Elle FRENCH
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193549.mp4
-#EXTINF:-1, Aletta La CGirl Du Capitaine FRENCH
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193550.mp4
-#EXTINF:-1, AlettaOceanLive 11 Cumshot Compilation
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195855.mp4
-#EXTINF:-1, AlettaOceanLive 12 Jerk Off Instruction Solo
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195854.mp4
-#EXTINF:-1, AlettaOceanLive 16 The Aletta Ocean Experience
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195847.mp4
-#EXTINF:-1, AlettaOceanLive 23 Aletta Solo
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196561.mp4
-#EXTINF:-1, AlettaOceanLive 26 Aletta Solo
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195852.mp4
-#EXTINF:-1, AlettaOceanLive 26 Titfuck Compilation
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195851.mp4
-#EXTINF:-1, AlettaOceanLive Aletta Solo
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195849.mp4
-#EXTINF:-1, AlettaOceanLive Anal Compilation
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195848.mp4
-#EXTINF:-1, AlettaOceanLive Foot Fetish Solo
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195202.mp4
-#EXTINF:-1, AlettaOceanLive Hot Maid Solo
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195203.mp4
-#EXTINF:-1, AlettaOceanLive Massage With Extras
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195204.mp4
-#EXTINF:-1, AlettaOceanLive POV Home Video
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196560.mp4
-#EXTINF:-1, AlettaOceanLive The Nymphomaniac Patient
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195853.mp4
-#EXTINF:-1, Alexis Crystal Loves Anal Games
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196115.mp4
-#EXTINF:-1, Alexis Et Samantha Se Font Essayer L Anus FRENCH
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193551.mp4
-#EXTINF:-1, Alexis Texas Lesbian House Party
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193552.mp4
-#EXTINF:-1, AlexisMonroe 01 Foot Worship
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194763.mp4
-#EXTINF:-1, AlexisMonroe 01 Just You And Me POV
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195201.mp4
-#EXTINF:-1, AlexisMonroe 20 Wake Up Booty
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195846.mp4
-#EXTINF:-1, AlexisMonroe 27 Girls Will Be Girls With Darcie Dolce
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195199.mp4
-#EXTINF:-1, AlexisMonroe Impregnate Me JOI
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195200.mp4
-#EXTINF:-1, Alice Antoinette And Erika De Leija Better Together
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195279.mp4
-#EXTINF:-1, Alice Pour Rester Vierge Elle Offre Son Anus FRENCH
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193553.mp4
-#EXTINF:-1, Alle Loecher Gestopft
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193786.mp4
-#EXTINF:-1, Allie Addison Sex Talk
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196821.mp4
-#EXTINF:-1, Allume Moi FRENCH
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193564.mp4
-#EXTINF:-1, ALSScan 10 Alexandra Rose Video Virgin
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195187.mp4
-#EXTINF:-1, ALSScan 31 Katy Rose New Hairdo
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196548.mp4
-#EXTINF:-1, ALSScan Gina Gerson And Vanna Bardot Domination
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196550.mp4
-#EXTINF:-1, ALSScan Kristy Black Back Door
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196549.mp4
-#EXTINF:-1, Alt Und Geil Jung Und Versaut - Sie Wollen Alle Nur Das Eine German
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193565.mp4
-#EXTINF:-1, Alura Jenson Busty Ass-Stretcher
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195235.mp4
-#EXTINF:-1, Always Better In Alexis Texas
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194356.mp4
-#EXTINF:-1, Alyssa Reece Ladies With Toys
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195189.mp4
-#EXTINF:-1, Amanda By Night / Аманда ночью
-https://video2.tizam.cc/files/1647024/amanda_nochyu.mp4
-#EXTINF:-1, Amateur 3some Sex Tapes
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194355.mp4
-#EXTINF:-1, Amateur Angels
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195575.mp4
-#EXTINF:-1, Amateur Ebony Beauties 12
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193566.mp4
-#EXTINF:-1, Amateur POV Auditions 30
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194354.mp4
-#EXTINF:-1, AmateurCFNM 14 Taylor Scott Wank Spy
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195832.mp4
-#EXTINF:-1, AmateurCFNM 16 Sasha Rose Want An Extra Inch
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195834.mp4
-#EXTINF:-1, AmateurCFNM 28 Ella Bella Soapy Massage
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196547.mp4
-#EXTINF:-1, AmateurCFNM Bambi Babe 1 Month Release
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195833.mp4
-#EXTINF:-1, AmateurCFNM Candice Demellza Airport Adultery
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195186.mp4
-#EXTINF:-1, Amber Aroused / Пробуждение Амбер
-https://video2.tizam.cc/files/1646669/probuzhdenie_amber___amber_aroused.mp4
-#EXTINF:-1, American Creampie
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194587.mp4
-#EXTINF:-1, American-Pornstar 16 Layla Finesse Doubles Down On The Dick
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195831.mp4
-#EXTINF:-1, Amirah Adara So Xtrem
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196112.mp4
-#EXTINF:-1, AMK Hardcore 7
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193547.mp4
-#EXTINF:-1, Among Friends 2 DiSC1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194586.mp4
-#EXTINF:-1, Among Friends 2 DiSC2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194585.mp4
-#EXTINF:-1, Among Friends 3 DiSC1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195574.mp4
-#EXTINF:-1, Among Friends 3 DiSC2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195573.mp4
-#EXTINF:-1, Amours Intenses FRENCH
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193568.mp4
-#EXTINF:-1, Ana Maria Morning Revelations
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197121.mp4
-#EXTINF:-1, Ana Maria Shake It Off
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195250.mp4
-#EXTINF:-1, Ana Rose A Wet Hot Summer Day
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195247.mp4
-#EXTINF:-1, Anal
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195568.mp4
-#EXTINF:-1, Anal Online Dating DiSC1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194779.mp4
-#EXTINF:-1, Anal Online Dating DiSC2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194778.mp4
-#EXTINF:-1, Anal Virtue
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193896.mp4
-#EXTINF:-1, Anal-Beauty Cornelia
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196546.mp4
-#EXTINF:-1, Anally Corrupted 2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194334.mp4
-#EXTINF:-1, Anally Corrupted 3
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193585.mp4
-#EXTINF:-1, Anally Motivated
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193586.mp4
-#EXTINF:-1, Analmals 3
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194558.mp4
-#EXTINF:-1, Anastasia Blake Meet Anastasia
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195236.mp4
-#EXTINF:-1, Angel Constance Piece Of Paradise
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/197120.mp4
-#EXTINF:-1, Angel Invades America
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193806.mp4
-#EXTINF:-1, Angels 2 DiSC2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194584.mp4
-#EXTINF:-1, Angels 3
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196649.mp4
-#EXTINF:-1, Ania Patrone De L Agence Immobiliere FRENCH
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193588.mp4
-#EXTINF:-1, Anilos 10 Molly Broad Orgasm Quest
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195184.mp4
-#EXTINF:-1, Anilos 12 Molly Broad Toy Play
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195183.mp4
-#EXTINF:-1, Anilos 16 Alby Daor Prime Time
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195830.mp4
-#EXTINF:-1, Anilos 17 Devina Lusty Beauty
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195823.mp4
-#EXTINF:-1, Anilos 24 Chasey Devil The Good
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195828.mp4
-#EXTINF:-1, Anilos 24 Nimfa Sexual Impulses
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196545.mp4
-#EXTINF:-1, Anilos 26 Chasey Devil Enjoy The Show
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195827.mp4
-#EXTINF:-1, Anilos 26 Nimfa Toy Show
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196544.mp4
-#EXTINF:-1, Anilos 27 Alyssa Reece Brunette Beauty
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195182.mp4
-#EXTINF:-1, Anilos 28 Chasey Devil Intimate Experience
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195826.mp4
-#EXTINF:-1, Anilos 28 Nimfa Wet Beauty
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196543.mp4
-#EXTINF:-1, Anilos 31 Alyssa Reece Dripping Wet
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195181.mp4
-#EXTINF:-1, Anilos Alby Daor Turned On
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195829.mp4
-#EXTINF:-1, Anilos Alyssa Reece Insatiable Alyssa
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195180.mp4
-#EXTINF:-1, Anilos Chasey Devil Pure Pleasure
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195825.mp4
-#EXTINF:-1, Anilos Devina Sexy Mood
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195822.mp4
-#EXTINF:-1, Anilos Molly Broad Natural Redhead
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195185.mp4
-#EXTINF:-1, Anissa Branlette Espagnole Et Sodomie FRENCH
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193589.mp4
-#EXTINF:-1, Anissa Kate Tiffany Tatum And Angelika Orgasmic Threesome
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196117.mp4
-#EXTINF:-1, Anita Dark Forever
-https://video1.tizam.cc/films/anita_dark_navsegda.mp4
-#EXTINF:-1, Anna Bell Peaks Out Of Control
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194333.mp4
-#EXTINF:-1, Anna La Guide Touristique
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193807.mp4
-#EXTINF:-1, Anna La Photographe
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193808.mp4
-#EXTINF:-1, Annas Filthy Fantasies
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/194332.mp4
-#EXTINF:-1, ANND-056 片瀬くるみ 早乙女ルイ
-http://videocdnbaidu.rhsj520.com/rbny/20180728/zynly/ANND-056/index.m3u8
-#EXTINF:-1, Another Mans Wife 5 DiSC1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/196992.mp4
-#EXTINF:-1, Another Mans Wife 6 DiSC1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193590.mp4
-#EXTINF:-1, Another Mans Wife 6 DiSC2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193591.mp4
-#EXTINF:-1, Antica Awesome Antica
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195234.mp4
-#EXTINF:-1, Antics
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/195572.mp4
-#EXTINF:-1, Antics 2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/193794.mp4
-#EXTM3U
-#EXTINF:-1,cdnii.com xxx25
-http://nvid101.cdnii.com/2018/3/20183114-720p.mp4
-#EXTINF:-1,cdnii.com xxx26
-http://nvid101.cdnii.com/2018/1/20181266-720p.mp4
-#EXTINF:-1,cdnii.com xxx27
-http://nvid101.cdnii.com/2019/0/20190200-720p.mp4
-#EXTINF:-1,cdnii.com xxx28
-http://nvid101.cdnii.com/2018/2/20182004-720p.mp4
-#EXTINF:-1,cdnii.com xxx29
-http://nvid101.cdnii.com/2019/0/20190863-720p.mp4
-#EXTINF:-1,cdnii.com xxx30
-http://nvid101.cdnii.com/2019/0/20190758-720p.mp4
-#EXTINF:-1,cdnii.com xxx31
-http://nvid101.cdnii.com/2018/0/20180999-720p.mp4
-#EXTINF:-1,cdnii.com xxx32
-http://nvid101.cdnii.com/2019/0/20190647-720p.mp4
-#EXTINF:-1,cdnii.com xxx33
-http://nvid101.cdnii.com/2019/0/20190879-720p.mp4
-#EXTINF:-1,cdnii.com xxx34
-http://nvid101.cdnii.com/2018/2/20182845-720p.mp4
-#EXTINF:-1,cdnii.com xxx35
-http://nvid101.cdnii.com/2018/0/20180735-720p.mp4
-#EXTINF:-1,cdnii.com xxx36
-http://nvid101.cdnii.com/2018/0/20180599-720p.mp4
-#EXTINF:-1,cdnii.com xxx37
-http://nvid101.cdnii.com/2018/3/20183722-720p.mp4
-#EXTINF:-1,cdnii.com xxx38
-http://nvid101.cdnii.com/2018/2/20182393-720p.mp4
-#EXTINF:-1,cdnii.com xxx39
-http://nvid101.cdnii.com/2525/252500205-720p.mp4
-#EXTINF:-1,cdnii.com xxx40
-http://nvid101.cdnii.com/2018/2/20182541-720p.mp4
-#EXTINF:-1,cdnii.com xxx42
-http://nvid101.cdnii.com/2018/2/20182292-720p.mp4
-#EXTINF:-1,cdnii.com xxx43
-http://nvid101.cdnii.com/2018/3/20183718-720p.mp4
-#EXTINF:-1,cdnii.com xxx44
-http://nvid101.cdnii.com/2019/1/20191038-720p.mp4
-#EXTINF:-1,cdnii.com xxx45
-http://nvid101.cdnii.com/2019/0/20190372-720p.mp4
-#EXTINF:-1,cdnii.com xxx46
-http://nvid101.cdnii.com/2525/252500323-720p.mp4
-#EXTINF:-1,cdnii.com xxx47
-http://nvid101.cdnii.com/2018/1/20181607-720p.mp4
-#EXTINF:-1,cdnii.com xxx48
-http://nvid101.cdnii.com/2019/0/20190765-720p.mp4
-#EXTINF:-1,cdnii.com xxx49
-http://nvid101.cdnii.com/2019/0/20190662-720p.mp4
-#EXTINF:-1,cdnii.com xxx50
-http://nvid101.cdnii.com/2019/0/20190655-720p.mp4
-#EXTINF:-1,cdnii.com xxx51
-http://nvid101.cdnii.com/2018/0/20180841-720p.mp4
-#EXTINF:-1,cdnii.com xxx52
-http://nvid101.cdnii.com/2019/1/20191002-720p.mp4
-#EXTINF:-1,cdnii.com xxx53
-http://nvid101.cdnii.com/2018/2/20182083-720p.mp4
-#EXTINF:-1,cdnii.com xxx54
-http://nvid101.cdnii.com/2018/2/20182115-720p.mp4
-#EXTINF:-1,cdnii.com xxx55
-http://nvid101.cdnii.com/2018/3/20183177-720p.mp4
-#EXTINF:-1,cdnii.com xxx56
-http://nvid101.cdnii.com/2018/3/20183569-720p.mp4
-#EXTINF:-1,cdnii.com xxx57
-http://nvid101.cdnii.com/2018/3/20183397-720p.mp4
-#EXTINF:-1,cdnii.com xxx58
-http://nvid101.cdnii.com/2019/0/20190875-720p.mp4
-#EXTINF:-1,cdnii.com xxx59
-http://nvid101.cdnii.com/2019/0/20190696-720p.mp4
-#EXTINF:-1,cdnii.com xxx60
-http://nvid101.cdnii.com/2018/0/20180855-720p.mp4
-#EXTINF:-1,cdnii.com xxx61
-http://nvid101.cdnii.com/2018/3/20183350-720p.mp4
-#EXTINF:-1,cdnii.com xxx62
-http://nvid101.cdnii.com/2019/0/20190675-720p.mp4
-#EXTINF:-1,cdnii.com xxx63
-http://nvid101.cdnii.com/2018/3/20183657-720p.mp4
-#EXTINF:-1,cdnii.com xxx64
-http://nvid101.cdnii.com/2019/0/20190931-720p.mp4
-#EXTINF:-1,cdnii.com xxx65
-http://nvid101.cdnii.com/2525/252500182-720p.mp4
-#EXTINF:-1,cdnii.com xxx66
-http://nvid101.cdnii.com/2019/0/20190566-720p.mp4
-#EXTINF:-1,cdnii.com xxx67
-http://nvid101.cdnii.com/2019/0/20190304-720p.mp4
-#EXTINF:-1,cdnii.com xxx68
-http://nvid101.cdnii.com/2019/0/20190270-720p.mp4
-#EXTINF:-1,cdnii.com xxx69
-http://nvid101.cdnii.com/2019/0/20190230-720p.mp4
-#EXTINF:-1,cdnii.com xxx70
-http://nvid101.cdnii.com/2019/1/20191025-720p.mp4
-#EXTINF:-1,cdnii.com xxx71
-http://nvid101.cdnii.com/2018/2/20182534-720p.mp4
-#EXTINF:-1,cdnii.com xxx72
-http://nvid101.cdnii.com/2019/0/20190703-720p.mp4
-#EXTINF:-1,cdnii.com xxx73
-http://nvid101.cdnii.com/2018/2/20182758-720p.mp4
-#EXTINF:-1,cdnii.com xxx74
-http://nvid101.cdnii.com/2018/2/20182348-720p.mp4
-#EXTINF:-1,cdnii.com xxx75
-http://nvid101.cdnii.com/2019/0/20190408-720p.mp4
-#EXTINF:-1,cdnii.com xxx76
-http://nvid101.cdnii.com/2019/0/20190838-720p.mp4
-#EXTINF:-1,cdnii.com xxx77
-http://nvid101.cdnii.com/2018/2/20182969-720p.mp4
-
-
-#EXTINF:-1 ,Цветущая / (1990)
-https://video1.tizam.cc/films/cvetuwaya.mp4
-#EXTINF:-1 ,Даймонд Хед / (1974)
-https://video1.tizam.cc/films/dajmond_hed.mp4
-#EXTINF:-1 ,Как трахались в 50ых годах. Старое порно кино (1950)
-https://video1.tizam.cc/films/kak_trahalis_v_50yh_godah_staroe_porno_kino.mp4
-#EXTINF:-1 ,Сахарная вата / (1985)
-https://video1.tizam.cc/films/saharnaya_vata.mp4
-#EXTINF:-1 ,(1986) Шоколадные поцелуи
-https://video1.tizam.cc/films/shokoladnye_pocelui.mp4
-#EXTINF:-1 ,После Полудня
-https://video1.tizam.cc/films/posle_poludnya.mp4
-#EXTINF:-1 ,Девушка В Комнате 69 / (1994)
-https://video1.tizam.cc/films/devushka_v_komnate_69.mp4
-#EXTINF:-1 ,(1975) Демонстрация
-https://video1.tizam.cc/films/demonstraciya1975.mp4
-#EXTINF:-1 ,(1974) Триллинг Дриллинг
-https://video1.tizam.cc/films/trilling_drilling.mp4
-#EXTINF:-1 ,(1978) Простушка
-https://video1.tizam.cc/films/prostushka1978.mp4
-#EXTINF:-1 ,(1974) Энергичные Секретарши
-https://video1.tizam.cc/films/energichnye_sekretarshi.mp4
-#EXTINF:-1 ,(1979) Горячие Ракетки
-https://video1.tizam.cc/films/goryachie_raketki.mp4
-#EXTINF:-1 ,(1989) День Открытых Дверей
-https://video1.tizam.cc/films/den_otkrytyh_dverej.mp4
-#EXTINF:-1 ,Крики В Ночи (1990)
-https://video1.tizam.cc/films/kriki_v_nochi.mp4
-#EXTINF:-1 ,Доброе Утро Сайгон / (1988)
-https://video1.tizam.cc/films/good_morning_saigon.mp4
-#EXTINF:-1 ,(1978) Формально Фоссет
-https://video1.tizam.cc/films/formal_no_fosset.mp4
-#EXTINF:-1 ,(1972) За зеленой дверью
-https://video1.tizam.cc/films/za_zelenoj_dver_yu.mp4
-#EXTINF:-1 ,Адам и Ева: Девушки Которые Любят Это Делать
-https://video1.tizam.cc/films/adam_i_eva_devushki_kotorye_lyubyat_eto_delat.mp4
-#EXTINF:-1 ,Чувственный Половой Акт (1983)
-https://video1.tizam.cc/films/chuvstvennyj_polovoj_akt.mp4
-#EXTINF:-1 ,(1990) Искатели Удовольствия
-https://video1.tizam.cc/films/iskateli_udovol_stviya.mp4
-#EXTINF:-1 ,(1990) Дикая
-https://video1.tizam.cc/films/dikaya.mp4
-#EXTINF:-1 ,(1978) Массажный салон Эльвира
-https://video1.tizam.cc/films/massazhnyj_salon_el_vira.mp4
-#EXTINF:-1 ,(1987) Большой Взрыв
-https://video1.tizam.cc/films/bol_shoj_vzryv.mp4
-#EXTINF:-1 ,Легендарные Порнозвезды: Кейша / (1995)
-https://video1.tizam.cc/films/legendarnye_pornozvezdy_kejsha.mp4
-#EXTINF:-1 ,Частные Услуги Секретарши / (1980)
-https://video1.tizam.cc/films/chastnye_uslugi_cekretarshi.mp4
-#EXTINF:-1 ,(1980) F...И Весьма Много Его
-https://video1.tizam.cc/films/f_i_ves_ma_mnogo_ego.mp4
-#EXTINF:-1 ,(1990) Сексуальные Выходные 10
-https://video1.tizam.cc/films/seksual_nye_vyhodnye10.mp4
-#EXTINF:-1 ,(1975) Мерилин и Cенатор
-https://video1.tizam.cc/films/merilin_i_cenator.mp4
-#EXTINF:-1 ,(1986) Опущенные и Грязные в Беверли Хиллс
-https://video1.tizam.cc/films/opuwennye_i_gryaznye_v_beverli_hills.mp4
-#EXTINF:-1 ,(1986) Напуганный Брюстер
-https://video1.tizam.cc/films/napugannyj_bryuster.mp4
-#EXTINF:-1 ,(1987) Аморальная Мисс Тези
-https://video1.tizam.cc/films/amoral_naya_miss_tezi.mp4
-#EXTINF:-1 ,(1975) Большая Нагрузка
-https://video1.tizam.cc/films/bol_shaya_nagruzka.mp4
-#EXTINF:-1 ,(1993) Секс звезда
-https://video1.tizam.cc/films/seks_zvezda.mp4
-#EXTINF:-1 ,(1998) Невероятные первые сцены
-https://video1.tizam.cc/films/neveroyatnye_pervye_sceny.mp4
-#EXTINF:-1 ,Приблудные Кошки (1984)
-https://video1.tizam.cc/films/pribludnye_koshki.mp4
-#EXTINF:-1 ,(1985) Шауна: Мечта каждого мужчины
-https://video1.tizam.cc/films/shauna_mechta_kazhdogo_muzhchiny.mp4
-#EXTINF:-1 ,(1985) Животное Внутри Меня
-https://video1.tizam.cc/films/zhivotnoe_vnutri_menya.mp4
-#EXTINF:-1 ,(1983) Другие Желания Терезы
-https://video1.tizam.cc/films/drugie_zhelaniya_terezy.mp4
-#EXTINF:-1 ,(1984) Дом Удовольствия
-https://video1.tizam.cc/films/dom_udovol_stviya.mp4
-#EXTINF:-1 ,Это случилось в Голливуде. 1973
-https://video1.tizam.cc/films/eto_sluchilos_v_gollivude.mp4
-#EXTINF:-1 ,Горячая Кровь / (1985)
-https://video1.tizam.cc/films/HotBlooded.mp4
-#EXTINF:-1 ,Лав Чампионс / (1985)
-https://video1.tizam.cc/films/lav_champions.mp4
---------------CANLI------------------------
-#EXTINF:-1,HUSTLER HD
-http://84.17.61.203:8086/udp/238.2.18.80:1234
-#EXTINF:-1,DORCEL HD
-http://84.17.61.203:8086/udp/238.2.18.78:1234
-#EXTINF:-1,REDLIGHT HD
-http://84.17.61.203:8086/udp/238.2.18.82:1234
-#EXTINF:-1,PRIVATE
-http://84.17.61.203:8086/udp/238.2.132.186:1234
-#EXTINF:-1,HUSTLER TV
-http://84.17.61.203:8086/udp/238.2.5.204:1234
-#EXTINF:-1,SuperONE HD
-http://84.17.61.203:8086/udp/229.35.13.83:1234
-#EXTINF:-1,Penthouse Gold HD
-http://84.17.61.203:8086/udp/229.28.15.59:1234
-#EXTINF:-1,Penthouse Passion HD
-http://84.17.61.203:8086/udp/229.28.15.60:1234
-#EXTINF:-1,Anal
-http://cdn.adultiptv.net/anal.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX VIDEOS TESTE DE FUDELIDADE" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX VIDEOS TESTE DE FUDELIDADE
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033865
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX VIDEOS RUIVAS" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX VIDEOS RUIVAS
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033866
-
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX VIDEOS MIA KHALIFA" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX VIDEOS MIA KHALIFA
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033868
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX VIDEOS LESBICAS" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX VIDEOS LESBICAS
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033869
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX VIDEOS HENTAI" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX VIDEOS HENTAI
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033870
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX VIDEOS BRASILEIRAS" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX VIDEOS BRASILEIRAS
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033871
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX VIDEOS ANAL" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX VIDEOS ANAL
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033872
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX VIDEOS AMADOR REAL" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX VIDEOS AMADOR REAL
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033873
-
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX FILMES RUIVAS" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX FILMES RUIVAS
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033875
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX FILMES LOIRA" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX FILMES LOIRA
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033876
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX FILMES GOZO PART 2" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX FILMES GOZO PART 2
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033877
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX FILMES GOZO PART 1" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX FILMES GOZO PART 1
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033878
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX FLAGRA" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX FLAGRA
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033881
-#EXTINF:-1 tvg-id="" tvg-name="24H REALITY BRASILEIRINHAS" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/4a36f708-f01f-403b-a575-b74007750c00/public" group-title="XXX ADULTOS [18+]",24H REALITY BRASILEIRINHAS
-http://hdmais.com:80/cnhybenvav/Russianize4677/10084929
-#EXTINF:-1 tvg-id="" tvg-name="24H PARODIA BRASILEIRINHAS" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/4a36f708-f01f-403b-a575-b74007750c00/public" group-title="XXX ADULTOS [18+]",24H PARODIA BRASILEIRINHAS
-http://hdmais.com:80/cnhybenvav/Russianize4677/10084926
-#EXTINF:-1 tvg-id="" tvg-name="24H FAMOSAS BRASILEIRINHAS" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/4a36f708-f01f-403b-a575-b74007750c00/public" group-title="XXX ADULTOS [18+]",24H FAMOSAS BRASILEIRINHAS
-http://hdmais.com:80/cnhybenvav/Russianize4677/10084924
-#EXTINF:-1 tvg-id="" tvg-name="24H CARNAVAL BRASILEIRINHAS" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/4a36f708-f01f-403b-a575-b74007750c00/public" group-title="XXX ADULTOS [18+]",24H CARNAVAL BRASILEIRINHAS
-http://hdmais.com:80/cnhybenvav/Russianize4677/10084923
-#EXTINF:-1 tvg-id="" tvg-name="24H XXX WOW PORN" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",24H XXX WOW PORN
-http://hdmais.com:80/cnhybenvav/Russianize4677/10033882
-
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHDR" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PLAYBOY FHDR
-http://hdmais.com:80/cnhybenvav/Russianize4677/10054197
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PLAYBOY FHD
-http://hdmais.com:80/cnhybenvav/Russianize4677/16738
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD*" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PLAYBOY FHD*
-http://hdmais.com:80/cnhybenvav/Russianize4677/10054480
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD H265" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PLAYBOY FHD H265
-http://hdmais.com:80/cnhybenvav/Russianize4677/17341
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD H265*" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PLAYBOY FHD H265*
-http://hdmais.com:80/cnhybenvav/Russianize4677/10054479
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY HD" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PLAYBOY HD
-http://hdmais.com:80/cnhybenvav/Russianize4677/2791
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY HD*" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PLAYBOY HD*
-http://hdmais.com:80/cnhybenvav/Russianize4677/10054478
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY HD¹" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PLAYBOY HD¹
-http://hdmais.com:80/cnhybenvav/Russianize4677/365
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD*" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PLAYBOY SD*
-http://hdmais.com:80/cnhybenvav/Russianize4677/10054477
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT FHD H265" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",SEXY HOT FHD H265
-http://hdmais.com:80/cnhybenvav/Russianize4677/17286
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT HD" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",SEXY HOT HD
-http://hdmais.com:80/cnhybenvav/Russianize4677/17217
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT SD" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",SEXY HOT SD
-http://hdmais.com:80/cnhybenvav/Russianize4677/362
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT SD*" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",SEXY HOT SD*
-http://hdmais.com:80/cnhybenvav/Russianize4677/10054391
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME FHD H265" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",SEXTREME FHD H265
-http://hdmais.com:80/cnhybenvav/Russianize4677/17285
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME HD" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",SEXTREME HD
-http://hdmais.com:80/cnhybenvav/Russianize4677/17218
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME SD" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",SEXTREME SD
-http://hdmais.com:80/cnhybenvav/Russianize4677/364
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME SD*" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",SEXTREME SD*
-http://hdmais.com:80/cnhybenvav/Russianize4677/10054392
-#EXTINF:-1 tvg-id="" tvg-name="VENUS FHD H265" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",VENUS FHD H265
-http://hdmais.com:80/cnhybenvav/Russianize4677/17282
-#EXTINF:-1 tvg-id="" tvg-name="VENUS SD*" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",VENUS SD*
-http://hdmais.com:80/cnhybenvav/Russianize4677/10055071
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS 1" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",BRASILEIRINHAS 1
-http://hdmais.com:80/cnhybenvav/Russianize4677/5567
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS 2" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",BRASILEIRINHAS 2
-http://hdmais.com:80/cnhybenvav/Russianize4677/17219
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS 3" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",BRASILEIRINHAS 3
-http://hdmais.com:80/cnhybenvav/Russianize4677/17220
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS 4" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",BRASILEIRINHAS 4
-http://hdmais.com:80/cnhybenvav/Russianize4677/17221
-#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",REDLIGHT
-http://hdmais.com:80/cnhybenvav/Russianize4677/2903
-#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS TV" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",BRAZZERS TV
-http://hdmais.com:80/cnhybenvav/Russianize4677/7398
-#EXTINF:-1 tvg-id="" tvg-name="HUSTLER" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",HUSTLER
-http://hdmais.com:80/cnhybenvav/Russianize4677/7395
-#EXTINF:-1 tvg-id="" tvg-name="DORCEL" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",DORCEL
-http://hdmais.com:80/cnhybenvav/Russianize4677/3209
-#EXTINF:-1 tvg-id="" tvg-name="JASMIN TV" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",JASMIN TV
-http://hdmais.com:80/cnhybenvav/Russianize4677/3736
-#EXTINF:-1 tvg-id="" tvg-name="PASSIE" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PASSIE
-http://hdmais.com:80/cnhybenvav/Russianize4677/19250
-#EXTINF:-1 tvg-id="" tvg-name="PINK EROTIC" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",PINK EROTIC
-http://hdmais.com:80/cnhybenvav/Russianize4677/19231
-#EXTINF:-1 tvg-id="" tvg-name="HOT 2" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",HOT 2
-http://hdmais.com:80/cnhybenvav/Russianize4677/4360
-#EXTINF:-1 tvg-id="" tvg-name="HOT 4" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",HOT 4
-http://hdmais.com:80/cnhybenvav/Russianize4677/10544
-#EXTINF:-1 tvg-id="" tvg-name="[ADULTO] XY MAX HD" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/4a36f708-f01f-403b-a575-b74007750c00/public" group-title="XXX ADULTOS [18+]",[ADULTO] XY MAX HD
-http://hdmais.com:80/cnhybenvav/Russianize4677/10058841
-#EXTINF:-1 tvg-id="" tvg-name="[ADULTO] VENUS" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/4a36f708-f01f-403b-a575-b74007750c00/public" group-title="XXX ADULTOS [18+]",[ADULTO] VENUS
-http://hdmais.com:80/cnhybenvav/Russianize4677/10058837
-#EXTINF:-1 tvg-id="" tvg-name="ELITE ADULTO 1" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",ELITE ADULTO 1
-http://hdmais.com:80/cnhybenvav/Russianize4677/10035252
-#EXTINF:-1 tvg-id="" tvg-name="ELITE ADULTO 2" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/520a336f-64a0-4bda-2d98-8e8305169000/public" group-title="XXX ADULTOS [18+]",ELITE ADULTO 2
-http://hdmais.com:80/cnhybenvav/Russianize4677/10035253
-#EXTM3U
-#EXTINF:0,RedTraffic TV Live Cams
-http://live.redtraffic.net/livecams.m3u8
-#EXTINF:0,RedTraffic TV Big Dick
-http://live.redtraffic.net/bigdick.m3u8
-#EXTINF:0,RedTraffic TV Big Tits
-http://live.redtraffic.net/bigtits.m3u8
-#EXTINF:0,RedTraffic TV Fetish
-http://live.redtraffic.net/fetish.m3u8
-#EXTINF:0,RedTraffic TV Pornstar
-http://live.redtraffic.net/pornstar.m3u8
-#EXTINF:0,RedTraffic TV Big Ass
-http://live.redtraffic.net/bigass.m3u8
-#EXTINF:0,RedTraffic TV Interracial
-http://live.redtraffic.net/interracial.m3u8
-#EXTINF:0,RedTraffic TV Latina
-http://live.redtraffic.net/latina.m3u8
-#EXTINF:0,RedTraffic TV POV
-http://live.redtraffic.net/pov.m3u8
-#EXTINF:0,RedTraffic TV Blowjob
-http://live.redtraffic.net/blowjob.m3u8
-#EXTINF:0,RedTraffic TV Teen
-http://live.redtraffic.net/teen.m3u8
-#EXTINF:0,RedTraffic TV Cuckold
-http://live.redtraffic.net/cuckold.m3u8
-#EXTINF:0,RedTraffic TV Threesome
-http://live.redtraffic.net/threesome.m3u8
-#EXTINF:0,RedTraffic TV Russian
-http://live.redtraffic.net/russian.m3u8
-#EXTINF:0,RedTraffic TV Lesbian
-http://live.redtraffic.net/lesbian.m3u8
-#EXTINF:0,RedTraffic TV Rough
-http://live.redtraffic.net/rough.m3u8
-#EXTINF:0,RedTraffic TV Gangbang
-http://live.redtraffic.net/gangbang.m3u8
-#EXTINF:0,RedTraffic TV Anal
-http://live.redtraffic.net/anal.m3u8
-#EXTINF:0,RedTraffic TV Compilation
-http://live.redtraffic.net/compilation.m3u8
-#EXTINF:0,RedTraffic TV Brunette
-http://live.redtraffic.net/brunette.m3u8
-#EXTINF:0,RedTraffic TV Blonde
-http://live.redtraffic.net/blonde.m3u8
-
------- XXX -------
-
-
-#EXTINF:0 tvg-rec="0",Hustler HD
-#EXTGRP:Эротика
-http://satviptv.ddns.net/Hustler-HD/mpegts?token=MTA2MjEwODE6MTA2MjEwODE=
-
-#EXTINF:0 tvg-rec="0",Blue Hustler
-#EXTGRP:Эротика
-http://satviptv.ddns.net/Blue-Hustler/mpegts?token=MTA2MjEwODE6MTA2MjEwODE=
-#EXTINF:0 tvg-rec="0",Extasy 4K
-#EXTGRP:Эротика
-http://satviptv.ddns.net/Extasy-4K/mpegts?token=MTA2MjEwODE6MTA2MjEwODE=
-
-#EXTINF:0 tvg-rec="0",Barely Legal TV
-#EXTGRP:Эротика
-http://satviptv.ddns.net/Barely-Legal-TV/mpegts?token=MTA2MjEwODE6MTA2MjEwODE=
-#EXTINF:0 tvg-rec="0",Redlight HD
-#EXTGRP:Эротика
-http://satviptv.ddns.net/Redlight-HD/mpegts?token=MTA2MjEwODE6MTA2MjEwODE=
-#EXTINF:0 tvg-rec="0",Brazzers HD
-#EXTGRP:Эротика
-http://satviptv.ddns.net/Brazzers-HD/mpegts?token=MTA2MjEwODE6MTA2MjEwODE=
-#EXTINF:0 tvg-rec="0",Erox
-#EXTGRP:Эротика
-http://satviptv.ddns.net/Erox/mpegts?token=MTA2MjEwODE6MTA2MjEwODE=
-
-#EXTINF:0 tvg-rec="0",Русская ночь
-#EXTGRP:Эротика
-http://satviptv.ddns.net/Russkaya-noch/mpegts?token=MTA2MjEwODE6MTA2MjEwODE=
-
-#EXTINF:0 tvg-rec="0",Шалун HD
-#EXTGRP:Эротика
-http://satviptv.ddns.net/Shalun-HD/mpegts?token=MTA2MjEwODE6MTA2MjEwODE=
-
-#EXTINF:0 tvg-rec="0",PLAYBOY TV HD
-#EXTGRP:Эротика
-http://satviptv.ddns.net/PLAYBOY-TV-HD/mpegts?token=MTA2MjEwODE6MTA2MjEwODE=
-
-
-
-#EXTINF :0,TRT 1
-http://77.92.139.136:8200/bysid/10500
-#EXTINF :0,TRT HABER
-http://77.92.139.136:8200/bysid/10501
-#EXTINF :0,TRT TÜRK
-http ://77.92.139.136:8200/bysid/10502
-#EXTINF :0,TRT ÇOCUK
-http://77.92.139.136:8200/bysid/10504
-#EXTINF :0,TRT BELGESEL
-http://77.92.139.136:8200/bysid /10505
-#EXTINF :0,TRT2 HD
-http://77.92.139.136:8200/bysid/10506
-#EXTINF :0,TRT MÜZİK
-http://77.92.139.136:8200/bysid/10507
-#EXTINF :0,TRT SPOR YILDIZ
-http://77.92.139.136:8200/bysid/10525
-#EXTINF :0,TRT 3-SPOR
-http://77.92.139.136:8200/bysid/10503
-#EXTM3U
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
-https://cors.zimjs.com/http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/5367.ts
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
-https://proxy.rssblue.com?url=http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/168567.ts
-#EXTINF:-1 tvg-id="beINSports3.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
-http://formule.link:80/live/ZainTV01/oYChnp7cuX34/15488.ts
-#EXTINF:-1 tvg-id="beINSports4.tr" tvg-name="beIN SPORTS 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 HD TR
-http://spainline.xyz:8000/live/trading/XGfgNDGTGwhP/149606.ts
-#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 FHD TR
-https://proxy.rssblue.com?url=http://45.143.222.41:8080/dooby1312/b244f7ab/1735
-#EXTINF:-1 tvg-id="beINSports2.tr" tvg-name="beIN SPORTS 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/beinsport1hd.jpg" group-title="Live: beIN Media Group",beIN SPORTS 1 FHD TR
-http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149526
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 1 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 1 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/88662
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 2 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/88663
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 3 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 3 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/88664
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 4 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 4 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/91333
-#EXTINF:-1 tvg-id="" tvg-name="Syria TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/syriatvtr.jpg" group-title="Live: Turkey",Syria TV HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/99919
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 5 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 5 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/113758
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 6 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 6 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/113759
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 7 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 7 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/113760
-#EXTINF:-1 tvg-id="" tvg-name="Exxen Sport 8 HD TR" tvg-logo="https://picon-13398.kxcdn.com/exxentr.com.jpg" group-title="Live: Turkey",Exxen Sport 8 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/113761
-#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr.jpg" group-title="Live: Turkey",Tivibu Spor FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/12755
-#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr2.jpg" group-title="Live: Turkey",Tivibu Spor 2 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/12756
-#EXTINF:-1 tvg-id="24.tr" tvg-name="Tivibu Spor 3 HD TR" tvg-logo="https://picon-13398.kxcdn.com/tivibusporttr3.jpg" group-title="Live: Turkey",Tivibu Spor 3 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15736
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="Live: Turkey",A Spor FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/14239
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A Spor TR" tvg-logo="https://picon-13398.kxcdn.com/asporthdtr.jpg" group-title="Live: Turkey",A Spor TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/5133
-#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="Smart Spor FHD TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotvhd.jpg" group-title="Live: Turkey",Smart Spor FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15732
-#EXTINF:-1 tvg-id="SmartSpor2.tr" tvg-name="Smart Spor 2 FHD TR" tvg-logo="https://picon-13398.kxcdn.com/smartspotv.jpg" group-title="Live: Turkey",Smart Spor 2 FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/5209
-#EXTINF:-1 tvg-id="SSport.tr" tvg-name="S Sport FHD TR" tvg-logo="https://picon-13398.kxcdn.com/ssporttr.jpg" group-title="Live: Turkey",S Sport FHD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15733
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-name="Sports TV TR" tvg-logo="https://picon-13398.kxcdn.com/sportstvtr.jpg" group-title="Live: Turkey",Sports TV TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/5983
-#EXTINF:-1 tvg-id="24.tr" tvg-name="NBA TV TR" tvg-logo="https://picon-13398.kxcdn.com/nbatvus.jpg" group-title="Live: Turkey",NBA TV TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/19668
-#EXTINF:-1 tvg-id="Eurosport1.tr" tvg-name="Eurosport 1 HD TR" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Turkey",Eurosport 1 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15730
-#EXTINF:-1 tvg-id="Eurosport2.tr" tvg-name="Eurosport 2 HD TR" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Turkey",Eurosport 2 HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15731
-#EXTINF:-1 tvg-id="" tvg-name="FightBox HD TR" tvg-logo="https://picon-13398.kxcdn.com/fightboxhd.jpg" group-title="Live: Turkey",FightBox HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/19666
-#EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV TR" tvg-logo="https://picon-13398.kxcdn.com/fbtvtr.jpg" group-title="Live: Turkey",FB TV TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/5210
-#EXTINF:-1 tvg-id="" tvg-name="BJK TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/bjktr.jpg" group-title="Live: Turkey",BJK TV HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15727
-#EXTINF:-1 tvg-id="GSTV.tr" tvg-name="GS TV HD TR" tvg-logo="https://picon-13398.kxcdn.com/gstvtr.jpg" group-title="Live: Turkey",GS TV HD TR
-http://45.12.1.14:80/BehareCaraj/X6o8aL2894/15729
-
-
-
+#EXTINF:-1, GIRL & GIRL 1
+http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/3599.mp4
+#EXTINF:-1, GIRL & GIRL 2
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/1191.mp4
+#EXTINF:-1, GIRL & GIRL 3
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/5858.mp4
+#EXTINF:-1, GIRL & GIRL 4
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/15301.mp4
+#EXTINF:-1, GIRL & GIRL 5
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/597.mp4
+#EXTINF:-1, GIRL & GIRL 6
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/9443.mp4
+#EXTINF:-1, GIRL & GIRL 7
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/11738.mp4
+#EXTINF:-1, GIRL & GIRL 8
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/7991.mp4
+#EXTINF:-1, GIRL & GIRL 9
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/17353.mp4
+#EXTINF:-1, GIRL & GIRL 10
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/15803.mp4
+#EXTINF:-1, GIRL & GIRL 11
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/4147.mp4
+#EXTINF:-1, GIRL & GIRL 12
+http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/14958.mp4
+#EXTINF:-1, GIRL & GIRL 13
+http://87.98.184.123/vidshd/56ea912c4df934c216c352fa8d623af3/5028.mp4
+#EXTINF:-1, GIRL & GIRL 14
+http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/7244.mp4
+#EXTINF:-1, GIRL & GIRL 15
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/10334.mp4
+#EXTINF:-1, GIRL & GIRL 16
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/1110.mp4
+#EXTINF:-1, GIRL & GIRL 17
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/6892.mp4
+#EXTINF:-1, GIRL & GIRL 18
+http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/18160.mp4
+#EXTINF:-1, GIRL & GIRL 19
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/23621.mp4
+#EXTINF:-1, GIRL & GIRL 20
+http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/460.mp4
+#EXTINF:-1, GIRL & GIRL 21
+http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/1516.mp4
+#EXTINF:-1, GIRL & GIRL 22
+http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/4507.mp4
+#EXTINF:-1, GIRL & GIRL 23
+http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/963.mp4
+#EXTINF:-1, GIRL & GIRL 24
+http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/12646.mp4
+#EXTINF:-1, GIRL & GIRL 25
+http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/3108.mp4
+#EXTINF:-1, GIRL & GIRL 26
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/16443.mp4
+#EXTINF:-1, GIRL & GIRL 27
+http://188.165.53.164/vidshd/56ea912c4df934c216c352fa8d623af3/14002.mp4
+#EXTINF:-1, GIRL & GIRL 28
+http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/1285.mp4
+#EXTINF:-1, GIRL & GIRL 29
+http://87.98.184.83/vidshd/56ea912c4df934c216c352fa8d623af3/4972.mp4
+#EXTINF:-1, GIRL & GIRL 30
+http://87.98.136.118/vidshd/56ea912c4df934c216c352fa8d623af3/20606.mp4
