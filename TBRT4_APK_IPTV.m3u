@@ -48,6 +48,14 @@ https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks
 
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER MEDYA TV YDK3
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
+#EXTINF:2 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER ON LNK1
+https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER ON LNK2
+https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
+#EXTINF:3 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER ON LNK3
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber2/chunklist_w909642297.m3u8
 
 #EXTINF:-1,TR:YANSIMA TV
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
