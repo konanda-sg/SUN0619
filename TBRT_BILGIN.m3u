@@ -198,8 +198,14 @@ https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
 #EXTINF:102,RT1 TV 
 https://stream.guventechnology.com:19360/rt1turktv/rt1turktv.m3u8
 
-#EXTINF:102, UNİ TV
-https://tv.digitalbox.xyz:19360/unitv/unitv.m3u8
+#EXTINF:102, TRT EBA ANA ve ilk okulu
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:102, TRT ebe orta okul
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:102, TRT EBA LİSE
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:58 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/48e5a212-b440-4682-a613-2b0fb18e663f.png" group-title= "YEREL KANALLAR", Gurbet 24 Erzincan
 http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8

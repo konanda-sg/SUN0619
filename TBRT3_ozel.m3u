@@ -138,7 +138,17 @@ https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 #EXTINF:30,BAHAR TÜRK
 http://31.223.85.34:9999/play/a0cj/index. m3u8
 
-#EXTM3U
+#EXTINF:102,RT1 TV 
+https://stream.guventechnology.com:19360/rt1turktv/rt1turktv.m3u8
+
+#EXTINF:102, TRT EBA ANA ve ilk okulu
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:102, TRT ebe orta okul
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:102, TRT EBA LİSE
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,AGRO TV
 http://31.223.85.34:9999/play/a0av/index.m3u8
 #EXTINF:-1,AKILLI TV
