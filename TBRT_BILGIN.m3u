@@ -109,7 +109,12 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
 
 #EXTINF:117, NTN SİNEMA HD
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
-
+#EXTINF:1, SÜPER TÜRK TV
+http://95.179.215.242:3923/stream/play.m3u8
+#EXTINF:1, YAŞAM TV
+https://yayin30.haber100.com/live/yasamtv/playlist.m3u8
+#EXTINF:1, M.TÜRK TV
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 --------------SİNEMA------------------------------
 
 #EXTINF:-1 group-title="Tvplus", SİNEMA TV HD
@@ -138,7 +143,8 @@ http://49.12.123.148:8989/46/hls/playlis.m3u8
 http://49.12.123.148:8989/45/hls/playlis.m3u8
 #EXTINF:-1 group-title="Tvplus", FX HD
 http://49.12.123.148:8989/71/hls/playlis.m3u8
-
+#EXTINF:1, SÜPER TÜRK TV
+http://95.179.215.242:3923/stream/play.m3u8
 
 -----------------ÖZEL----Akram---------------------------
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal" tvg-logo="http://myserveriptv.com:2082/images/91a45e93a822e8f055dddb2cd6a488b9.png" group-title="Turkey",TR: Kemal Sunal
