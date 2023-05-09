@@ -17,9 +17,8 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT6 AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="Kanal7.tr"tvg-name="Kanal 7 HD TR"  tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg" group-title="ULUSAL",KANAL 7 ᵁᴴᴰ⁺
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|User-Agent=Lavf53.32.100 
-#https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 group-title="Tvplus", KANAL 7 HD
+http://49.12.123.148:8989/26/hls/playlis.m3u8
 
 #EXTINF:-6,KANAL 7 AVRUPA FHD
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
@@ -40,10 +39,11 @@ http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100
 http://62.182.82.104/atv_turk/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ⁺™
-http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100 
+http://49.12.123.148:8989/5/hls/playlist.m3u8
+#http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100 
 
-#EXTINF:-1,A2 ᵁᴴᴰ⁺
-http://185.234.217.146:8080/a2_red_K_TV/index.m3u8
+#EXTINF:-1 group-title="Tvplus", A2ᵁᴴᴰ⁺
+http://49.12.123.148:8989/19/hls/playlis.m3u
 
 #EXTINF:-1 tvg-id="StarTV.tr"tvg-name="STAR TV" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg" group-title="ULUSAL",STAR TV ᵁᴴᴰ⁺
 http://canli.haber365.com.tr/tr/startv/index.m3u8
@@ -109,8 +109,38 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
 
 #EXTINF:117, NTN SİNEMA HD
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
--------------ÖZEL-----------------------------
 
+--------------SİNEMA------------------------------
+
+#EXTINF:-1 group-title="Tvplus", SİNEMA TV HD
+http://49.12.123.148:8989/62/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA TV 2 HD
+http://49.12.123.148:8989/54/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA AİLE HD
+http://49.12.123.148:8989/59/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA AİLE 2 HD
+http://49.12.123.148:8989/53/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA TV 1001 HD
+http://49.12.123.148:8989/58/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA 1002 HD
+http://49.12.123.148:8989/47/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA TV AKSİYON HD
+http://49.12.123.148:8989/40/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA AKSİYON 2 HD
+http://49.12.123.148:8989/41/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA YERLİ HD
+http://49.12.123.148:8989/33/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA YERLİ 2 HD
+http://49.12.123.148:8989/32/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA KOMEDİ HD
+http://49.12.123.148:8989/46/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", FOX CRIME HD
+http://49.12.123.148:8989/45/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", FX HD
+http://49.12.123.148:8989/71/hls/playlis.m3u8
+
+
+-----------------ÖZEL----Akram---------------------------
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal" tvg-logo="http://myserveriptv.com:2082/images/91a45e93a822e8f055dddb2cd6a488b9.png" group-title="Turkey",TR: Kemal Sunal
 http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/215668
 #EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam 1" tvg-logo="http://myserveriptv.com:2082/images/2ae09b8d270bbd3827f7d936ecea7a7a.png" group-title="Turkey",TR: Yesilcam 1
@@ -242,20 +272,256 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 http://185.234.217.107:8001/play/a03w/index.m3u8
 #EXTINF :-1,Animal Planet HD (VK)
 http://181.78.7.92:6500/play/a01b /index.m3u8
+#EXTM3U
+
+-----------Tvplus--ULUSAL---------------
+
 #EXTINF:-1 group-title="Tvplus", TRT1 HD
 http://49.12.123.148:8989/7/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", TRT SPOR HD
-http://49.12.123.148:8989/8/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", TRT 2 HD
+http://49.12.123.148:8989/52/hls/playlis.m3u8
 #EXTINF:-1 group-title="Tvplus", FOX HD
 http://49.12.123.148:8989/2/hls/playlist.m3u8
 #EXTINF:-1 group-title="Tvplus", STAR TV HD
 http://49.12.123.148:8989/3/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", KANAL 7 HD
+http://49.12.123.148:8989/26/hls/playlis.m3u8
 #EXTINF:-1 group-title="Tvplus", TV8 HD
 http://49.12.123.148:8989/4/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", TV8,5 HD
+http://49.12.123.148:8989/29/hls/playlis.m3u8
 #EXTINF:-1 group-title="Tvplus", ATV HD
 http://49.12.123.148:8989/5/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", A2 HD
+http://49.12.123.148:8989/19/hls/playlis.m3u
 #EXTINF:-1 group-title="Tvplus", KANAL D HD
 http://49.12.123.148:8989/6/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", BEYAZ TV HD
+http://49.12.123.148:8989/14/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", 360 HD
+http://49.12.123.148:8989/17/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TEVE2 HD
+http://49.12.123.148:8989/16/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TRT 3
+http://49.12.123.148:8989/96/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TV 4
+http://49.12.123.148:8989/95/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", MELTEM TV
+http://49.12.123.148:8989/103/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", TRT AVAZ
+http://49.12.123.148:8989/97/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TRT TÜRK
+http://49.12.123.148:8989/98/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TMB TV
+http://49.12.123.148:8989/102/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", KADIRGA TV
+http://49.12.123.148:8989/132/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", KANAL V
+http://49.12.123.148:8989/135/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", KIBRIS TV
+http://49.12.123.148:8989/141/hls/playli.m3u8
+
+--------------BELGESEL----------------------------
+
+#EXTINF:-1 group-title="Tvplus", TRT BELGESEL HD
+http://49.12.123.148:8989/24/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TARIH TV
+http://49.12.123.148:8989/107/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", NATIONAL GEOGRAPHIC WILD HD
+http://49.12.123.148:8989/35/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TLC
+http://49.12.123.148:8989/1009/hls/playl.m3u8
+#EXTINF:-1 group-title="Tvplus", DMAX HD
+http://49.12.123.148:8989/18/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", DISCOVERY CHANNEL HD
+http://49.12.123.148:8989/48/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", VIASAT HISTORY HD
+http://49.12.123.148:8989/49/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", VIASAT EXPLORE
+http://49.12.123.148:8989/51/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", NATIONAL GEOGRAPHIC HD
+http://49.12.123.148:8989/57/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", LOVE NATURE HD
+http://49.12.123.148:8989/65/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", DISCOVERY SCIENCE HD
+http://49.12.123.148:8989/68/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", BİZİM EV TV
+http://49.12.123.148:8989/42/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TARIM TV
+http://49.12.123.148:8989/134/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", ÇİFTÇİ TV
+http://49.12.123.148:8989/130/hls/playli.m3u8
+
+-------------ÇOCUK------------------------
+
+#EXTINF:-1 group-title="Tvplus", MOONBUG KIDS TV
+http://49.12.123.148:8989/1012/hls/playl.m3u8
+#EXTINF:-1 group-title="Tvplus", BOOMERANG
+http://49.12.123.148:8989/1013/hls/playl.m3u8
+#EXTINF:-1 group-title="Tvplus", DA VINCI HD
+http://49.12.123.148:8989/90/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", NICKTOONS
+http://49.12.123.148:8989/50/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TRT ÇOCUK HD
+http://49.12.123.148:8989/30/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", DISNEY JUNIOR
+http://49.12.123.148:8989/31/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", CARTOON NETWORK
+http://49.12.123.148:8989/34/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", BABYTV
+http://49.12.123.148:8989/61/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", MİNİKA ÇOCUK
+http://49.12.123.148:8989/63/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", MİNİKA GO
+http://49.12.123.148:8989/79/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", DUCK TV HD
+http://49.12.123.148:8989/81/hls/playlis.m3u8
+
+-------------HABER-----------------------
+
+#EXTINF:-1 group-title="Tvplus", EKOTÜRK HD
+http://49.12.123.148:8989/1010/hls/playl.m3u8
+#EXTINF:-1 group-title="Tvplus", BBN TÜRK TV
+http://49.12.123.148:8989/1011/hls/playl.m3u8
+#EXTINF:-1 group-title="Tvplus", FLASH TV
+http://49.12.123.148:8989/23/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TELE1
+http://49.12.123.148:8989/85/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", HALK TV
+http://49.12.123.148:8989/13/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", CEM TV
+http://49.12.123.148:8989/127/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", HABERTÜRK HD
+http://49.12.123.148:8989/15/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", NTV HD
+http://49.12.123.148:8989/20/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TRT HABER HD
+http://49.12.123.148:8989/21/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", ON6
+http://49.12.123.148:8989/122/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", 24 HD
+http://49.12.123.148:8989/36/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TGRT HABER HD
+http://49.12.123.148:8989/37/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", HABER GLOBAL HD
+http://49.12.123.148:8989/38/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", KRT TV
+http://49.12.123.148:8989/39/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", BLOOMBERG HT HD
+http://49.12.123.148:8989/44/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", ÜLKE TV HD
+http://49.12.123.148:8989/55/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TVNET HD
+http://49.12.123.148:8989/60/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", A PARA HD
+http://49.12.123.148:8989/64/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", AKİT TV HD
+http://49.12.123.148:8989/70/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", BENGÜTÜRK
+http://49.12.123.148:8989/72/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", ULUSAL KANAL
+http://49.12.123.148:8989/74/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", EKO TURK
+http://49.12.123.148:8989/75/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", A HABER HD
+http://49.12.123.148:8989/128/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", TV100
+http://49.12.123.148:8989/9/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", CNN TÜRK HD
+http://49.12.123.148:8989/12/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", KIBRIS GENC TV
+http://49.12.123.148:8989/142/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", KIBRIS ADA TV
+http://49.12.123.148:8989/143/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", BRT 1 HD
+http://49.12.123.148:8989/139/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", BRT 2 HD
+http://49.12.123.148:8989/145/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", SİM TV
+http://49.12.123.148:8989/140/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", KANAL T
+http://49.12.123.148:8989/146/hls/playli.m3u8
+
+---------------SPORT-------------------------
+#EXTINF:-1 group-title="Tvplus", SPORTS TV HD
+http://49.12.123.148:8989/69/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", S SPORT
+http://49.12.123.148:8989/22/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", S SPORT 2
+http://49.12.123.148:8989/25/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", EUROSPORT 1 HD
+http://49.12.123.148:8989/67/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", EUROSPORT 2 HD
+http://49.12.123.148:8989/77/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", FB TV
+http://49.12.123.148:8989/56/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", NBA TV HD
+http://49.12.123.148:8989/82/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", EDGE SPORT HD
+http://49.12.123.148:8989/83/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TRT SPOR YILDIZ
+http://49.12.123.148:8989/43/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TJK TV
+http://49.12.123.148:8989/84/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TRT SPOR HD
+http://49.12.123.148:8989/8/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", A SPOR HD
+http://49.12.123.148:8989/10/hls/playlis.m3u8
+
+-------------DİNİ KANAL----------------
+
+#EXTINF:-1 group-title="Tvplus", VAV TV
+http://49.12.123.148:8989/78/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", SEMERKAND HD
+http://49.12.123.148:8989/104/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", DİYANET TV
+http://49.12.123.148:8989/106/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", KONTV HD
+http://49.12.123.148:8989/117/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", FM TV
+http://49.12.123.148:8989/144/hls/playli.m3u8
+
+---------------------MÜZİK--------------------
+#EXTINF:-1 group-title="Tvplus", POWER TURK HD
+http://49.12.123.148:8989/73/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", NR1 DAMAR HD
+http://49.12.123.148:8989/80/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", 24KITCHEN HD
+http://49.12.123.148:8989/76/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", NUMBER1 TURK HD
+http://49.12.123.148:8989/86/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TRT MÜZİK
+http://49.12.123.148:8989/87/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", NUMBER1 TV HD
+http://49.12.123.148:8989/88/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", POWER TV HD
+http://49.12.123.148:8989/89/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", NR1 AŞK HD
+http://49.12.123.148:8989/93/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", DREAM TÜRK
+http://49.12.123.148:8989/94/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", NR1 DANCE HD
+http://49.12.123.148:8989/99/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", ENGLISH CLUB TV
+http://49.12.123.148:8989/92/hls/playlis.m3u8
+#EXTINF:-1 group-title="Tvplus", TV PLUS INFO
+http://49.12.123.148:8989/133/hls/playli.m3u8
+
+----------------YEDEK-----ULUSAL---KANAL--------
+
+#EXTINF:-1 group-title="Tvplus", TRT1 HD
+http://49.12.123.148:8989/149/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", SHOW TV HD
+http://49.12.123.148:8989/147/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", TV8 HD
+http://49.12.123.148:8989/148/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", ATV HD
+http://49.12.123.148:8989/150/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", A2 HD
+http://49.12.123.148:8989/153/hls/playli.m3u8
+#EXTINF:-1 group-title="Tvplus", STAR TV HD
+http://49.12.123.148:8989/151/hls/playli.m3u8
+
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100 
 #EXTINF:-1 group-title="Tvplus", TV100
