@@ -438,7 +438,11 @@ https://h92.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
 #EXTINF:-1,RUMELİ TV
 http://149.62.177.140:8000/play/a010/index.m3u8
 
+#EXTINF:-1,DENGE ZELAL TV
+https://ssh101.bozztv.com/ssh101/denge301/playlist.m3u8
 
+#EXTINF:-1,AVAŞİN TV
+https://ssh101.bozztv.com/ssh101/avasintv/playlist.m3u8
 --------------------------ÇOCUK TV----------------------------------
 
 #EXTINF:0 type="stream" channelId="3330" group-title="4_COCUK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3330", BOOMERANG HD [BLU]

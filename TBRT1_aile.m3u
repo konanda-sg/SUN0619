@@ -481,7 +481,11 @@ https://h92.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
 
 #EXTINF:-1,RUMELİ TV
 http://149.62.177.140:8000/play/a010/index.m3u8
+#EXTINF:-1,DENGE ZELAL TV
+https://ssh101.bozztv.com/ssh101/denge301/playlist.m3u8
 
+#EXTINF:-1,AVAŞİN TV
+https://ssh101.bozztv.com/ssh101/avasintv/playlist.m3u8
 ----------------Spor----------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="TR: SporSmart 2" tvg-logo="http://myserveriptv.com:2082/images/a44d668deacbea6b0e33ed875ffe6361.png" group-title="Turkey",TR: SporSmart 2
 http://star8iptv.com:2082/akram9uh3sT7/6sY86d2D0nsbW9KD4kOdn/77255
