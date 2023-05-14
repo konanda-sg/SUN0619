@@ -36,7 +36,7 @@ https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.33:10001|User-Agent=Lavf53.32.100#https://tv8-live.daioncdn.net/tv8/tv8.m3u8 
+http://195.142.1.211:4022/udp/224.2.2.33:10001|User-Agent=Lavf53.32.100
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 YDK⁺
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
@@ -408,8 +408,8 @@ http://45.91.195.132:8000/play/a039
 http://45.91.195.132:8000/play/a03a
 #EXTINF:-1,SEMERKAND WAY
 http://45.91.195.132:8000/play/a03b
-#EXTINF:-1,SEYMEN
-http://45.91.195.132:8000/play/a09e
+#EXTINF:-1,TV8
+#https://tv8-live.daioncdn.net/tv8/tv8.m3u8 
 #EXTINF:-1,SHOW TURK HD
 http://45.91.195.132:8000/play/a09s
 #EXTINF:-1,SPORTS TV
