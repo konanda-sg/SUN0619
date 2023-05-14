@@ -32,8 +32,8 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 HD
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 
-#EXTINF:-6,KANAL 7 AVRUPA FHD
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1,KANAL 7 AVRUPA HD
+http://45.91.195.132:8000/play/a05c
 
 #EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 ᵁᴴᴰ⁺
 http://195.142.1.211:4022/udp/224.2.2.33:10001|User-Agent=Lavf53.32.100
@@ -210,16 +210,14 @@ http://49.12.123.148:8989/6/hls/playlist.m3u8
 http://49.12.123.148:8989/9/hls/playlist.m3u8
 #EXTINF:-1,AKILLI TV
 http://45.91.195.132:8000/play/a08y
-#EXTINF:-1,AKIT TV HD
-http://45.91.195.132:8000/play/a04r
+
 #EXTINF:-1,AKRT TV
 http://45.91.195.132:8000/play/a03w
 #EXTINF:-1,AKSU TV
 http://45.91.195.132:8000/play/a06p
 #EXTINF:-1,AL ZAHRA TV
 http://45.91.195.132:8000/play/a03e
-#EXTINF:-1,ALRAFIDAIN TV
-http://45.91.195.132:8000/play/a06g
+
 #EXTINF:-1,ANADOLU DERNEK TV
 http://45.91.195.132:8000/play/a08v
 #EXTINF:-1,BAHARTURK
@@ -228,9 +226,9 @@ http://45.91.195.132:8000/play/a03v
 http://45.91.195.132:8000/play/a06b
 #EXTINF:-1,BEA
 http://45.91.195.132:8000/play/a069
-#EXTINF:-1,BENG⅛ T⅛RK HD
+#EXTINF:-1,BENG⅛ TURK HD
 http://45.91.195.132:8000/play/a04z
-#EXTINF:-1,BIR TV
+#EXTINF:-1,BİR TV
 http://45.91.195.132:8000/play/a077
 #EXTINF:-1,BITLIS TV
 http://45.91.195.132:8000/play/a06d
@@ -246,8 +244,7 @@ http://45.91.195.132:8000/play/a04j
 http://45.91.195.132:8000/play/a06v
 #EXTINF:-1,BURSA TV
 http://45.91.195.132:8000/play/a05b
-#EXTINF:-1,CADDE TV
-http://45.91.195.132:8000/play/a03p
+
 #EXTINF:-1,CAY TV
 http://45.91.195.132:8000/play/a05m
 #EXTINF:-1,CEM TV
@@ -258,8 +255,7 @@ http://45.91.195.132:8000/play/a06r
 http://45.91.195.132:8000/play/a075
 #EXTINF:-1,CNN TÜRK
 http://45.91.195.132:8000/play/a08l
-#EXTINF:-1,DIS YAY ORTA DALGA ARAPCA
-http://45.91.195.132:8000/play/a02u
+
 #EXTINF:-1,DIYAR TV
 http://45.91.195.132:8000/play/a07a
 #EXTINF:-1,DMAX
@@ -294,8 +290,7 @@ http://45.91.195.132:8000/play/a067
 http://45.91.195.132:8000/play/a05a
 #EXTINF:-1,FM TV
 http://45.91.195.132:8000/play/a05q
-#EXTINF:-1,FREEDOM
-http://45.91.195.132:8000/play/a04x
+
 #EXTINF:-1,GENC TV
 http://45.91.195.132:8000/play/a04o
 #EXTINF:-1,GOZDE TV
@@ -334,8 +329,9 @@ http://45.91.195.132:8000/play/a060
 http://45.91.195.132:8000/play/a07c
 #EXTINF:-1,KANAL 68
 http://45.91.195.132:8000/play/a06w
-#EXTINF:-1,KANAL 7 AVRUPA HD
-http://45.91.195.132:8000/play/a05c
+
+#EXTINF:-1,CADDE TV
+http://45.91.195.132:8000/play/a03p
 #EXTINF:-1,KANAL ANTALYA
 http://45.91.195.132:8000/play/a091
 #EXTINF:-1,KANAL AVRUPA
@@ -1313,3 +1309,5 @@ http://rtmp2.abnvideos.com/hls/abnturkey.m3u8
 https://vdo.digitalbox.xyz:3243/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="12_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", AKTUEL MUZIK TV
 http://tv56245.ozelip.com:2052/aktuel/aktuel/playlist.m3u8
+#EXTINF:-1,FREEDOM
+http://45.91.195.132:8000/play/a04x
