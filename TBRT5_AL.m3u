@@ -8,13 +8,22 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:3 type="stream" channelId="989" group="TRT MEDYA_iPTV_KANALLAR", TRT3 Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1,TRT 4K ᵁᴴᴰ⁺
+http://45.91.195.132:8000/play/a03h
+
 #EXTINF:4,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:-1,TV5
+http://45.91.195.132:8000/play/a065
 
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
-#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT6 AVAZ
+#EXTINF:-1,Tivi6
+http://45.91.195.132:8000/play/a06m
+
+#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 FHD
@@ -30,8 +39,11 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 http://195.142.1.211:4022/udp/224.2.2.33:10001|User-Agent=Lavf53.32.100 
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 Int TR"  tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg" group-title="ULUSAL-int",TV8 YDK ᴴᴰ
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 YDK⁺
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 INT⁺
+http://45.91.195.132:8000/play/a08r
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
 http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100 
@@ -381,22 +393,14 @@ http://45.91.195.132:8000/play/a09l
 http://45.91.195.132:8000/play/a066
 #EXTINF:-1,ORDU ALTAS TV
 http://45.91.195.132:8000/play/a051
-#EXTINF:-1,PAL NOSTALJI
-http://45.91.195.132:8000/play/a03f
-#EXTINF:-1,PAL STATION
-http://45.91.195.132:8000/play/a03g
 #EXTINF:-1,PAMUKKALETV
 http://45.91.195.132:8000/play/a062
 #EXTINF:-1,POWER HD
 http://45.91.195.132:8000/play/a06k
 #EXTINF:-1,REHBERTV
 http://45.91.195.132:8000/play/a05l
-#EXTINF:-1,RTR PLANETA
-http://45.91.195.132:8000/play/a03d
 #EXTINF:-1,RUMELİ TV
 http://45.91.195.132:8000/play/a092
-#EXTINF:-1,RUSSIA 24 TV
-http://45.91.195.132:8000/play/a03c
 #EXTINF:-1,SAT7TURK
 http://45.91.195.132:8000/play/a074
 #EXTINF:-1,SAUDI SUNNAH
@@ -409,8 +413,6 @@ http://45.91.195.132:8000/play/a03b
 http://45.91.195.132:8000/play/a09e
 #EXTINF:-1,SHOW TURK HD
 http://45.91.195.132:8000/play/a09s
-#EXTINF:-1,SLOW TURK
-http://45.91.195.132:8000/play/a07e
 #EXTINF:-1,SPORTS TV
 http://45.91.195.132:8000/play/a05k
 #EXTINF:-1,STAR TV
@@ -457,12 +459,6 @@ http://45.91.195.132:8000/play/a078
 http://45.91.195.132:8000/play/a081
 #EXTINF:-1,TRT 3-SPOR
 http://45.91.195.132:8000/play/a084
-#EXTINF:-1,TRT 4K
-http://45.91.195.132:8000/play/a03h
-#EXTINF:-1,TRT ARABI
-http://45.91.195.132:8000/play/a02q
-#EXTINF:-1,TRT ARABI HD
-http://45.91.195.132:8000/play/a02p
 #EXTINF:-1,TRT AVAZ HD
 http://45.91.195.132:8000/play/a02n
 #EXTINF:-1,TRT BELGESEL HD
@@ -475,16 +471,10 @@ http://45.91.195.132:8000/play/a09w
 http://45.91.195.132:8000/play/a02e
 #EXTINF:-1,TRT HABER HD
 http://45.91.195.132:8000/play/a025
-#EXTINF:-1,TRT KURDI
-http://45.91.195.132:8000/play/a02s
-#EXTINF:-1,TRT KURDI HD
-http://45.91.195.132:8000/play/a02b
 #EXTINF:-1,TRT MUZIK
 http://45.91.195.132:8000/play/a02i
 #EXTINF:-1,TRT MUZIK HD
 http://45.91.195.132:8000/play/a02a
-#EXTINF:-1,TRT NAGME
-http://45.91.195.132:8000/play/a02j
 #EXTINF:-1,TRT SPOR
 http://45.91.195.132:8000/play/a02r
 #EXTINF:-1,TRT SPOR HD
@@ -497,16 +487,12 @@ http://45.91.195.132:8000/play/a02f
 http://45.91.195.132:8000/play/a029
 #EXTINF:-1,TRT TURKU
 http://45.91.195.132:8000/play/a02k
-#EXTINF:-1,TRT WORLD HD
-http://45.91.195.132:8000/play/a028
 #EXTINF:-1,TRT1
 http://45.91.195.132:8000/play/a02c
 #EXTINF:-1,TRT1 HD
 http://45.91.195.132:8000/play/a024
 #EXTINF:-1,TRT2 HD
 http://45.91.195.132:8000/play/a086
-#EXTINF:-1,TSR TURKCE
-http://45.91.195.132:8000/play/a089
 #EXTINF:-1,TV 1 
 http://45.91.195.132:8000/play/a04u
 #EXTINF:-1,TV 100 HD
@@ -517,8 +503,6 @@ http://45.91.195.132:8000/play/a04m
 http://45.91.195.132:8000/play/a06x
 #EXTINF:-1,TV 52
 http://45.91.195.132:8000/play/a053
-#EXTINF:-1,TV 8 INT
-http://45.91.195.132:8000/play/a08r
 #EXTINF:-1,TV A
 http://45.91.195.132:8000/play/a07b
 #EXTINF:-1,TV DEN
@@ -529,10 +513,6 @@ http://45.91.195.132:8000/play/a04v
 http://45.91.195.132:8000/play/a055
 #EXTINF:-1,TV42
 http://45.91.195.132:8000/play/a04y
-#EXTINF:-1,TV5
-http://45.91.195.132:8000/play/a065
-#EXTINF:-1,Tivi6
-http://45.91.195.132:8000/play/a06m
 #EXTINF:-1,ULUSAL 1 TV
 http://45.91.195.132:8000/play/a05u
 #EXTINF:-1,UZAY HABER
