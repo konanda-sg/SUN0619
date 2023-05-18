@@ -1,4 +1,58 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="https://iaspr.tmgrup.com.tr/2020/10/29/1604005135373.png" group-title="TR: SPOR",TR:- A Spor HD*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1876
+#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="https://iaspr.tmgrup.com.tr/2020/10/29/1604005135373.png" group-title="TR: SPOR",TR:- A Spor FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2313
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="TR: SPOR",TR:- TRT Spor FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1925
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/790143717751525380/cj2MuI0o_400x400.jpg" group-title="TR: SPOR",TR:- GOOOL TV
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/9558
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg" group-title="TR: SPOR",TR:- beiN Spor Haber
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/4034
+#EXTINF:-1 tvg-logo="https://www.alloconcours.com/wp-content/uploads/2018/02/bein-sport.jpg" group-title="TR: SPOR",TR:- BEIN SPORTS 1 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/9103
+#EXTINF:-1 tvg-logo="https://foto.haberler.com/haber/2021/01/01/01-ocak-2021-bein-sports-1-yayin-akisi-13839519_amp.jpg" group-title="TR: SPOR",TR:- BEIN SPOR 1 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3512
+#EXTINF:-1 tvg-logo="https://img.melodylinhart.com/350-_-350-_-70-_-d24j9r7lck9cin.cloudfront.net/l/f/6/6594.1491352241.png" group-title="TR: SPOR",TR:- beIN SPOR 2 HD*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3513
+#EXTINF:-1 tvg-logo="https://img.melodylinhart.com/350-_-350-_-70-_-d24j9r7lck9cin.cloudfront.net/l/f/6/6594.1491352241.png" group-title="TR: SPOR",TR:- beiN Sport HD 2
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1903
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="TR: SPOR",TR:- beiN Spor 2 1800*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2310
+#EXTINF:-1 tvg-id="beinsports3.tr" group-title="TR: SPOR",TR:- beiN Sport 3*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/7094
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="TR: SPOR",TR:- beiN Sport HD 3
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1904
+#EXTINF:-1 tvg-id="beinsports4.tr" group-title="TR: SPOR",TR:- beiN Sport 4*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/7095
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="TR: SPOR",TR:-beiN Spor 4**
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2312
+#EXTINF:-1 tvg-logo="https://foto.haberler.com/haber/2021/01/01/01-ocak-2021-bein-sports-1-yayin-akisi-13839519_amp.jpg" group-title="TR: SPOR",TR:- beiN Spor Max HD 1
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2515
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="TR: SPOR",TR:- beiN Spor Max HD 2
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2516
+#EXTINF:-1 group-title="TR: SPOR",TR:- Tivibu Spor 1 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2510
+#EXTINF:-1 group-title="TR: SPOR",TR:- Tivibu Spor 2 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2511
+#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="https://www.tvf.org.tr/wp-content/uploads/2018/11/s-sport-logo.png" group-title="TR: SPOR",TR:- S Sport
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3223
+#EXTINF:-1 group-title="TR: SPOR",TR:- Galatasaray TV 1280/720
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2010
+#EXTINF:-1 group-title="TR: SPOR",TR:- Euro Spor HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2513
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-logo="https://canlitvizle.net/upload/tv/o_fb-tv-logo_20200629012211.png" group-title="TR: SPOR",TR:- FB TV
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2617
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://foto.haberler.com/haber/2021/01/01/01-ocak-2021-bein-sports-1-yayin-akisi-13839519_amp.jpg" group-title="TR: SPOR",TR:- BEIN SPOR 1 4K++
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1971
+#EXTINF:-1 group-title="TR: SPOR",TR:- Smart Spor UHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2304
+#EXTINF:-1 tvg-id="ssport.tr" group-title="TR: SPOR",TR:- Spor TV HD*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2305
+#EXTINF:-1 tvg-logo="https://www.yurtgazetesi.com.tr/d/news/165283.jpg" group-title="TR: SPOR",###TURKIYE SPOR####
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3324
+#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/db9197f6c99d8bee8735f066e187d2e9.png" group-title="TR=  [SPOR YEDEK]",A Spor
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/529
 #EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="TR=  [SPOR YEDEK]",beIN Sports 1
 http://51.195.58.109/live/tv2204/tvlnk2204/123827.ts
 #EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9e0d289e6b96b75e073d74cae50fc8a4.png" group-title="TR=  [SPOR YEDEK]",beIN Sports 2
@@ -43,103 +97,118 @@ http://37.49.230.48:8080/iptvturk/ee1aafb3d9/594
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/528
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/304d92146d514ecba8e6dd59712822d3.png" group-title="TR=  [SPOR YEDEK]",TRT Spor Yildiz
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/32095
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/awv6z1o.png" group-title="TR=【BEİN SPORT】",TR:BEIN SPORT HABER HD (720P)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94518
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/h28547n.png" group-title="TR=【BEİN SPORT】",TR ☻BEİN SPOR 4K ♛
-http://51.195.58.109/live/tv2204/tvlnk2204/123827.ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/48e2134.png" group-title="TR=【BEİN SPORT】",♛BEİN SPORT-1 HD (1)♛
-http://51.195.58.109/live/tv2204/tvlnk2204/123827.ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/48e2134.png" group-title="TR=【BEİN SPORT】",BEIN SPORTS 1 HD (1080p)
-http://51.195.58.109/live/tv2204/tvlnk2204/123827.ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/48e2134.png" group-title="TR=【BEİN SPORT】",TR:BEiN SPORT-1 HD  (720P)
-http://51.195.58.109/live/tv2204/tvlnk2204/123827.ts
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/juq48ko.png" group-title="TR=【BEİN SPORT】",TR:Bein Sport 1 SD (480p)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94519
-#EXTINF:-1 group-title="TR=【BEİN SPORT】",TR.BEiN SPORTS 4K FEED 1 MACTA ACiK
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/155115
-#EXTINF:-1 group-title="TR=【BEİN SPORT】",TR.BEiN SPORTS 4K FEED 2 MACTA ACiK
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/155116
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/dwtap1y.png" group-title="TR=【BEİN SPORT】",TR:BEiN SPORT-2 HD  (720P)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94521
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/dwtap1y.png" group-title="TR=【BEİN SPORT】",BEIN SPORTS 2 HD (1080p)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94606
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jy3m2tm.png" group-title="TR=【BEİN SPORT】",BEiN SPORT-3 HD  (720P)♛
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94522
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/jy3m2tm.png" group-title="TR=【BEİN SPORT】",BEIN SPORTS 3 HD (1080p)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94607
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/drvv0ao.png" group-title="TR=【BEİN SPORT】",BEiN SPORT-4 HD  (720P)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94523
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/drvv0ao.png" group-title="TR=【BEİN SPORT】",BEIN SPORTS 4 HD (1080p)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94608
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/69kzfkw.png" group-title="TR=【BEİN SPORT】",BEIN SPORTS 5 HD (1080p)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94609
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/g17rvjf.png" group-title="TR=【BEİN SPORT】",BEiN SPORT MAX-1 HD (720P)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94524
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/g17rvjf.png" group-title="TR=【BEİN SPORT】",BEIN SPORTS MAX 1 HD (1080p)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94610
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rvov4jd.png" group-title="TR=【BEİN SPORT】",BEiN SPORT MAX-2 HD (720P)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94525
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/rvov4jd.png" group-title="TR=【BEİN SPORT】",BEIN SPORTS MAX 2 HD (1080p)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94611
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/a32iug0.png" group-title="TR=【BEİN SPORT】",BEiN CONNET 1 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94541
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/a32iug0.png" group-title="TR=【BEİN SPORT】",BEiN CONNET 2 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94542
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/a32iug0.png" group-title="TR=【BEİN SPORT】",BEiN CONNET 3 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94543
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/a32iug0.png" group-title="TR=【BEİN SPORT】",BEiN CONNET 4 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94544
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/a32iug0.png" group-title="TR=【BEİN SPORT】",BEiN CONNET 5 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94545
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/a32iug0.png" group-title="TR=【BEİN SPORT】",BEiN CONNET 6 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94546
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ow6rgag.png" group-title="TR=【 EXXEN SPOR】",EXXEN SPORT 1 SD  (480p)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94547
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ow6rgag.png" group-title="TR=【 EXXEN SPOR】",EXXEN SPORT 1 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94548
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ow6rgag.png" group-title="TR=【 EXXEN SPOR】",EXXEN SPORT 1 FHD (1080p)
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94622
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/m7qc7nj.png" group-title="TR=【 EXXEN SPOR】",EXXEN SPORT 2 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94549
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/sup9c9o.png" group-title="TR=【 EXXEN SPOR】",EXXEN SPORT 3 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94550
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/cwowc8h.png" group-title="TR=【 EXXEN SPOR】",EXXEN SPORT 4 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94551
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/hnr644n.png" group-title="TR=【 EXXEN SPOR】",EXXEN SPORT 5 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94552
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/by3jpug.png" group-title="TR=【 EXXEN SPOR】",EXXEN SPORT 6 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94553
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/q9fgioo.png" group-title="TR=【 EXXEN SPOR】",EXXEN SPORT 7 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94554
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2qel1jm.png" group-title="TR=【 EXXEN SPOR】",EXXEN SPORT 8 HD
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/94555
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ow6rgag.png" group-title="TR=【 EXXEN SPOR】",TR  ♦ EXXEN SPORT 1 Fᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123096
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/ow6rgag.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXSPORT 1 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123097
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/m7qc7nj.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXEN SPORT +2 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123098
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/m7qc7nj.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXSPORT 2 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123099
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/sup9c9o.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXEN SPORT +3 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123100
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/sup9c9o.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXSPORT 3 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123101
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/cwowc8h.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXSPORT 4 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123102
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/cwowc8h.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXEN SPORT +4 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123103
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/hnr644n.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXSPORT 5 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123104
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/hnr644n.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXEN SPORT +5 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123105
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/by3jpug.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXEN SPORT +6 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123106
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/by3jpug.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXEN 6
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123107
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/q9fgioo.png" group-title="TR=【 EXXEN SPOR】",TR ♦ EXXEN SPORT +7 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123108
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/q9fgioo.png" group-title="TR=【 EXXEN SPOR】",TR ♦EXXEN 7
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123109
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/2qel1jm.png" group-title="TR=【 EXXEN SPOR】",TR  ♦ EXXEN SPORT 8 ᴴᴰ
-http://boxtvnet.xyz:8080/useserverliste/9XULWFZQsbYK/123110
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 1 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12188
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 1 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12189
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 1 SD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12190
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 2 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12191
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 2 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12192
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 3 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12193
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 3 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12194
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 5 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12197
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 5 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12198
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 6 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12199
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 6 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12200
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 7 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12201
+#EXTINF:-1 tvg-logo="https://www.or6.net/wp-content/uploads/2021/09/exxen-ucretsiz-nasil-izlenir-exxen-fiyati-ne-kadar-nasil-ve-nereden-uye-olunur-exxenspor-uyelik-paketleri-ve-ucretleri-nedir-vxxFw534.jpg" group-title="TR: EXXEN",TR:Exxenn Sports 7 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/12202
+#EXTINF:-1 group-title="WORLD SPORT",PL|:Polsat Sport News HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/17560
+#EXTINF:-1 group-title="WORLD SPORT",PL: Polsat Sport Premium 1 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/17561
+#EXTINF:-1 group-title="WORLD SPORT",PL: Polsat Sport Premium 2 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/17562
+#EXTINF:-1 group-title="WORLD SPORT",PL: Polsat Sport Premium PPV 3
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/17563
+#EXTINF:-1 group-title="WORLD SPORT",PL: Polsat Sport Premium PPV 4
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/17564
+#EXTINF:-1 group-title="WORLD SPORT",PL: Polsat Sport Premium PPV 5
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/17565
+#EXTINF:-1 group-title="WORLD SPORT",PL: Polsat Sport Premium PPV 6
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/17566
+#EXTINF:-1 group-title="WORLD SPORT",UK | BT Sport 1
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/17053
+#EXTINF:-1 group-title="WORLD SPORT",[UK] Bt Sport 2
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/17054
+#EXTINF:-1 group-title="WORLD SPORT",AR: BEIN SPORTS 3 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/11757
+#EXTINF:-1 group-title="WORLD SPORT",SRB: Arena Sport 1 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/11758
+#EXTINF:-1 group-title="WORLD SPORT",SRB: Arena Sport 2 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/11759
+#EXTINF:-1 group-title="WORLD SPORT",SRB: Arena Sport 3 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/11760
+#EXTINF:-1 group-title="WORLD SPORT",SRB: Arena Sport 4 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/11761
+#EXTINF:-1 group-title="WORLD SPORT",SRB: Arena Sport 5 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/11762
+#EXTINF:-1 group-title="WORLD SPORT",PT: SPORT TV1 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3616
+#EXTINF:-1 group-title="WORLD SPORT",PT: SPORT TV2 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3617
+#EXTINF:-1 group-title="WORLD SPORT",PT: SPORT TV3 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3618
+#EXTINF:-1 group-title="WORLD SPORT",PT: SPORT TV4 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3619
+#EXTINF:-1 group-title="WORLD SPORT",PT: SPORT TV5 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3620
+#EXTINF:-1 group-title="WORLD SPORT",PT: ELEVEN SPORTS 2 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3622
+#EXTINF:-1 group-title="WORLD SPORT",PT: ELEVEN SPORTS 3 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3623
+#EXTINF:-1 group-title="WORLD SPORT",FR: BEIN SPORT 1 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3675
+#EXTINF:-1 group-title="WORLD SPORT",FR: BEIN SPORT 2 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3676
+#EXTINF:-1 group-title="WORLD SPORT",FR: BEIN SPORT 3 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3677
+#EXTINF:-1 group-title="WORLD SPORT",NL: FOX Sports 1 HD Eredivisie
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3678
+#EXTINF:-1 group-title="WORLD SPORT",NL: FOX Sports 2 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3679
+#EXTINF:-1 group-title="WORLD SPORT",NL: FOX Sports 3 HD Eredivisie
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3680
+#EXTINF:-1 group-title="WORLD SPORT",NL: FOX Sports 4 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3681
+#EXTINF:-1 group-title="WORLD SPORT",NL: FOX Sports 5 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3682
+#EXTINF:-1 group-title="WORLD SPORT",NL: FOX Sports 6 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3683
+#EXTINF:-1 group-title="WORLD SPORT",BG: Diema Sport HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3771
+#EXTINF:-1 group-title="WORLD SPORT",BG: Diema Sport 2 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3772
+#EXTINF:-1 group-title="WORLD SPORT",[EX-YU] SPORT KLUB 1 SR
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/4653
+#EXTINF:-1 group-title="WORLD SPORT",AR: BEIN SPORTS 1 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/5696
+#EXTINF:-1 group-title="WORLD SPORT",AR: BEIN SPORTS 2 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/5697
+#EXTINF:-1 group-title="WORLD SPORT",AR: BEIN SPORTS 4 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/5699
+#EXTINF:-1 group-title="WORLD SPORT",AR: BEIN SPORTS 5 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/5700
+#EXTINF:-1 group-title="WORLD SPORT",AR: BEIN SPORTS 6 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/5701
+#EXTINF:-1 group-title="WORLD SPORT",AR: BEIN SPORTS 7 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/5702
+#EXTINF:-1 group-title="WORLD SPORT",AR: BEIN SPORTS 8 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/5703
+#EXTINF:-1 group-title="WORLD SPORT",AR: BEIN SPORTS 9 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/5704
+#EXTINF:-1 group-title="WORLD SPORT",AR: BEIN SPORTS 10 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/5705
+#EXTINF:-1 group-title="WORLD SPORT",PT: Eleven Sports 1 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/8667
+#EXTINF:-1 tvg-logo="https://www.sardunyareklam.org/wp-content/uploads/2018/12/power-turk-
