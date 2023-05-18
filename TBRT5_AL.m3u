@@ -91,34 +91,9 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.3
 #EXTINF:-12,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
-----------------sinema------------------------
-#EXTINF:-1 group-title="Tvplus", FOX CRIME HD
-http://49.12.123.148:8989/45/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", FX HD
-http://49.12.123.148:8989/71/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA TV HD
-http://49.12.123.148:8989/62/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA TV 2 HD
-http://49.12.123.148:8989/54/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA KOMEDİ HD
-http://49.12.123.148:8989/46/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA TV AKSİYON HD
-http://49.12.123.148:8989/40/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA AKSİYON 2 HD
-http://49.12.123.148:8989/41/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA YERLİ 2 HD
-http://49.12.123.148:8989/32/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA YERLİ HD
-http://49.12.123.148:8989/33/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA AİLE HD
-http://49.12.123.148:8989/59/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA AİLE 2 HD
-http://49.12.123.148:8989/53/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA 1002 HD
-http://49.12.123.148:8989/47/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA TV 1001 HD
-http://49.12.123.148:8989/58/hls/playlist.m3u8
----------------------------------------------------
+
+---------------YEREL---SİNEME----------------
+
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT SUNGURLU19 TV Y1
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
@@ -148,18 +123,32 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber2/chunklist_w909642297.m
 
 #EXTINF:-1,TR:YANSIMA TV
 https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
+
+#EXTINF:1, TELE ON TV ᵁᴴᴰ⁺
+https://l24.im/1lhVudJ
+
 #EXTINF:1, SÜPER TÜRK TV
 http://95.179.215.242:3923/stream/play.m3u8
+#EXTINF:0,DEĞİŞİM TV
+https://vdo.digitalbox.xyz:3385/hybrid/play.m3u8
 #EXTINF:117, NTN SİNEMA HD
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+#EXTINF:1,SİNEMAX TV
+https://film.ozelip.com:3344/stream/play.m3u8
+#EXTINF:1,SKY HABER TV HD
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 #EXTINF:1, YAŞAM TV
 https://yayin30.haber100.com/live/yasamtv/playlist.m3u8
 #EXTINF:1, M.TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:30, EM TV
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:30, ÖNCÜ TV
+https://edge1.socialsmart.tv/oncurtv/bant1/chunks.m3u8
 #EXTINF:31,TV48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+#EXTINF:59,BTV
+https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 #EXTINF:1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ElMiOp764LMIpiUE51sMa8-f0NG6R5cufW9wLUGCn71hY6G-E689Rzck1WnYr0JE9_6Ee-BzefqvavpkxKB6y6yzjqwsoz7Meil6uvSbWhihR3vz8cgHEWYzWXMnVF_hqbo0IutWmVSTvaBFWeb4y6zHQmnvRLmWnfFdazEzFjX7uNtxN34q-opzEw/w150-h53/oktayatasoybeyaz.jpg", OA TV HD
@@ -188,10 +177,8 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
 #EXTINF:58 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLUPLAY 1 HD
 https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
-#EXTINF:59 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLUPLAY 2 HD
-https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
 #EXTINF:60 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLUPLAY 1 FHD
-http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
+https://edge1.socialsmart.tv/btv/bant1/chunks.m3u8
 #EXTINF:62 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53/CLCTV.PNG", CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 #EXTINF:99, ADA NET TV  HD
@@ -220,6 +207,36 @@ https://cansuyutv77.ozelip.com:3071/stream/play.m3u
 http://91.134.203.253:30124/karapinar/karapinar/sec-f5-v1-a1.m3u8
 #EXTINF:32, CINE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+-------------PLATFORM---SİNEMA------------------------
+
+#EXTINF:-1 group-title="Tvplus", FOX CRIME HD
+http://49.12.123.148:8989/45/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", FX HD
+http://49.12.123.148:8989/71/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA TV HD
+http://49.12.123.148:8989/62/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA TV 2 HD
+http://49.12.123.148:8989/54/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA KOMEDİ HD
+http://49.12.123.148:8989/46/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA TV AKSİYON HD
+http://49.12.123.148:8989/40/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA AKSİYON 2 HD
+http://49.12.123.148:8989/41/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA YERLİ 2 HD
+http://49.12.123.148:8989/32/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA YERLİ HD
+http://49.12.123.148:8989/33/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA AİLE HD
+http://49.12.123.148:8989/59/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA AİLE 2 HD
+http://49.12.123.148:8989/53/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA 1002 HD
+http://49.12.123.148:8989/47/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", SİNEMA TV 1001 HD
+http://49.12.123.148:8989/58/hls/playlist.m3u8
+---------------------------------------------------
 #EXTINF:-1 group-title="Tvplus", TRT1 HD
 http://49.12.123.148:8989/7/hls/playlist.m3u8
 #EXTINF:-1 group-title="Tvplus", TRT SPOR HD
@@ -252,7 +269,7 @@ http://45.91.195.132:8000/play/a03v
 http://45.91.195.132:8000/play/a06b
 #EXTINF:-1,BEA
 http://45.91.195.132:8000/play/a069
-#EXTINF:-1,BENG⅛ TURK HD
+#EXTINF:-1,BENGÜ TURK HD
 http://45.91.195.132:8000/play/a04z
 #EXTINF:-1,BİR TV
 http://45.91.195.132:8000/play/a077
@@ -276,8 +293,8 @@ http://45.91.195.132:8000/play/a05m
 http://45.91.195.132:8000/play/a06a
 #EXTINF:-1,CIFTCI TV
 http://45.91.195.132:8000/play/a06r
-#EXTINF:-1,CINE 1 
-http://45.91.195.132:8000/play/a075
+#EXTINF:1, AMED TV
+http://live.amedradyotv.net:2020/hls/ferat.m3u8
 #EXTINF:-1,CNN TÜRK
 http://45.91.195.132:8000/play/a08l
 #EXTINF:-1,REHBERİM TV
@@ -542,8 +559,7 @@ http://45.91.195.132:8000/play/a08u
 http://45.91.195.132:8000/play/a079
 #EXTINF:-1,Z ZAZA TV
 http://45.91.195.132:8000/play/a09t
-#EXTINF:-1,ZAROK TV
-http://45.91.195.132:8000/play/a05d
+
 #EXTINF:-1,beIN SPORTS HABER
 http://45.91.195.132:8000/play/a07x
 #EXTINF:-1,TURKSAT TANITIM HD
@@ -588,6 +604,8 @@ http://49.12.123.148:8989/63/hls/playlist.m3u8
 http://49.12.123.148:8989/50/hls/playlist.m3u8
 #EXTINF:-1 group-title="Tvplus", TRT ÇOCUK HD
 http://49.12.123.148:8989/30/hls/playlist.m3u8
+#EXTINF:-1,ZAROK TV
+http://45.91.195.132:8000/play/a05d
 ------------------Belgesel------------------
 #EXTINF:-1 group-title="Tvplus", DA VINCI HD
 http://49.12.123.148:8989/90/hls/playlist.m3u8
@@ -651,14 +669,10 @@ https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/chunklist.m3u8
 https://cdn10-tokattv.yayin.com.tr/tokattv/tokattv/playlist.m3u8
 #EXTINF:-12,BÜLTEN TV
 https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/chunklist_w886123543_b1996000.m3u8
-#EXTINF:17 type="stream" channelId="-1" group-title="12_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", DEGiSiM TV
-http://bit.ly/3hfFvAW?/chunklist.m3u8
 #EXTINF:58 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/48e5a212-b440-4682-a613-2b0fb18e663f.png" group-title= "YEREL KANALLAR", Gurbet 24 Erzincan
 http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
 #EXTINF:-79, BURSA TV
 https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
-#EXTINF:49 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/b1041556-d3be-4753-8ed1-709112e53c27.png" group-title= "YEREL KANALLAR", Boztepe TV
-https://broadcasttr.com:446/btv/bant1/chunklist_w287512980.m3u8
 #EXTINF:50 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7d49b2d4-aab5-48f4-b3d6-928f40a2288f.png" group-title= "YEREL KANALLAR",Bartın TV
 http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 #EXTINF:66 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/f51367fd-8b8e-4012-8b51-da34b90ac9b9.png" group-title= "YEREL KANALLAR", Öncü TV
@@ -705,9 +719,6 @@ https://h59.artiyerelmedya.net/vizyon58/bant1/chunks.m3u8
 #EXTINF:-1,AGRO TV
 http://31.223.85.34:9999/play/a0av/index.m3u8
 
-#EXTINF:119, TV BAŞKAN HD
-http://91.134.203.253:30124/baskantv/baskantv/chunklist.m3u8
-
 #EXTINF:1, KANAL AVRUPA
 http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 
@@ -722,9 +733,6 @@ https://tv.medyakurumsal.com:3439/live/trakyaturklive.m3u8
 
 #EXTINF:-1,TV 264 HD
 http://31.223.85.34:9999/play/a084/index.m3u8
-
-#EXTINF:0,TV 15
-https://59cba4d34b678.streamlock.net/canlitv/torbatv/iptvdelisi.m3u8
 
 #EXTINF:0,kanal 15
 https://h125.artiyerelmedya.net/kanal15/bant1/chunks.m3u8
@@ -884,6 +892,28 @@ http://49.12.123.148:8989/83/hls/playlist.m3u8
 http://49.12.123.148:8989/84/hls/playlist.m3u8
 #EXTINF:-1 group-title="Tvplus", NBA TV HD
 http://49.12.123.148:8989/82/hls/playlist.m3u8
+#EXTINF:0,TRT SPOR FHD
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:1,Sports TV HD
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+#EXTINF:0,SPORTS TV HD
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:0,GS TV HD
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTINF:244,TRACE SPORT STARS
+http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:262,EDGE SPORT
+https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0,TURKMEN SPORT TV1 
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:0,TURKMEN SPORT TV2
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1,TJK TV HD
+https://tjktv.ercdn.net/tjktv_1080p.m3u8
+#EXTINF:0,BRiC-SATRANC TV
+http://139.162.182.79/live/test/index.m3u8
 ----------------HABER---------------------------------------
 
 #EXTINF:0 type="stream" channelId="1080" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR", TRT HABER
