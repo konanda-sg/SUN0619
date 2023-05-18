@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="http://picon.webhop.net/logo/turkey/trt_cocuk.png" group-title="TR: COCUK KANALLARI",TR:- TRT COCUK UHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1888
+#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:-  NiLOYA TUM BOLÜMLERI
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3465
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb3n8PM8bQdjb884TuPG96SHs59kOScOOjUA&usqp=CAU" group-title="TR: COCUK KANALLARI",TR:- VIP AVRUPA ANIMATION 4K 1
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/6392
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb3n8PM8bQdjb884TuPG96SHs59kOScOOjUA&usqp=CAU" group-title="TR: COCUK KANALLARI",TR:-VIP AVRUPA ANIMATION 4K 2
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/6393
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb3n8PM8bQdjb884TuPG96SHs59kOScOOjUA&usqp=CAU" group-title="TR: COCUK KANALLARI",TR:- VIP AVRUPA ANIMATION 4K 3
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/6394
+#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:- CARTON NETWORK LOKAL
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1980
+#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:- DISNEY JUNIOR HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1994
+#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:- BABY TV HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1995
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://s2.dmcdn.net/v/IPEf71VhYe0xD9IYs/x1080" group-title="TR: COCUK KANALLARI",TR:- TRT COCUK HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1996
+#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:- MINIKA COCUK
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1997
+#EXTINF:-1 tvg-id="minikago.tr" group-title="TR: COCUK KANALLARI",TR:- MINIKA GO HD 1280/720
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1998
+#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:-DISNEY CHANEL HD*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1999
+#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:- NICK JR
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2001
+#EXTINF:-1 tvg-logo="https://www.yurtgazetesi.com.tr/d/news/165283.jpg" group-title="TR: COCUK 

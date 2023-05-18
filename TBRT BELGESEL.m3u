@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuC4a4HcvfhF4AAdCNhxF8MY1W9zToiwFWtzGSxH-ejjtnpXH4DFKb8T2VmIq0L_JV4QE&usqp=CAU" group-title="TR: BELGESEL",TR:- TRT BELGESEL FHD++
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1879
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuC4a4HcvfhF4AAdCNhxF8MY1W9zToiwFWtzGSxH-ejjtnpXH4DFKb8T2VmIq0L_JV4QE&usqp=CAU" group-title="TR: BELGESEL",TR:- TRT BELGESEL HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1924
+#EXTINF:-1 tvg-id="dmax.tr" tvg-logo="http://51.91.159.153/logo/germany/dmax_us.png" group-title="TR: BELGESEL",TR:- DMAX HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2401
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="http://176.9.114.116:8000/get.php?username=timoge&password=cwWSLBeeYa&type=m3u&output=ts" group-title="TR: BELGESEL",TR:- TLC hd
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2402
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MWaLZ_rD4e0-eQRa-PaBT_xY6S4Ixz-YlpqXKUeHEvt_WM4Da6vYJEOcuSnYihWgXw" group-title="TR: BELGESEL",TR:- YABAN TV HD+
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/15789
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xjjjiL2bncteptE8PKuAhFj0UaBwvQRGoQ&usqp=CAU" group-title="TR: BELGESEL",TR:- VIP AVRUPA BELGESEL
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3856
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="http://picon.webhop.net/logo/germany/animal_planet_2018_logo.png" group-title="TR: BELGESEL",TR:- Animal Planet HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1988
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="http://picon.webhop.net/logo/Italy/discovery_science_global_hd.png" group-title="TR: BELGESEL",TR:- DISCOVERY SCIENCE HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1989
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="http://picon.webhop.net/logo/turkey/nat_geo_us.png" group-title="TR: BELGESEL",TR:- NATIONAL GEOGRAPHIC CHANNEL
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1990
+#EXTINF:-1 group-title="TR: BELGESEL",TR:- DAVINCI LEARNING
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1991
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://51.91.159.153/logo/turkey/trt_belgesel_tr.png" group-title="TR: BELGESEL",TR:- Discovery Channel HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1992
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="http://picon.webhop.net/logo/turkey/nat_geo_us.png" group-title="TR: BELGESEL",TR:- National Geo WILD++
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1993
