@@ -43,8 +43,8 @@ http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2246
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1858
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://s.teve2.com.tr/assets/img/teve2logo.png?v=1" group-title="TR: ULUSAL HD",TR:- TEVE 2 HD
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1860
-#EXTINF:-1 tvg-id="trtworld.tr" group-title="TR: ULUSAL HD",TR:- TRT WORLD HD
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1880
+#EXTINF:1, TELE ON TV ᵁᴴᴰ⁺
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
 #EXTINF:-1 tvg-id="ucankus.tr" group-title="TR: ULUSAL HD",TR:- UCANKUS TV HD
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1882
 #EXTINF:-1 tvg-id="kanalb.tr" group-title="TR: ULUSAL HD",TR:- KANAL B HD
@@ -79,12 +79,6 @@ http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3052
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3056
 #EXTINF:-1 group-title="TR: ULUSAL HD",TR:- ON4 TV
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3520
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/c/cf/20161004193153%21Akit_TV.png" group-title="TR: ULUSAL HD",TR:- Akit TV
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3896
-#EXTINF:-1 tvg-id="trtalarabiya.tr" group-title="TR: ULUSAL HD",TR:- TRT ARAPCA HD
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1894
-#EXTINF:-1 tvg-id="trtkurdi.tr" group-title="TR: ULUSAL HD",TR:- TRT KURDI HD
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1895
 #EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.parsatv.com/index_files/channels/benguturk.jpg" group-title="TR: ULUSAL HD",TR:- BENGÜ TURK HD
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/4004
 #EXTINF:-1 group-title="TR: ULUSAL HD",TR:- KANAL AVRUPA
@@ -141,4 +135,9 @@ http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1935
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1940
 #EXTINF:-1 tvg-id="tvnet.tr" group-title="TR: HABERLER",TR:- TV NET HD
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3510
-#EXTINF:-1 tvg-logo="https://www.yurtgazetesi.com.tr/d/news/165283.jpg" group-title="TR: 
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/c/cf/20161004193153%21Akit_TV.png" group-title="TR: ULUSAL HD",TR:- Akit TV
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3896
+#EXTINF:-1 tvg-id="trtalarabiya.tr" group-title="TR: ULUSAL HD",TR:- TRT ARAPCA HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1894
+#EXTINF:-1 tvg-id="trtkurdi.tr" group-title="TR: ULUSAL HD",TR:- TRT KURDI HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1895
