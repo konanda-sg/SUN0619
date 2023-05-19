@@ -3,6 +3,8 @@
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/21
 #EXTINF:-1 tvg-id="TRT1.tr" group-title="ULUSAL KANALLAR",TR: TRT 1 HD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/303
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7cce6fc6565cdcf493af768731819cb.png" group-title="SINEMA YEDEK",TRT 4K
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1810
 #EXTINF:-1 tvg-id="ATV.tr" group-title="ULUSAL KANALLAR",TR: ATV FHD
 http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/22
 #EXTINF:-1 tvg-id="ATV.tr" group-title="ULUSAL KANALLAR",TR: ATV HD

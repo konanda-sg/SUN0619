@@ -1,6 +1,10 @@
 #EXTM3U
----------------YEREL---SİNEME----------------
-
+#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-logo="https://pbs.twimg.com/profile_images/1138816260710588418/2_QzPxMt_400x400.jpg" group-title="TR: FILM KANALLARI",TR: SINEMA TV 1
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/14258
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/sinematv2-hdtvler-0ugj.png" group-title="TR: FILM KANALLARI",TR: SINEMA TV 2
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/14256
+#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-logo="https://ewsat.com/img/SINEMA_AKSIYON.png" group-title="TR: FILM KANALLARI",TR: SINEMA TV AKSIYON
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/14241
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT SUNGURLU19 TV Y1
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
@@ -316,12 +320,14 @@ http://37.49.230.48:8080/iptvturk/ee1aafb3d9/533
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/192414
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/fd7db505fd06b8fc5813fcd90e404fc1.png" group-title="SINEMA YEDEK",FilmBox Family
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/192417
-
-
-
+#EXTINF:-1 tvg-id="fox.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8830c4b3dfd8964820cefa5b7720e5e6.png" group-title="SINEMA YEDEK",FOX
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/514
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0e5e0250f0cc3e2bac80acdf3f841d.png" group-title="SINEMA YEDEK",Fox Crime
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/579
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a8bd956bcb4030615e56ebf8398a2a80.png" group-title="SINEMA YEDEK",Line TV
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/29833
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/756afdb0b4c5c5822870f2650294029a.png" group-title="SINEMA YEDEK",Meltem TV
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/73228
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e761d79212e94473ec62fada843f9ac.png" group-title="SINEMA YEDEK",Moviesmart Classic
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1773
 #EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/39439f1ba26e0fe22f61bfb2f14ed9fd.png" group-title="SINEMA YEDEK",Moviesmart Premium
@@ -354,22 +360,16 @@ http://37.49.230.48:8080/iptvturk/ee1aafb3d9/163186
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/192597
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/33a642eced6fb01e3226d727bd7ac93f.png" group-title="SINEMA YEDEK",Ton TV
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/58134
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7cce6fc6565cdcf493af768731819cb.png" group-title="SINEMA YEDEK",TRT 4K
-http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1810
+
 
 -----------SINEMA KANALLARI----------
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fNH03vw1r9M/hqdefault.jpg" group-title="TR: FILM KANALLARI",TR:-LOCA 4K Meditasyon
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/6941
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnSHCMhkkb-vMv9rsFYLQKfcmJ8PrP3ymoUg&usqp=CAU" group-title="TR: FILM KANALLARI",TR:- LOCA 4K Western
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/6477
 #EXTINF:-1 tvg-logo="https://www.kosembol.com/wp-content/uploads/2018/07/Korku-Kuru-Kafa.jpg" group-title="TR: FILM KANALLARI",TR: LOCA 4K Korku
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/7336
-#EXTINF:-1 tvg-id="sinematvhd.tr" tvg-logo="https://pbs.twimg.com/profile_images/1138816260710588418/2_QzPxMt_400x400.jpg" group-title="TR: FILM KANALLARI",TR: SINEMA TV 1
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/14258
-#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/sinematv2-hdtvler-0ugj.png" group-title="TR: FILM KANALLARI",TR: SINEMA TV 2
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/14256
-#EXTINF:-1 tvg-id="sinemaaksiyon2hd.tr" tvg-logo="https://ewsat.com/img/SINEMA_AKSIYON.png" group-title="TR: FILM KANALLARI",TR: SINEMA TV AKSIYON
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/14241
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/icon-isolated-logo-on-a-white-background-vector-id1220376125?k=20&m=1220376125&s=170667a&w=0&h=wB0dmzfu0GyFikGNkuBBTnInoqMdBw3G9KSQ1OoOgcs=" group-title="TR: FILM KANALLARI",TR: VIPMAX-UHD 4K
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/13299
 #EXTINF:-1 tvg-logo="https://media.istockphoto.com/vectors/icon-isolated-logo-on-a-white-background-vector-id1220376125?k=20&m=1220376125&s=170667a&w=0&h=wB0dmzfu0GyFikGNkuBBTnInoqMdBw3G9KSQ1OoOgcs=" group-title="TR: FILM KANALLARI",TR: VIPMAX-TÜRK
