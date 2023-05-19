@@ -1,22 +1,22 @@
 ﻿#EXTM3U
-#EXTINF:102, TBRT BİZİM İPTV
-https://raw.githubusercontent.com/SUN1919/SUN0619/main/TBRT_BILGIN.m3u
-#EXTINF:102, TBRT FUL LİSDESİ 
-http://bilgin_tv_iyi_seyirler_diler@m3u.in/pl/d7517be3f9202a6af85b0960d38e6d23-cfbf279ca8b4ef433570c035ef702ce0.m3u
+#EXTINF:102, TBRT ULUSAL TV 
+https://raw.githubusercontent.com/SUN1919/SUN0619/main/TBRT%20ULUSAL%20TV.m3u
 #EXTINF:102, TBRT SİNEMA KANALLARI CANLI LİSDESİ 
 https://raw.githubusercontent.com/SUN1919/SUN0619/main/SINEMA%20KANALLARI.m3u
-#EXTINF:102, TBRT SİNEMA FİLM LİSDESİ 
-https://raw.githubusercontent.com/SUN1919/SUN0619/main/TBRT%20S%C4%B0NEMA.m3u
 #EXTINF:102, TBRT ÇOCUK KANAL LİSDESİ
 https://raw.githubusercontent.com/SUN1919/SUN0619/main/TBRT%20%C3%87OCUK.m3u
-#EXTINF:102, TBRT İSLAM KANAL LİSDESİ
-https://raw.githubusercontent.com/SUN1919/SUN0619/main/TBRT%20DINI-KANALLAR.m3u
 #EXTINF:102, TBRT SPOR LİSDE 
 https://raw.githubusercontent.com/SUN1919/SUN0619/main/TBRT%20SPOR.m3u
 #EXTINF:102, TBRT BELGESEL LİSDESİ
 https://raw.githubusercontent.com/SUN1919/SUN0619/main/TBRT%20BELGESEL.m3u
-#EXTINF:102, TBRT AKTİF İPTV LİSDESİ
-http://aktifiptv.com/playlist.m3u
+#EXTINF:102, TBRT İPTV LİSDESİ
+https://raw.githubusercontent.com/SUN1919/SUN0619/main/TBRT1_aile.m3u
+#EXTINF:102, TBRT İSLAM KANAL LİSDESİ
+https://raw.githubusercontent.com/SUN1919/SUN0619/main/TBRT%20DINI-KANALLAR.m3u
+#EXTINF:102, TBRT FUL LİSDESİ 
+http://bilgin_tv_iyi_seyirler_diler@m3u.in/pl/d7517be3f9202a6af85b0960d38e6d23-cfbf279ca8b4ef433570c035ef702ce0.m3u
+#EXTINF:102, TBRT SİNEMA FİLM LİSDESİ 
+https://raw.githubusercontent.com/SUN1919/SUN0619/main/TBRT%20S%C4%B0NEMA.m3u
 #EXTINF:102, TBRT RADİO LİSDE 
 https://raw.githubusercontent.com/SUN1919/SUN0619/main/T%C3%9CRK%C3%9C%20RADYOLARI.m3u
 #EXTINF:102, TBRT MOBESA KAMERALAR LİSDE 

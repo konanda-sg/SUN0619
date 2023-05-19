@@ -1,25 +1,77 @@
 #EXTM3U
-#####TURKCE MUZIK#####
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3323
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/VzN6J5F8_tYZdkflk9k75u4dXLbyARl8oddIf7RuXpiGSa-QT_YA_Gc06kmbb-6sKw" group-title="TR: MUZIK",TR:- VIPMAX 4K MUZIK
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/8908
-#EXTINF:-1 tvg-logo="https://listelist.com/wp-content/uploads/2013/12/tarkan-571x375.jpg" group-title="TR: MUZIK",TR: BEST OF TARKAN
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/14107
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/85/98/69/8598694e65d809024804023147cb5383.jpg" group-title="TR: MUZIK",TR: V-I-P TURKCE MUZIK
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/10958
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67706c0000bebbd97f7c67fcad7fb9956d5f7a" group-title="TR: MUZIK",TR:- BEST OF ROMANTIK SARKILAR
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/9131
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Cem_Y%C4%B1lmaz_Profil_Tasar%C4%B1m.jpg" group-title="TR: MUZIK VE SHOW",TR:- CEM YILMAZ HD
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3476
-#EXTINF:-1 tvg-logo="https://i.gazeteciler.com/2/1280/800/storage/old/files/2019/1/7/325683/325683.jpg" group-title="TR: MUZIK VE SHOW",TR:- Güldür  Güldür Show
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3844
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDIU3yapGvJCbvY5H2QU06mUu8z9hlAbfGZg&usqp=CAU" group-title="TR: MUZIK VE SHOW",TR:- LOCA 4K Stand Up
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/6957
-#EXTINF:-1 tvg-logo="https://logos.flamingtext.com/Name-Logos/Loca-design-china-name.png" group-title="TR: MUZIK VE SHOW",TR:- LOCA 4K Konser
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/6966
-#EXTINF:-1 tvg-logo="https://image.exxen.com/content/n/lC/22377/Poster.jpg?v=637825433661626302" group-title="TR: MUZIK VE SHOW",TR:  EXXEN KONUSANLAR
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/13330
-#EXTINF:-1 tvg-logo="https://www.magazinci.com/pic_lib/bigSize/ata-demirer-002_70283_4702748.jpg" group-title="TR: MUZIK VE SHOW",TR: ATA DEMIREL HD
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/13317
-#EXTINF:-1 tvg-logo="https://im.haberturk.com/2021/10/28/ver1635423774/3235934_810x458.jpg" group-title="TR: MUZIK VE SHOW",TR:- SARKILAR BIZI SÖYLER
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/9128
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da94b" group-title="MUZIK KANALLAR",TR: TRT MUZIK
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1025
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: KRAL TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1806
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8bc" group-title="MUZIK KANALLAR",TR: KRAL POP HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/380
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: DREAM TURK
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1802
+#EXTINF:-1 tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da824" group-title="MUZIK KANALLAR",TR: POWERTURK
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/42
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: NUMBER ONE TURK
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/547
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR:  NUMBER ONE DAMAR
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/4421
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: NUMBER ONE
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1807
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR : POWERTÜRK TAPTAZE
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/19324
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: POWER TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1808
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: ELIT POP HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185322
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: ELIT SLOW HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185323
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: ELIT ARABESK HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185321
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: ELIT ANKARA HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185320
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Ankara Mix
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174375
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Türk Halk Müziği
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174374
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: TÜRKÜ
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174376
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Ahmet Kaya
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/16791
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Neşet Ertas
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174377
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Ferdi Tayfur
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174368
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Orhan Gencebay
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174369
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Müslüm Gürses
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174370
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Sezen Aksu
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174371
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Musa Eroğlu
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174372
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Tufan Altaş
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174373
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: BLU MUZIK POP
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/17308
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: BLU DAMAR
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/17310
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Slow Müzik
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185434
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: XP Pop Müzik
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174367
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: ARABESK MUZIK MIX
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/16779
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: FIXCINEMA ARABESK HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185427
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: FILMBOX MÜZIK 1 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185400
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: FILMBOX MÜZIK 2 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185401
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: FILMBOX MÜZIK 3 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185402
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: FIXCINEMA SLOW HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185438
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: FIXCINEMA POP HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185437
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: ANADOLU DERNEK TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2805
+#EXTINF:-1 group-title="MUZIK KANALLAR",TR: TATLISES TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/174363
