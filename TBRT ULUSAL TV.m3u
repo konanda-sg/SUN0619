@@ -1,0 +1,617 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT1.tr" group-title="ULUSAL KANALLAR",TR: TRT 1 FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/21
+#EXTINF:-1 tvg-id="TRT1.tr" group-title="ULUSAL KANALLAR",TR: TRT 1 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/303
+#EXTINF:-1 tvg-id="ATV.tr" group-title="ULUSAL KANALLAR",TR: ATV FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/22
+#EXTINF:-1 tvg-id="ATV.tr" group-title="ULUSAL KANALLAR",TR: ATV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/304
+#EXTINF:-1 tvg-id="KanalD.tr" group-title="ULUSAL KANALLAR",TR: KANAL D FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/23
+#EXTINF:-1 tvg-id="KanalD.tr" group-title="ULUSAL KANALLAR",TR: KANAL D HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/305
+#EXTINF:-1 tvg-id="ShowTV.tr" group-title="ULUSAL KANALLAR",TR: SHOW TV FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/24
+#EXTINF:-1 tvg-id="ShowTV.tr" group-title="ULUSAL KANALLAR",TR: SHOW TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/306
+#EXTINF:-1 tvg-id="Start.tr" group-title="ULUSAL KANALLAR",TR: STAR TV FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/25
+#EXTINF:-1 tvg-id="Start.tr" group-title="ULUSAL KANALLAR",TR: STAR TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/307
+#EXTINF:-1 tvg-id="Fox.tr" tvg-logo="http://xui.bestipbox.com:8000/images/bda9c9715501c3105d79db34f88e88c9.png" group-title="ULUSAL KANALLAR",TR: FOX TV FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/29
+#EXTINF:-1 tvg-id="Fox.tr" tvg-logo="http://xui.bestipbox.com:8000/images/82bb6d766dcb1a26cc1d8159414cffe8.png" group-title="ULUSAL KANALLAR",TR: FOX TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/310
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://xui.bestipbox.com:8000/images/3b424a7c72c6b9f3db9d8de181d5db5c.png" group-title="ULUSAL KANALLAR",TR: TV 8 FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/27
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://xui.bestipbox.com:8000/images/7df06974db995bd2990871db75b4c054.png" group-title="ULUSAL KANALLAR",TR: TV 8 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/308
+#EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-logo="http://xui.bestipbox.com:8000/images/4cbf2f6102111d333393bde6c3704be9.png" group-title="ULUSAL KANALLAR",TR: BEYAZ TV FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/28
+#EXTINF:-1 tvg-id="BEYAZ TV" tvg-logo="http://xui.bestipbox.com:8000/images/4cbf2f6102111d333393bde6c3704be9.png" group-title="ULUSAL KANALLAR",TR: BEYAZ TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/309
+#EXTINF:-1 tvg-id="Kanal7.tr" group-title="ULUSAL KANALLAR",TR: KANAL 7  FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/86114
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://xui.bestipbox.com:8000/images/bda9c9715501c3105d79db34f88e88c9.png" group-title="ULUSAL KANALLAR",TR: KANAL 7 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1791
+#EXTINF:-1 tvg-id="FlashTV.tr" group-title="ULUSAL KANALLAR",TR: FLASH TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/84818
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://xui.bestipbox.com:8000/images/f9930b6e19a38c34dce6f78fa8c7b494.png" group-title="ULUSAL KANALLAR",TR: EURO D HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/543
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://xui.bestipbox.com:8000/images/a21bdc3d88fd0a7c2bd79c5c9222f28a.png" group-title="ULUSAL KANALLAR",TR: ATV AVRUPA HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/544
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="http://xui.bestipbox.com:8000/images/0147733a5fd0649c644bbbddb1049bb2.png" group-title="ULUSAL KANALLAR",TR: SHOW TURK HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1984
+#EXTINF:-1 tvg-id="StarHD.tr" tvg-logo="http://xui.bestipbox.com:8000/images/8d88f7de421c83068138c0faf2a56e2e.png" group-title="ULUSAL KANALLAR",TR: EUROSTAR HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/559
+#EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://audi.mochaiptv.xyz:8000/images/3c3867df079dbc04d0e42940b8cf0ed6.png" group-title="ULUSAL KANALLAR",TR: TV8 INT HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/849
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://xui.bestipbox.com:8000/images/c04ca251491005462574b8e61ee9c8d5.png" group-title="ULUSAL KANALLAR",TR: Kanal 7 Avrupa HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/506
+#EXTINF:-1 tvg-id="SkyTurk360.tr" tvg-logo="http://xui.bestipbox.com:8000/images/044873e96b9efeebc7b9322ad88adfde.png" group-title="ULUSAL KANALLAR",TR: 360 TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/474
+#EXTINF:-1 tvg-id="A2" tvg-logo="http://xui.bestipbox.com:8000/images/4aca37af61e5a97054353c6523456338.png" group-title="ULUSAL KANALLAR",TR: A2 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/30
+#EXTINF:-1 tvg-id="Teve2" tvg-logo="http://xui.bestipbox.com:8000/images/8bc881059dc424c1f2140ef0beca3270.png" group-title="ULUSAL KANALLAR",TR: TV 2 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/31
+#EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://xui.bestipbox.com:8000/images/0b246c4b26b7fa550111d8aeb5550e0c.png" group-title="ULUSAL KANALLAR",TR: TV 8.5 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/47
+#EXTINF:-1 tvg-id="Showmax.tr" tvg-logo="http://xui.bestipbox.com:8000/images/39e6bd769beda3243febf42dec0fe688.png" group-title="ULUSAL KANALLAR",TR: SHOW MAX HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/536
+
+
+#EXTINF:-1 group-title="Tvplus", TRT1 HD
+http://49.12.123.148:8989/7/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", TRT SPOR HD
+http://49.12.123.148:8989/8/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", FOX HD
+http://49.12.123.148:8989/2/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", STAR TV HD
+http://49.12.123.148:8989/3/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", TV8 HD
+http://49.12.123.148:8989/4/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", ATV HD
+http://49.12.123.148:8989/5/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", KANAL D HD
+http://49.12.123.148:8989/6/hls/playlist.m3u8
+#EXTINF:-1 group-title="Tvplus", TV100
+http://49.12.123.148:8989/9/hls/playlist.m3u8
+#EXTINF:-1,AKILLI TV
+http://45.91.195.132:8000/play/a08y
+#EXTINF:-1,AKRT TV
+http://45.91.195.132:8000/play/a03w
+#EXTINF:-1,AKSU TV
+http://45.91.195.132:8000/play/a06p
+#EXTINF:-1,AL ZAHRA TV
+http://45.91.195.132:8000/play/a03e
+#EXTINF:-1,ANADOLU DERNEK TV
+http://45.91.195.132:8000/play/a08v
+#EXTINF:-1,BAHARTURK
+http://45.91.195.132:8000/play/a03v
+#EXTINF:-1,BBNTURK
+http://45.91.195.132:8000/play/a06b
+#EXTINF:-1,BEA
+http://45.91.195.132:8000/play/a069
+#EXTINF:-1,BENGÜ TURK HD
+http://45.91.195.132:8000/play/a04z
+#EXTINF:-1,BİR TV
+http://45.91.195.132:8000/play/a077
+#EXTINF:-1,BITLIS TV
+http://45.91.195.132:8000/play/a06d
+#EXTINF:-1,BLOOMBERG HT
+http://45.91.195.132:8000/play/a01z
+#EXTINF:-1,BRT 1 HD
+http://45.91.195.132:8000/play/a04l
+#EXTINF:-1,BRT 2 HD
+http://45.91.195.132:8000/play/a04k
+#EXTINF:-1,BRT 3
+http://45.91.195.132:8000/play/a04j
+#EXTINF:-1,BRTV ANADOLU
+http://45.91.195.132:8000/play/a06v
+#EXTINF:-1,BURSA TV
+http://45.91.195.132:8000/play/a05b
+#EXTINF:-1,CAY TV
+http://45.91.195.132:8000/play/a05m
+#EXTINF:-1,CEM TV
+http://45.91.195.132:8000/play/a06a
+#EXTINF:-1,CIFTCI TV
+http://45.91.195.132:8000/play/a06r
+#EXTINF:1, AMED TV
+http://live.amedradyotv.net:2020/hls/ferat.m3u8
+#EXTINF:-1,CNN TÜRK
+http://45.91.195.132:8000/play/a08l
+#EXTINF:-1,REHBERİM TV
+http://nrttn172.kesintisizyayin.com:29010/rehbermitv/rehbermitv/sec-f5-v1-a1.m3u8
+#EXTINF:-1,DIYAR TV
+http://45.91.195.132:8000/play/a07a
+#EXTINF:-1,DMAX
+http://45.91.195.132:8000/play/a09j
+#EXTINF:-1,DMAX HD
+http://45.91.195.132:8000/play/a09m
+#EXTINF:-1,DOST TV
+http://45.91.195.132:8000/play/a05o
+#EXTINF:-1,DREAM TÜRK
+http://45.91.195.132:8000/play/a08p
+#EXTINF:-1,DRT DENIZLI TV
+http://45.91.195.132:8000/play/a063
+#EXTINF:-1,EDESSA TV 
+http://45.91.195.132:8000/play/a05f
+#EXTINF:-1,EKOTURK HD
+http://45.91.195.132:8000/play/a03o
+#EXTINF:-1,EKİNTÜRK TV 
+http://45.91.195.132:8000/play/a094
+#EXTINF:-1,ER TV
+http://45.91.195.132:8000/play/a06s
+#EXTINF:-1,ES TV
+http://45.91.195.132:8000/play/a06q
+#EXTINF:-1,EURO D
+http://45.91.195.132:8000/play/a09u
+#EXTINF:-1,EURO D
+http://45.91.195.132:8000/play/a08q
+#EXTINF:-1,EvaTv
+http://45.91.195.132:8000/play/a093
+#EXTINF:-1,FB TV
+http://45.91.195.132:8000/play/a067
+#EXTINF:-1,FLASH HABER HD
+http://45.91.195.132:8000/play/a05a
+#EXTINF:-1,FM TV
+http://45.91.195.132:8000/play/a05q
+#EXTINF:-1,GENC TV
+http://45.91.195.132:8000/play/a04o
+#EXTINF:-1,GOZDE TV
+http://45.91.195.132:8000/play/a03u
+#EXTINF:-1,GRT TV
+http://45.91.195.132:8000/play/a05t
+#EXTINF:-1,GUNEYDOGU TV
+http://45.91.195.132:8000/play/a05h
+#EXTINF:-1,HABER GLOBAL HD
+http://45.91.195.132:8000/play/a052
+#EXTINF:-1,HABERTURK
+http://45.91.195.132:8000/play/a01y
+#EXTINF:-1,HALK TV HD
+http://45.91.195.132:8000/play/a05x
+#EXTINF:-1,HRT AKDENIZ TV
+http://45.91.195.132:8000/play/a05s
+#EXTINF:-1,K KARDELEN TV
+http://45.91.195.132:8000/play/a05w
+#EXTINF:-1,KABE(CANLI) AL QURAN
+http://45.91.195.132:8000/play/a038
+#EXTINF:-1,KADIRGA TV
+http://45.91.195.132:8000/play/a059
+#EXTINF:-1,KANAL 15
+http://45.91.195.132:8000/play/a072
+#EXTINF:-1,KANAL 23
+http://45.91.195.132:8000/play/a071
+#EXTINF:-1,KANAL 26
+http://45.91.195.132:8000/play/a06o
+#EXTINF:-1,KANAL 3
+http://45.91.195.132:8000/play/a07d
+#EXTINF:-1,KANAL 32
+http://45.91.195.132:8000/play/a04w
+#EXTINF:-1,KANAL 33
+http://45.91.195.132:8000/play/a060
+#EXTINF:-1,KANAL 58
+http://45.91.195.132:8000/play/a07c
+#EXTINF:-1,KANAL 68
+http://45.91.195.132:8000/play/a06w
+#EXTINF:-1,CADDE TV
+http://45.91.195.132:8000/play/a03p
+#EXTINF:-1,KANAL ANTALYA
+http://45.91.195.132:8000/play/a091
+#EXTINF:-1,KANAL AVRUPA
+http://45.91.195.132:8000/play/a05z
+#EXTINF:-1,KANAL FIRAT
+http://45.91.195.132:8000/play/a06u
+#EXTINF:-1,KANAL S
+http://45.91.195.132:8000/play/a06c
+#EXTINF:-1,KANAL T
+http://45.91.195.132:8000/play/a04p
+#EXTINF:-1,KANAL URFA
+http://45.91.195.132:8000/play/a05g
+#EXTINF:-1,KANAL V
+http://45.91.195.132:8000/play/a06j
+#EXTINF:-1,KENT TURK
+http://45.91.195.132:8000/play/a06n
+#EXTINF:-1,KIBRIS TV
+http://45.91.195.132:8000/play/a04q
+#EXTINF:-1,KON TV
+http://45.91.195.132:8000/play/a04t
+#EXTINF:-1,KOY TV
+http://45.91.195.132:8000/play/a050
+#EXTINF:-1,KOZA TV
+http://45.91.195.132:8000/play/a05v
+#EXTINF:-1,KRT TV HD
+http://45.91.195.132:8000/play/a068
+#EXTINF:-1,KUDUS TV
+http://45.91.195.132:8000/play/a05y
+#EXTINF:-1,LALEGUL TV
+http://45.91.195.132:8000/play/a05r
+#EXTINF:-1,LINE TV
+http://45.91.195.132:8000/play/a05i
+#EXTINF:-1,LUYS TV
+http://45.91.195.132:8000/play/a06f
+#EXTINF:-1,LİDER HABER
+http://45.91.195.132:8000/play/a08x
+#EXTINF:-1,MALATYA VUSLAT TV
+http://45.91.195.132:8000/play/a076
+#EXTINF:-1,MAVI KARADENIZ
+http://45.91.195.132:8000/play/a06y
+#EXTINF:-1,MEK TV
+http://45.91.195.132:8000/play/a03q
+#EXTINF:-1,MELTEM TV
+http://45.91.195.132:8000/play/a05e
+#EXTINF:-1,MERCAN TV
+http://45.91.195.132:8000/play/a06t
+#EXTINF:-1,NR1 TURK TV 
+http://45.91.195.132:8000/play/a061
+#EXTINF:-1,NTV
+http://45.91.195.132:8000/play/a09i
+#EXTINF:-1,NTV HD
+http://45.91.195.132:8000/play/a09l
+#EXTINF:-1,ON4 TV
+http://45.91.195.132:8000/play/a066
+#EXTINF:-1,ORDU ALTAS TV
+http://45.91.195.132:8000/play/a051
+#EXTINF:-1,PAMUKKALETV
+http://45.91.195.132:8000/play/a062
+#EXTINF:-1,POWER HD
+http://45.91.195.132:8000/play/a06k
+#EXTINF:-1,REHBERTV
+http://45.91.195.132:8000/play/a05l
+#EXTINF:-1,RUMELİ TV
+http://45.91.195.132:8000/play/a092
+#EXTINF:-1,SAT7TURK
+http://45.91.195.132:8000/play/a074
+#EXTINF:-1,SAUDI SUNNAH
+http://45.91.195.132:8000/play/a039
+#EXTINF:-1,SEMERKAND HD
+http://45.91.195.132:8000/play/a03a
+#EXTINF:-1,SEMERKAND WAY
+http://45.91.195.132:8000/play/a03b
+#EXTINF:-1,TV8
+#https://tv8-live.daioncdn.net/tv8/tv8.m3u8 
+#EXTINF:-1,SHOW TURK HD
+http://45.91.195.132:8000/play/a09s
+#EXTINF:-1,SPORTS TV
+http://45.91.195.132:8000/play/a05k
+#EXTINF:-1,STAR TV
+http://45.91.195.132:8000/play/a09h
+#EXTINF:-1,STAR TV HD
+http://45.91.195.132:8000/play/a09k
+#EXTINF:-1,SUN RTV
+http://45.91.195.132:8000/play/a06i
+#EXTINF:-1,SZC
+http://45.91.195.132:8000/play/a03s
+#EXTINF:-1,SİARAY TÜRK TÜRKİYE
+http://45.91.195.132:8000/play/a09g
+#EXTINF:-1,TARIM ORMAN
+http://45.91.195.132:8000/play/a037
+#EXTINF:-1,TATLISES TV
+http://45.91.195.132:8000/play/a06l
+#EXTINF:-1,TEK RUMELI TV
+http://45.91.195.132:8000/play/a05n
+#EXTINF:-1,TELE 1
+http://45.91.195.132:8000/play/a08t
+#EXTINF:-1,TELE 1 HD
+http://45.91.195.132:8000/play/a09v
+#EXTINF:-1,TEMPO TV
+http://45.91.195.132:8000/play/a06z
+#EXTINF:-1,TEVE2
+http://45.91.195.132:8000/play/a08m
+#EXTINF:-1,TEVE63
+http://45.91.195.132:8000/play/a06e
+#EXTINF:-1,TGRT HABER HD
+http://45.91.195.132:8000/play/a056
+#EXTINF:-1,TH TURKHABER
+http://45.91.195.132:8000/play/a05p
+#EXTINF:-1,TLC
+http://45.91.195.132:8000/play/a09o
+#EXTINF:-1,TLC HD
+http://45.91.195.132:8000/play/a09n
+#EXTINF:-1,TMB TV
+http://45.91.195.132:8000/play/a04s
+#EXTINF:-1,TON TV
+http://45.91.195.132:8000/play/a073
+#EXTINF:-1,TRAKYA TURK
+http://45.91.195.132:8000/play/a078
+#EXTINF:-1,TRT 1
+http://45.91.195.132:8000/play/a081
+#EXTINF:-1,TRT 3-SPOR
+http://45.91.195.132:8000/play/a084
+#EXTINF:-1,TRT AVAZ HD
+http://45.91.195.132:8000/play/a02n
+#EXTINF:-1,TRT BELGESEL HD
+http://45.91.195.132:8000/play/a027
+#EXTINF:-1,TRT COCUK
+http://45.91.195.132:8000/play/a085
+#EXTINF:-1,TRT COCUK HD
+http://45.91.195.132:8000/play/a09w
+#EXTINF:-1,TRT HABER
+http://45.91.195.132:8000/play/a02e
+#EXTINF:-1,TRT HABER HD
+http://45.91.195.132:8000/play/a025
+#EXTINF:-1,TRT MUZIK
+http://45.91.195.132:8000/play/a02i
+#EXTINF:-1,TRT MUZIK HD
+http://45.91.195.132:8000/play/a02a
+#EXTINF:-1,TRT SPOR
+http://45.91.195.132:8000/play/a02r
+#EXTINF:-1,TRT SPOR HD
+http://45.91.195.132:8000/play/a026
+#EXTINF:-1,TRT SPOR YILDIZ
+http://45.91.195.132:8000/play/a08g
+#EXTINF:-1,TRT TURK
+http://45.91.195.132:8000/play/a02f
+#EXTINF:-1,TRT TURK HD
+http://45.91.195.132:8000/play/a029
+#EXTINF:-1,TRT TURKU
+http://45.91.195.132:8000/play/a02k
+#EXTINF:-1,TRT1
+http://45.91.195.132:8000/play/a02c
+#EXTINF:-1,TRT1 HD
+http://45.91.195.132:8000/play/a024
+#EXTINF:-1,TRT2 HD
+http://45.91.195.132:8000/play/a086
+#EXTINF:-1,TV 1 
+http://45.91.195.132:8000/play/a04u
+#EXTINF:-1,TV 100 HD
+http://45.91.195.132:8000/play/a064
+#EXTINF:-1,TV 2020
+http://45.91.195.132:8000/play/a04m
+#EXTINF:-1,TV 41
+http://45.91.195.132:8000/play/a06x
+#EXTINF:-1,TV 52
+http://45.91.195.132:8000/play/a053
+#EXTINF:-1,TV A
+http://45.91.195.132:8000/play/a07b
+#EXTINF:-1,TV DEN
+http://45.91.195.132:8000/play/a054
+#EXTINF:-1,TV KAYSERI
+http://45.91.195.132:8000/play/a04v
+#EXTINF:-1,TV264
+http://45.91.195.132:8000/play/a055
+#EXTINF:-1,TV42
+http://45.91.195.132:8000/play/a04y
+#EXTINF:-1,ULUSAL 1 TV
+http://45.91.195.132:8000/play/a05u
+#EXTINF:-1,UZAY HABER
+http://45.91.195.132:8000/play/a05j
+#EXTINF:-1,WM TV WOMAN KADIN
+http://45.91.195.132:8000/play/a08u
+#EXTINF:-1,WORLD TURK
+http://45.91.195.132:8000/play/a079
+#EXTINF:-1,Z ZAZA TV
+http://45.91.195.132:8000/play/a09t
+#EXTINF:-1 tvg-id="TVEm.tr" tvg-logo="http://57tv.bestipbox.com:8000/images/726ab47b3265245c22dc0a29261d1863.png" group-title="ULUSAL KANALLAR",TR: TV EM
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/502
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="http://xui.bestipbox.com:8000/images/892d7d411a71d2de4c70bba4c843f6a4.png" group-title="ULUSAL KANALLAR",TR: TRT 2 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2384
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://xui.bestipbox.com:8000/images/e28f93f905ad5a8b5e62cbbbada53e36.png" group-title="ULUSAL KANALLAR",TR: TRT TURK
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/507
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="http://xui.bestipbox.com:8000/images/e589aecd2a5fcae7000e307ad290339f.png" group-title="ULUSAL KANALLAR",TR: TRT AVAZ
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/508
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://xui.bestipbox.com:8000/images/babfd9b0065797c9f7852b31cd6818b7.png" group-title="ULUSAL KANALLAR",TR: TRT WORLD HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/509
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-logo="http://xui.bestipbox.com:8000/images/5599f964407c8fa9855c514c943bb1e6.png" group-title="ULUSAL KANALLAR",TR: TRT KURDI HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/510
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TR:VATAN TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34121
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TR: TRT 1 YEDEK
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/86269
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TR: TBMM TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/86463
+#EXTINF:-1 group-title="ULUSAL KANALLAR",TR: CİNE 5 TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/125600
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://57tv.bestipbox.com:8000/images/fac7061249a2a6b013d986ca31983da1.png" group-title="HABER KANALLAR",TR: NTV FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/36
+#EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://57tv.bestipbox.com:8000/images/fac7061249a2a6b013d986ca31983da1.png" group-title="HABER KANALLAR",TR: NTV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/569
+#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-logo="http://xui.bestipbox.com:8000/images/9be5659e9f709b1aa38073099f80d0cb.png" group-title="HABER KANALLAR",TR: CNN TURK FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/37
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://xui.bestipbox.com:8000/images/9be5659e9f709b1aa38073099f80d0cb.png" group-title="HABER KANALLAR",TR: CNNTURK HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/566
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-logo="http://xui.bestipbox.com:8000/images/77985ab74ab279502de14ecacbda4c3f.png" group-title="HABER KANALLAR",TR: HABERTURK FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/38
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-logo="http://xui.bestipbox.com:8000/images/77985ab74ab279502de14ecacbda4c3f.png" group-title="HABER KANALLAR",TR: HABERTURK HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/567
+#EXTINF:-1 group-title="HABER KANALLAR",TR: SOZCU TV FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/173462
+#EXTINF:-1 tvg-id="SÖZCÜ TV" group-title="HABER KANALLAR",TR: SOZCU TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/173463
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://xui.bestipbox.com:8000/images/41893c77d9928c2890603eccb22cc365.png" group-title="HABER KANALLAR",TR: A HABER FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/39
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://paris.bestipbox.com:8000/images/41893c77d9928c2890603eccb22cc365.png" group-title="HABER KANALLAR",TR: A HABER HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/568
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://xui.bestipbox.com:8000/images/e7993144dad46965554cf5dde246fc9f.png" group-title="HABER KANALLAR",TR: TRT HABER FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/40
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://xui.bestipbox.com:8000/images/e7993144dad46965554cf5dde246fc9f.png" group-title="HABER KANALLAR",TR: TRT HABER HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/3864
+#EXTINF:-1 group-title="HABER KANALLAR",TR : YOL TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/4539
+#EXTINF:-1 tvg-id="KRT.tr" tvg-logo="http://sweden.bestipbox.com:8000/images/e32a94fc9f924b11f3457e920c3247f1.png" group-title="HABER KANALLAR",TR : KRT FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/3865
+#EXTINF:-1 tvg-id="KRT.tr" tvg-logo="http://sweden.bestipbox.com:8000/images/e32a94fc9f924b11f3457e920c3247f1.png" group-title="HABER KANALLAR",TR: KRT TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2442
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://xui.bestipbox.com:8000/images/574b86ce3bedb4f4ec880490c59bdfb8.png" group-title="HABER KANALLAR",TR : TV 100 FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/3849
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://xui.bestipbox.com:8000/images/574b86ce3bedb4f4ec880490c59bdfb8.png" group-title="HABER KANALLAR",TR: TV 100  HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2561
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://sweden.bestipbox.com:8000/images/12782da11ecdba5da91384b96d0f0275.png" group-title="HABER KANALLAR",TR : TELE 1 FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2986
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="http://sweden.bestipbox.com:8000/images/12782da11ecdba5da91384b96d0f0275.png" group-title="HABER KANALLAR",TR: TELE 1 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1030
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://57tv.bestipbox.com:8000/images/943faf83f158bd16d442dafe2086f748.png" group-title="HABER KANALLAR",TR: HABERGLOBAL FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/3850
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://57tv.bestipbox.com:8000/images/943faf83f158bd16d442dafe2086f748.png" group-title="HABER KANALLAR",TR: HABERGLOBAL TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1794
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://sweden.bestipbox.com:8000/images/be0cb5ff9ba0e54ad9e697c5f7f857d6.png" group-title="HABER KANALLAR",TR: HALK TV FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2783
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://sweden.bestipbox.com:8000/images/be0cb5ff9ba0e54ad9e697c5f7f857d6.png" group-title="HABER KANALLAR",TR: HALK TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/256
+#EXTINF:-1 tvg-logo="http://jacobs.mochaiptv.xyz:8000/images/6e0dea61f114b2248cf7f25030a2746d.png" group-title="HABER KANALLAR",TR: ARTI TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2041
+#EXTINF:-1 tvg-id="TVNet.tr" tvg-logo="http://xui.bestipbox.com:8000/images/797b7737407da61f62bc49004442c92d.png" group-title="HABER KANALLAR",TR: TV NET HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2242
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://57tv.bestipbox.com:8000/images/8160f6b5063b4e21cc78af959853716f.png" group-title="HABER KANALLAR",TR: TGRT HABER HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2138
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://xui.bestipbox.com:8000/images/83532a518f2b75311b15faef1b5c6d23.png" group-title="HABER KANALLAR",TR: ULKE TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/258
+#EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="http://germany.bestipbox.com:8000/images/998a273f32b0269f114b3418645f46c6.png" group-title="HABER KANALLAR",TR: ULUSAL KANAL HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1026
+#EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://xui.bestipbox.com:8000/images/066e9bf23a7302537ebd9350461c20a0.png" group-title="HABER KANALLAR",TR: TV 24 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/134
+#EXTINF:-1 tvg-id="24KitchenTurkey.us" tvg-logo="http://xui.bestipbox.com:8000/images/5e764ada1310891e9ce0d958f95d84fd.png" group-title="HABER KANALLAR",TR: BLOOMBERGHT TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/133
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="http://xui.bestipbox.com:8000/images/afa638f45f93c71e8d26ceeee62478a6.png" group-title="HABER KANALLAR",TR: FINANSTURK TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/522
+#EXTINF:-1 tvg-id="APara.tr" tvg-logo="http://xui.bestipbox.com:8000/images/958c5e3d755339cf487aeb3ac3450923.png" group-title="HABER KANALLAR",TR: A PARA
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/517
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" group-title="HABER KANALLAR",TR: BENGUTURK TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/86220
+#EXTINF:-1 group-title="HABER KANALLAR",TR: BBN Türk HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/129574
+#EXTINF:-1 group-title="HABER KANALLAR",TR: CORANA PANDEMI TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/3762
+#EXTINF:-1,beIN SPORTS HABER
+http://45.91.195.132:8000/play/a07x
+#EXTINF:-1,TURKSAT TANITIM HD
+http://45.91.195.132:8000/play/a03n
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a8bd956bcb4030615e56ebf8398a2a80.png" group-title="SINEMA YEDEK",Line TV
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/29833
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/756afdb0b4c5c5822870f2650294029a.png" group-title="SINEMA YEDEK",Meltem TV
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/73228
+#EXTINF:-1 tvg-id="fox.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8830c4b3dfd8964820cefa5b7720e5e6.png" group-title="SINEMA YEDEK",FOX
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/514
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KON TV FHD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34124
+#EXTINF:-1 group-title="YEREL KANALLAR",TR: KON TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/12413
+#EXTINF:-1 group-title="YEREL KANALLAR",TR: BURSA AS TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/148092
+#EXTINF:-1 group-title="YEREL KANALLAR",TR: BURSA LiNE TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/148093
+#EXTINF:-1 group-title="YEREL KANALLAR",TR: BURSA ON6 TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/148094
+#EXTINF:-1 group-title="YEREL KANALLAR",TR: BURSA TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/148095
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="http://xui.bestipbox.com:8000/images/1d98abae5b2d84d37c48e6767c1ab0df.png" group-title="YEREL KANALLAR",TR_DIYANET TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1939
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:DEHA TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34112
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL 42 KONYA
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34114
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL FIRAT ELAZIG
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34115
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:BRT 1 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34116
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:BRT 2 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34117
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:YOL TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34119
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:CEM TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34120
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:AKILLI TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34122
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:TIVITURK
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34123
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KOY TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34125
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:CAN TV HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34126
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KIBRIS TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34127
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KIBRIS ADA TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34128
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:SIM TV KIBRIS
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34129
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL T KIBRIS
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34130
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KIBRIS GENC TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34131
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:UZAY HABER
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34132
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:UCANKUS TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34139
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:YAKIT TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34140
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL B
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34141
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL 3
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34142
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL 33 MERSIN
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34143
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL 43 KUTAHYA
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34144
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL 58 TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34145
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL AVRUPA
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34146
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL ANTALYA
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34147
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL V ANTALYA
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34148
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:BLT Turk HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34149
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:TGRT EU
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34150
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:TVO
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34151
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:TV 5
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34152
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:TV 4 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34153
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:TV 52 ORDU
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34155
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:DERSIM 62 TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34156
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:TV ALTAS ORDU
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34157
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:ON4 TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34158
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:RUMELI TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34159
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:EKOTURK HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34160
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:TVA TV (ADANA)
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34161
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:ISTANBUL 34
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34162
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:ANADOLU DERNEK
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34163
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:PAMUKKALE TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34164
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:4 EYLUL
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34165
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:CIFTCI TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34166
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:ESKISEHIR TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34167
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:CAY TV RIZE
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34168
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:BRT 3 HD
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34170
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL URFA
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34171
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:KANAL 26
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34173
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:MAVI KARADENIZ TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34174
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:TEK RUMELI TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34175
+#EXTINF:-1 group-title="YEREL KANALLAR",TR: ORDU TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34176
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:CAY TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34177
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:VIZYON 58 TV SIVAS
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34178
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:SAT7 TURK
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34179
+#EXTINF:-1 group-title="YEREL KANALLAR",TR:TV KAYSERI
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34180
+#EXTINF:-1 group-title="YEREL KANALLAR",TR: MAVI KARADENIZ TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/130921
+#EXTINF:-1 group-title="YEREL KANALLAR",TR: ANGARA TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/130922
+#EXTINF:-1 group-title="YEREL KANALLAR",TR: BURSA HABER TV
+http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/148091
