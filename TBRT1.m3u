@@ -94,11 +94,20 @@ https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT MEDYA TV
 https://live-server-2.splitstream.io/34e279a9-6153-4e38-b25e-7cfe9f7abee5/tracks-v1a1/mono.m3u8
 
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT MEDYA TV Y1
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+
 #EXTINF:2 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT ON
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT ON Y1
+https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT SUNGURLU19 TV
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT SUNGURLU19 TV Y1
+https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
 
 #EXTINF:-1,TR:YANSIMA TV
 https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
@@ -219,14 +228,12 @@ http://49.12.123.148:8989/58/hls/playlist.m3u8
 #EXTINF:-1 group-title="Tvplus",REHBERİM TV
 http://nrttn172.kesintisizyayin.com:29010/rehbermitv/rehbermitv/sec-f5-v1-a1.m3u8
 
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT MEDYA TV Y1
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+
 
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT MEDYA TV Y2
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
 
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT ON Y1
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
 
 #EXTINF:3 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT ON Y2
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber2/chunklist_w909642297.m3u8
@@ -988,8 +995,7 @@ https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist.m3u8
 https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", YAKIN TV iZMiR
 https://vdo.digitalbox.xyz:3444/hybrid/play.m3u8
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT SUNGURLU19 TV Y1
-https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+
 
 #EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT SUNGURLU19 TV Y2
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/bulut/chunklist_w110952983.m3u8
