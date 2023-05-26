@@ -362,7 +362,25 @@ https://tv-trtcocuk.medya.trt.com.tr/master_360.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:1,DİYANET ÇOCUK 2  
 https://livestream.zazerconer.workers.dev/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
+🇹🇷TBRT ve BİLGİN TV🇹🇷PAYLAŞIM, [27.05.2023 00:26]
+#EXTINF:1,KIREŞ ÇOCUK TV
+https://livestream.zazerconer.workers.dev/channel/UClhFSLqerKpqywe8yCTGoWA.m3u8
 
+🇹🇷TBRT ve BİLGİN TV🇹🇷PAYLAŞIM, [27.05.2023 00:30]
+#EXTINF:1,AKILLI ÇOCUK TV
+https://livestream.zazerconer.workers.dev/channel/UCK-rEHhYpS5eMzH9JtI-rOQ.m3u8
+
+🇹🇷TBRT ve BİLGİN TV🇹🇷PAYLAŞIM, [27.05.2023 00:33]
+#EXTINF:1,KONUŞAN TOM  TV
+https://livestream.zazerconer.workers.dev/channel/UCK-rEHhYpS5eMzH9JtI-rOQ.m3u8
+
+🇹🇷TBRT ve BİLGİN TV🇹🇷PAYLAŞIM, [27.05.2023 00:34]
+#EXTINF:1,BEBECİKLER  TV
+https://livestream.zazerconer.workers.dev/channel/UCovav2A4vB5HWORzgB7YC_Q.m3u8
+
+🇹🇷TBRT ve BİLGİN TV🇹🇷PAYLAŞIM, [27.05.2023 00:36]
+#EXTINF:1,CAN BEBE  TV
+https://livestream.zazerconer.workers.dev/channel/UCovav2A4vB5HWORzgB7YC_Q.m3u8
 #EXTINF:0 type="stream" channelId="3330" group-title="4_COCUK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3330", BOOMERANG HD [BLU]
 https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="40" group-title="4_COCUK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=40", Cartoon Network HD
