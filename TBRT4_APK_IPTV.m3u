@@ -264,6 +264,10 @@ https://www.youtube.com/watch?v=56MllGbeFME
 http://45.12.1.14:80/live/BlIm21564/agf7Fp264/17296.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-_qvNgUtdvTE/X5xddq1MjVI/AAAAAAAAPcw/h9F02q5c37sIy2CarLIKELwCrRXH_czNQCLcBGAsYHQ/s0/ARTI_TV_LOGO_240px.jpg", ARTI TV [PLAY]
 https://bit.ly/ARTITV_bysimba?/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://yt3.ggpht.com/a/AATXAJxQje5n5vTBcpygj-LvPVxQ2PGSK_2KAuiLvg=s288-c-k-c0xffffffff-no-rj-mo", CAN TV HD
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:0 type="stream" channelId="1094" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-vDdVJAy7heA/XmyqU6m_msI/AAAAAAAAKN8/y2XUOUndCDcYIDSUekAjzZgyCM0_d6sAQCLcBGAsYHQ/w945-h600-p-k-no-nu/dGYZIpT3_400x400.png", YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
 
 --------------------YANCI-----HABER------------------------------
 
@@ -285,11 +289,6 @@ http://canli.haber365.com.tr/tr/haberturk/index.m3u8
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-A_LgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 HD YEDEK
 http://135.125.234.9:8081/tv100/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://yt3.ggpht.com/a/AATXAJxQje5n5vTBcpygj-LvPVxQ2PGSK_2KAuiLvg=s288-c-k-c0xffffffff-no-rj-mo", CAN TV HD
-http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:0 type="stream" channelId="1094" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-vDdVJAy7heA/XmyqU6m_msI/AAAAAAAAKN8/y2XUOUndCDcYIDSUekAjzZgyCM0_d6sAQCLcBGAsYHQ/w945-h600-p-k-no-nu/dGYZIpT3_400x400.png", YOL TV
-http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 type="stream" channelId="3076" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3078", A HABER HD [YOU]
 https://www.youtube.com/watch?v=g4QA9Sh_g_8
 #EXTINF:0 type="stream" channelId="4022" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4022", AKiT TV
@@ -354,12 +353,25 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", DHA AJANS CANLI
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
 
-
 -------------------ÇOCUK-----------------------------------
+
 #EXTINF:1,TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_360.m3u8
-#EXTINF:1,TRT DİYANET ÇOCUK  
+#EXTINF:1,TRT DİYANET ÇOCUK 1  
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:1,DİYANET ÇOCUK 2  
+https://livestream.zazerconer.workers.dev/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
+#EXTINF:1,KIREŞ ÇOCUK TV
+https://livestream.zazerconer.workers.dev/channel/UClhFSLqerKpqywe8yCTGoWA.m3u8
+#EXTINF:1,AKILLI ÇOCUK TV
+https://livestream.zazerconer.workers.dev/channel/UCK-rEHhYpS5eMzH9JtI-rOQ.m3u8
+#EXTINF:1,KONUŞAN TOM  TV
+https://livestream.zazerconer.workers.dev/channel/UC3ly5ABqAfilKmzj8Fc8t8w.m3u8
+#EXTINF:1,BEBECİKLER  TV
+https://livestream.zazerconer.workers.dev/channel/UCovav2A4vB5HWORzgB7YC_Q.m3u8
+#EXTINF:1,CAN BEBE  TV
+https://livestream.zazerconer.workers.dev/channel/UCovav2A4vB5HWORzgB7YC_Q.m3u8
+
 #EXTINF:0 type="stream" channelId="3330" group-title="4_COCUK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3330", BOOMERANG HD [BLU]
 https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="40" group-title="4_COCUK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=40", Cartoon Network HD
@@ -395,8 +407,7 @@ http://49.12.123.148:8989/50/hls/playlist.m3u8
 #EXTINF:-1 group-title="Tvplus", TRT ÇOCUK HD
 http://49.12.123.148:8989/30/hls/playlist.m3u8
 #EXTINF:-1,ZAROK TV
-http://45.91.195.132:8000/play/a05d
-------------------Belgesel------------------
+http://45.91.195.132:8000/play/a05d------
 #EXTINF:-1 group-title="Tvplus", DA VINCI HD
 http://49.12.123.148:8989/90/hls/playlist.m3u8
 #EXTINF:-1 group-title="Tvplus", TRT BELGESEL HD
