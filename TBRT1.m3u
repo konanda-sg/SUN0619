@@ -94,9 +94,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.3
 #EXTINF:-12,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
-#EXTINF:-12,AXION TÜRK DİZİ TV
-https://livestream.zazerconer.workers.dev/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u
-
 #EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT MEDYA TV
 https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
 
@@ -189,8 +186,8 @@ http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 #EXTINF:1,GÜNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
-#EXTINF:1,GERÇEK  TV  
-https://livestream.zazerconer.workers.dev/channel/UCwZvNCxB8QOVvDA5bo1C85w.m3u8
+#EXTINF:1,CANSUYU TV  
+https://cansuyutv77.ozelip.com:3071/stream/play.m3u
 #EXTINF:24 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEIRhIdevHQ_dWxDHDe_87JyX7MHh1XqBQ9GzjtC6XBSbxk3Z9uzAAEopCY9Sxljp-karj8Ybs8KesYGrhEjm0sPc5lRxofWbvLee5u4y9KPJimdga8i062kBMBF-mbcUYDlljhwzNDU58jmHw0N2V7qeMmvGN__wHYMjdw3piiJLbEorcIpEt9jwuQ/w152-h36/karap%C4%B1nartv.jpg", KARAPINAR MEDYA TV
 http://91.134.203.253:30124/karapinar/karapinar/sec-f5-v1-a1.m3u8
 #EXTINF:32, CINE1 TV
@@ -361,8 +358,11 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u
 -------------------ÇOCUK-----------------------------------
 #EXTINF:1,TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_360.m3u8
-#EXTINF:1,TRT DİYANET ÇOCUK  
+#EXTINF:1,TRT DİYANET ÇOCUK 1  
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:1,DİYANET ÇOCUK 2  
+https://livestream.zazerconer.workers.dev/channel/UCCfTktnzWK__FUN4gj0zIpA.m3u8
+
 #EXTINF:0 type="stream" channelId="3330" group-title="4_COCUK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3330", BOOMERANG HD [BLU]
 https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="40" group-title="4_COCUK_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=40", Cartoon Network HD
@@ -12441,3 +12441,4 @@ http://185.236.229.31:9981/play/a03n
 http://185.236.229.31:9981/play/a03d
 #EXTINF:-1,Dorcel TV HD
 http://185.236.229.31:9981/play/a03c
+
