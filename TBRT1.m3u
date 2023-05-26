@@ -221,6 +221,283 @@ http://49.12.123.148:8989/53/hls/playlist.m3u8
 http://49.12.123.148:8989/47/hls/playlist.m3u8
 #EXTINF:-1 group-title="Tvplus", SİNEMA TV 1001 HD
 http://49.12.123.148:8989/58/hls/playlist.m3u8
+#EXTM3U
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT MEDYA TV
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT ON
+https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT SUNGURLU19 TV
+https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+
+#EXTINF:-1,TR:YANSIMA TV
+https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
+
+#EXTINF:1, TELE ON TV ᵁᴴᴰ⁺
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
+
+#EXTINF:1,SKY HABER ve SİNEMA TV
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
+
+#EXTINF:-13,RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:19,KANAL 19
+https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+
+#EXTINF:117, NTN SİNEMA HD
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+
+#EXTINF:1,SİNEMAX TV
+https://film.ozelip.com:3344/stream/play.m3u8
+
+
+#EXTINF:1,SİNEMAX TV
+https://film.ozelip.com:3344/stream/play.m3u8
+
+#EXTINF:31,TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+
+#EXTINF:1,SAM TV
+https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
+
+#EXTINF:98, DÜZGÜN TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
+
+#EXTINF:97,AKTİF TV
+http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
+
+#EXTINF:109, AFYON TÜRK TV
+http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
+
+#EXTINF:1,,İSVİCRE TV 
+https://is.gd/NdDhgK.m3u8
+
+#EXTINF:113,SANCAK TV
+https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
+
+#EXTINF:30, EM TV
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+
+#EXTINF:30, ÖNCÜ TV
+https://edge1.socialsmart.tv/oncurtv/bant1/chunks.m3u8
+
+#EXTINF:1, SÜPER TÜRK TV
+http://95.179.215.242:3923/stream/play.m3u8
+
+-------------PLATFORM---SİNEMA------------------------
+#EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://iptv.bestipbox.com:8000/images/8d7caae4365530486a50a694702a9d69.png" group-title="SINEMA KANALLAR",TR: SINEMA TV HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/6
+#EXTINF:-1 tvg-id="MoviemaxStars.tr" tvg-logo="http://mocha.mochaiptv.xyz:8000/images/606a51e6ea7dbfb5c16d41bc2ae53fc2.png" group-title="SINEMA KANALLAR",TR: BEIN MOVIES STARS HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/10
+#EXTINF:-1 tvg-id="MoviemaxPremier.tr" tvg-logo="http://mocha.mochaiptv.xyz:8000/images/bc921eed2b45175b74b99a1a5097ac0b.png" group-title="SINEMA KANALLAR",TR: BEIN MOVIES PREMIER HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/12
+#EXTINF:-1 tvg-id="MoviemaxFamily.tr" group-title="SINEMA KANALLAR",TR: GOLD BOX PREMIUM
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/13
+#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-logo="http://germany.bestipbox.com:8000/images/905d3a116843f89280b83d5f9089175d.png" group-title="SINEMA KANALLAR",TR: SINEMA TV KOMEDI 2 FHD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/15
+#EXTINF:-1 tvg-id="moviesmartpremium2.tr" tvg-logo="http://germany.bestipbox.com:8000/images/2bb637a0a6e66a2e530d97373cbaf20b.png" group-title="SINEMA KANALLAR",TR: SINEMA TV AILE 2 FHD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16
+#EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-logo="http://germany.bestipbox.com:8000/images/bf00c238141b61b4b543b14f8d057a59.png" group-title="SINEMA KANALLAR",TR: MOVIE SMART HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/19
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="http://germany.bestipbox.com:8000/images/e4aa4b55f6a964eb0d7cd689276071a7.png" group-title="SINEMA KANALLAR",TR: DIZI SMART PREMIUM HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/597
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-logo="http://psg.mochaiptv.xyz:8000/images/bee2b8ba13d20e68d28c0aba611d207c.png" group-title="SINEMA KANALLAR",TR: FOX CRIME HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/728
+#EXTINF:-1 tvg-id="MoviemaxTurk.tr" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/befea314f63fc3b57cb5be83c1b90a88.png" group-title="SINEMA KANALLAR",TR: BEIN MOVIES HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/8
+#EXTINF:-1 tvg-id="MoviemaxAction.tr" tvg-logo="http://mocha.mochaiptv.xyz:8000/images/fa4b54a96d77d696a20e3fd836a91ae6.png" group-title="SINEMA KANALLAR",TR: BEIN MOVIES ACTION HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/9
+#EXTINF:-1 tvg-logo="http://jacobs.mochaiptv.xyz:8000/images/0a6fe93e39d5029f66d3f1ae01bc71a0.png" group-title="SINEMA KANALLAR",TR: BEiN BOX OFFiCE 2 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/734
+#EXTINF:-1 tvg-logo="http://jacobs.mochaiptv.xyz:8000/images/9375bbff17da150fbea8c04132b7d779.png" group-title="SINEMA KANALLAR",TR: BEiN BOX OFFiCE 1 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/735
+#EXTINF:-1 tvg-logo="http://jacobs.mochaiptv.xyz:8000/images/7fe9d6d40d39dde41914f502890c5887.png" group-title="SINEMA KANALLAR",TR: BEiN BOX OFFiCE 3 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/751
+#EXTINF:-1 tvg-id="DizimaxComedy.tr" tvg-logo="http://sweden.bestipbox.com:8000/images/a70425c21db943337dcd84d4339ce86e.png" group-title="SINEMA KANALLAR",TR: BEIN SERIES 1 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/1277
+#EXTINF:-1 tvg-id="24Kitchen" group-title="SINEMA KANALLAR",TR: SINEMA TV 1001 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/1247
+#EXTINF:-1 tvg-id="DizimaxVice.tr" tvg-logo="http://sweden.bestipbox.com:8000/images/b7d4aeec09ceaff34ad6499472854ff3.png" group-title="SINEMA KANALLAR",TR: BEIN SERIES 4 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/1471
+#EXTINF:-1 tvg-id="MovieSmartClassic.tr" tvg-logo="http://germany.bestipbox.com:8000/images/8d93bf3bcfe7e85fc732f7bf60a1aeeb.png" group-title="SINEMA KANALLAR",TR: MOVIE SMART CLASSIC HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/1472
+#EXTINF:-1 tvg-logo="http://jacobs.mochaiptv.xyz:8000/images/a4d47fe61c311d4c3de049875d8a4969.png" group-title="SINEMA KANALLAR",TR: FX HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/1790
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SINEMA TV YERLI 2 FHD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2725
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: 7/24 BİZİMKİLER
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2728
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: 7/24 HARRY POTTER
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2726
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR_BOSS MOVIES 2 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2730
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR_BOSS MOVIES 3 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2731
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR_BOSS MOVIES 4 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2732
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR_BOSS MOVIES 5 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2733
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR_BOSS MOVIES 6 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2734
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR_BOSS MOVIES 7 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2735
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR_BOSS MOVIES 8 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2736
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: BOSS KEMAL SUNAL
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2737
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: BOSS KEMAL SUNAL 2
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2738
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR : DIZI SMART MAX HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2959
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR : PRIMEBOX AKSIYON 1 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2962
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR : BOSS YESILCAM 1
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/3473
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR : BOSS YESILCAM 2
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/3474
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR :BOSS YESILCAM 3
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/3475
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR : BOSS YESiLCAM KLASiKLERi
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/4576
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR : SLTV KEMAL SUNAL
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/4703
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: BeIN Movies Yesilcam HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/4892
+#EXTINF:-1 tvg-id="24Kitchen" group-title="SINEMA KANALLAR",TR: SINEMA TV 1002
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16769
+#EXTINF:-1 tvg-id="24Kitchen" group-title="SINEMA KANALLAR",TR: SINEMA TV AKSIYON 2
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16770
+#EXTINF:-1 tvg-id="24Kitchen" group-title="SINEMA KANALLAR",TR: SINEMA TV 2
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16773
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: BOSS TiYATRO
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/17354
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 1 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34309
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 2 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34310
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 3 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34311
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 4 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34312
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 6 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34313
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 5 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34314
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 7 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34315
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 8 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34316
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 9 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34317
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 10 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34318
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 11 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34319
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 12 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34320
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 13 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34321
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 14 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34322
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 15 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34323
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 16 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34324
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 17 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34325
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 18 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34326
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 19 HD
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34327
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3ce117b9235f750c2bc9fa9588ea11ae.jpg" group-title="SINEMA YEDEK",Afyon Turk
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/163242
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c2548469c208d52e124748f4b3b84858.jfif" group-title="SINEMA YEDEK",ATV Alanya
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/280341
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" group-title="SINEMA YEDEK",beIN Box Office 1
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/536
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" group-title="SINEMA YEDEK",beIN Box Office 2
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/281863
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d76fd2683c5c3a355f92d2e71afc5.png" group-title="SINEMA YEDEK",beIN Box Office 3
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/538
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/f35c4aa1c5be07033c105aa2a264ee99.png" group-title="SINEMA YEDEK",beIN Box Office Turk
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/539
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" group-title="SINEMA YEDEK",beIN Movies Action
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1761
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c72fbf1b70577e54df906132c848507.png" group-title="SINEMA YEDEK",beIN Movies Action 2
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/278527
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/75e47808eb64b20e1611e171c8a17339.png" group-title="SINEMA YEDEK",beIN Movies Family
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1763
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c2308f19e292f658c25f7eeb320302c.png" group-title="SINEMA YEDEK",beIN Movies Premiere
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1764
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" group-title="SINEMA YEDEK",beIN Movies Premiere 2
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1765
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" group-title="SINEMA YEDEK",beIN Movies Stars
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1766
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cdb8893f36235adb4e32d276d5a5d3fb.png" group-title="SINEMA YEDEK",beIN Movies Turk
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1767
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d248d175de659f0813a02e9134d18b6b.png" group-title="SINEMA YEDEK",beIN Series 1
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/298429
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b356d48dffa753ebf6b5ae6f31ff71c0.png" group-title="SINEMA YEDEK",beIN Series 2
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/298427
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ad65c62b7bfe6448570dfe2996b17f04.png" group-title="SINEMA YEDEK",beIN Series 3
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/298428
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9abe75f1c9ee476a5d033cf5ceca6cad.png" group-title="SINEMA YEDEK",beIN Series 4
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/298430
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/6747b19306e60ba4e2af48c17bb708e5.png" group-title="SINEMA YEDEK",Cine 5
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/297035
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0411b5f6674eec1a8abaf701ba25cb57.png" group-title="SINEMA YEDEK",DiziSmart Max
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/32147
+#EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4f32853a6807d014d455ae7cbff4566e.png" group-title="SINEMA YEDEK",DiziSmart Premium
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/15714
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dbfbb1bc27870351d2c46601ffef1ffc.jpg" group-title="SINEMA YEDEK",EM TV
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/604
+#EXTINF:-1 tvg-id="filmbox.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/08fc0740f29689d893c10a78608b4f2b.png" group-title="SINEMA YEDEK",FilmBox
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/533
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c3ad625bc9764714338acec644d400b4.png" group-title="SINEMA YEDEK",FilmBox Action
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/192414
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/fd7db505fd06b8fc5813fcd90e404fc1.png" group-title="SINEMA YEDEK",FilmBox Family
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/192417
+#EXTINF:-1 tvg-id="fox.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8830c4b3dfd8964820cefa5b7720e5e6.png" group-title="SINEMA YEDEK",FOX
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/514
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0e5e0250f0cc3e2bac80acdf3f841d.png" group-title="SINEMA YEDEK",Fox Crime
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/579
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a8bd956bcb4030615e56ebf8398a2a80.png" group-title="SINEMA YEDEK",Line TV
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/29833
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/756afdb0b4c5c5822870f2650294029a.png" group-title="SINEMA YEDEK",Meltem TV
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/73228
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e761d79212e94473ec62fada843f9ac.png" group-title="SINEMA YEDEK",Moviesmart Classic
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1773
+#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/39439f1ba26e0fe22f61bfb2f14ed9fd.png" group-title="SINEMA YEDEK",Moviesmart Premium
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1778
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/09ed1dcf29dd0da429d2a7abb958c7eb.png" group-title="SINEMA YEDEK",Moviesmart Turk
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1780
+#EXTINF:-1 tvg-id="moviesmartfamily.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7e777b1a0307186c05cddf9b0854b309.png" group-title="SINEMA YEDEK",Sinema 2
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1774
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/751db97a44d889859bdc7bd97319ae62.png" group-title="SINEMA YEDEK",Sinema 1001
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1789
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17ef2ad2d87a709c0e7c766a51fa9b50.png" group-title="SINEMA YEDEK",Sinema 1002
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/76722
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7539bc056bf23aa5ac9a8165198554a.png" group-title="SINEMA YEDEK",Sinema Aile
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1794
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/298280700831aef41b02e186d47c65d4.png" group-title="SINEMA YEDEK",Sinema Aksiyon
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1793
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7875332e0498d4fadcdfc0da1c2262ea.png" group-title="SINEMA YEDEK",Sinema Aksiyon 2
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1772
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c1c1df07663a91522ab303fab06dbcd.png" group-title="SINEMA YEDEK",Sinema Komedi
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1795
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/269a56ea9163933c11161845516899c7.png" group-title="SINEMA YEDEK",Sinema Komedi 2
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/43541
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0656287e0deab66449ec57679c150bac.png" group-title="SINEMA YEDEK",Sinema TV
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1790
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bf3379c2ea4f51aec7ecee160cfc211.png" group-title="SINEMA YEDEK",Sinema Yerli
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1791
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3d499de7a9a333b823948cc8ec8deb1.png" group-title="SINEMA YEDEK",Sinema Yerli 2
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/163186
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/07c42f340df3d6e485737d7fd31b8add.png" group-title="SINEMA YEDEK",TIVI TÜRK
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/192597
+
 
 --------------------ÖZGÜR-----HABER------------------------------
 #EXTINF:-1,SOZCU TV FHD
@@ -680,6 +957,59 @@ WOMAN LIFE TV FHD
 https://yayin30.haber100.com/live/womanlifetv/chunklist.m3u8
 
 ----------------spor------------------------
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" group-title="TR=  [SPOR YEDEK]",beIN Sports 1
+http://51.195.58.109/live/tv2204/tvlnk2204/123827.ts
+#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="https://iaspr.tmgrup.com.tr/2020/10/29/1604005135373.png" group-title="TR: SPOR",TR:- A Spor HD*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1876
+#EXTINF:-1 tvg-id="aspor.tr" tvg-logo="https://iaspr.tmgrup.com.tr/2020/10/29/1604005135373.png" group-title="TR: SPOR",TR:- A Spor FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2313
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-logo="https://www.trtspor.com.tr/static/img/trtspor-logo-yeni.png" group-title="TR: SPOR",TR:- TRT Spor FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1925
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/790143717751525380/cj2MuI0o_400x400.jpg" group-title="TR: SPOR",TR:- GOOOL TV
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/9558
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-sports-haber-logo.jpg" group-title="TR: SPOR",TR:- beiN Spor Haber
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/4034
+#EXTINF:-1 tvg-logo="https://www.alloconcours.com/wp-content/uploads/2018/02/bein-sport.jpg" group-title="TR: SPOR",TR:- BEIN SPORTS 1 FHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/9103
+#EXTINF:-1 tvg-logo="https://foto.haberler.com/haber/2021/01/01/01-ocak-2021-bein-sports-1-yayin-akisi-13839519_amp.jpg" group-title="TR: SPOR",TR:- BEIN SPOR 1 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3512
+#EXTINF:-1 tvg-logo="https://img.melodylinhart.com/350-_-350-_-70-_-d24j9r7lck9cin.cloudfront.net/l/f/6/6594.1491352241.png" group-title="TR: SPOR",TR:- beIN SPOR 2 HD*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3513
+#EXTINF:-1 tvg-logo="https://img.melodylinhart.com/350-_-350-_-70-_-d24j9r7lck9cin.cloudfront.net/l/f/6/6594.1491352241.png" group-title="TR: SPOR",TR:- beiN Sport HD 2
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1903
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="TR: SPOR",TR:- beiN Spor 2 1800*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2310
+#EXTINF:-1 tvg-id="beinsports3.tr" group-title="TR: SPOR",TR:- beiN Sport 3*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/7094
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="TR: SPOR",TR:- beiN Sport HD 3
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1904
+#EXTINF:-1 tvg-id="beinsports4.tr" group-title="TR: SPOR",TR:- beiN Sport 4*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/7095
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="TR: SPOR",TR:-beiN Spor 4**
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2312
+#EXTINF:-1 tvg-logo="https://foto.haberler.com/haber/2021/01/01/01-ocak-2021-bein-sports-1-yayin-akisi-13839519_amp.jpg" group-title="TR: SPOR",TR:- beiN Spor Max HD 1
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2515
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/BeIN_Sports.png" group-title="TR: SPOR",TR:- beiN Spor Max HD 2
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2516
+#EXTINF:-1 group-title="TR: SPOR",TR:- Tivibu Spor 1 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2510
+#EXTINF:-1 group-title="TR: SPOR",TR:- Tivibu Spor 2 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2511
+#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="https://www.tvf.org.tr/wp-content/uploads/2018/11/s-sport-logo.png" group-title="TR: SPOR",TR:- S Sport
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3223
+#EXTINF:-1 group-title="TR: SPOR",TR:- Galatasaray TV 1280/720
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2010
+#EXTINF:-1 group-title="TR: SPOR",TR:- Euro Spor HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2513
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-logo="https://canlitvizle.net/upload/tv/o_fb-tv-logo_20200629012211.png" group-title="TR: SPOR",TR:- FB TV
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2617
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-logo="https://foto.haberler.com/haber/2021/01/01/01-ocak-2021-bein-sports-1-yayin-akisi-13839519_amp.jpg" group-title="TR: SPOR",TR:- BEIN SPOR 1 4K++
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1971
+#EXTINF:-1 group-title="TR: SPOR",TR:- Smart Spor UHD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2304
+#EXTINF:-1 tvg-id="ssport.tr" group-title="TR: SPOR",TR:- Spor TV HD*
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2305
+#EXTINF:-1 tvg-logo="https://www.yurtgazetesi.com.tr/d/news/165283.jpg" group-title="TR: 
 #EXTINF:-1 group-title="Tvplus", EUROSPORT 1 HD
 http://49.12.123.148:8989/67/hls/playlist.m3u8
 #EXTINF:-1 group-title="Tvplus", EUROSPORT 2 HD
