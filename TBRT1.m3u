@@ -85,6 +85,9 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1tvg-id="Teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᵁᴴᴰ⁺
 https://demiroren-live.daioncdn.net:443/teve2/teve2_1080p.m3u8|User-Agent=Lavf53.32.100 
 
+#EXTINF:1,ÇOCUK LAR DUYMASIN
+https://livestream.zazerconer.workers.dev/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
+
 #EXTINF:46 type="stream" channelId="3983" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-9T4mNgfkgOY/YI3eM_KXKxI/AAAAAAAATQg/7C2JZ7Vklo4xVFtWmAl8bpqLiUnDpMrIQCLcBGAsYHQ/s0/360%2B-%2BKopya.png", 360 TV HD YEDEK
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
@@ -12780,4 +12783,3 @@ http://185.236.229.31:9981/play/a03n
 http://185.236.229.31:9981/play/a03d
 #EXTINF:-1,Dorcel TV HD
 http://185.236.229.31:9981/play/a03c
-
