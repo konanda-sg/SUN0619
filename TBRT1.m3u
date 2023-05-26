@@ -186,8 +186,8 @@ http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 #EXTINF:1,GÜNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
-#EXTINF:1,CANSUYU TV  
-https://cansuyutv77.ozelip.com:3071/stream/play.m3u
+#EXTINF:1,GERÇEK  TV  
+https://livestream.zazerconer.workers.dev/channel/UCwZvNCxB8QOVvDA5bo1C85w.m3u8
 #EXTINF:24 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEIRhIdevHQ_dWxDHDe_87JyX7MHh1XqBQ9GzjtC6XBSbxk3Z9uzAAEopCY9Sxljp-karj8Ybs8KesYGrhEjm0sPc5lRxofWbvLee5u4y9KPJimdga8i062kBMBF-mbcUYDlljhwzNDU58jmHw0N2V7qeMmvGN__wHYMjdw3piiJLbEorcIpEt9jwuQ/w152-h36/karap%C4%B1nartv.jpg", KARAPINAR MEDYA TV
 http://91.134.203.253:30124/karapinar/karapinar/sec-f5-v1-a1.m3u8
 #EXTINF:32, CINE1 TV
@@ -12438,4 +12438,3 @@ http://185.236.229.31:9981/play/a03n
 http://185.236.229.31:9981/play/a03d
 #EXTINF:-1,Dorcel TV HD
 http://185.236.229.31:9981/play/a03c
-
