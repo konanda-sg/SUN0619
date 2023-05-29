@@ -1,4 +1,67 @@
 #EXTM3U
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT MEDYA TV
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT ON
+https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT SUNGURLU19 TV
+https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+
+#EXTINF:-1,TR:YANSIMA TV
+https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
+
+#EXTINF:1, TELE ON TV ᵁᴴᴰ⁺
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
+
+#EXTINF:1,SKY HABER ve SİNEMA TV
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
+
+#EXTINF:-13,RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:19,KANAL 19
+https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+
+#EXTINF:117, NTN SİNEMA HD
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+
+#EXTINF:1,SİNEMAX TV
+https://film.ozelip.com:3344/stream/play.m3u8
+
+
+#EXTINF:1,SİNEMAX TV
+https://film.ozelip.com:3344/stream/play.m3u8
+
+#EXTINF:31,TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+
+#EXTINF:1,SAM TV
+https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
+
+#EXTINF:98, DÜZGÜN TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
+
+#EXTINF:97,AKTİF TV
+http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
+
+#EXTINF:109, AFYON TÜRK TV
+http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
+
+#EXTINF:1,,İSVİCRE TV 
+https://is.gd/NdDhgK.m3u8
+
+#EXTINF:113,SANCAK TV
+https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
+
+#EXTINF:30, EM TV
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+
+#EXTINF:30, ÖNCÜ TV
+https://edge1.socialsmart.tv/oncurtv/bant1/chunks.m3u8
+
+#EXTINF:1, SÜPER TÜRK TV
+http://95.179.215.242:3923/stream/play.m3u8
 
 -------------PLATFORM---SİNEMA------------------------
 #EXTINF:-1 tvg-id="24Kitchen" tvg-logo="http://iptv.bestipbox.com:8000/images/8d7caae4365530486a50a694702a9d69.png" group-title="SINEMA KANALLAR",TR: SINEMA TV HD
@@ -212,67 +275,3 @@ http://37.49.230.48:8080/iptvturk/ee1aafb3d9/163186
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/07c42f340df3d6e485737d7fd31b8add.png" group-title="SINEMA YEDEK",TIVI TÜRK
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/192597
 
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT MEDYA TV
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
-
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT ON TV
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
-
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT SUNGURLU 19 TV
-https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
-
-#EXTINF:-1,TR:YANSIMA TV
-https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
-
-#EXTINF:1, TELE ON TV ᵁᴴᴰ⁺
-https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
-
-#EXTINF:-13,RIZE TÜRK
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
-#EXTINF:19,KANAL 19
-https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
-
-#EXTINF:117, NTN SİNEMA HD
-https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
-#EXTINF:1,SİNEMAX TV
-https://film.ozelip.com:3344/stream/play.m3u8
-
-#EXTINF:1,SKY HABER TV HD
-https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
-
-#EXTINF:1,SİNEMAX TV
-https://film.ozelip.com:3344/stream/play.m3u8
-
-#EXTINF:-61,tiviTÜRK 
-https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:31,TV48
-https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
-
-#EXTINF:1,SAM TV
-https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
-
-#EXTINF:98, DÜZGÜN TV
-http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
-
-#EXTINF:97,AKTİF TV
-http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
-
-#EXTINF:109, AFYON TÜRK TV
-http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
-
-#EXTINF:1,,İSVİCRE TV 
-https://is.gd/NdDhgK.m3u8
-
-#EXTINF:113,SANCAK TV
-https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
-
-#EXTINF:30, EM TV
-http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-
-#EXTINF:30, ÖNCÜ TV
-https://edge1.socialsmart.tv/oncurtv/bant1/chunks.m3u8
-
-#EXTINF:1, SÜPER TÜRK TV
-http://95.179.215.242:3923/stream/play.m3u8
