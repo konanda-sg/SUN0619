@@ -100,6 +100,9 @@ https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
+#EXTINF:1,TV 90 
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+
 #EXTINF:-1,TR:ŞABAN TV
 https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
 
@@ -122,6 +125,7 @@ http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:117, NTN SİNEMA HD
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+
 #EXTINF:1, FD SİNEMA TV
 https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
 
@@ -190,49 +194,51 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
 -------------PLATFORM---SİNEMA------------------------
 
-#EXTINF:-1 group-title="Tvplus", FOX CRIME HD
-http://49.12.123.148:8989/45/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", FX HD
-http://49.12.123.148:8989/71/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA TV HD
-http://49.12.123.148:8989/62/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA TV 2 HD
-http://49.12.123.148:8989/54/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA KOMEDİ HD
-http://49.12.123.148:8989/46/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA TV AKSİYON HD
-http://49.12.123.148:8989/40/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA AKSİYON 2 HD
-http://49.12.123.148:8989/41/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA YERLİ 2 HD
-http://49.12.123.148:8989/32/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA YERLİ HD
-http://49.12.123.148:8989/33/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA AİLE HD
-http://49.12.123.148:8989/59/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA AİLE 2 HD
-http://49.12.123.148:8989/53/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA 1002 HD
-http://49.12.123.148:8989/47/hls/playlist.m3u8
-#EXTINF:-1 group-title="Tvplus", SİNEMA TV 1001 HD
-http://49.12.123.148:8989/58/hls/playlist.m3u8title="SINEMA KANALLAR",TR: SINEMA TV HD
+#EXTINF:-1 group-title="Tvplus", SINEMA TV1 
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/6
+
+#EXTINF:-1 tvg-id="24Kitchen" group-title="SINEMA KANALLAR",TR: SINEMA TV2
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16773
+
+#EXTINF:-1 group-title="Tvplus", SİNEMA TV 1001 HD
+http://49.12.123.148:8989/58/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24Kitchen" group-title="SINEMA KANALLAR",TR: SINEMA TV 1002
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16769
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/298280700831aef41b02e186d47c65d4.png" group-title="SINEMA YEDEK",INEMA TV AKSIYON TV1
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1793
+
+#EXTINF:-1 tvg-id="24Kitchen" group-title="SINEMA KANALLAR",TR: SINEMA TV AKSIYON TV2
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16770
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bf3379c2ea4f51aec7ecee160cfc211.png" group-title="SINEMA YEDEK",SINEMA TV YERLI TV1
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1791
+
+#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SINEMA TV YERLİ TV2 
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2725
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c1c1df07663a91522ab303fab06dbcd.png" group-title="SINEMA YEDEK",SINEMA TV KOMEDI TV1
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1795
+
+#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-logo="http://germany.bestipbox.com:8000/images/905d3a116843f89280b83d5f9089175d.png" group-title="SINEMA KANALLAR",TR: SINEMA TV KOMEDI TV2 
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/15
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7539bc056bf23aa5ac9a8165198554a.png" group-title="SINEMA YEDEK",SINEMA TV AİLE
+http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1794
+
+#EXTINF:-1 tvg-id="moviesmartpremium2.tr" tvg-logo="http://germany.bestipbox.com:8000/images/2bb637a0a6e66a2e530d97373cbaf20b.png" group-title="SINEMA KANALLAR",TR: SINEMA TV AİLE TV2 
+http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16
 #EXTINF:-1 tvg-id="MoviemaxStars.tr" tvg-logo="http://mocha.mochaiptv.xyz:8000/images/606a51e6ea7dbfb5c16d41bc2ae53fc2.png" group-title="SINEMA KANALLAR",TR: BEIN MOVIES STARS HD
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/10
 #EXTINF:-1 tvg-id="MoviemaxPremier.tr" tvg-logo="http://mocha.mochaiptv.xyz:8000/images/bc921eed2b45175b74b99a1a5097ac0b.png" group-title="SINEMA KANALLAR",TR: BEIN MOVIES PREMIER HD
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/12
 #EXTINF:-1 tvg-id="MoviemaxFamily.tr" group-title="SINEMA KANALLAR",TR: GOLD BOX PREMIUM
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/13
-#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-logo="http://germany.bestipbox.com:8000/images/905d3a116843f89280b83d5f9089175d.png" group-title="SINEMA KANALLAR",TR: SINEMA TV KOMEDI 2 FHD
-http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/15
-#EXTINF:-1 tvg-id="moviesmartpremium2.tr" tvg-logo="http://germany.bestipbox.com:8000/images/2bb637a0a6e66a2e530d97373cbaf20b.png" group-title="SINEMA KANALLAR",TR: SINEMA TV AILE 2 FHD
-http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16
 #EXTINF:-1 tvg-id="MovieSmartTurk.tr" tvg-logo="http://germany.bestipbox.com:8000/images/bf00c238141b61b4b543b14f8d057a59.png" group-title="SINEMA KANALLAR",TR: MOVIE SMART HD
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/19
 #EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="http://germany.bestipbox.com:8000/images/e4aa4b55f6a964eb0d7cd689276071a7.png" group-title="SINEMA KANALLAR",TR: DIZI SMART PREMIUM HD
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/597
-#EXTINF:-1 tvg-id="foxcrime.tr" tvg-logo="http://psg.mochaiptv.xyz:8000/images/bee2b8ba13d20e68d28c0aba611d207c.png" group-title="SINEMA KANALLAR",TR: FOX CRIME HD
-http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/728
 #EXTINF:-1 tvg-id="MoviemaxTurk.tr" tvg-logo="http://snopy.mochaiptv.xyz:8000/images/befea314f63fc3b57cb5be83c1b90a88.png" group-title="SINEMA KANALLAR",TR: BEIN MOVIES HD
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/8
 #EXTINF:-1 tvg-id="MoviemaxAction.tr" tvg-logo="http://mocha.mochaiptv.xyz:8000/images/fa4b54a96d77d696a20e3fd836a91ae6.png" group-title="SINEMA KANALLAR",TR: BEIN MOVIES ACTION HD
@@ -253,8 +259,6 @@ http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/1471
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/1472
 #EXTINF:-1 tvg-logo="http://jacobs.mochaiptv.xyz:8000/images/a4d47fe61c311d4c3de049875d8a4969.png" group-title="SINEMA KANALLAR",TR: FX HD
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/1790
-#EXTINF:-1 group-title="SINEMA KANALLAR",TR: SINEMA TV YERLI 2 FHD
-http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2725
 #EXTINF:-1 group-title="SINEMA KANALLAR",TR: 7/24 BİZİMKİLER
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/2728
 #EXTINF:-1 group-title="SINEMA KANALLAR",TR: 7/24 HARRY POTTER
@@ -293,12 +297,6 @@ http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/4576
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/4703
 #EXTINF:-1 group-title="SINEMA KANALLAR",TR: BeIN Movies Yesilcam HD
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/4892
-#EXTINF:-1 tvg-id="24Kitchen" group-title="SINEMA KANALLAR",TR: SINEMA TV 1002
-http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16769
-#EXTINF:-1 tvg-id="24Kitchen" group-title="SINEMA KANALLAR",TR: SINEMA TV AKSIYON 2
-http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16770
-#EXTINF:-1 tvg-id="24Kitchen" group-title="SINEMA KANALLAR",TR: SINEMA TV 2
-http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/16773
 #EXTINF:-1 group-title="SINEMA KANALLAR",TR: BOSS TiYATRO
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/17354
 #EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 1 HD
@@ -339,10 +337,6 @@ http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34325
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34326
 #EXTINF:-1 group-title="SINEMA KANALLAR",TR: SALON 19 HD
 http://178.63.64.111:8000/viphdserver/mE6SbwchaUxv/34327
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3ce117b9235f750c2bc9fa9588ea11ae.jpg" group-title="SINEMA YEDEK",Afyon Turk
-http://37.49.230.48:8080/iptvturk/ee1aafb3d9/163242
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c2548469c208d52e124748f4b3b84858.jfif" group-title="SINEMA YEDEK",ATV Alanya
-http://37.49.230.48:8080/iptvturk/ee1aafb3d9/280341
 #EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" group-title="SINEMA YEDEK",beIN Box Office 1
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/536
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" group-title="SINEMA YEDEK",beIN Box Office 2
@@ -373,14 +367,10 @@ http://37.49.230.48:8080/iptvturk/ee1aafb3d9/298427
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/298428
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9abe75f1c9ee476a5d033cf5ceca6cad.png" group-title="SINEMA YEDEK",beIN Series 4
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/298430
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/6747b19306e60ba4e2af48c17bb708e5.png" group-title="SINEMA YEDEK",Cine 5
-http://37.49.230.48:8080/iptvturk/ee1aafb3d9/297035
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0411b5f6674eec1a8abaf701ba25cb57.png" group-title="SINEMA YEDEK",DiziSmart Max
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/32147
 #EXTINF:-1 tvg-id="dizismartpremium.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4f32853a6807d014d455ae7cbff4566e.png" group-title="SINEMA YEDEK",DiziSmart Premium
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/15714
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dbfbb1bc27870351d2c46601ffef1ffc.jpg" group-title="SINEMA YEDEK",EM TV
-http://37.49.230.48:8080/iptvturk/ee1aafb3d9/604
 #EXTINF:-1 tvg-id="filmbox.tr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/08fc0740f29689d893c10a78608b4f2b.png" group-title="SINEMA YEDEK",FilmBox
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/533
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c3ad625bc9764714338acec644d400b4.png" group-title="SINEMA YEDEK",FilmBox Action
@@ -407,22 +397,16 @@ http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1774
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1789
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17ef2ad2d87a709c0e7c766a51fa9b50.png" group-title="SINEMA YEDEK",Sinema 1002
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/76722
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7539bc056bf23aa5ac9a8165198554a.png" group-title="SINEMA YEDEK",Sinema Aile
-http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1794
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/298280700831aef41b02e186d47c65d4.png" group-title="SINEMA YEDEK",Sinema Aksiyon
-http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1793
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7875332e0498d4fadcdfc0da1c2262ea.png" group-title="SINEMA YEDEK",Sinema Aksiyon 2
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1772
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c1c1df07663a91522ab303fab06dbcd.png" group-title="SINEMA YEDEK",Sinema Komedi
-http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1795
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/269a56ea9163933c11161845516899c7.png" group-title="SINEMA YEDEK",Sinema Komedi 2
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/43541
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0656287e0deab66449ec57679c150bac.png" group-title="SINEMA YEDEK",Sinema TV
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1790
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bf3379c2ea4f51aec7ecee160cfc211.png" group-title="SINEMA YEDEK",Sinema Yerli
-http://37.49.230.48:8080/iptvturk/ee1aafb3d9/1791
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3d499de7a9a333b823948cc8ec8deb1.png" group-title="SINEMA YEDEK",Sinema Yerli 2
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/163186
+
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/07c42f340df3d6e485737d7fd31b8add.png" group-title="SINEMA YEDEK",TIVI TÜRK
 http://37.49.230.48:8080/iptvturk/ee1aafb3d9/192597
 
@@ -437,9 +421,6 @@ https://tvmesaj.ozelip.com:3673/hybrid/play.m3u8
 
 #EXTINF:1,SİTELER ANGARA TV 
 https://vdo.digitalbox.xyz:3925/stream/play.m3u8
-
-#EXTINF:1,TV 90 
-https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
 #EXTINF:1,TV ADRALİN 
 http://tv86905.radyotelekomtv.com:22808/aktuel/aktuel/playlist.m3u8
