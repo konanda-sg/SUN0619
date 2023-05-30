@@ -1,9 +1,34 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://www.trt1.com.tr/public/dm_upload/modul4/158c26d7-e92d-4279-beb2-3bc902e6c405.jpg" group-title="TR: ULUSAL HD",TR:- TRT 1 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3354
+#EXTINF:-1 tvg-id="trt1.tr" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/t/trt_2_logo.png" group-title="TR: ULUSAL HD",TR:- TRT 2 HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2463
+#EXTINF:-1 tvg-logo="https://www.timeturk.com/resim/detay/168/1689568.jpg" group-title="TR: ULUSAL #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-logo="https://www.trtturk.com.tr/assets/global/img/trtturk-logo-tv.png" group-title="TR: ULUSAL HD",TR:- TRT3 TURK HD
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1855
+#EXTINF:4,TRT 4K
+http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1906
+#EXTINF:4,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1,TV5 HD
+http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
+#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT6 AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://dizicenter.net/wp-content/uploads/2017/09/kanal-7-logo-resmi-1.jpg" group-title="TR: ULUSAL HD",TR:- KANAL 7 FHD
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1861
 #EXTINF:-1 tvg-id="tv8.tr" tvg-logo="https://img.tv8.com.tr/s/template/v2/img/tv8-logo.png" group-title="TR: ULUSAL HD",TR:- TV8 HD
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2921
 #EXTINF:-1 tvg-id="tv85.tr" tvg-logo="https://images.daznservices.com/di/library/Goal_Turkey/45/f1/tv-85-logo_1u49nx7og52yq1efvorc6ax1g0.jpg?t=-1599678513&w=800&h=600" group-title="TR: ULUSAL HD",TR:- TV 8.5 FHD
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1915
+
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT1
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT2
+https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT SUNGURLU19 TV
+https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+
 #EXTINF:-1 tvg-id="startv.tr" tvg-logo="https://i01.sozcucdn.com/wp-content/uploads/2016/06/star-tv-6.jpg" group-title="TR: ULUSAL HD",TR:- STAR TV FHD
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1850
 #EXTINF:-1 tvg-logo="http://www.eurostartv.com.tr/Content/img/logo.png" group-title="TR: ULUSAL HD",TR:- EUROSTAR
