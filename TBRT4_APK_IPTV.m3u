@@ -7,11 +7,27 @@ http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2463
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1855
 #EXTINF:4,TRT 4K
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1906
+#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT5 AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT1
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT2
+https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT3 SUNGURLU
+https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+
 #EXTINF:4,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
 #EXTINF:-1,TV5 HD
 http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
-#EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT6 AVAZ
+
+#EXTINF:-1,TİVİ 6 HD
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://dizicenter.net/wp-content/uploads/2017/09/kanal-7-logo-resmi-1.jpg" group-title="TR: ULUSAL HD",TR:- KANAL 7 FHD
 http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1861
