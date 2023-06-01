@@ -1,5 +1,8 @@
 #EXTM3U
 ---------------Türkçe Alt Yazılı------------------------------
+#EXTINF:0 tvg-id="ext" group-title="Channels",7/24 ADULT TV
+https://ssh101.bozztv.com/ssh101/pornhost/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Alt.Yazili.01" tvg-logo="" group-title="ADULT +18 ➤ TURKISH SUB.",Alt.Yazili.01
 http://vip.mindtech.fun:8080/movie/SIGGI22/D8SS8L5kXN9w/24306.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Alt.Yazili.02" tvg-logo="" group-title="ADULT +18 ➤ TURKISH SUB.",Alt.Yazili.02
