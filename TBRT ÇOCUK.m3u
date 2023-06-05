@@ -1,264 +1,53 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da85a" group-title="COCUK KANALLAR",TR_TRT COCUK
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/32
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da927" group-title="COCUK KANALLAR",TR_DISNEY CHANEL
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/33
-#EXTINF:-1 tvg-id="24.tr" group-title="COCUK KANALLAR",TR_DISNEY Junior
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/738
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7fe" group-title="COCUK KANALLAR",TR_CARTOON NETWORK
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1024
-#EXTINF:-1 group-title="COCUK KANALLAR",TR_NICKELODEON HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/725
-#EXTINF:-1 tvg-id="24.tr" group-title="COCUK KANALLAR",TR_NICK JR
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/726
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da842" group-title="COCUK KANALLAR",TR_MINICA COCUK
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/34
-#EXTINF:-1 group-title="COCUK KANALLAR",TR_MINIKA GO
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1801
-#EXTINF:-1 group-title="COCUK KANALLAR",TR : SiRiNLER
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/3633
-#EXTINF:-1 group-title="COCUK KANALLAR",TR_SMART COCUK HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2359
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: MASA ve KOCA AYI
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/17304
-#EXTINF:-1 group-title="COCUK KANALLAR",TR_NILOYA TV  CIZGI FILM
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1809
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: NILOYA TV 1
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/16645
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: NILOYA TV 2
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/35309
-#EXTINF:-1 group-title="COCUK KANALLAR",TR:  PEMBE PANTER
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/35310
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: AKILLI TAVSAN MOMO
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/35311
-#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7fa" group-title="COCUK KANALLAR",TR_BABY TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/35
-#EXTINF:-1 group-title="COCUK KANALLAR",TR_PEPE TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/533
-#EXTINF:-1 group-title="COCUK KANALLAR",TR:  RAFADAN TAYFA
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/736
-#EXTINF:-1 tvg-logo="http://sweden.bestipbox.com:8000/images/52654161dc5cd830bf4b3641425cfb78.png" group-title="COCUK KANALLAR",TR : Ege ile Gaga
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/43
-#EXTINF:-1 group-title="COCUK KANALLAR",TR : POKEMON
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/24716
-#EXTINF:-1 group-title="COCUK KANALLAR",TR_BOSS DİSNEY
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1292
-#EXTINF:-1 group-title="COCUK KANALLAR",TR : HEIDI TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/4823
-#EXTINF:-1 group-title="COCUK KANALLAR",TR_ELIFIN DUSLERI
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/2358
-#EXTINF:-1 group-title="COCUK KANALLAR",TR_KELOGLAN TV 1
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1291
-#EXTINF:-1 group-title="COCUK KANALLAR",TR : KELOGLAN TV 2
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/24715
-#EXTINF:-1 group-title="COCUK KANALLAR",TR_KRAL SAKIR
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1257
-#EXTINF:-1 group-title="COCUK KANALLAR",TR_MINIBOX KUKULI
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/1256
-#EXTINF:-1 tvg-id="24.tr" group-title="COCUK KANALLAR",TR : TRT EBA TV LISE
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/4531
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: BOOMERANG
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/84804
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: RED KID TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/84805
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: TOM VE JERRY TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/84806
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: TOM AND JERYY
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/16646
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: CAILLOU TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169459
-#EXTINF:-1 group-title="COCUK KANALLAR",TR:  BARBIE TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/84808
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: SUNGER BOB TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169442
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: YILDIZ KIZ TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169443
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: POKEMON TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169444
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: PATRON BEBEK TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169446
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: KOYUN SHAUN TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169447
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ALVIN VE SINCAPLAR TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169448
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: BLUEY TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169449
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: VIKINGLER TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169450
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: SONIC TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169451
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: NINJAGO TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169452
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: MIGHTY LITTLE BHEEM TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169453
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: DORU TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169454
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ANGRY BIRDS TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169456
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: JURASSIC WORLD TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169458
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: WAKFU TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169460
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: TRANSFORMERS TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169462
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: THE LEGEND OF KORRA TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169463
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: MOLANG TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169465
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: SEKER HOCA TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169466
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: OGGY TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169467
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: SIHIRLI OKUL OTOBUSU TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169468
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: CILGIN ORMAN TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169469
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: GABBYS DOLLHOUSE TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169470
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: GRIZZY LEMMINGLER TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169471
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: NASREDDIN HOCA TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169472
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: SUNNY BUNIES TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169475
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: TALKING TOM TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169476
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: DUCK TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169477
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: CANIM KARDESIM TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169478
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: MASA ILE KOCA AYI
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169479
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: 64 KARE ULKESI
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169480
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: BOOBA TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169481
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: HEIDI TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169482
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: MUFETTIS GADGET TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169483
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: KRAL SAKIR TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169484
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: AKILLI TAVSAN MOMO TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169485
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: COCUK ILAHILERI TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169486
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: MASA ILE KOCA AYI TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169487
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: EGE ILE GAGA TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169488
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: PISI TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169489
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: RAFADAN TAYFA TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169490
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ADISEBABA MASALLAR
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169493
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: PEPPA PIG TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169494
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: SIRINLER TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169497
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: LIMON ILE ZEYTIN
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169498
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: HEIDI 3D
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169499
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: PAW PATROL TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169500
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: 80 GUNDE DEVR-I ALEM HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169502
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: BIN BIR MASSAL 1 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169503
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: AKILLI TAVSAN MOMO HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169505
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: 24/7 | THE LOONEY TUNES 1
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169509
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: 24/7 | SEVIMLI DOSTLAR TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169511
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: 24/7 | LIMON ILE ZEYTIN TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169512
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: 24/7 | EGE ILE GAGA
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169519
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: 24/7 | SIRINLER TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169520
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: 24/7 | PEPE TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169521
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: METROPOL PEPE TV
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169527
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: METROPOL HAPSUU
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169530
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: METROPOL ELIFIN DÜSLER
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/169533
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: FIXCINEMA COCUK HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185429
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: FIXCINEMA ANIMATION 3 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185426
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: FIXCINEMA ANIMATION 2 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185425
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: FIXCINEMA ANIMATION 1 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185424
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: CINETIME ANIMASYON 3 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185362
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: CINETIME ANIMASYON 2 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185361
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: CINETIME ANIMASYON 1 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185360
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: NETFLIX ANIMASYON 3 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185348
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: NETFLIX ANIMASYON 1 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185346
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: NETFLIX ANIMASYON 2 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185347
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ELIT ANIMASYON 3 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185316
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ELIT ANIMASYON 2 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185315
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ELIT ANIMASYON 1 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185314
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ELIT COCUK HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185313
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ELIT NILOYA HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185312
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ELIT AKILLI TAVSAN MOMO HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185311
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ELIT MASA ILE KOCA AYI HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185310
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: FILMBOX CIZGIFILM 3 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185394
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: FILMBOX CIZGIFILM 2 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185393
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: FILMBOX CIZGIFILM 1 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185392
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ELIT DISNEY PIXAR 3 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185337
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ELIT DISNEY PIXAR 2 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185336
-#EXTINF:-1 group-title="COCUK KANALLAR",TR: ELIT DISNEY PIXAR 1 HD
-http://king.57tv.online:8000/viphdserver/mE6SbwchaUxv/185335
-
-#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="http://picon.webhop.net/logo/turkey/trt_cocuk.png" group-title="TR: COCUK KANALLARI",TR:- TRT COCUK UHD
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1888
-#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:-  NiLOYA TUM BOLÜMLERI
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/3465
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb3n8PM8bQdjb884TuPG96SHs59kOScOOjUA&usqp=CAU" group-title="TR: COCUK KANALLARI",TR:- VIP AVRUPA ANIMATION 4K 1
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/6392
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb3n8PM8bQdjb884TuPG96SHs59kOScOOjUA&usqp=CAU" group-title="TR: COCUK KANALLARI",TR:-VIP AVRUPA ANIMATION 4K 2
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/6393
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRb3n8PM8bQdjb884TuPG96SHs59kOScOOjUA&usqp=CAU" group-title="TR: COCUK KANALLARI",TR:- VIP AVRUPA ANIMATION 4K 3
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/6394
-#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:- CARTON NETWORK LOKAL
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1980
-#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:- DISNEY JUNIOR HD
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1994
-#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:- BABY TV HD
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1995
-#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://s2.dmcdn.net/v/IPEf71VhYe0xD9IYs/x1080" group-title="TR: COCUK KANALLARI",TR:- TRT COCUK HD
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1996
-#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:- MINIKA COCUK
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1997
-#EXTINF:-1 tvg-id="minikago.tr" group-title="TR: COCUK KANALLARI",TR:- MINIKA GO HD 1280/720
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1998
-#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:-DISNEY CHANEL HD*
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/1999
-#EXTINF:-1 group-title="TR: COCUK KANALLARI",TR:- NICK JR
-http://Emrullah@tr35.net:8080/crvenikriz.com/3mEDGsfx66/2001
-#EXTINF:-1 tvg-logo="https://www.yurtgazetesi.com.tr/d/news/165283.jpg" group-title="TR: COCUK 
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | CBEEBIES HD" group-title="Tr COCUK",| TR | CBEEBIES HD
+http://1907.hopto.org:8000/mahkum/mahkum/42235
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | DA VINCI KIDS HD" group-title="Tr COCUK",| TR | DA VINCI KIDS HD
+http://1907.hopto.org:8000/mahkum/mahkum/42236
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | TRT COCUK HD" group-title="Tr COCUK",| TR | TRT COCUK HD
+http://1907.hopto.org:8000/mahkum/mahkum/42250
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | BABY TV" group-title="Tr COCUK",| TR | BABY TV
+http://1907.hopto.org:8000/mahkum/mahkum/42238
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | BOOMERANG TV HD" group-title="Tr COCUK",| TR | BOOMERANG TV HD
+http://1907.hopto.org:8000/mahkum/mahkum/42239
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | MINIKA GO" group-title="Tr COCUK",| TR | MINIKA GO
+http://1907.hopto.org:8000/mahkum/mahkum/42240
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | DISNEY JUNIOR" group-title="Tr COCUK",| TR | DISNEY JUNIOR
+http://1907.hopto.org:8000/mahkum/mahkum/42241
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | CARTOON NETWORK" group-title="Tr COCUK",| TR | CARTOON NETWORK
+http://1907.hopto.org:8000/mahkum/mahkum/42242
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Nick JR" group-title="Tr COCUK",| TR | Nick JR
+http://1907.hopto.org:8000/mahkum/mahkum/42243
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Nickelodeon" group-title="Tr COCUK",| TR | Nickelodeon
+http://1907.hopto.org:8000/mahkum/mahkum/42244
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | BABY TV HD" group-title="Tr COCUK",| TR | BABY TV HD
+http://1907.hopto.org:8000/mahkum/mahkum/42245
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | BOOMERANG HD" group-title="Tr COCUK",| TR | BOOMERANG HD
+http://1907.hopto.org:8000/mahkum/mahkum/42246
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | COCUK SMART HD" group-title="Tr COCUK",| TR | COCUK SMART HD
+http://1907.hopto.org:8000/mahkum/mahkum/42247
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | MINIKA Cocuk" group-title="Tr COCUK",| TR | MINIKA Cocuk
+http://1907.hopto.org:8000/mahkum/mahkum/42248
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Disney junior" group-title="Tr COCUK",| TR | Disney junior
+http://1907.hopto.org:8000/mahkum/mahkum/42249
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BABY TV" group-title="Tr COCUK 2",BABY TV
+http://1907.hopto.org:8000/mahkum/mahkum/43805
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BOOMERANG" group-title="Tr COCUK 2",BOOMERANG
+http://1907.hopto.org:8000/mahkum/mahkum/43806
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="CARTOON NETWORK" group-title="Tr COCUK 2",CARTOON NETWORK
+http://1907.hopto.org:8000/mahkum/mahkum/43807
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="DA VINCI" group-title="Tr COCUK 2",DA VINCI
+http://1907.hopto.org:8000/mahkum/mahkum/43808
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="DISNEY JUNIOR" group-title="Tr COCUK 2",DISNEY JUNIOR
+http://1907.hopto.org:8000/mahkum/mahkum/43809
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MINIKA COCUK" group-title="Tr COCUK 2",MINIKA COCUK
+http://1907.hopto.org:8000/mahkum/mahkum/43810
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MINIKA GO" group-title="Tr COCUK 2",MINIKA GO
+http://1907.hopto.org:8000/mahkum/mahkum/43811
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MOONBUG KIDS TV" group-title="Tr COCUK 2",MOONBUG KIDS TV
+http://1907.hopto.org:8000/mahkum/mahkum/43812
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NICKTOONS" group-title="Tr COCUK 2",NICKTOONS
+http://1907.hopto.org:8000/mahkum/mahkum/43813
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TRT COCUK" group-title="Tr COCUK 2",TRT COCUK
+http://1907.hopto.org:8000/mahkum/mahkum/43814
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="DUCK TV" group-title="Tr COCUK 2",DUCK TV
+http://1907.hopto.org:8000/mahkum/mahkum/43818
