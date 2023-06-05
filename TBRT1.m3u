@@ -914,7 +914,7 @@ https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 
 
-------------FEMİNİST---------HABER-------------------------------------------------------
+---------------------------------HABER2--------------------------------
 
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-_qvNgUtdvTE/X5xddq1MjVI/AAAAAAAAPcw/h9F02q5c37sIy2CarLIKELwCrRXH_czNQCLcBGAsYHQ/s0/ARTI_TV_LOGO_240px.jpg", ARTI TV HD
 http://45.12.1.14:80/live/BlIm21564/agf7Fp264/17296.m3u8
@@ -924,11 +924,8 @@ https://bit.ly/ARTITV_bysimba?/chunklist.m3u8
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:0 type="stream" channelId="1094" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-vDdVJAy7heA/XmyqU6m_msI/AAAAAAAAKN8/y2XUOUndCDcYIDSUekAjzZgyCM0_d6sAQCLcBGAsYHQ/w945-h600-p-k-no-nu/dGYZIpT3_400x400.png", YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
-
---------------------KURGU-----HABER------------------------------
 #EXTINF:,ANGARA TV
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w99125218_b3268000_sltur.m3u8
-
 #EXTINF:,URFA HABER TV
 https://ruhatv.ozelip.com:3483/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="1080" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR", TRT HABER
@@ -1006,13 +1003,14 @@ https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAGYJNVqdK0PePwCiwYsXOXOZTrBx82sCVr484biOWQa9inVGbIoWCnxwhrhqihPRmKimuuOw2o9-LXft4CNJTVUHJygDFK05c4mChYhWta6_u-lYcjrATgcY2kr2grOyMYDFKZkvmUVF1nRGhRFF9Xi8bxt8HPri0F0hgK-3xRKMWxInMXDeozf0njQ/s150/World-Turk.png", WORLD TURK HABER
 https://h125.artiyerelmedya.net/worldturk/bant1/playlist.m3u8
 
-------------------KURGU-------HABER-----AJANSI-------------------------
+------------------------HABER-----AJANSI-------------------------
 
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", ANADOLU AJANS AA
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", DHA AJANS CANLI
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
 
+-----------------------------------------------
 
 #EXTINF:-1,DENGE ZELAL TV
 https://ssh101.bozztv.com/ssh101/denge301/playlist.m3u8
