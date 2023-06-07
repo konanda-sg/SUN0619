@@ -106,6 +106,9 @@ https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultr
 #EXTINF:1,SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
+#EXTINF:1,TV 70 
+https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
+
 #EXTINF:1,TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
@@ -113,7 +116,7 @@ https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
 
 #EXTINF:-1,TR:DİZİ TV
-http://89.187.191.99:8080/tdc/index.m3u8
+http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
 
 #EXTINF:109, AFYON TÜRK TV
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
