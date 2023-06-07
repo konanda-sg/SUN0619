@@ -115,8 +115,11 @@ https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 #EXTINF:-1,TR:ŞABAN TV
 https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
 
-#EXTINF:-1,TR:DİZİ TV
+#EXTINF:-1,TR:DİZİ TV1
 http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
+
+#EXTINF:-1,TR:DİZİ TV2
+https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
 
 #EXTINF:109, AFYON TÜRK TV
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
