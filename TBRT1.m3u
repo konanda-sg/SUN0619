@@ -166,10 +166,12 @@ https://edge1.socialsmart.tv/oncurtv/bant1/chunks.m3u8
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 #EXTINF:-61,tiviTÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:1,,İSVİCRE TV 
+#EXTINF:1,İSVİCRE TV 
 https://is.gd/NdDhgK.m3u8
+
 #EXTINF:1,1LİK TV 
-http://iptvh.it/tbrt_medya_1liktv.m3u8
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/25053
+
 #EXTINF:0, YAGMURLU TV
 http://91.134.203.253:30124/yagmur/yagmur/chunklist.m3u8
 #EXTINF:120,ViYANA TV HD
