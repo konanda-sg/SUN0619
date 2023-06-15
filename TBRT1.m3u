@@ -1,4 +1,7 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-id="2356" tvg-logo="https://ewsat.com/img/TRT_1.png" tvg-name="TR:TRT 1 HD" group-title="TURK ULUSAL",TR:TRT 1 HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/47
+
 #EXTINF:-1,TRT1 ᵁᴴᴰ⁺
 http://iptvh.it/tbrt_medya_trt1.m3u8
 
@@ -440,293 +443,213 @@ http://149.62.177.140:8000/play/a010/index.m3u8
 
 -------------------------------BELGESEL-------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | DISCOVERY SCIENCE" group-title="Tr BELGESEL",| TR | DISCOVERY SCIENCE
-http://144.76.185.72:8000/mahkum/mahkum/42251
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | National Geographic" group-title="Tr BELGESEL",| TR | National Geographic
-http://144.76.185.72:8000/mahkum/mahkum/42252
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | NAT GEO W" group-title="Tr BELGESEL",| TR | NAT GEO W
-http://144.76.185.72:8000/mahkum/mahkum/42253
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  SCIENCE&VIE" group-title="Tr BELGESEL",| TR |  SCIENCE&VIE
-http://144.76.185.72:8000/mahkum/mahkum/42254
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | BEIN GURME HD" group-title="Tr BELGESEL",| TR | BEIN GURME HD
-http://144.76.185.72:8000/mahkum/mahkum/42255
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | BEIN IZ" group-title="Tr BELGESEL",| TR | BEIN IZ
-http://144.76.185.72:8000/mahkum/mahkum/42256
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  HISTORY" group-title="Tr BELGESEL",| TR |  HISTORY
-http://144.76.185.72:8000/mahkum/mahkum/42257
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MyZen TV" group-title="Tr BELGESEL",MyZen TV
-http://144.76.185.72:8000/mahkum/mahkum/42259
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | 24 Kitchen" group-title="Tr BELGESEL",| TR | 24 Kitchen
-http://144.76.185.72:8000/mahkum/mahkum/42260
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Animaux" group-title="Tr BELGESEL",| TR | Animaux
-http://144.76.185.72:8000/mahkum/mahkum/42261
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Bbc Earth" group-title="Tr BELGESEL",| TR | Bbc Earth
-http://144.76.185.72:8000/mahkum/mahkum/42262
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Chasse & Phe" group-title="Tr BELGESEL",| TR | Chasse & Phe
-http://144.76.185.72:8000/mahkum/mahkum/42263
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Discovery Channel" group-title="Tr BELGESEL",| TR | Discovery Channel
-http://144.76.185.72:8000/mahkum/mahkum/42264
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Dmax" group-title="Tr BELGESEL",| TR | Dmax
-http://144.76.185.72:8000/mahkum/mahkum/42265
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Docubox" group-title="Tr BELGESEL",| TR | Docubox
-http://144.76.185.72:8000/mahkum/mahkum/42266
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | YABAN TV" group-title="Tr BELGESEL",| TR | YABAN TV
-http://144.76.185.72:8000/mahkum/mahkum/42285
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | History Channel" group-title="Tr BELGESEL",| TR | History Channel
-http://144.76.185.72:8000/mahkum/mahkum/42269
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Id" group-title="Tr BELGESEL",| TR | Id
-http://144.76.185.72:8000/mahkum/mahkum/42270
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Love Nature" group-title="Tr BELGESEL",| TR | Love Nature
-http://144.76.185.72:8000/mahkum/mahkum/42271
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Nat Geo" group-title="Tr BELGESEL",| TR | Nat Geo
-http://144.76.185.72:8000/mahkum/mahkum/42272
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Nat Geo Wild" group-title="Tr BELGESEL",| TR | Nat Geo Wild
-http://144.76.185.72:8000/mahkum/mahkum/42273
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Science & Vie Tv" group-title="Tr BELGESEL",| TR | Science & Vie Tv
-http://144.76.185.72:8000/mahkum/mahkum/42274
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Tarih Tv" group-title="Tr BELGESEL",| TR | Tarih Tv
-http://144.76.185.72:8000/mahkum/mahkum/42275
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Tlc" group-title="Tr BELGESEL",| TR | Tlc
-http://144.76.185.72:8000/mahkum/mahkum/42276
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Trt Belgesel" group-title="Tr BELGESEL",| TR | Trt Belgesel
-http://144.76.185.72:8000/mahkum/mahkum/42277
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Viasat Explore" group-title="Tr BELGESEL",| TR | Viasat Explore
-http://144.76.185.72:8000/mahkum/mahkum/42278
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Viasat History" group-title="Tr BELGESEL",| TR | Viasat History
-http://144.76.185.72:8000/mahkum/mahkum/42279
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Viasat Nature" group-title="Tr BELGESEL",| TR | Viasat Nature
-http://144.76.185.72:8000/mahkum/mahkum/42280
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Yaban Tv" group-title="Tr BELGESEL",| TR | Yaban Tv
-http://144.76.185.72:8000/mahkum/mahkum/42281
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | DMAX  HD+" group-title="Tr BELGESEL",| TR | DMAX  HD+
-http://144.76.185.72:8000/mahkum/mahkum/42282
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  TLC  HD+" group-title="Tr BELGESEL",| TR |  TLC  HD+
-http://144.76.185.72:8000/mahkum/mahkum/42283
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | TRT BELGESEL  HD+" group-title="Tr BELGESEL",| TR | TRT BELGESEL  HD+
-http://144.76.185.72:8000/mahkum/mahkum/42284
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.pngguru.com/preview/342/631/615/turk-bayrak-logolari-png-clipart.jpg" tvg-name="*****TURK BELGESEL*****" group-title="TURK BELGESEL",*****TURK BELGESEL*****
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/134
+#EXTINF:-1 tvg-id="" tvg-logo="http://logos10.xyz/tvlogolari/TR/idx.jpg" tvg-name="TR:IDX HD" group-title="TURK BELGESEL",TR:IDX HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/145
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/56be1015603671024bb4fe96/-1116947154/256.png" tvg-name="TR:BBC EARTH HD" group-title="TURK BELGESEL",TR:BBC EARTH HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/136
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/nat_geo_us.png" tvg-name="TR:NAT GEO HD" group-title="TURK BELGESEL",TR:NAT GEO HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/137
+#EXTINF:-1 tvg-id="natgeowild.tr" tvg-logo="https://s3.voka.tv/rosing-voka-production/ab58ca5c421493376fcf_256x256c.jpg" tvg-name="TR:NAT GEO WILD" group-title="TURK BELGESEL",TR:NAT GEO WILD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/138
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/discovery_global_us.png" tvg-name="TR:DISCOVERY CHANNEL" group-title="TURK BELGESEL",TR:DISCOVERY CHANNEL
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/140
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/discovery_science_global.png" tvg-name="TR:DISCOVERY SCIENCE" group-title="TURK BELGESEL",TR:DISCOVERY SCIENCE
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/141
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/trt_belgesel_tr.png" tvg-name="TR:TRT BELGESEL" group-title="TURK BELGESEL",TR:TRT BELGESEL
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/147
+#EXTINF:-1 tvg-id="" tvg-logo="http://logos10.xyz/tvlogolari/TR/tgrt_belgesel.png" tvg-name="TR:TGRT BELGESEL" group-title="TURK BELGESEL",TR:TGRT BELGESEL
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/416
+#EXTINF:-1 tvg-id="animalplanet.tr" tvg-logo="" tvg-name="TR:AUTOMOTO" group-title="TURK BELGESEL",TR:AUTOMOTO
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/142
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/history_tr.png" tvg-name="TR:HISTORY CHANNEL" group-title="TURK BELGESEL",TR:HISTORY CHANNEL
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/143
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/viasatnature_history.png" tvg-name="TR:VIASAT NATURE/HISTORY HD" group-title="TURK BELGESEL",TR:VIASAT NATURE/HISTORY HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/144
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.caytvhaber.com/uploads/images/45670_1.jpg" tvg-name="TR:Cay tv" group-title="TURK BELGESEL",TR:Cay tv
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3242
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/yaban_tv.png" tvg-name="TR:YABAN TV" group-title="TURK BELGESEL",TR:YABAN TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/146
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:KÖY TV" group-title="TURK BELGESEL",TR:KÖY TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/406
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-logo="" tvg-name="TR:BEIN IZ HD" group-title="TURK BELGESEL",TR:BEIN IZ HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/135
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="https://pbs.twimg.com/profile_images/1063080193722642434/VPXfPyuQ_reasonably_small.jpg" tvg-name="TR:BEIN GURME HD" group-title="TURK BELGESEL",TR:BEIN GURME HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/85
 
 -------------SPOR----------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | A Spor FHD" group-title="Tr  ULUSAL SPOR",| TR | A Spor FHD
-http://144.76.185.72:8000/mahkum/mahkum/42209
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | A Spor HD" group-title="Tr  ULUSAL SPOR",| TR | A Spor HD
-http://144.76.185.72:8000/mahkum/mahkum/42210
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Trt Spor FHD" group-title="Tr  ULUSAL SPOR",| TR | Trt Spor FHD
-http://144.76.185.72:8000/mahkum/mahkum/42211
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Trt Spor HD" group-title="Tr  ULUSAL SPOR",| TR | Trt Spor HD
-http://144.76.185.72:8000/mahkum/mahkum/42212
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Trt Spor Y" group-title="Tr  ULUSAL SPOR",| TR | Trt Spor Y
-http://144.76.185.72:8000/mahkum/mahkum/42214
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Fb Tv HD" group-title="Tr  ULUSAL SPOR",| TR | Fb Tv HD
-http://144.76.185.72:8000/mahkum/mahkum/42215
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Gs Tv HD" group-title="Tr  ULUSAL SPOR",| TR | Gs Tv HD
-http://144.76.185.72:8000/mahkum/mahkum/42216
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports 1 SD" group-title="TR= BEIN_SPORT",| TR | b**N Sports 1 SD
-http://144.76.185.72:8000/mahkum/mahkum/42104
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports 1 HD" group-title="TR= BEIN_SPORT",| TR | b**N Sports 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/42103
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports 1 FHD" group-title="TR= BEIN_SPORT",| TR | b**N Sports 1 FHD
-http://144.76.185.72:8000/mahkum/mahkum/42102
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports 2 " group-title="TR= BEIN_SPORT",| TR | b**N Sports 2
-http://144.76.185.72:8000/mahkum/mahkum/42106
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports 3 " group-title="TR= BEIN_SPORT",| TR | b**N Sports 3
-http://144.76.185.72:8000/mahkum/mahkum/42109
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports 4 " group-title="TR= BEIN_SPORT",| TR | b**N Sports 4
-http://144.76.185.72:8000/mahkum/mahkum/42112
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports 5 SD" group-title="TR= BEIN_SPORT",| TR | b**N Sports 5 SD
-http://144.76.185.72:8000/mahkum/mahkum/42113
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports 5 HD" group-title="TR= BEIN_SPORT",| TR | b**N Sports 5 HD
-http://144.76.185.72:8000/mahkum/mahkum/42114
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports MAX 1" group-title="TR= BEIN_SPORT",| TR | b**N Sports MAX 1
-http://144.76.185.72:8000/mahkum/mahkum/42115
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports MAX 2" group-title="TR= BEIN_SPORT",| TR | b**N Sports MAX 2
-http://144.76.185.72:8000/mahkum/mahkum/42116
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | b**N Sports HABER" group-title="TR= BEIN_SPORT",| TR | b**N Sports HABER
-http://144.76.185.72:8000/mahkum/mahkum/42118
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Sport  SD" group-title="Tr  S SPORT + PULUS",| TR |  S Sport  SD
-http://144.76.185.72:8000/mahkum/mahkum/42165
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Sport  HD" group-title="Tr  S SPORT + PULUS",| TR |  S Sport  HD
-http://144.76.185.72:8000/mahkum/mahkum/42166
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Sport  FHD" group-title="Tr  S SPORT + PULUS",| TR |  S Sport  FHD
-http://144.76.185.72:8000/mahkum/mahkum/42167
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Sport 2 SD" group-title="Tr  S SPORT + PULUS",| TR |  S Sport 2 SD
-http://144.76.185.72:8000/mahkum/mahkum/42168
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Sport 2 HD" group-title="Tr  S SPORT + PULUS",| TR |  S Sport 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/42169
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Sport 2 FHD" group-title="Tr  S SPORT + PULUS",| TR |  S Sport 2 FHD
-http://144.76.185.72:8000/mahkum/mahkum/42170
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S  Plus+ (live)" group-title="Tr  S SPORT + PULUS",| TR |  S  Plus+ (live)
-http://144.76.185.72:8000/mahkum/mahkum/42171
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Plus+ 1" group-title="Tr  S SPORT + PULUS",| TR |  S Plus+ 1
-http://144.76.185.72:8000/mahkum/mahkum/42173
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Plus+ 2" group-title="Tr  S SPORT + PULUS",| TR |  S Plus+ 2
-http://144.76.185.72:8000/mahkum/mahkum/42175
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Plus+ 3" group-title="Tr  S SPORT + PULUS",| TR |  S Plus+ 3
-http://144.76.185.72:8000/mahkum/mahkum/42176
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Plus+ 4" group-title="Tr  S SPORT + PULUS",| TR |  S Plus+ 4
-http://144.76.185.72:8000/mahkum/mahkum/42177
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Plus+ 5" group-title="Tr  S SPORT + PULUS",| TR |  S Plus+ 5
-http://144.76.185.72:8000/mahkum/mahkum/42178
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  S Plus+ 6" group-title="Tr  S SPORT + PULUS",| TR |  S Plus+ 6
-http://144.76.185.72:8000/mahkum/mahkum/42179
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | TIVIBU SPOR FHD" group-title="Tr  TIVIBU SPOR",| TR | TIVIBU SPOR FHD
-http://144.76.185.72:8000/mahkum/mahkum/42204
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  TIVIBU SPOR 1 FHD" group-title="Tr  TIVIBU SPOR",| TR |  TIVIBU SPOR 1 FHD
-http://144.76.185.72:8000/mahkum/mahkum/42205
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | TIVIBU SPOR 2 FHD" group-title="Tr  TIVIBU SPOR",| TR | TIVIBU SPOR 2 FHD
-http://144.76.185.72:8000/mahkum/mahkum/42206
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | TIVIBU SPOR 3 FHD" group-title="Tr  TIVIBU SPOR",| TR | TIVIBU SPOR 3 FHD
-http://144.76.185.72:8000/mahkum/mahkum/42207
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | TIVIBU SPOR 4 FHD" group-title="Tr  TIVIBU SPOR",| TR | TIVIBU SPOR 4 FHD
-http://144.76.185.72:8000/mahkum/mahkum/42208
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SporSmart 1 FHD" group-title="Tr  D SMART SPOR",| TR | SporSmart 1 FHD
-http://144.76.185.72:8000/mahkum/mahkum/42195
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SporSmart 1 HD" group-title="Tr  D SMART SPOR",| TR | SporSmart 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/42196
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SporSmart 2 FHD" group-title="Tr  D SMART SPOR",| TR | SporSmart 2 FHD
-http://144.76.185.72:8000/mahkum/mahkum/42197
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SporSmart 2 HD" group-title="Tr  D SMART SPOR",| TR | SporSmart 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/42198
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Eurosport 1 FHD" group-title="Tr  D SMART SPOR",| TR | Eurosport 1 FHD
-http://144.76.185.72:8000/mahkum/mahkum/42199
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Eurosport 2 FHD" group-title="Tr  D SMART SPOR",| TR | Eurosport 2 FHD
-http://144.76.185.72:8000/mahkum/mahkum/42200
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Nba Tv FHD" group-title="Tr  D SMART SPOR",| TR | Nba Tv FHD
-http://144.76.185.72:8000/mahkum/mahkum/42201
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Tay Tv FHD" group-title="Tr  D SMART SPOR",| TR | Tay Tv FHD
-http://144.76.185.72:8000/mahkum/mahkum/42202
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | TJK" group-title="Tr  D SMART SPOR",| TR | TJK
-http://144.76.185.72:8000/mahkum/mahkum/42203
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | EXXEN SPOR 1 HD" group-title="Tr  EXXEN MACTIME",| TR | EXXEN SPOR 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/42187
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | EXXEN-SPOR-2" group-title="Tr  EXXEN MACTIME",| TR | EXXEN-SPOR-2
-http://144.76.185.72:8000/mahkum/mahkum/42188
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | EXXEN-SPOR-3" group-title="Tr  EXXEN MACTIME",| TR | EXXEN-SPOR-3
-http://144.76.185.72:8000/mahkum/mahkum/42189
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | EXXEN-SPOR-4" group-title="Tr  EXXEN MACTIME",| TR | EXXEN-SPOR-4
-http://144.76.185.72:8000/mahkum/mahkum/42190
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | EXXEN-SPOR-5" group-title="Tr  EXXEN MACTIME",| TR | EXXEN-SPOR-5
-http://144.76.185.72:8000/mahkum/mahkum/42191
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | EXXEN-SPOR-6" group-title="Tr  EXXEN MACTIME",| TR | EXXEN-SPOR-6
-http://144.76.185.72:8000/mahkum/mahkum/42192
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | EXXEN-SPOR-7" group-title="Tr  EXXEN MACTIME",| TR | EXXEN-SPOR-7
-http://144.76.185.72:8000/mahkum/mahkum/42193
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | EXXEN-SPOR-8" group-title="Tr  EXXEN MACTIME",| TR | EXXEN-SPOR-8
-http://144.76.185.72:8000/mahkum/mahkum/42194
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dmy.info/wp-content/uploads/2016/09/turkfutbol-680x350.png" tvg-name="*****TURK SPOR*****" group-title="TURK SPOR",*****TURK SPOR*****
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/29
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-logo="https://pbs.twimg.com/profile_images/1124247345632354305/LKC9Riaw_reasonably_small.png" tvg-name="TR:BEIN SPORTS HABER HD" group-title="TURK SPOR",TR:BEIN SPORTS HABER HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/12
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/640px-Bein_sport_logo.svg.png" tvg-name="TR:BEIN SPORTS S1" group-title="TURK SPOR",TR:BEIN SPORTS S1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/1107
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/640px-Bein_sport_logo.svg.png" tvg-name="TR:BEIN SPORTS S2" group-title="TURK SPOR",TR:BEIN SPORTS S2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/1108
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/640px-Bein_sport_logo.svg.png" tvg-name="TR:BEIN SPORTS S3" group-title="TURK SPOR",TR:BEIN SPORTS S3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/1109
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/640px-Bein_sport_logo.svg.png" tvg-name="TR:BEIN SPORTS S4" group-title="TURK SPOR",TR:BEIN SPORTS S4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/1110
+#EXTINF:-1 tvg-id="Tivibu Spor 1 TR" tvg-logo="https://i.pinimg.com/originals/6c/16/90/6c169064ba0695f9a79ac4a7c513ad83.png" tvg-name="TR:TIVIBUSPOR S1" group-title="TURK SPOR",TR:TIVIBUSPOR S1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3518
+#EXTINF:-1 tvg-id="Tivibu Spor 2 TR" tvg-logo="https://i.pinimg.com/originals/6c/16/90/6c169064ba0695f9a79ac4a7c513ad83.png" tvg-name="TR:TIVIBUSPOR S2" group-title="TURK SPOR",TR:TIVIBUSPOR S2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3519
+#EXTINF:-1 tvg-id="Tivibu Spor 3 TR" tvg-logo="https://i.pinimg.com/originals/6c/16/90/6c169064ba0695f9a79ac4a7c513ad83.png" tvg-name="TR:TIVIBUSPOR S3" group-title="TURK SPOR",TR:TIVIBUSPOR S3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3520
+#EXTINF:-1 tvg-id="ssport.tr" tvg-logo="https://www.yeniyeniseyler.com/wp-content/uploads/bfi_thumb/S-Sport-383nk02sffanvacu98nta8.png" tvg-name="TR:S SPORT HD" group-title="TURK SPOR",TR:S SPORT HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/17
+#EXTINF:-1 tvg-id="" tvg-logo="http://logos10.xyz/tvlogolari/TR/trt_spor_tr.png" tvg-name="TR:TRT SPOR HD" group-title="TURK SPOR",TR:TRT SPOR HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/32
+#EXTINF:-1 tvg-id="A Spor TR" tvg-logo="http://logos10.xyz/tvlogolari/TR/a_spor_tr.png" tvg-name="TR:A SPOR HD" group-title="TURK SPOR",TR:A SPOR HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/30
+#EXTINF:-1 tvg-id="fbtv.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/fbtv_fenerbahce.png" tvg-name="TR:FB TV" group-title="TURK SPOR",TR:FB TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/34
+#EXTINF:-1 tvg-id="GS TV TR" tvg-logo="http://logos10.xyz/tvlogolari/TR/galatasaray_tv.png" tvg-name="TR:GS TV" group-title="TURK SPOR",TR:GS TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/35
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canlitvx.com/images/channels/sports-tv.png" tvg-name="TR:SPORTS TV HD" group-title="TURK SPOR",TR:SPORTS TV HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/38
+#EXTINF:-1 tvg-id="Eurosport 1 TR" tvg-logo="http://static.iptv-epg.com/de/Eurosport1.de.png" tvg-name="TR:EUROSPORT 1 HD" group-title="TURK SPOR",TR:EUROSPORT 1 HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/42
+#EXTINF:-1 tvg-id="Eurosport 2 TR" tvg-logo="http://static.iptv-epg.com/de/Eurosport2.de.png" tvg-name="TR:EUROSPORT 2 HD" group-title="TURK SPOR",TR:EUROSPORT 2 HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/43
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tjk_tv_logo.png/640px-Tjk_tv_logo.png" tvg-name="TR:TJK TV" group-title="TURK SPOR",TR:TJK TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/45
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-WPahNIvRXmI/VSWUoeHcZ7I/AAAAAAAAAEY/haM9W8g6OKE/s320/Tay%2BTv%2Bcanl%C4%B1%2Btv%2Bizle.png" tvg-name="TR:TAY TV" group-title="TURK SPOR",TR:TAY TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/44
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nba.com/assets/nbatv/logo/grid/nba-tv-horiz-color.png" tvg-name="TR:NBA TV (TR/ENG)" group-title="TURK SPOR",TR:NBA TV (TR/ENG)
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/41
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/92/Fightbox_Logo.png" tvg-name="TR:FIGHTBOX (TR/ENG)" group-title="TURK SPOR",TR:FIGHTBOX (TR/ENG)
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/40
+#EXTINF:-1 tvg-id="" tvg-logo="https://media02.statarea.com/images/teams/embl/1247.png" tvg-name="TR:BURSA SPOR TV" group-title="TURK SPOR",TR:BURSA SPOR TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/37
 ----------------------- SİNEMA -----------------------------
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | beIN MOVIES TURK HD" group-title="Tr  SİNEMA SALONLAR",| TR | beIN MOVIES TURK HD
-http://144.76.185.72:8000/mahkum/mahkum/42217
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | beIN MOVIES PREMIERE HD" group-title="Tr  SİNEMA SALONLAR",| TR | beIN MOVIES PREMIERE HD
-http://144.76.185.72:8000/mahkum/mahkum/42218
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | beIN MOVIES PREMIERE 2 HD" group-title="Tr  SİNEMA SALONLAR",| TR | beIN MOVIES PREMIERE 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/42219
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | beIN MOVIES ACTION HD" group-title="Tr  SİNEMA SALONLAR",| TR | beIN MOVIES ACTION HD
-http://144.76.185.72:8000/mahkum/mahkum/42220
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | beIN MOVIES FAMILY HD" group-title="Tr  SİNEMA SALONLAR",| TR | beIN MOVIES FAMILY HD
-http://144.76.185.72:8000/mahkum/mahkum/42222
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | beIN SERIES COMEDY HD" group-title="Tr  SİNEMA SALONLAR",| TR | beIN SERIES COMEDY HD
-http://144.76.185.72:8000/mahkum/mahkum/42223
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  beIN SERIES DRAMA HD" group-title="Tr  SİNEMA SALONLAR",| TR |  beIN SERIES DRAMA HD
-http://144.76.185.72:8000/mahkum/mahkum/42224
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | beIN SERIES VICE HD" group-title="Tr  SİNEMA SALONLAR",| TR | beIN SERIES VICE HD
-http://144.76.185.72:8000/mahkum/mahkum/42225
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | beIN SERIES SCI-FI HD" group-title="Tr  SİNEMA SALONLAR",| TR | beIN SERIES SCI-FI HD
-http://144.76.185.72:8000/mahkum/mahkum/42226
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | beIN MOVIES  Stars" group-title="Tr  SİNEMA SALONLAR",| TR | beIN MOVIES  Stars
-http://144.76.185.72:8000/mahkum/mahkum/42227
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  MOVIE SMART TURK HD" group-title="Tr  SİNEMA SALONLAR",| TR |  MOVIE SMART TURK HD
-http://144.76.185.72:8000/mahkum/mahkum/42228
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | MOVIE SMART CLASSIC HD" group-title="Tr  SİNEMA SALONLAR",| TR | MOVIE SMART CLASSIC HD
-http://144.76.185.72:8000/mahkum/mahkum/42229
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | DIZISMART PREMIUM" group-title="Tr  SİNEMA SALONLAR",| TR | DIZISMART PREMIUM
-http://144.76.185.72:8000/mahkum/mahkum/42230
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | Epic Drama" group-title="Tr  SİNEMA SALONLAR",| TR | Epic Drama
-http://144.76.185.72:8000/mahkum/mahkum/42231
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  FX TV" group-title="Tr  SİNEMA SALONLAR",| TR |  FX TV
-http://144.76.185.72:8000/mahkum/mahkum/42232
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  FILMBOX" group-title="Tr  SİNEMA SALONLAR",| TR |  FILMBOX
-http://144.76.185.72:8000/mahkum/mahkum/42233
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | DIZISMART MAX" group-title="Tr  SİNEMA SALONLAR",| TR | DIZISMART MAX
-http://144.76.185.72:8000/mahkum/mahkum/42234
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="FX HD" group-title="Tr  SİNEMA SALONLAR 2",FX HD
-http://144.76.185.72:8000/mahkum/mahkum/43955
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BEiN BOX OFFiCE 1 HD" group-title="Tr  SİNEMA SALONLAR 2",BEiN BOX OFFiCE 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/43929
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BEiN BOX OFFiCE 2 HD" group-title="Tr  SİNEMA SALONLAR 2",BEiN BOX OFFiCE 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/43930
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="BEiN BOX OFFiCE 3 HD" group-title="Tr  SİNEMA SALONLAR 2",BEiN BOX OFFiCE 3 HD
-http://144.76.185.72:8000/mahkum/mahkum/43931
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN MOVIES PREMIERE 1 HD" group-title="Tr  SİNEMA SALONLAR 2",beIN MOVIES PREMIERE 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/43932
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN MOVIES PREMIERE 2 HD" group-title="Tr  SİNEMA SALONLAR 2",beIN MOVIES PREMIERE 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/43933
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN MOVIES STARS HD" group-title="Tr  SİNEMA SALONLAR 2",beIN MOVIES STARS HD
-http://144.76.185.72:8000/mahkum/mahkum/43934
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN MOVIES TURK HD" group-title="Tr  SİNEMA SALONLAR 2",beIN MOVIES TURK HD
-http://144.76.185.72:8000/mahkum/mahkum/43935
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN SERIES 1 HD" group-title="Tr  SİNEMA SALONLAR 2",beIN SERIES 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/43936
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN SERIES 3 HD" group-title="Tr  SİNEMA SALONLAR 2",beIN SERIES 3 HD
-http://144.76.185.72:8000/mahkum/mahkum/43937
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN SERIES 2 HD" group-title="Tr  SİNEMA SALONLAR 2",beIN SERIES 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/43938
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="beIN SERIES 4 HD" group-title="Tr  SİNEMA SALONLAR 2",beIN SERIES 4 HD
-http://144.76.185.72:8000/mahkum/mahkum/43939
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="DIZI SMART PREMIUM HD" group-title="Tr  SİNEMA SALONLAR 2",DIZI SMART PREMIUM HD
-http://144.76.185.72:8000/mahkum/mahkum/43940
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MOVIE SMART CLASSIC HD" group-title="Tr  SİNEMA SALONLAR 2",MOVIE SMART CLASSIC HD
-http://144.76.185.72:8000/mahkum/mahkum/43941
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MOVIE SMART TURK HD" group-title="Tr  SİNEMA SALONLAR 2",MOVIE SMART TURK HD
-http://144.76.185.72:8000/mahkum/mahkum/43942
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV YERLi 1 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV YERLi 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/43943
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV YERLi 2 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV YERLi 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/43944
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV 1 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/43945
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV 2 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/43946
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV AKSiYON 1 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV AKSiYON 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/43947
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV AKSIYON 2 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV AKSIYON 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/43948
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV AiLE 1 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV AiLE 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/43949
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV AILE 2 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV AILE 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/43950
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV KOMEDi 1 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV KOMEDi 1 HD
-http://144.76.185.72:8000/mahkum/mahkum/43951
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV KOMEDi 2 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV KOMEDi 2 HD
-http://144.76.185.72:8000/mahkum/mahkum/43952
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV 1001 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV 1001 HD
-http://144.76.185.72:8000/mahkum/mahkum/43953
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="SiNEMA TV 1002 HD" group-title="Tr  SİNEMA SALONLAR 2",SiNEMA TV 1002 HD
-http://144.76.185.72:8000/mahkum/mahkum/43954
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SINEMA 1001" group-title="Tr Sinema Tivibu",| TR | SINEMA 1001
-http://144.76.185.72:8000/mahkum/mahkum/43485
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  SINEMA 1002" group-title="Tr Sinema Tivibu",| TR |  SINEMA 1002
-http://144.76.185.72:8000/mahkum/mahkum/43486
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SINEMA 2" group-title="Tr Sinema Tivibu",| TR | SINEMA 2
-http://144.76.185.72:8000/mahkum/mahkum/43487
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SINEMA TV" group-title="Tr Sinema Tivibu",| TR | SINEMA TV
-http://144.76.185.72:8000/mahkum/mahkum/43488
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SINEMA AILE" group-title="Tr Sinema Tivibu",| TR | SINEMA AILE
-http://144.76.185.72:8000/mahkum/mahkum/43489
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SINEMA AILE 2" group-title="Tr Sinema Tivibu",| TR | SINEMA AILE 2
-http://144.76.185.72:8000/mahkum/mahkum/43490
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SINEMA AKSIYON" group-title="Tr Sinema Tivibu",| TR | SINEMA AKSIYON
-http://144.76.185.72:8000/mahkum/mahkum/43491
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SINEMA AKSIYON 2" group-title="Tr Sinema Tivibu",| TR | SINEMA AKSIYON 2
-http://144.76.185.72:8000/mahkum/mahkum/43492
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR |  SINEMA KOMEDI" group-title="Tr Sinema Tivibu",| TR |  SINEMA KOMEDI
-http://144.76.185.72:8000/mahkum/mahkum/43493
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SINEMA YERLİ 2" group-title="Tr Sinema Tivibu",| TR | SINEMA YERLİ 2
-http://144.76.185.72:8000/mahkum/mahkum/43494
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="| TR | SINEMA YERLİ" group-title="Tr Sinema Tivibu",| TR | SINEMA YERLİ
-http://144.76.185.72:8000/mahkum/mahkum/43495
-
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:ELIT KEMAL SUNAL TV 2" group-title="TURK SINEMA",TR:ELIT KEMAL SUNAL TV 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/25046
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.pngguru.com/preview/342/631/615/turk-bayrak-logolari-png-clipart.jpg" tvg-name="*****TURK SINEMA*****" group-title="TURK SINEMA",*****TURK SINEMA*****
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/148
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-logo="" tvg-name="TR:BEIN BOX OFFICE 1" group-title="TURK SINEMA",TR:BEIN BOX OFFICE 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/153
+#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-logo="" tvg-name="TR:BEIN BOX OFFICE 2" group-title="TURK SINEMA",TR:BEIN BOX OFFICE 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/154
+#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-logo="" tvg-name="TR:BEIN BOX OFFICE 3" group-title="TURK SINEMA",TR:BEIN BOX OFFICE 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/155
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 1" group-title="TURK SINEMA",TR:SINEMA MIX 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/804
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 2" group-title="TURK SINEMA",TR:SINEMA MIX 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/805
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 3" group-title="TURK SINEMA",TR:SINEMA MIX 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/806
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 4" group-title="TURK SINEMA",TR:SINEMA MIX 4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/807
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 5" group-title="TURK SINEMA",TR:SINEMA MIX 5
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/808
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 6" group-title="TURK SINEMA",TR:SINEMA MIX 6
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/809
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 7" group-title="TURK SINEMA",TR:SINEMA MIX 7
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/810
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 8" group-title="TURK SINEMA",TR:SINEMA MIX 8
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/811
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 9" group-title="TURK SINEMA",TR:SINEMA MIX 9
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/812
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 10" group-title="TURK SINEMA",TR:SINEMA MIX 10
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/813
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 11" group-title="TURK SINEMA",TR:SINEMA MIX 11
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/814
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 12" group-title="TURK SINEMA",TR:SINEMA MIX 12
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/815
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 13" group-title="TURK SINEMA",TR:SINEMA MIX 13
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/816
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 14" group-title="TURK SINEMA",TR:SINEMA MIX 14
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/817
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 15" group-title="TURK SINEMA",TR:SINEMA MIX 15
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/818
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 16" group-title="TURK SINEMA",TR:SINEMA MIX 16
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/819
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 17" group-title="TURK SINEMA",TR:SINEMA MIX 17
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/820
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 18" group-title="TURK SINEMA",TR:SINEMA MIX 18
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/821
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA MIX 19" group-title="TURK SINEMA",TR:SINEMA MIX 19
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/822
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA COCUK" group-title="TURK SINEMA",TR:SINEMA COCUK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/803
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA ANIMASYON 1" group-title="TURK SINEMA",TR:SINEMA ANIMASYON 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/778
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA ANIMASYON 2" group-title="TURK SINEMA",TR:SINEMA ANIMASYON 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/779
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA ANIMASYON 3" group-title="TURK SINEMA",TR:SINEMA ANIMASYON 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/780
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA AKSIYON 1" group-title="TURK SINEMA",TR:SINEMA AKSIYON 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/769
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA AKSIYON 2" group-title="TURK SINEMA",TR:SINEMA AKSIYON 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/770
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA AKSIYON 3" group-title="TURK SINEMA",TR:SINEMA AKSIYON 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/771
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA AKSIYON 4" group-title="TURK SINEMA",TR:SINEMA AKSIYON 4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/772
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA AKSIYON 5" group-title="TURK SINEMA",TR:SINEMA AKSIYON 5
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/773
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA AKSIYON 6" group-title="TURK SINEMA",TR:SINEMA AKSIYON 6
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/774
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA BILIM KURGU 1" group-title="TURK SINEMA",TR:SINEMA BILIM KURGU 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/775
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA BILIM KURGU 2" group-title="TURK SINEMA",TR:SINEMA BILIM KURGU 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/776
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA BILIM KURGU 3" group-title="TURK SINEMA",TR:SINEMA BILIM KURGU 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/777
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA KOMEDI 1" group-title="TURK SINEMA",TR:SINEMA KOMEDI 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/788
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA KOMEDI 2" group-title="TURK SINEMA",TR:SINEMA KOMEDI 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/787
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA KOMEDI 3" group-title="TURK SINEMA",TR:SINEMA KOMEDI 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/786
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA KOMEDI 4" group-title="TURK SINEMA",TR:SINEMA KOMEDI 4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/789
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA KOMEDI 5" group-title="TURK SINEMA",TR:SINEMA KOMEDI 5
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/790
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA DRAMA 1" group-title="TURK SINEMA",TR:SINEMA DRAMA 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/796
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA DRAMA 2" group-title="TURK SINEMA",TR:SINEMA DRAMA 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/797
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:MOVIESHD BILIM KURGU" group-title="TURK SINEMA",TR:MOVIESHD BILIM KURGU
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/798
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:MOVIESHD DRAM" group-title="TURK SINEMA",TR:MOVIESHD DRAM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/799
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:MOVIESHD KOMEDI" group-title="TURK SINEMA",TR:MOVIESHD KOMEDI
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/800
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:MOVIESHD ROMANTIK" group-title="TURK SINEMA",TR:MOVIESHD ROMANTIK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/801
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA YESILCAM" group-title="TURK SINEMA",TR:SINEMA YESILCAM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/802
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA TURK 1" group-title="TURK SINEMA",TR:SINEMA TURK 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/781
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA TURK 2" group-title="TURK SINEMA",TR:SINEMA TURK 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/782
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA TURK 3" group-title="TURK SINEMA",TR:SINEMA TURK 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/783
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA TURK 4" group-title="TURK SINEMA",TR:SINEMA TURK 4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/784
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA TURK 5" group-title="TURK SINEMA",TR:SINEMA TURK 5
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/785
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA TURK 6" group-title="TURK SINEMA",TR:SINEMA TURK 6
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/791
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA KORKU 1" group-title="TURK SINEMA",TR:SINEMA KORKU 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/792
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA KORKU 2" group-title="TURK SINEMA",TR:SINEMA KORKU 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/793
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA KORKU 3" group-title="TURK SINEMA",TR:SINEMA KORKU 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/794
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA KORKU 4" group-title="TURK SINEMA",TR:SINEMA KORKU 4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/795
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="" tvg-name="TR:SINEMA TV KOMEDI" group-title="TURK SINEMA",TR:SINEMA TV KOMEDI
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/178
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-logo="" tvg-name="TR:SINEMA TV AKSIYON" group-title="TURK SINEMA",TR:SINEMA TV AKSIYON
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/180
+#EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-logo="" tvg-name="TR:SINEMA TV AILE" group-title="TURK SINEMA",TR:SINEMA TV AILE
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/179
 --------------------ÖZGÜN-----HABER------------------------------
 #EXTINF:-1,SOZCU TV FHD
 http://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
@@ -813,6 +736,33 @@ https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 #EXTINF:102, TRT EBA LİSE
 https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.pngguru.com/preview/342/631/615/turk-bayrak-logolari-png-clipart.jpg" tvg-name="*****TURK COCUK*****" group-title="TURK COCUK",*****TURK COCUK*****
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/117
+#EXTINF:-1 tvg-id="babytv.tr" tvg-logo="" tvg-name="TR:BABY TV" group-title="TURK COCUK",TR:BABY TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3240
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="" tvg-name="TR:NICK JR" group-title="TURK COCUK",TR:NICK JR
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/120
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-logo="" tvg-name="TR:NICKELODEON HD" group-title="TURK COCUK",TR:NICKELODEON HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/119
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-logo="" tvg-name="TR:DISNEY JUNIOR" group-title="TURK COCUK",TR:DISNEY JUNIOR
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/121
+
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-logo="https://www.ecanlitvizle.live/logo/trt-cocuk-tv-izle.png" tvg-name="TR:TRT COCUK" group-title="TURK COCUK",TR:TRT COCUK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/125
+#EXTINF:-1 tvg-id="minikago.tr" tvg-logo="" tvg-name="TR:MINIKA GO" group-title="TURK COCUK",TR:MINIKA GO
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/126
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="" tvg-name="TR:MINIKA COCUK" group-title="TURK COCUK",TR:MINIKA COCUK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/127
+#EXTINF:-1 tvg-id="smartcocuk.tr" tvg-logo="" tvg-name="TR:COCUK SMART HD" group-title="TURK COCUK",TR:COCUK SMART HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/128
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:CBEEBIES HD" group-title="TURK COCUK",TR:CBEEBIES HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/131
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-logo="" tvg-name="TR:CARTOON NETWORK" group-title="TURK COCUK",TR:CARTOON NETWORK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/124
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:BOOMERANG HD" group-title="TURK COCUK",TR:BOOMERANG HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/118
+#EXTINF:-1 tvg-id="davinci.tr" tvg-logo="" tvg-name="TR:DAVINCI LEARNING" group-title="TURK COCUK",TR:DAVINCI LEARNING
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/123
 
 ---------------------------------HABER2--------------------------------
 
@@ -903,13 +853,93 @@ https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAGYJNVqdK0PePwCiwYsXOXOZTrBx82sCVr484biOWQa9inVGbIoWCnxwhrhqihPRmKimuuOw2o9-LXft4CNJTVUHJygDFK05c4mChYhWta6_u-lYcjrATgcY2kr2grOyMYDFKZkvmUVF1nRGhRFF9Xi8bxt8HPri0F0hgK-3xRKMWxInMXDeozf0njQ/s150/World-Turk.png", WORLD TURK HABER
 https://h125.artiyerelmedya.net/worldturk/bant1/playlist.m3u8
 
-------------------------HABER-----AJANSI-------------------------
-
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", ANADOLU AJANS AA
-http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", DHA AJANS CANLI
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
-
+------------------------MÜZİK-------------------------
+#EXTINF:-1 tvg-logo="yok" group-title=KRT",SLOW KARADENİZ TV
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:VATAN TV" group-title="TURK YEREL",TR:VATAN TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/20801
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.pngguru.com/preview/342/631/615/turk-bayrak-logolari-png-clipart.jpg" tvg-name="*****TURK MUZIK*****" group-title="TURK MUZIK",*****TURK MUZIK*****
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4943
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-logo="https://1.bp.blogspot.com/-8AJGVBSY2So/VRUzkXM27gI/AAAAAAAAPYI/61n_V5WreTM/s640/logo2zls.png" tvg-name="TR:TRT MUZIK" group-title="TURK MUZIK",TR:TRT MUZIK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/443
+#EXTINF:-1 tvg-id="numberonetv.tr" tvg-logo="" tvg-name="TR:NR ONE TURK HD" group-title="TURK MUZIK",TR:NR ONE TURK HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/442
+#EXTINF:-1 tvg-id="numberonetv.tr" tvg-logo="" tvg-name="TR:NR ONE HD" group-title="TURK MUZIK",TR:NR ONE HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/441
+#EXTINF:-1 tvg-id="Kral TV TR" tvg-logo="" tvg-name="TR:KRAL TV" group-title="TURK MUZIK",TR:KRAL TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/438
+#EXTINF:-1 tvg-id="kralpop.tr" tvg-logo="" tvg-name="TR:KRAL POP TV" group-title="TURK MUZIK",TR:KRAL POP TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/823
+#EXTINF:-1 tvg-id="dreamturk.tr" tvg-logo="" tvg-name="TR:DREAM TURK" group-title="TURK MUZIK",TR:DREAM TURK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/440
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-logo="" tvg-name="TR:POWER TV" group-title="TURK MUZIK",TR:POWER TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3248
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-logo="" tvg-name="TR:POWER TURK" group-title="TURK MUZIK",TR:POWER TURK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/102
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:KRAL TV HD" group-title="TURK MUZIK",TR:KRAL TV HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4726
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:GOZDE RADYO" group-title="TURK MUZIK",TR RADIO:GOZDE RADYO
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4729
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:CEMRE FM" group-title="TURK MUZIK",TR RADIO:CEMRE FM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4669
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:YILDIZLAR MAKAMI" group-title="TURK MUZIK",TR RADIO:YILDIZLAR MAKAMI
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4672
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:VAN FM" group-title="TURK MUZIK",TR RADIO:VAN FM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4673
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:BALKAN FM" group-title="TURK MUZIK",TR RADIO:BALKAN FM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4727
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:YOZGAT FM" group-title="TURK MUZIK",TR RADIO:YOZGAT FM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4678
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:RADYO VATAN TURKU" group-title="TURK MUZIK",TR RADIO:RADYO VATAN TURKU
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4691
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:RADYO SEHERYELI DINI" group-title="TURK MUZIK",TR RADIO:RADYO SEHERYELI DINI
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4679
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:Radyo Mastika" group-title="TURK MUZIK",TR RADIO:Radyo Mastika
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4680
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.inlife.tv/sites/default/files/styles/nodes/public/logos/radyo-ege-havalari.jpg?itok=QeIo7xZI" tvg-name="TR:POWER TURK AKUSTIK" group-title="TURK MUZIK",TR:POWER TURK AKUSTIK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4681
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:Kemence Fm" group-title="TURK MUZIK",TR RADIO:Kemence Fm
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4684
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:POWER TURK TAPTAZE" group-title="TURK MUZIK",TR:POWER TURK TAPTAZE
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4717
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:POWER PLUS+" group-title="TURK MUZIK",TR:POWER PLUS+
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4687
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:MAMAS FM POP" group-title="TURK MUZIK",TR RADIO:MAMAS FM POP
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4688
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:MAMAS ARABESK" group-title="TURK MUZIK",TR RADIO:MAMAS ARABESK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4690
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:ISTANBULUN SESI ARABESK" group-title="TURK MUZIK",TR RADIO:ISTANBULUN SESI ARABESK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4718
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:HAYAL FM KARISIK" group-title="TURK MUZIK",TR RADIO:HAYAL FM KARISIK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4715
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:Gözyasi FM" group-title="TURK MUZIK",TR RADIO:Gözyasi FM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4711
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:DERYA FM" group-title="TURK MUZIK",TR RADIO:DERYA FM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4694
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:DAMLA FM (TOP)" group-title="TURK MUZIK",TR RADIO:DAMLA FM (TOP)
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4695
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:DAMAR TURK" group-title="TURK MUZIK",TR RADIO:DAMAR TURK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4710
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:DAMAR FM" group-title="TURK MUZIK",TR RADIO:DAMAR FM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4696
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:BODRUM FM POP" group-title="TURK MUZIK",TR RADIO:BODRUM FM POP
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4697
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:POWER LOVE" group-title="TURK MUZIK",TR:POWER LOVE
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4675
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:Seymen Radyo" group-title="TURK MUZIK",TR RADIO:Seymen Radyo
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4699
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:POWER TURK SLOW" group-title="TURK MUZIK",TR:POWER TURK SLOW
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4701
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:ARABESK TURK" group-title="TURK MUZIK",TR RADIO:ARABESK TURK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4706
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:ARABESK RADYO" group-title="TURK MUZIK",TR RADIO:ARABESK RADYO
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4703
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:ARABESK MELODI FM" group-title="TURK MUZIK",TR RADIO:ARABESK MELODI FM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4704
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:ARABESK FM" group-title="TURK MUZIK",TR RADIO:ARABESK FM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4705
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR RADIO:RADYO BANKO" group-title="TURK MUZIK",TR RADIO:RADYO BANKO
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/4728
 -----------------------------------------------
 
 #EXTINF:-1,DENGE ZELAL TV
