@@ -127,6 +127,9 @@ http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
 #EXTINF:-1,TR:DİZİ TV2
 https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
 
+#EXTINF:-1,TR:TOLK SHOW TV 
+https://livestream.zazerconer.workers.dev/channel/UC8GogQ-ZbFov6DCE2XpJtCg.m3u8
+
 #EXTINF:109, AFYON TÜRK TV
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
