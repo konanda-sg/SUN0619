@@ -1,5 +1,20 @@
 ﻿#EXTM3U
 
+#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT1
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+
+#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT2
+https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT3
+https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+
+#EXTINF:4,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:102, CINE5 TV HD
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+
 #EXTINF:-1,TRT1 ᵁᴴᴰ⁺
 http://iptvh.it/tbrt_medya_trt1.m3u8
 
@@ -29,21 +44,6 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
 http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100 
-
-#EXTINF:7 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT1
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
-
-#EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT2
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
-
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT3
-https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
-
-#EXTINF:4,TV4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-
-#EXTINF:102, CINE5 TV HD
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
