@@ -15,6 +15,21 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
+#EXTINF:-1,TİVİ 6 HD
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 FHD
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
+http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100
+
 #EXTINF:-1,TRT1 ᵁᴴᴰ⁺
 http://iptvh.it/tbrt_medya_trt1.m3u8
 
@@ -30,29 +45,11 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TV5 HD
 http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
-#EXTINF:-1,TİVİ 6 HD
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 FHD
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
-#EXTINF:0 type="stream" channelId="1941" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-y-JCN-jP-2o/YI3eOgNoDPI/AAAAAAAATRA/1WdyRekkY9Y1uhMB5Gr7fQOD9JuFhtpHgCLcBGAsYHQ/s0/KANAL7%2B-%2BKopya.png", KANAL 7 avrupa
-https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-
-#EXTINF:-1 tvg-id="TV8.tr"tvg-name="TV8 HD" tvg-logo="https://picon-13398.kxcdn.com/tv8tr.jpg" group-title="ULUSAL",TV8 
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100 
-
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
 #EXTINF:4,TELE ON 4K
 https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
-
-#EXTINF:1,SÜPRİZ TV 
-https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
 
 #EXTINF:1,SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
@@ -294,8 +291,8 @@ https://broadcasttr.com:446/frttv/bant1/chunklist_w240577799.m3u8
 #EXTINF:78 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dd622845-6ef1-42e5-bb37-63e774af3daf.png" group-title= "YEREL KANALLAR", Kanal Fırat
 https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
 
-#EXTINF:-96,BİR TV HD
-https://h59.artiyerelmedya.net/birtv/bant1/chunks.m3u8
+#EXTINF:1,SÜPRİZ TV 
+https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
 
 #EXTINF:111,GOP SEN TV
 http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
