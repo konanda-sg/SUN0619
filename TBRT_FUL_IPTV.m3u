@@ -31,10 +31,7 @@ https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-id="TV85.tr"tvg-name="TV85.tr"  tvg-logo="https://picon-13398.kxcdn.com/tv85tr.jpg" group-title="ULUSAL",TV8'5 ᵁᴴᴰ⁺
-http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lavf53.32.100
-
-#EXTINF:2, MEGA ON
-https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/71
 
 #EXTINF:-1,TRT1 ᵁᴴᴰ⁺
 http://iptvh.it/tbrt_medya_trt1.m3u8
