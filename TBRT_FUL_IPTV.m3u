@@ -45,7 +45,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:4 type="stream" channelId="1054" group="TRT MEDYA_iPTV_KANALLAR", TRT4 AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1,TV5 HD
+#EXTINF:-1,TV5 (YUTB)
 http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
 #EXTINF:19,KANAL 19
@@ -63,6 +63,42 @@ https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 #EXTINF:1,TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
+#EXTINF:1, FD YERLİ TV
+https://ssh101.bozztv.com/ssh101/fdtvyerli/chunks.m3u8
+
+#EXTINF:1, FD Y.ÇAM TV
+https://ssh101.bozztv.com/ssh101/fdtvyesilcam/chunks.m3u8
+
+#EXTINF:-1,TR:ŞABAN TV
+https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+
+#EXTINF:1,GÜNAYDIN TV
+https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
+
+#EXTINF:109, AFYON TÜRK TV
+http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
+
+#EXTINF:-1,TR:YANSIMA TV
+https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
+
+#EXTINF:-13,RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:98, DÜZGÜN TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
+
+#EXTINF:97,AKTİF TV
+http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
+
+#EXTINF:117, NTN SİNEMA HD
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+
+#EXTINF:-1,TR:BİR TV
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+
+#EXTINF:32, CINE1 TV
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
 #EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:0 type="stream" channelId="4628" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4628", ATV AVRUPA
@@ -71,9 +107,7 @@ http://62.182.82.104/atv_turk/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/52
 
-#http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100 
-
-
+ 
 #EXTINF:0 type="stream" channelId="3992" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3992", A2ᵁᴴᴰ⁺
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/55
 
@@ -103,12 +137,6 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:-41,EURO D https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
-#EXTINF:32, CINE1 TV
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-
-#EXTINF:-1,TR:1tv
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
-
 #EXTINF:-1tvg-id="Teve2.tr"tvg-name="Teve2.tr"  tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg" group-title="ULUSAL",Teve2 ᵁᴴᴰ⁺
 https://demiroren-live.daioncdn.net:443/teve2/teve2_1080p.m3u8|User-Agent=Lavf53.32.100 
 
@@ -121,48 +149,10 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.3
 #EXTINF:-12,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
-#EXTINF:-12,Belgesel TV1
-https://livestream.zazerconer.workers.dev/channel/UCJduEGukjOXzTW4jfkQ-ihw.m3u8
 
-#EXTINF:-12,Belgesel TV2
-https://livestream.zazerconer.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
-
-
-#EXTINF:-1,TR:ŞABAN TV
-https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
-
-#EXTINF:-1,TR:DİZİ TV1
-http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
-
-#EXTINF:-1,TR:DİZİ TV2
-https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
-
-#EXTINF:1,GÜNAYDIN TV
-https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
-
-#EXTINF:109, AFYON TÜRK TV
-http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
-
-#EXTINF:-1,TR:YANSIMA TV
-https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
-
-#EXTINF:-13,RIZE TÜRK
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
-#EXTINF:98, DÜZGÜN TV
-http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
-
-#EXTINF:97,AKTİF TV
-http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
-
-#EXTINF:117, NTN SİNEMA HD
-https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 
 #EXTINF:1, FD SİNEMA TV
 https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
-
-#EXTINF:1, FD Y.ÇAM TV
-https://ssh101.bozztv.com/ssh101/fdtvyesilcam/chunks.m3u8
 
 #EXTINF:1,SİNEMAX TV
 https://film.ozelip.com:3344/stream/play.m3u8
@@ -172,8 +162,6 @@ https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 
 #EXTINF:30, 15 TV
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-#EXTINF:30, ÖNCÜ TV
-https://edge1.socialsmart.tv/oncurtv/bant1/chunks.m3u8
 
 #EXTINF:1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
@@ -181,28 +169,33 @@ https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 #EXTINF:-61,tiviTÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
+#EXTINF:1,SÜPRİZ TV 
+https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
+
 #EXTINF:1,İSVİCRE TV 
 https://is.gd/NdDhgK.m3u8
-#EXTINF:-1,Bruksel Turk
-https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
-#EXTINF:1,1LİK TV 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/25053
-#EXTINF:-1,izmire dair tv
-https://vdo.digitalbox.xyz:3734/stream/play.m3u8
+
 #EXTINF:0, YAGMURLU TV
 http://91.134.203.253:30124/yagmur/yagmur/chunklist.m3u8
+
 #EXTINF:120,ViYANA TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+
 #EXTINF:1,ALMANYA TV
 http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
+
 #EXTINF:58 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLUPLAY 1 HD
 https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
+
 #EXTINF:60 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BTV
 https://edge1.socialsmart.tv/btv/bant1/chunks.m3u8
+
 #EXTINF:62 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53/CLCTV.PNG", CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+
 #EXTINF:99, ADA NET TV  HD
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+
 #EXTINF:99, KANAL ADA TV
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
 
@@ -220,6 +213,12 @@ https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 
 #EXTINF:24 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEIRhIdevHQ_dWxDHDe_87JyX7MHh1XqBQ9GzjtC6XBSbxk3Z9uzAAEopCY9Sxljp-karj8Ybs8KesYGrhEjm0sPc5lRxofWbvLee5u4y9KPJimdga8i062kBMBF-mbcUYDlljhwzNDU58jmHw0N2V7qeMmvGN__wHYMjdw3piiJLbEorcIpEt9jwuQ/w152-h36/karap%C4%B1nartv.jpg", KARAPINAR MEDYA TV
 http://91.134.203.253:30124/karapinar/karapinar/sec-f5-v1-a1.m3u8
+
+#EXTINF:-1,TR:DİZİ TV1
+http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
+
+#EXTINF:-1,TR:DİZİ TV2
+https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
 
 #EXTINF:1,SLOW K.DENİZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
@@ -300,9 +299,6 @@ https://broadcasttr.com:446/frttv/bant1/chunklist_w240577799.m3u8
 #EXTINF:78 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/dd622845-6ef1-42e5-bb37-63e774af3daf.png" group-title= "YEREL KANALLAR", Kanal Fırat
 https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
 
-#EXTINF:1,SÜPRİZ TV 
-https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
-
 #EXTINF:111,GOP SEN TV
 http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
 
@@ -381,9 +377,6 @@ http://stream.taksimbilisim.com:1935/koroglutv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
 https://cors.deno.dev/http://yerelmedya.tv:1935/anadolunettv/bant1/chunks.m3u8| User-Agent=Lavf53.32.100  
 
-#EXTINF:-1,ÇÖZÜM YAPI TV
-http://157.230.106.252:3496/hybrid/play.m3u8
-
 #EXTINF:-1,ON6 TV
 https://h125.artiyerelmedya.net/kanal16/bant1/chunks.m3u8
 
@@ -441,9 +434,73 @@ https://h92.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
 #EXTINF:-1,RUMELİ TV
 http://149.62.177.140:8000/play/a010/index.m3u8
 
+--------------------ÖZGÜN-----HABER------------------------------
+#EXTINF:-1,Bruksel Turk
+https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 
--------------------------------BELGESEL-------------------------------
+#EXTINF:1,ATV 
+#http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100
 
+#EXTINF:-1,izmire dair tv
+https://vdo.digitalbox.xyz:3734/stream/play.m3u8
+
+#EXTINF:-1,SOZCU TV FHD
+http://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+#EXTINF:-1,TELE1 FHD
+http://livestream.zazerconer.workers.dev/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
+#EXTINF:-1,HALK TV FHD
+http://livestream.zazerconer.workers.dev/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
+#EXTINF:-1,KRT TV FHD
+http://livestream.zazerconer.workers.dev/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH HABER TV
+http://135.125.234.9:8081/flashtv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH HABER TV HD
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH HABER TV FHD
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/61951f54866ac31a807822ea", KRT TV HD
+https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1,ARTI TV FHD
+http://livestream.zazerconer.workers.dev/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/63ff0d17866ac3189cf375d9", SOZCU TV HD
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+#EXTINF:-1 group-title="Tvplus",PRESTİJ TV
+https://livestream.zazerconer.workers.dev/channel/UCfeePmjEUo0PvQo7xK2yA_g.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV
+http://135.125.234.9:8081/halktv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV HD
+https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV FHD
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/61951f54866ac31a807822ea", KRT TV HD YEDEK
+http://135.125.234.9:8081/krttv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD
+https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD YEDEK
+http://135.125.234.9:8081/tele1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-EMwZw1FeRk8/YKoIB2zfiTI/AAAAAAAATuY/buvf1_ANh6YPp-1qG5godzqnqEWSvSvKACLcBGAsYHQ/s220/tv5tr.png", TV5 HD [YOU]
+https://www.youtube.com/watch?v=56MllGbeFME
+#EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100 
+#EXTINF:-1 group-title="Tvplus", TV100
+http://49.12.123.148:8989/9/hls/playlist.m3u8
+#EXTINF:18 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD 
+http://135.125.234.9:8081/tele1/index.m3u8
+#EXTINF:21 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV FHD
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:22 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61951f4c866ac31a807822e8?w=80&q=75", KRT TV HD 
+http://135.125.234.9:8081/krttv/index.m3u8
+#EXTINF: 16 tvg-logo="http://i.ibb.co/KbJFP48/SZC.png" group-title="HABER", SZC TV
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+
+
+-------------------------------BELGESEL----------------------------------------
+#EXTINF:-12,Belgesel TV1
+https://livestream.zazerconer.workers.dev/channel/UCJduEGukjOXzTW4jfkQ-ihw.m3u8
+
+#EXTINF:-12,Belgesel TV2
+https://livestream.zazerconer.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
+--------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.pngguru.com/preview/342/631/615/turk-bayrak-logolari-png-clipart.jpg" tvg-name="*****TURK BELGESEL*****" group-title="TURK BELGESEL",*****TURK BELGESEL*****
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/134
 #EXTINF:-1 tvg-id="" tvg-logo="http://logos10.xyz/tvlogolari/TR/idx.jpg" tvg-name="TR:IDX HD" group-title="TURK BELGESEL",TR:IDX HD
@@ -651,55 +708,6 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/178
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/180
 #EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-logo="" tvg-name="TR:SINEMA TV AILE" group-title="TURK SINEMA",TR:SINEMA TV AILE
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/179
---------------------ÖZGÜN-----HABER------------------------------
-#EXTINF:-1,SOZCU TV FHD
-http://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
-#EXTINF:-1,TELE1 FHD
-http://livestream.zazerconer.workers.dev/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
-#EXTINF:-1,HALK TV FHD
-http://livestream.zazerconer.workers.dev/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
-#EXTINF:-1,KRT TV FHD
-http://livestream.zazerconer.workers.dev/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH HABER TV
-http://135.125.234.9:8081/flashtv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH HABER TV HD
-https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH HABER TV FHD
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/61951f54866ac31a807822ea", KRT TV HD
-https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1,ARTI TV FHD
-http://livestream.zazerconer.workers.dev/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/63ff0d17866ac3189cf375d9", SOZCU TV HD
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
-#EXTINF:-1 group-title="Tvplus",PRESTİJ TV
-https://livestream.zazerconer.workers.dev/channel/UCfeePmjEUo0PvQo7xK2yA_g.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV
-http://135.125.234.9:8081/halktv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV HD
-https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV FHD
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/61951f54866ac31a807822ea", KRT TV HD YEDEK
-http://135.125.234.9:8081/krttv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD
-https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD YEDEK
-http://135.125.234.9:8081/tele1/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-EMwZw1FeRk8/YKoIB2zfiTI/AAAAAAAATuY/buvf1_ANh6YPp-1qG5godzqnqEWSvSvKACLcBGAsYHQ/s220/tv5tr.png", TV5 HD [YOU]
-https://www.youtube.com/watch?v=56MllGbeFME
-#EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100 
-#EXTINF:-1 group-title="Tvplus", TV100
-http://49.12.123.148:8989/9/hls/playlist.m3u8
-#EXTINF:18 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD 
-http://135.125.234.9:8081/tele1/index.m3u8
-#EXTINF:21 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV FHD
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:22 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61951f4c866ac31a807822e8?w=80&q=75", KRT TV HD 
-http://135.125.234.9:8081/krttv/index.m3u8
-#EXTINF: 16 tvg-logo="http://i.ibb.co/KbJFP48/SZC.png" group-title="HABER", SZC TV
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="======== Sinema ========" tvg-logo="" group-title="Turkey",======== Sinema ========
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401211
