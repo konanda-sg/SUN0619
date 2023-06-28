@@ -69,7 +69,10 @@ https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 http://62.182.82.104/atv_turk/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="ATVTurkiye.tr"tvg-name="ATV TR" tvg-logo="https://picon-13398.kxcdn.com/atvtr.jpg"  group-title="ULUSAL",ATV ᵁᴴᴰ
-http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/52
+
+#http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100 
+
 
 #EXTINF:0 type="stream" channelId="3992" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3992", A2ᵁᴴᴰ⁺
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/55
