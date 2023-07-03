@@ -5,7 +5,7 @@ https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
 https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="TBRT MEDYA",TBRT 3
 https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI 6 (ANKARA)" group-title="TURK ULUSAL",TR:TIVI 6 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI 6 " group-title="TURK ULUSAL",TR:TIVI 6 
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/20799
 #EXTINF:-1 tvg-id="2356" tvg-logo="https://ewsat.com/img/TRT_1.png" tvg-name="TR:TRT 1 HD" group-title="TURK ULUSAL",TR:TRT 1 HD
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/47
@@ -65,8 +65,10 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/86
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/87
 #EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.demokrathaber.org/images/haberler/thumbs/2017/01/teve_2_izle_h26750_c2308.png" tvg-name="TR:TEVE 2" group-title="TURK ULUSAL",TR:TEVE 2
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/88
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:KÖY TV" group-title="TURK BELGESEL",VTV
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:KÖY TV" group-title="TURK,VTV
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/406
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:ELIT KEMAL SUNAL TV 2" group-title="TURK SINEMA",TR:ELIT KEMAL SUNAL TV 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/25046
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA BILIM KURGU 1" group-title="TURK SINEMA",TR:SINEMA BILIM KURGU 1
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/775
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA BILIM KURGU 2" group-title="TURK SINEMA",TR:SINEMA BILIM KURGU 2
