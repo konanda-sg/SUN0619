@@ -31,6 +31,8 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/60
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/58
 #EXTINF:-1 tvg-id="showmax.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/show_max_tr.png" tvg-name="TR:SHOWMAX" group-title="TURK ULUSAL",TR:SHOWMAX
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/61
+#EXTINF:-1 tvg-id="360 TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" tvg-name="TR:SKYTURK 360" group-title="TURK ULUSAL",TR:SKYTURK 360
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/79
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telekom.de/is-bin/intershop.static/WFS/EKI-PK-Site/EKI-PK/de_DE/themen/senderwall/page/images/channel-wall/logos/senderlogo-euro-d.png" tvg-name="TR:EURO D" group-title="TURK ULUSAL",TR:EURO D
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/64
 #EXTINF:-1 tvg-id="kanald.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/kanal_d_tr.png" tvg-name="TR:KANAL D HD" group-title="TURK ULUSAL",TR:KANAL D HD
@@ -255,8 +257,6 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3253
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/103
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pirha.net/wp-content/uploads/2018/04/can-573x336.jpg" tvg-name="TR:CAN TV" group-title="TURK ULUSAL",TR:CAN TV
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/110
-#EXTINF:-1 tvg-id="360 TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" tvg-name="TR:SKYTURK 360" group-title="TURK ULUSAL",TR:SKYTURK 360
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/79
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/tv_100_250x150.png" tvg-name="TR:TV100" group-title="TURK HABER",TR:TV100
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/73
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.pngguru.com/preview/342/631/615/turk-bayrak-logolari-png-clipart.jpg" tvg-name="*****TURK HABER*****" group-title="TURK HABER",*****TURK HABER*****
