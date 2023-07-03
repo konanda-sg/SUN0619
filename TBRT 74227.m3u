@@ -1,15 +1,10 @@
 ﻿#EXTM3U
-
-
 #EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="TBRT MEDYA",TBRT 1
 https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="TBRT MEDYA",TBRT 2
 https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="TBRT MEDYA",TBRT 3
 https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="*****TURK ULUSAL*****" group-title="TURK ULUSAL",*****TURK ULUSAL*****
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/46
 #EXTINF:-1 tvg-id="2356" tvg-logo="https://ewsat.com/img/TRT_1.png" tvg-name="TR:TRT 1 SD" group-title="TURK ULUSAL",TR:TRT 1 SD
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/111
 #EXTINF:-1 tvg-id="2356" tvg-logo="https://ewsat.com/img/TRT_1.png" tvg-name="TR:TRT 1 HD" group-title="TURK ULUSAL",TR:TRT 1 HD
