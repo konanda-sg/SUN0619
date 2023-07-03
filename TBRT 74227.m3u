@@ -1,20 +1,78 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="TBRT MEDYA",TBRT 1
 https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="TBRT MEDYA",TBRT 2
 https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title="TBRT MEDYA",TBRT 3
 https://ssh101.bozztv.com/ssh101/teber3/chunks.m3u8
+
+#EXTINF:4,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:102, CINE5 TV HD
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+
+#EXTINF:4,TELE ON 4K
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
+
+#EXTINF:1,SKY HABER TV HD
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
+
+#EXTINF:1,TV 70 
+https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
+
+#EXTINF:1,TV 90 
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+
+#EXTINF:1, FD YERLİ TV
+https://ssh101.bozztv.com/ssh101/fdtvyerli/chunks.m3u8
+
+
+#EXTINF:-1,TR:ŞABAN TV
+https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+
+#EXTINF:1,GÜNAYDIN TV
+https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
+
+#EXTINF:109, AFYON TÜRK TV
+http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
+
+#EXTINF:-1,TR:YANSIMA TV
+https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
+
+#EXTINF:-13,RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:98, DÜZGÜN TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
+
+#EXTINF:97,AKTİF TV
+http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
+
+#EXTINF:117, NTN SİNEMA HD
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+
+#EXTINF:-1,TR:BİR TV
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+
+#EXTINF:32, CINE1 TV
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI 6 " group-title="TURK ULUSAL",TR:TIVI 6 
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/20799
+#EXTINF:19,KANAL 19
+https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1 tvg-id="2356" tvg-logo="https://ewsat.com/img/TRT_1.png" tvg-name="TR:TRT 1 HD" group-title="TURK ULUSAL",TR:TRT 1 HD
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/47
 #EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_of_TRT_2_%282005-2010%29.png" tvg-name="TR:TRT 2" group-title="TURK ULUSAL",TR:TRT 2
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3249
-#EXTINF:-1 tvg-id="trtavaz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TRT_Avaz_kurumsal_logo.png" tvg-name="TR:TRT AVAZ" group-title="TURK ULUSAL",TR:TRT AVAZ
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TRT_Avaz_kurumsal_logo.png" tvg-name="TR:TRT3 AVAZ" group-title="TURK ULUSAL",TR:TRT3 AVAZ
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/50
-#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TRT_T%C3%BCrk_logosu.png" tvg-name="TR:TRT TURK" group-title="TURK ULUSAL",TR:TRT TURK
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TRT_T%C3%BCrk_logosu.png" tvg-name="TR:TRT TURK" group-title="TURK ULUSAL",TR:TRT4 TURK
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/49
+#EXTINF:-1,TV5 (YUTB)
+http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 #EXTINF:-1 tvg-id="5423" tvg-logo="https://i.dlpng.com/static/png/388689_preview.png" tvg-name="TR:ATV AVRUPA" group-title="TURK ULUSAL",TR:ATV AVRUPA
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/54
 #EXTINF:-1 tvg-id="5423" tvg-logo="https://pluspng.com/img-png/atv-logo-png-atv-hd-frekans-atv-yeni-frekans-bilgileri-2016-350.png" tvg-name="TR:ATV HD" group-title="TURK ULUSAL",TR:ATV HD
