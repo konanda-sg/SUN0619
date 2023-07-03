@@ -29,15 +29,17 @@ https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 #EXTINF:1, FD YERLİ TV
 https://ssh101.bozztv.com/ssh101/fdtvyerli/chunks.m3u8
 
+#EXTINF:109, AFYON TÜRK ŞABAN TV
+http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:-1,TR:ŞABAN TV
+#EXTINF:-1,ŞABAN TV1
 https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+
+#EXTINF:-1,ŞABAN TV2 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/25046
 
 #EXTINF:1,GÜNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
-
-#EXTINF:109, AFYON TÜRK TV
-http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:-1,TR:YANSIMA TV
 https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
@@ -127,8 +129,6 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/87
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/88
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:KÖY TV" group-title="TURK,VTV
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/406
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:ELIT KEMAL SUNAL TV 2" group-title="TURK SINEMA",TR:ELIT KEMAL SUNAL TV 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/25046
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA BILIM KURGU 1" group-title="TURK SINEMA",TR:SINEMA BILIM KURGU 1
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/775
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:SINEMA BILIM KURGU 2" group-title="TURK SINEMA",TR:SINEMA BILIM KURGU 2
