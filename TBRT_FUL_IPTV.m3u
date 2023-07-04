@@ -18,8 +18,8 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="He-Man TR" tvg-logo="" group-title="Turkey",He-Man TR
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401466
 
-#EXTINF:4,TELE ON 4K
-https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
+#EXTINF:4,TELE ON TV
+https://tgn.bozztv.com/ssh101/ssh101/teleontv/playlist.m3u8
 
 #EXTINF:1,SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
