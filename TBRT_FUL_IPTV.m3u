@@ -15,9 +15,6 @@ https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="He-Man TR" tvg-logo="" group-title="Turkey",He-Man TR
-http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401466
-
 #EXTINF:4,TELE ON TV
 https://tgn.bozztv.com/ssh101/ssh101/teleontv/playlist.m3u8
 
@@ -512,8 +509,6 @@ https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
 http://livestream.zazerconer.workers.dev/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/63ff0d17866ac3189cf375d9", SOZCU TV HD
 https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
-#EXTINF:-1 group-title="Tvplus",PRESTİJ TV
-https://livestream.zazerconer.workers.dev/channel/UCfeePmjEUo0PvQo7xK2yA_g.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV
 http://135.125.234.9:8081/halktv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV HD
@@ -630,6 +625,7 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/41
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/40
 #EXTINF:-1 tvg-id="" tvg-logo="https://media02.statarea.com/images/teams/embl/1247.png" tvg-name="TR:BURSA SPOR TV" group-title="TURK SPOR",TR:BURSA SPOR TV
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/37
+
 ----------------------- SİNEMA -----------------------------
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:ELIT KEMAL SUNAL TV 2" group-title="TURK SINEMA",TR:ELIT KEMAL SUNAL TV 2
@@ -756,7 +752,8 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/178
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/180
 #EXTINF:-1 tvg-id="sinemaailehd.tr" tvg-logo="" tvg-name="TR:SINEMA TV AILE" group-title="TURK SINEMA",TR:SINEMA TV AILE
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/179
-
+#EXTINF:-1 tvg-id="" tvg-name="He-Man TR" tvg-logo="" group-title="Turkey",MAXE TV
+http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401466
 #EXTINF:-1 tvg-id="" tvg-name="======== Sinema ========" tvg-logo="" group-title="Turkey",======== Sinema ========
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401211
 #EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="beIN Box Office 1 FHD TR" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/be_in_tr_box_office_01_hd.png" group-title="Turkey",beIN Box Office 1 FHD TR
@@ -1149,8 +1146,6 @@ http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401404
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401405
 #EXTINF:-1 tvg-id="" tvg-name="Animaux HD TR" tvg-logo="" group-title="Turkey",Animaux HD TR
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401406
-
-
 #EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="BBC Earth HD TR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Turkey",BBC Earth HD TR
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401407
 #EXTINF:-1 tvg-id="beingurme.tr" tvg-name="beIN GURME HD TR" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/beingurme.png" group-title="Turkey",beIN GURME HD TR
