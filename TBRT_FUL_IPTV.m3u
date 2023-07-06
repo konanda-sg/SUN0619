@@ -15,11 +15,17 @@ https://ssh101.bozztv.com/ssh101/teber4/chunks.m3u8
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
+#EXTINF:19,KANAL 19
+https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+
 #EXTINF:4,TELE ON TV
 https://tgn.bozztv.com/ssh101/ssh101/teleontv/playlist.m3u8
 
 #EXTINF:1,SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
+
+#EXTINF:4,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
@@ -29,6 +35,18 @@ https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
 #EXTINF:1, FD YERLİ TV
 https://ssh101.bozztv.com/ssh101/fdtvyerli/chunks.m3u8
+
+#EXTINF:1, FD SİNEMA TV
+https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
+
+#EXTINF:1,SİNEMAX TV
+https://film.ozelip.com:3344/stream/play.m3u8
+
+#EXTINF:1,SAM TV
+https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
+
+#EXTINF:-61,tiviTÜRK 
+https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:109, ŞABAN TV1-AFYON TÜRK 
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
@@ -51,6 +69,9 @@ http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401227
 #EXTINF:-1,ŞABAN TV7
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401228
 
+#EXTINF:99, ADA NET TV  HD
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+
 #EXTINF:1,GÜNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
 
@@ -71,14 +92,11 @@ https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 
 #EXTINF:-1,TR:BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
-#EXTINF:4,TV4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
 #EXTINF:32, CINE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI 6 " group-title="TURK ULUSAL",TR:TIVI 6 
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/20799
-#EXTINF:19,KANAL 19
-https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1 tvg-id="2356" tvg-logo="https://ewsat.com/img/TRT_1.png" tvg-name="TR:TRT 1 HD" group-title="TURK ULUSAL",TR:TRT 1 HD
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/47
 #EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_of_TRT_2_%282005-2010%29.png" tvg-name="TR:TRT 2" group-title="TURK ULUSAL",TR:TRT 2
@@ -193,26 +211,12 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.3
 
 #EXTINF:-12,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
-
-
-
-#EXTINF:1, FD SİNEMA TV
-https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
-
-#EXTINF:1,SİNEMAX TV
-https://film.ozelip.com:3344/stream/play.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Tarih TV HD TR" tvg-logo="" group-title="Turkey",Tarih TV HD TR
+http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401427
 #EXTINF:1, M.TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-
 #EXTINF:30, 15 TV
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-
-#EXTINF:1,SAM TV
-https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
-
-#EXTINF:-61,tiviTÜRK 
-https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:1,SÜPRİZ TV 
 https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
@@ -237,9 +241,6 @@ https://edge1.socialsmart.tv/btv/bant1/chunks.m3u8
 
 #EXTINF:62 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53/CLCTV.PNG", CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
-
-#EXTINF:99, ADA NET TV  HD
-https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
 #EXTINF:99, KANAL ADA TV
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
@@ -1186,8 +1187,7 @@ http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401424
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401425
 #EXTINF:-1 tvg-id="" tvg-name="Science & Vie TV HD TR" tvg-logo="" group-title="Turkey",Science & Vie TV HD TR
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401426
-#EXTINF:-1 tvg-id="" tvg-name="Tarih TV HD TR" tvg-logo="" group-title="Turkey",Tarih TV HD TR
-http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401427
+
 #EXTINF:-1 tvg-id="tgrtbelgesel.tr" tvg-name="Tgrt Belgesel TR" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tgrt_belgesel.png" group-title="Turkey",Tgrt Belgesel TR
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401428
 #EXTINF:-1 tvg-id="tlc.tr" tvg-name="TLC FHD TR" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/tlc_uk.png" group-title="Turkey",TLC FHD TR
@@ -1238,8 +1238,7 @@ http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401464
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401465
 #EXTINF:-1 tvg-id="" tvg-name="Gametoon TV TR" tvg-logo="" group-title="Turkey",Gametoon TV TR
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401451
-#EXTINF:-1 tvg-id="" tvg-name="He-Man TR" tvg-logo="" group-title="Turkey",He-Man TR
-http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401466
+
 #EXTINF:-1 tvg-id="" tvg-name="Kukuli TV TR " tvg-logo="" group-title="Turkey",Kukuli TV TR 
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401467
 #EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="minika COCUK TR" tvg-logo="" group-title="Turkey",minika COCUK TR
