@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:1 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT1
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
 
 #EXTINF:2 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT2
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber2/chunklist_w909642297.m3u8
 
 #EXTINF:1,STAR1
-https://ssh101.bozztv.com/ssh101/star1/chunks.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/bulut/chunklist_w110952983.m3u8
 
 #EXTINF:2,STAR2
-https://ssh101.bozztv.com/ssh101/star2/chunks.m3u8
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
 
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
