@@ -93,13 +93,13 @@ https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 #EXTINF:-1,TR:BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER STAR
+#EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT1
 https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
 
-#EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TEBER ON
+#EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT2
 https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
 
-#EXTINF:1, STAR1 ydl
+#EXTINF:1, STAR1 ydk
 https://ssh101.bozztv.com/ssh101/star1/chunks.m3u8
 
 #EXTINF:2,STAR2 ydk
