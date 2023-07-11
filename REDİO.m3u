@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 type="stream" group-title="TR=  [RADYOLAR]",ADA RADYO GRESUN
+https://radyo.yayin.com.tr:6040/stream
 #EXTINF:-1 type="stream" group-title="TR=  [RADYOLAR]",23 FM Elazığ
 http://radyofm23.canliyayinda.com:8280/STREAM
 #EXTINF:-1 type="stream" group-title="TR=  [RADYOLAR]",90'LAR
