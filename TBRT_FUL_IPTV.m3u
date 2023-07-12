@@ -168,8 +168,8 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/80
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/72
 #EXTINF:-1 tvg-id="" tvg-logo="https://tele1.com.tr/wp-content/uploads/2018/11/tele1_logo-1.png" tvg-name="TR:TELE 1" group-title="TURK ULUSAL",TR:TELE 1
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3350
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI TURK" group-title="TURK ULUSAL",TR:TIVI TURK
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/824
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI TURK" group-title="TURK ULUSAL",KENT TURK Tv
+https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/chunks.m3u8
 #EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/330.png" tvg-name="TR:TLC" group-title="TURK ULUSAL",TR:TLC
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/86
 #EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="https://pbs.twimg.com/profile_images/428707564797169664/F4K8a7m9.png" tvg-name="TR:FX HD" group-title="TURK ULUSAL",TR:FX HD
