@@ -57,6 +57,9 @@ https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
 #EXTINF:1,SİNEMAX TV
 https://film.ozelip.com:3344/stream/play.m3u8
 
+#EXTINF:1,OLAY TV KNY
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
+
 #EXTINF:1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 
