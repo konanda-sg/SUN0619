@@ -22,7 +22,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI 6 " group-title="TURK ULUSAL",TR:TIVI 6 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/20799
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
