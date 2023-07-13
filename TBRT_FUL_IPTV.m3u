@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 
 #EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT1
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+https://ssh101.bozztv.com/ssh101/tbrt1/chunks.m3u8
 
 #EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT2
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+https://ssh101.bozztv.com/ssh101/tbrt2/chunks.m3u8
 
 #EXTINF:1, STAR1
 https://ssh101.bozztv.com/ssh101/star1/chunks.m3u8
@@ -22,7 +22,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI 6 " group-title="TURK ULUSAL",TR:TIVI 6 
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/20799
 
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
@@ -56,9 +56,6 @@ https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
 
 #EXTINF:1,SİNEMAX TV
 https://film.ozelip.com:3344/stream/play.m3u8
-
-#EXTINF:1,OLAY TV KNY
-https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8
 
 #EXTINF:1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
@@ -171,8 +168,8 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/80
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/72
 #EXTINF:-1 tvg-id="" tvg-logo="https://tele1.com.tr/wp-content/uploads/2018/11/tele1_logo-1.png" tvg-name="TR:TELE 1" group-title="TURK ULUSAL",TR:TELE 1
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3350
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI TURK" group-title="TURK ULUSAL",KENT TURK Tv
-https://live.artidijitalmedya.com/artidijital_38kenttv/38kenttv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI TURK" group-title="TURK ULUSAL",TR:TIVI TURK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/824
 #EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/330.png" tvg-name="TR:TLC" group-title="TURK ULUSAL",TR:TLC
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/86
 #EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="https://pbs.twimg.com/profile_images/428707564797169664/F4K8a7m9.png" tvg-name="TR:FX HD" group-title="TURK ULUSAL",TR:FX HD
