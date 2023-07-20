@@ -18,7 +18,7 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/20799
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1,TR:YANSIMA TV
-https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 #EXTINF:4,TELE ON 4k
 https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
 #EXTINF:-61,tiviTÜRK 
