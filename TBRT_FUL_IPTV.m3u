@@ -1,101 +1,68 @@
 ﻿#EXTM3U
-
 #EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT1
 https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
-
 #EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT2
 https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
-
 #EXTINF:1, STAR1
 https://ssh101.bozztv.com/ssh101/star1/chunks.m3u8
-
 #EXTINF:2,STAR2
 https://ssh101.bozztv.com/ssh101/star2/chunks.m3u8
-
 #EXTINF:1,kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
-
 #EXTINF:4,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI 6 " group-title="TURK ULUSAL",TR:TIVI 6 
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/20799
-
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
-
 #EXTINF:-1,TR:YANSIMA TV
 https://ssh101.bozztv.com/ssh101/yansinemaatv/playlist.m3u8
-
 #EXTINF:4,TELE ON 4k
 https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
-
 #EXTINF:-61,tiviTÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8
-
 #EXTINF:1,SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
-
 #EXTINF:32, CINE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
-
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
-
 #EXTINF:1,TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
-
 #EXTINF:1, FD YERLİ TV
 https://ssh101.bozztv.com/ssh101/fdtvyerli/chunks.m3u8
-
 #EXTINF:1, FD SİNEMA TV
 https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
-
 #EXTINF:1,SİNEMAX TV
 https://film.ozelip.com:3344/stream/play.m3u8
-
 #EXTINF:1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
-
 #EXTINF:109, ŞABAN TV1-AFYON TÜRK 
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
-
 #EXTINF:-1,ŞABAN TV2
 https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
-
 #EXTINF:-1,ŞABAN TV3 
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/25046
-
 #EXTINF:-1,ŞABAN TV4
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401226
-
 #EXTINF:-1,ŞABAN TV5
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401225
-
 #EXTINF:-1,ŞABAN TV6
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401227
-
 #EXTINF:-1,ŞABAN TV7
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401228
-
 #EXTINF:99, ADA NET TV  HD
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
-
 #EXTINF:1,GÜNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
-
 #EXTINF:-13,RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
 #EXTINF:98, DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
-
 #EXTINF:97,AKTİF TV
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
-
 #EXTINF:117, NTN SİNEMA HD
 https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
 
