@@ -30,7 +30,7 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
 #EXTINF:-1,TR:YANSIMA TV
-https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 
 #EXTINF:4,TELE ON 4k
 https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultra
