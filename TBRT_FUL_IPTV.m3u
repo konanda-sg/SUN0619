@@ -25,6 +25,9 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:-1,TR:YANSIMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 
+#EXTINF:1,EM TV
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
+
 #EXTINF:4,TELE ON 4k
 https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultra
 
@@ -59,9 +62,6 @@ https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 
 #EXTINF:1,TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
-
-#EXTINF:1, FD YERLİ TV
-https://ssh101.bozztv.com/ssh101/fdtvyerli/chunks.m3u8
 
 #EXTINF:1, FD SİNEMA TV
 https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
