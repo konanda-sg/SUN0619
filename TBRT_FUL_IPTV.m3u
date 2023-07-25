@@ -1,44 +1,77 @@
-﻿#EXTM3U
-#EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT1
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT2
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+#EXTM3U
 #EXTINF:1, STAR1
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+
 #EXTINF:2,STAR2
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
-#EXTINF:1,kanal 3
-https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
-#EXTINF:4,TV4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:1,STAR3
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+
+#EXTINF:1,STAR4
+https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
+
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI 6 " group-title="TURK ULUSAL",TR:TIVI 6 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/20799
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI 6 " group-title="TURK 
+
+ULUSAL",TR:TIVI 6 
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+
 #EXTINF:-1,TR:YANSIMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
+
 #EXTINF:4,TELE ON 4k
-https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultra
+
+hd__/chunks.m3u8
+
 #EXTINF:-61,tiviTÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8
+
 #EXTINF:1,SKY HABER TV HD
-https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
+https://cdn1-
+
+skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b199600
+
+0.m3u8
+
 #EXTINF:32, CINE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="Teve2 FHD TR" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/teve2.jpg" group-title="Turkey",Teve2 FHD TR
+http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/400981
+
+#EXTINF:1,kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
+
+#EXTINF:4,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 TR" tvg-logo="" group-title="Turkey",TV 5 TR
+http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401197
+
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
+
 #EXTINF:1,TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+
 #EXTINF:1, FD YERLİ TV
 https://ssh101.bozztv.com/ssh101/fdtvyerli/chunks.m3u8
+
 #EXTINF:1, FD SİNEMA TV
 https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
+
 #EXTINF:1,SİNEMAX TV
 https://film.ozelip.com:3344/stream/play.m3u8
+
 #EXTINF:1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
+
 #EXTINF:109, ŞABAN TV1-AFYON TÜRK 
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1,ŞABAN TV2
