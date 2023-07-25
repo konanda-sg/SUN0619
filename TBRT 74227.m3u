@@ -1,19 +1,16 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT1
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
-#EXTINF:0 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title= "HÇRT",TBRT2
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
 #EXTINF:1, STAR1
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+
 #EXTINF:2,STAR2
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
-#EXTINF:1,kanal 3
-https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
+#EXTINF:1,STAR3
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
 
-#EXTINF:4,TV4
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:1,STAR4
+https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
 
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
@@ -47,6 +44,11 @@ skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b199600
 #EXTINF:32, CINE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
+#EXTINF:1,kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
+
+#EXTINF:4,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 
