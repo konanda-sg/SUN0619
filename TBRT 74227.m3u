@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:1, STAR1
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
@@ -7,10 +6,10 @@ https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
 #EXTINF:1,STAR3
-https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
 
 #EXTINF:1,STAR4
-https://ssh101.bozztv.com/ssh101/teber2/chunks.m3u8
+https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
 
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
@@ -44,11 +43,17 @@ skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b199600
 #EXTINF:32, CINE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="Teve2 FHD TR" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/teve2.jpg" group-title="Turkey",Teve2 FHD TR
+http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/400981
+
 #EXTINF:1,kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 
 #EXTINF:4,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 TR" tvg-logo="" group-title="Turkey",TV 5 TR
+http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401197
+
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 
