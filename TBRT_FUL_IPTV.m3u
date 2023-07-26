@@ -28,20 +28,14 @@ https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks
 #EXTINF:1,EM TV
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
 
-#EXTINF:4,TELE ON 4k
-https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultra
-
-hd__/chunks.m3u8
+#EXTINF:4,TELE ON 4k 
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
 
 #EXTINF:-61,tiviTÜRK 
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:1,SKY HABER TV HD
-https://cdn1-
-
-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b199600
-
-0.m3u8
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
 #EXTINF:32, CINE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
