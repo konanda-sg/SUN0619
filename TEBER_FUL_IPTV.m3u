@@ -14,9 +14,7 @@ https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI 6 " group-title="TURK 
-
-ULUSAL",TR:TIVI 6 
+#EXTINF:6,TIVI 6 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:19,KANAL 19
