@@ -35,6 +35,9 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:1,SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
+#XTINF :-1,KANAL S
+https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w486539089.m3u8
+
 #EXTINF:32, CINE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
@@ -355,9 +358,6 @@ http://31.223.85.34:9999/play/a0av/index.m3u8
 
 #EXTINF:1, KANAL AVRUPA
 http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
-
-#EXTINF :-1,BTM_Balkanika
-http://85.223.221.130:8000/play/a06o
 
 #EXTINF:0 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-TQtYSXJnwiY/X32Nqsq8tNI/AAAAAAAAPLI/McOIycnS7aEMC21vln9OIGwWKHB6vjgGgCLcBGAsYHQ/s0/tvden.png" size="Small", TV DEN YEDEK
 http://135.125.234.9:8081/tvden/index.m3u8
