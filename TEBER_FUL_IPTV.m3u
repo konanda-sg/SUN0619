@@ -149,6 +149,8 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/70
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/74
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://www.telekom.de/is-bin/intershop.static/WFS/EKI-PK-Site/EKI-PK/de_DE/themen/senderwall/page/images/channel-wall/logos/senderlogo-kanal-7-avrupa.png" tvg-name="TR:KANAL 7 AVRUPA" group-title="TURK ULUSAL",TR:KANAL 7 AVRUPA
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/76
+#EXTINF:-1,TR:KANAL7 hz yusuf
+https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/beyaz_tv_tr.png" tvg-name="TR:BEYAZ TV HD" group-title="TURK ULUSAL",TR:BEYAZ TV HD
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/77
 #EXTINF:-1 tvg-id="24 TR" tvg-logo="http://logos10.xyz/tvlogolari/TR/kanal_avrupa.png" tvg-name="TR:KANAL AVRUPA" group-title="TURK ULUSAL",TR:KANAL AVRUPA
