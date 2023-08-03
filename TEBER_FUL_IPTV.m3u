@@ -17,80 +17,23 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:6,TIVI 6 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://www.canlitv.mobi/kanallar/kanal-7.png" tvg-name="TR:KANAL 7 HD" group-title="TURK ULUSAL",TR:KANAL 7 HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/74
+#EXTINF:19,KANAL 19
+https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
-#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://www.telekom.de/is-bin/intershop.static/WFS/EKI-PK-Site/EKI-PK/de_DE/themen/senderwall/page/images/channel-wall/logos/senderlogo-kanal-7-avrupa.png" tvg-name="TR:KANAL 7 AVRUPA" group-title="TURK ULUSAL",TR:KANAL 7 AVRUPA
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/76
+#EXTINF:-1,TR:YANSIMA TV
+https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,TR:KANAL7 hz yusuf
-https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
+#EXTINF:1,EM TV
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
 
-#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/tv8_tr.png" tvg-name="TR:TV 8 HD" group-title="TURK ULUSAL",TR:TV 8 HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/68
+#EXTINF:4,TELE ON 4k 
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
 
-#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/tv85_tr.png" tvg-name="TR:TV 8.5" group-title="TURK ULUSAL",TR:TV 8.5
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/71
+#EXTINF:-61,tiviTÜRK 
+https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/tv8_tr_international.png" tvg-name="TR:TV 8 INT" group-title="TURK ULUSAL",TR:TV 8 INT
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/70
-
-#EXTINF:-1 tvg-id="2356" tvg-logo="https://ewsat.com/img/TRT_1.png" tvg-name="TR:TRT 1 HD" group-title="TURK ULUSAL",TR:TRT 1 HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/47
-
-#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_of_TRT_2_%282005-2010%29.png" tvg-name="TR:TRT 2" group-title="TURK ULUSAL",TR:TRT 2
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3249
-
-#EXTINF:-1 tvg-id="trtavaz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TRT_Avaz_kurumsal_logo.png" tvg-name="TR:TRT3 AVAZ" group-title="TURK ULUSAL",TR:TRT3 AVAZ
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/50
-
-#EXTINF:-1,TRT 4K
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
-
-#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TRT_T%C3%BCrk_logosu.png" tvg-name="TR:TRT TURK" group-title="TURK ULUSAL",TR:TRT5 TURK
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/49
-
-#EXTINF:-1 tvg-id="5423" tvg-logo="https://i.dlpng.com/static/png/388689_preview.png" tvg-name="TR:ATV AVRUPA" group-title="TURK ULUSAL",TR:ATV AVRUPA
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/54
-
-#EXTINF:-1 tvg-id="5423" tvg-logo="https://pluspng.com/img-png/atv-logo-png-atv-hd-frekans-atv-yeni-frekans-bilgileri-2016-350.png" tvg-name="TR:ATV HD" group-title="TURK ULUSAL",TR:ATV HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/52
-
-#EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="https://pbs.twimg.com/media/C3GybytWIAUQ95x.png" tvg-name="TR:A2 TV" group-title="TURK ULUSAL",TR:A2 TV
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/55
-
-#EXTINF:-1 tvg-id="2354" tvg-logo="https://upload.wikimedia.org/wikipedia/de/8/87/Logo_Star_TV_ab_2012.png" tvg-name="TR:STAR TV HD" group-title="TURK ULUSAL",TR:STAR TV HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/56
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.dlpng.com/static/png/435399_preview.png" tvg-name="TR:EUROSTAR" group-title="TURK ULUSAL",TR:EUROSTAR
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/57
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logos10.xyz/tvlogolari/TR/show_turk.png" tvg-name="TR:SHOW TURK" group-title="TURK ULUSAL",TR:SHOW TURK
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/60
-
-#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/show_tv_tr.png" tvg-name="TR:SHOW TV HD" group-title="TURK ULUSAL",TR:SHOW TV HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/58
-
-#EXTINF:-1 tvg-id="showmax.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/show_max_tr.png" tvg-name="TR:SHOWMAX" group-title="TURK ULUSAL",TR:SHOWMAX
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/61
-
-#EXTINF:-1 tvg-id="360 TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" tvg-name="TR:SKYTURK 360" group-title="TURK ULUSAL",TR:SKYTURK 360
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/79
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.telekom.de/is-bin/intershop.static/WFS/EKI-PK-Site/EKI-PK/de_DE/themen/senderwall/page/images/channel-wall/logos/senderlogo-euro-d.png" tvg-name="TR:EURO D" group-title="TURK ULUSAL",TR:EURO D
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/64
-
-#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/kanal_d_tr.png" tvg-name="TR:KANAL D HD" group-title="TURK ULUSAL",TR:KANAL D HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/62
-
-#EXTINF:-1 tvg-id="fox.tr" tvg-logo="https://www.sky-angebot.de/wp-content/uploads/2015/10/sky_logo_fox_HD.png" tvg-name="TR:FOX TV HD" group-title="TURK ULUSAL",TR:FOX TV HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/65
-
-#EXTINF:-1 tvg-id="foxcrime.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/fox_crime_global.png" tvg-name="TR:FOX CRIME" group-title="TURK ULUSAL",TR:FOX CRIME
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/67
-
-#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/beyaz_tv_tr.png" tvg-name="TR:BEYAZ TV HD" group-title="TURK ULUSAL",TR:BEYAZ TV HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/77
+#EXTINF:1,SKY HABER TV HD
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
 #EXTINF:32, CINE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
@@ -103,14 +46,119 @@ https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 
 #EXTINF:4,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-
-#EXTINF:-1,TV 5 
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 TR" tvg-logo="" group-title="Turkey",TV 5 TR
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401197
 
+#EXTINF:1,TV 70 
+https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
+
+#EXTINF:1,TV 90 
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+
+#EXTINF:1, FD SİNEMA TV
+https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
+
+#EXTINF:1,SİNEMAX TV
+https://film.ozelip.com:3344/stream/play.m3u8
+
+#EXTINF:1,SAM TV
+https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
+
+#EXTINF:109, ŞABAN TV1-AFYON TÜRK 
+http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
+#EXTINF:-1,ŞABAN TV2
+https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+#EXTINF:-1,ŞABAN TV3 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/25046
+#EXTINF:-1,ŞABAN TV4
+http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401226
+#EXTINF:-1,ŞABAN TV5
+http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401225
+#EXTINF:-1,ŞABAN TV6
+http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401227
+#EXTINF:-1,ŞABAN TV7
+http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401228
+#EXTINF:99, ADA NET TV  HD
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+#EXTINF:1,GÜNAYDIN TV
+https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
+#EXTINF:-13,RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:98, DÜZGÜN TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
+#EXTINF:97,AKTİF TV
+http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
+#EXTINF:117, NTN SİNEMA HD
+https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+
+#EXTINF:-1,TR:BİR TV
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+
+#EXTINF:119,NTV SPOR
+http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
+#EXTINF:-1 tvg-id="2356" tvg-logo="https://ewsat.com/img/TRT_1.png" tvg-name="TR:TRT 1 HD" group-title="TURK ULUSAL",TR:TRT 1 HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/47
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_of_TRT_2_%282005-2010%29.png" tvg-name="TR:TRT 2" group-title="TURK ULUSAL",TR:TRT 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3249
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TRT_Avaz_kurumsal_logo.png" tvg-name="TR:TRT3 AVAZ" group-title="TURK ULUSAL",TR:TRT3 AVAZ
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/50
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/TRT_T%C3%BCrk_logosu.png" tvg-name="TR:TRT TURK" group-title="TURK ULUSAL",TR:TRT4 TURK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/49
+#EXTINF:-1,TV5 (YUTB)
+http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
+#EXTINF:-1 tvg-id="5423" tvg-logo="https://i.dlpng.com/static/png/388689_preview.png" tvg-name="TR:ATV AVRUPA" group-title="TURK ULUSAL",TR:ATV AVRUPA
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/54
+#EXTINF:-1 tvg-id="5423" tvg-logo="https://pluspng.com/img-png/atv-logo-png-atv-hd-frekans-atv-yeni-frekans-bilgileri-2016-350.png" tvg-name="TR:ATV HD" group-title="TURK ULUSAL",TR:ATV HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/52
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-logo="https://pbs.twimg.com/media/C3GybytWIAUQ95x.png" tvg-name="TR:A2 TV" group-title="TURK ULUSAL",TR:A2 TV
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/55
+#EXTINF:-1 tvg-id="2354" tvg-logo="https://upload.wikimedia.org/wikipedia/de/8/87/Logo_Star_TV_ab_2012.png" tvg-name="TR:STAR TV HD" group-title="TURK ULUSAL",TR:STAR TV HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/56
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.dlpng.com/static/png/435399_preview.png" tvg-name="TR:EUROSTAR" group-title="TURK ULUSAL",TR:EUROSTAR
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/57
+#EXTINF:-1 tvg-id="" tvg-logo="http://logos10.xyz/tvlogolari/TR/show_turk.png" tvg-name="TR:SHOW TURK" group-title="TURK ULUSAL",TR:SHOW TURK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/60
+#EXTINF:-1 tvg-id="showtv.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/show_tv_tr.png" tvg-name="TR:SHOW TV HD" group-title="TURK ULUSAL",TR:SHOW TV HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/58
+#EXTINF:-1 tvg-id="showmax.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/show_max_tr.png" tvg-name="TR:SHOWMAX" group-title="TURK ULUSAL",TR:SHOWMAX
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/61
+#EXTINF:-1 tvg-id="360 TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" tvg-name="TR:SKYTURK 360" group-title="TURK ULUSAL",TR:SKYTURK 360
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/79
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.telekom.de/is-bin/intershop.static/WFS/EKI-PK-Site/EKI-PK/de_DE/themen/senderwall/page/images/channel-wall/logos/senderlogo-euro-d.png" tvg-name="TR:EURO D" group-title="TURK ULUSAL",TR:EURO D
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/64
+#EXTINF:-1 tvg-id="kanald.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/kanal_d_tr.png" tvg-name="TR:KANAL D HD" group-title="TURK ULUSAL",TR:KANAL D HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/62
+#EXTINF:-1 tvg-id="fox.tr" tvg-logo="https://www.sky-angebot.de/wp-content/uploads/2015/10/sky_logo_fox_HD.png" tvg-name="TR:FOX TV HD" group-title="TURK ULUSAL",TR:FOX TV HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/65
+#EXTINF:-1 tvg-id="foxcrime.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/fox_crime_global.png" tvg-name="TR:FOX CRIME" group-title="TURK ULUSAL",TR:FOX CRIME
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/67
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/tv8_tr.png" tvg-name="TR:TV 8 HD" group-title="TURK ULUSAL",TR:TV 8 HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/68
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/tv85_tr.png" tvg-name="TR:TV 8.5" group-title="TURK ULUSAL",TR:TV 8.5
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/71
+#EXTINF:-1 tvg-id="tv8.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/tv8_tr_international.png" tvg-name="TR:TV 8 INT" group-title="TURK ULUSAL",TR:TV 8 INT
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/70
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://www.canlitv.mobi/kanallar/kanal-7.png" tvg-name="TR:KANAL 7 HD" group-title="TURK ULUSAL",TR:KANAL 7 HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/74
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://www.telekom.de/is-bin/intershop.static/WFS/EKI-PK-Site/EKI-PK/de_DE/themen/senderwall/page/images/channel-wall/logos/senderlogo-kanal-7-avrupa.png" tvg-name="TR:KANAL 7 AVRUPA" group-title="TURK ULUSAL",TR:KANAL 7 AVRUPA
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/76
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-logo="http://logos10.xyz/tvlogolari/TR/beyaz_tv_tr.png" tvg-name="TR:BEYAZ TV HD" group-title="TURK ULUSAL",TR:BEYAZ TV HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/77
+#EXTINF:-1 tvg-id="24 TR" tvg-logo="http://logos10.xyz/tvlogolari/TR/kanal_avrupa.png" tvg-name="TR:KANAL AVRUPA" group-title="TURK ULUSAL",TR:KANAL AVRUPA
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/80
+#EXTINF:-1 tvg-id="Halk TV TR" tvg-logo="http://logos10.xyz/tvlogolari/TR/halk_tv_tr.png" tvg-name="TR:HALK TV HD" group-title="TURK ULUSAL",TR:HALK TV HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/72
+#EXTINF:-1 tvg-id="" tvg-logo="https://tele1.com.tr/wp-content/uploads/2018/11/tele1_logo-1.png" tvg-name="TR:TELE 1" group-title="TURK ULUSAL",TR:TELE 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/3350
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI TURK" group-title="TURK ULUSAL",TR:TIVI TURK
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/824
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:VTV" group-title="TURK,VTV
+#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/330.png" tvg-name="TR:TLC" group-title="TURK ULUSAL",TR:TLC
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/86
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-logo="https://pbs.twimg.com/profile_images/428707564797169664/F4K8a7m9.png" tvg-name="TR:FX HD" group-title="TURK ULUSAL",TR:FX HD
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/87
+#EXTINF:-1 tvg-id="24.tr" tvg-logo="https://www.demokrathaber.org/images/haberler/thumbs/2017/01/teve_2_izle_h26750_c2308.png" tvg-name="TR:TEVE 2" group-title="TURK ULUSAL",TR:TEVE 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/88
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:KÖY TV" group-title="TURK,VTV
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/406
 
 #EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
@@ -154,122 +202,23 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:46 type="stream" channelId="3983" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-9T4mNgfkgOY/YI3eM_KXKxI/AAAAAAAATQg/7C2JZ7Vklo4xVFtWmAl8bpqLiUnDpMrIQCLcBGAsYHQ/s0/360%2B-%2BKopya.png", 360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:1, M.TÜRK TV
-https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-
-#EXTINF:30, 15 TV
-https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
-
-#EXTINF:19,KANAL 19
-https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
-
-#EXTINF:-1,TR:YANSIMA TV
-https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
-
-#EXTINF:1,EM TV
-http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
-
-#EXTINF:4,TELE ON 4k 
-https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
-
-#EXTINF:-61,tiviTÜRK 
-https://stream.tiviturk.de/live/tiviturk.m3u8
-
-#EXTINF:1,SKY HABER TV HD
-https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
-
-#EXTINF:1, OA TV HD
-https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
-
-#XTINF :-1,KANAL S
-https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w486539089.m3u8
-
-#EXTINF:1,KONYA OLAY TV
-http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
-
-#EXTINF:1,KRAL BOX TV
-https://film.ozelip.com:3344/stream/play.m3u8
-
-#EXTINF:1,TV 70 
-https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
-
-#EXTINF:1,TV 90 
-https://tv90-live.cdnnew.com/tv90/tv90.m3u8
-
-#EXTINF:1, FD SİNEMA TV
-https://ssh101.bozztv.com/ssh101/fdtvsinema/chunks.m3u8
-
-#EXTINF:109, AFYON TÜRK 
-http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
-
-#EXTINF:-1,ŞABAN TV1
-https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
-
-#EXTINF:-1,ŞABAN TV2 
-https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
-
-#EXTINF:-1,ŞABAN TV3
-http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401226
-
-#EXTINF:-1,ŞABAN TV4
-http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401225
-
-#EXTINF:-1,ŞABAN TV5
-http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401227
-
-#EXTINF:-1,ŞABAN TV6
-http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401228
-
-#EXTINF:99, ADA NET TV  HD
-https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
-
-#EXTINF:-13,RIZE TÜRK
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
-#EXTINF:98, DÜZGÜN TV
-http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
-
-#EXTINF:97,AKTİF TV
-http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
-
-#EXTINF:117, NTN SİNEMA HD
-https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
-
-#EXTINF:1, CLC MEDYA TV HD
-https://clcmediatv.ozelip.com:3192/stream/play.m3u8
-
-#EXTINF:1,İSVİCRE TV 
-https://is.gd/NdDhgK.m3u8
-
-#EXTINF:-1,TR:FX HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/87
-
-#EXTINF:-1,TR:DİZİ TV1
-http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
-
-#EXTINF:-1,TR:DİZİ TV2
-https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
-
-#EXTINF:1,GÜNAYDIN TV
-https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
-
-#EXTINF:-1,TR:BİR TV
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="24 TR" tvg-logo="http://logos10.xyz/tvlogolari/TR/kanal_avrupa.png" tvg-name="TR:KANAL AVRUPA" group-title="TURK ULUSAL",TR:KANAL AVRUPA
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/80
-#EXTINF:-1 tvg-id="Halk TV TR" tvg-logo="http://logos10.xyz/tvlogolari/TR/halk_tv_tr.png" tvg-name="TR:HALK TV HD" group-title="TURK ULUSAL",TR:HALK TV HD
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/72
+#EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100 
 
 #EXTINF:-12,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tarih TV HD TR" tvg-logo="" group-title="Turkey",Tarih TV HD TR
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401427
+#EXTINF:1, M.TÜRK TV
+https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
+#EXTINF:30, 15 TV
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tlc.tr" tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/330.png" tvg-name="TR:TLC" group-title="TURK ULUSAL",TR:TLC
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/86
 #EXTINF:1,SÜPRİZ TV 
 https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
+
+#EXTINF:1,İSVİCRE TV 
+https://is.gd/NdDhgK.m3u8
 
 #EXTINF:0, YAGMURLU TV
 http://91.134.203.253:30124/yagmur/yagmur/chunklist.m3u8
@@ -286,33 +235,32 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 #EXTINF:60 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BTV
 https://edge1.socialsmart.tv/btv/bant1/chunks.m3u8
 
+#EXTINF:62 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibnUqIDPSiaCyjnkrKKi6wbT7j_FfU1AErzPtQMrwtsIEHQOtlmuEFucxEpZSEkErolSs-eBpY4C7V1xQF8WazHCdRK3zYWoaAVhWRvUEH4L4Es7AzGT0kiKYBDF_Hx4LkFivNszLKrVwKLAaXCzVPFDdhfFlnXEoEr12ycejI3DzS_8f-Qt8Rrsej7g/w114-h53/CLCTV.PNG", CLC MEDYA TV HD
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+
 #EXTINF:99, KANAL ADA TV
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
 
 #EXTINF:103,DEMİRCİ TV
 http://91.134.203.253:30124/demircitv/demircitv/chunklist.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100 
+
 #EXTINF:106, ABB TV
 https://livestream.zazerconer.workers.dev/channel/UCHPDorZxpe9c6WDnXKHCjYA.m3u8
 #EXTINF:119,HAVADIS TV
 http://tv86905.radyotelekomtv.com:22808/aktuel/aktuel/playlist.m3u8
-
+#EXTINF:1,KONYA OLAY TV
+http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 #EXTINF:-1,CRI TÜRK HD
 https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
-#EXTINF:-1,TV5 (YUTB)
-http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
+
 #EXTINF:24 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEIRhIdevHQ_dWxDHDe_87JyX7MHh1XqBQ9GzjtC6XBSbxk3Z9uzAAEopCY9Sxljp-karj8Ybs8KesYGrhEjm0sPc5lRxofWbvLee5u4y9KPJimdga8i062kBMBF-mbcUYDlljhwzNDU58jmHw0N2V7qeMmvGN__wHYMjdw3piiJLbEorcIpEt9jwuQ/w152-h36/karap%C4%B1nartv.jpg", KARAPINAR MEDYA TV
 http://91.134.203.253:30124/karapinar/karapinar/sec-f5-v1-a1.m3u8
 
-#EXTINF:1,REAL TV
-https://livestream.zazerconer.workers.dev/channel/UCjpoTfA8TXO6QfAWiAB67eA.m3u8
+#EXTINF:-1,TR:DİZİ TV1
+http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
 
-#EXTINF:119,NEFTCİ TV
-https://livestream.zazerconer.workers.dev/channel/UCaRFVSGWHqCDjWR69_VlZdg.m3u8
-
-#EXTINF:119,NTV SPOR
-http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
+#EXTINF:-1,TR:DİZİ TV2
+https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
 
 #EXTINF:1,SLOW K.DENİZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
@@ -408,279 +356,103 @@ http://31.223.85.34:9999/play/a0av/index.m3u8
 #EXTINF:1, KANAL AVRUPA
 http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 
+#EXTINF :-1,BTM_Balkanika
+http://85.223.221.130:8000/play/a06o
+
 #EXTINF:0 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-TQtYSXJnwiY/X32Nqsq8tNI/AAAAAAAAPLI/McOIycnS7aEMC21vln9OIGwWKHB6vjgGgCLcBGAsYHQ/s0/tvden.png" size="Small", TV DEN YEDEK
 http://135.125.234.9:8081/tvden/index.m3u8
 
-#EXTINF:-1,TRT 1
-https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+#EXTINF:-1,Trakya Türk Tv
+https://tv.medyakurumsal.com:3439/live/trakyaturklive.m3u8
 
-#EXTINF:-1,TRT 2 
-http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:-1,TV 264 HD
+http://31.223.85.34:9999/play/a084/index.m3u8
 
-#EXTINF:-1,TRT TÜRK 
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:1,TON TV
+http://yerelmedya.tv:1935/tontv/bant1/playlist.m3u8
 
-#EXTINF:-1,TRT 4K
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
+#EXTINF:0 type="stream" channelId="1064" group-title="9_DiNi_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=1064", KUDUS TV
+https://yayin30.haber100.com/live/kudustv/chunklist.m3u8
 
-#EXTINF:-1,ATV
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/52
+#EXTINF:1,ARAS TV
+http://1.rtmp.org/tv217/yayin.stream/chunklist.m3u8
 
-#EXTINF:-1,ATV YDK
-http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF:755,KAY TV
+https://h59.artiyerelmedya.net/kaytv/bant1/playlist.m3u8
 
-#EXTINF:-1,A2 TV
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXhkcxCLyzfTlgowEDH_5h14/ts
+#EXTINF:1,TV41
+https://waw3.artiyerelmedya.net/tv41/bant1/playlist.m3u8
 
-#EXTINF:-1,FOX TV 
-https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1,TV 2020
+http://kuzeykibris.tv/m3u8/tv_dialog.m3u8
 
-#EXTINF:-1,BEYAZ TV 
-https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
+#EXTINF:-1,Kuzey Kıbrıs TV
+http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
 
-#EXTINF:-1,KANAL 7
-https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,KANAL D  
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-
-#EXTINF:-1,TEVE2 
-https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-
-#EXTINF:-1,STAR TV
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/56
-
-#EXTINF:-1,SHOW TV 
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-
-#EXTINF:-1,BEYAZ TV 
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-
-#EXTINF:-1,FOX TV 
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXlrcOffWvChvepjdj5sgFj0/ts
-
-#EXTINF:-1,KANAL 7 
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
-#EXTINF:-1,TV8 
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-
-#EXTINF:-1,AFYON TÜRK 
-https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-
-#EXTINF:-1,YANSIMA TV
-https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,TV4 
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
-#EXTINF:-1,360 TV 
-https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,TV8 
-https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8 
-
-#EXTINF:-1,RİZE TÜRK 
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
-#EXTINF:-1,TV 90 
-https://tv90-live.cdnnew.com/tv90/tv90.m3u8
-
-#EXTINF:-1,ÜLKE TV 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/84
-
-#EXTINF:-1,WOMAN TV 
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-
-#EXTINF:-1,MUGLA TÜRK 
-https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
-
-#EXTINF:-1,KANAL AVRUPA 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/80
-
-#EXTINF:-1,SEMERKAND TV
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/93
-
-#EXTINF:-1,LALEGÜL TV
-https://lbl.netmedya.net/hls/lalegultv.m3u8
-
-#EXTINF:-1,KANAL 14 
-https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
-
-#EXTINF:-1,KANAL 16 
-https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
-
-#EXTINF:-1,KANAL 23 
-https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,KANAL Z 
-https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
-
-#EXTINF:-1,TRT ÇOCUK 
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1,TRT DİYANET ÇOCUK
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1,HALK TV
-http://135.125.234.9:8081/halktv/index.m3u8
-
-#EXTINF:-1,KRT TV
-https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,TELE 1
-https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,ULUSAL KANAL
-https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
-
-#EXTINF:-1,FLASH TV
-https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,HALK TV 
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-
-#EXTINF:-1,TRT HABER 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/114
-
-#EXTINF:-1,A HABER 
-http://213.172.73.133:8081/nimble_live/9076_A_Haber_HD/playlist.m3u8
-
-#EXTINF:-1,HABER TÜRK 
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
-
-#EXTINF:-1,NTV 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/100
-
-#EXTINF:-1,CNN TÜRK
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/106
-
-#EXTINF:-1,HABER GLOBAL
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/99
-
-#EXTINF:-1,TV 100 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/73
-
-
-#EXTINF:-1,TRT BELGESEL
-http://116.202.238.88/TRTBELGESEL_TR/index.m3u8
-
-#EXTINF:-1,YABAN TV
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/146
-#EXTINF:-1,AGRO TV 
-https://yayin30.haber100.com/live/agrotv/chunklist.m3u8
-
-#EXTINF:-1,TARIM TV 
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
-
-#EXTINF:-1,TRT BELGESEL 
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1,A SPOR
-http://116.202.238.88/ASPOR_TR/index.m3u8
-
-#EXTINF:-1,TJK TV
-http://tjktv-live.tjk.org/tjktv_1080p.m3u8
-
-#EXTINF:-1,TRT ÇOCUK
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXsQpYCr2-TOf-PrMPT_tep4/ts
-
-#EXTINF:-1,TRT 1 
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1,TRT 2 
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1,TRT HABER 
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1,SHOW TV 
-http://canli.haber365.com.tr/tr/showtv/index.m3u8
-
-#EXTINF:-1,STAR TV 
-http://canli.haber365.com.tr/tr/startv/index.m3u8
-
-#EXTINF:-1,KANAL D 
-https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
-
-#EXTINF:-1,HABER TÜRK 
-http://canli.haber365.com.tr/tr/haberturk/index.m3u8
-
-#EXTINF:-1,CNN TÜRK 
-https://teve2.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-
-#EXTINF:-1,ÜLKE TV
-https://mn-nl.mncdn.com/blutv_ulketv2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,HABER GLOBAL
-https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,TV 100
-https://tv100.blutv.com/blutv_tv100_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,TGRT HABER
-https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,AKİT TV 
-https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-
-#EXTINF:-1,24 TV 
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-
-#EXTINF:-1,TEVE2
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXmSc0pRZOon6lNvQ0nm4TNA/ts
-
-#EXTINF:-1,TV NET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-
-#EXTINF:-1,TLC 
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8 
-
-#EXTINF:-1,DMAX 
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1,TÜRK HABER 
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8 
-
-#EXTINF:-1,NTV 
-https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
-
-#EXTINF:-1,BLOOMBERG TV 
-https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-
-#EXTINF:-1,BBN TÜRK
-https://mn-nl.mncdn.com/blutv_bbnturk/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,EKO TÜRK
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXveLJRk1Chis7PF2_6kJgsc/ts
-
-#EXTINF:-1,BENGÜ TÜRK
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/83
-
-
-#EXTINF:-1,SPORTS TV 
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-
-#EXTINF:-1,FB TV 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/34
-
-#EXTINF:-1,GS TV 
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/35
-
-#EXTINF:-1,KRAL POP TV 
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-
-#EXTINF:-1,POWER TÜRK 
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8   
-
-#EXTINF:-1,NR1 TÜRK 
-https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,SLOW KARADENİZ TV 
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+#EXTINF:-1,Kıbrıs TV
+http://kuzeykibris.tv/m3u8/tv_ktv.m3u8
 
 #EXTINF:-1,Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+
+#EXTINF:-1,CBC
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+
+#EXTINF:-1,Hunat TV 
+https://waw2.artiyerelmedya.net/hunattv/bant1/playlist.m3u8
+
+#EXTINF:-1,Icel TV 
+http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+
+#EXTINF:1,ORDU TV  
+https://bit.ly/3HxMwqf 
+
+#EXTINF:1,ORDU BBL TV  
+https://bit.ly/3RjqKL9
+
+#EXTINF:-1,EURO GENÇ TV 
+https://bit.ly/3XJVM14
+ 
+#EXTINF:775,KÖROĞLU TV
+http://stream.taksimbilisim.com:1935/koroglutv/bant1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="ULUSAL" tvg-logo="http://yerelmedya.tv/logosTV/anadolunettv.png", ANADOLU NET TV
+https://cors.deno.dev/http://yerelmedya.tv:1935/anadolunettv/bant1/chunks.m3u8| User-Agent=Lavf53.32.100  
+
+#EXTINF:-1,ON6 TV
+https://h125.artiyerelmedya.net/kanal16/bant1/chunks.m3u8
+
+#EXTINF:-1,TELE 1 HD
+http://31.223.85.34:9999/play/a09d/index.m3u8
+
+#EXTINF :-1,AZ Sinema HD
+http://168.194.171.33:8000/play/a0d0/index.m3u8
+
+#EXTINF:1,Metropol Tv
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
+
+#EXTINF:1,KENT TÜRK
+https://h92.artiyerelmedya.net/38kenttv/bant1/chunks.m3u8
+
+#EXTINF:1,kanal A
+https://h125.artiyerelmedya.net/tva/bant1/chunks.m3u8
+
+XTINF:-1,AKSU TV
+http://31.223.85.34:9999/play/a06u/index.m3u8
+
+#EXTINF:1,kanal V
+https://h92.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
+
+EXTINF:-1,ANADOLU DERNEK TV
+http://31.223.85.34:9999/play/a065/index.m3u8
+
+#EXTINF:1,DÜNYA TÜRK
+https://h59.artiyerelmedya.net/worldturk/bant1/chunks.m3u8
+
+#EXTINF:1,URFANATİK
+https://h125.artiyerelmedya.net/urfanatiktv/bant1/chunks.m3u8
+
+
 
 #EXTINF:2, KANAL HAYAT TV HİRİSTİYAN
 https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
@@ -704,6 +476,14 @@ https://h92.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
 http://149.62.177.140:8000/play/a010/index.m3u8
 
 --------------------ÖZGÜN-----HABER------------------------------
+#EXTINF:-1,Bruksel Turk
+https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
+
+#EXTINF:1,ATV 
+#http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100
+
+#EXTINF:-1,izmire dair tv
+https://vdo.digitalbox.xyz:3734/stream/play.m3u8
 
 #EXTINF:-1,SOZCU TV FHD
 http://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
@@ -737,6 +517,7 @@ http://135.125.234.9:8081/krttv/index.m3u8
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD YEDEK
 http://135.125.234.9:8081/tele1/index.m3u8
+
 #EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100 
 #EXTINF:-1 group-title="Tvplus", TV100
@@ -751,18 +532,15 @@ http://135.125.234.9:8081/krttv/index.m3u8
 https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
 
 
--------------------------------BELGESEL----tv------------------------------------
-#EXTINF:-1 tvg-id="" tvg-logo="https://i1.pngguru.com/preview/342/631/615/turk-bayrak-logolari-png-clipart.jpg" tvg-name="*****TURK BELGESEL*****" group-title="TURK BELGESEL",*****TURK BELGESEL*****
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/134
-
+-------------------------------BELGESEL----------------------------------------
 #EXTINF:-12,Belgesel TV1
 https://livestream.zazerconer.workers.dev/channel/UCJduEGukjOXzTW4jfkQ-ihw.m3u8
 
 #EXTINF:-12,Belgesel TV2
 https://livestream.zazerconer.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
-
 --------------------------------------------------------------------------------
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.pngguru.com/preview/342/631/615/turk-bayrak-logolari-png-clipart.jpg" tvg-name="*****TURK BELGESEL*****" group-title="TURK BELGESEL",*****TURK BELGESEL*****
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/134
 #EXTINF:-1 tvg-id="" tvg-logo="http://logos10.xyz/tvlogolari/TR/idx.jpg" tvg-name="TR:IDX HD" group-title="TURK BELGESEL",TR:IDX HD
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/145
 #EXTINF:-1 tvg-id="bbcearth.tr" tvg-logo="https://d3g9pb5nvr3u7.cloudfront.net/sites/56be1015603671024bb4fe96/-1116947154/256.png" tvg-name="TR:BBC EARTH HD" group-title="TURK BELGESEL",TR:BBC EARTH HD
@@ -795,14 +573,7 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/406
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/135
 #EXTINF:-1 tvg-id="beingurme.tr" tvg-logo="https://pbs.twimg.com/profile_images/1063080193722642434/VPXfPyuQ_reasonably_small.jpg" tvg-name="TR:BEIN GURME HD" group-title="TURK BELGESEL",TR:BEIN GURME HD
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/85
-#EXTINF:-1,Bruksel Turk
-https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 
-#EXTINF:1,ATV 
-#http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100
-
-#EXTINF:-1,izmire dair tv
-https://vdo.digitalbox.xyz:3734/stream/play.m3u8
 -------------SPOR----------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dmy.info/wp-content/uploads/2016/09/turkfutbol-680x350.png" tvg-name="*****TURK SPOR*****" group-title="TURK SPOR",*****TURK SPOR*****
@@ -2930,7 +2701,8 @@ http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGokNbp3GKVzFDQMKeXpwbTNR-5RUcW29xcK0xlF-TQZKdBrVSVSj3xvQ20txCzdDqEQ4rGo7aGQX7DNyCab4fLx9xt5C3Ce0RbUzUnTzON8pjH1hkx1B0ZQZVYmvQ-KncY4mo9vFdmvEFxTWbSj30qSYtuzXdLyc6t4FaseaKxXAzNW6b26P76LAUag=w137-h52", iSViCRE TV HD
 http://tv56245.ozelip.com:2052/isvicretv/isvicretv/supersatforum_chunklist.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ElMiOp764LMIpiUE51sMa8-f0NG6R5cufW9wLUGCn71hY6G-E689Rzck1WnYr0JE9_6Ee-BzefqvavpkxKB6y6yzjqwsoz7Meil6uvSbWhihR3vz8cgHEWYzWXMnVF_hqbo0IutWmVSTvaBFWeb4y6zHQmnvRLmWnfFdazEzFjX7uNtxN34q-opzEw/w150-h53/oktayatasoybeyaz.jpg", OA TV HD
+https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", OZEL FiLM TV
 https://film.ozelip.com:3344/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtRKYIIKem0RHZy5AVHNALiv0rv9OrOfZ31zhF7Yv3V6pczfzleQeoCjGhOUv9TpN_YrfJq_kWePlZ6jEyDMI1F1EnC2Ysg7W63Uiib3J5BZC4r01FGj1yfM9VJr5SBFzW5tzN0RBJJi_tZqklzNDh4VubwkJjUOGflNIa1iHh23h8AXRZWg1vdccIuQ/w133-h34/rizetv.PNG", RiZE TURK TV HD
@@ -7427,6 +7199,459 @@ http://162.251.62.114:80/live/laurindo9955/4799556387blm/46201.ts
 http://162.251.62.114:80/live/laurindo9955/4799556387blm/46204.ts
 #EXTINF:-1,[+18] Sexy Hot HD
 http://162.251.62.114:80/live/laurindo9955/4799556387blm/136233.ts
+
+--------ALTYAZILI ADULT-------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="18'lik Kizlik Bozma Yasayan Sarisin Minyonun Aci Dolu Kivranisi - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",18'lik Kizlik Bozma Yasayan Sarisin Minyonun Aci Dolu Kivranisi - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="18'lik Liseli Kizligini Bozmaya Karar Verdi Turkce Altyazili Porno - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",18'lik Liseli Kizligini Bozmaya Karar Verdi Turkce Altyazili Porno - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="abi-olarak-gordugu-adamla-karilarini-degistirerek-seks-yaptilar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",abi-olarak-gordugu-adamla-karilarini-degistirerek-seks-yaptilar
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="abla-kardes-calisan-asistan-ve-sekreterinden-fazlasiyla-faydalandi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",abla-kardes-calisan-asistan-ve-sekreterinden-fazlasiyla-faydalandi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="aldatilan-kadin-kocasinin-zenci-arkadasiyla-seks-yaparak-intikam-aldi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",aldatilan-kadin-kocasinin-zenci-arkadasiyla-seks-yaparak-intikam-aldi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ami-oylece-disarida-duran-kitapci-uvey-kardesinin-vajinasini-yaladi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ami-oylece-disarida-duran-kitapci-uvey-kardesinin-vajinasini-yaladi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anal Seks izlerken Yakalandi- Uvey Annesi Gotune Sokmasini istedi - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Anal Seks izlerken Yakalandi- Uvey Annesi Gotune Sokmasini istedi - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="anlasmanin-disina-cikan-uvey-kardesine-siktirerek-odevlerini-yaptirdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",anlasmanin-disina-cikan-uvey-kardesine-siktirerek-odevlerini-yaptirdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="arabasinin-anahtarini-alikoyan-uvey-abisine-amina-koydurarak-anahtari-aldi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",arabasinin-anahtarini-alikoyan-uvey-abisine-amina-koydurarak-anahtari-aldi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arkadan Yaslayan Oglunun Arkadasina Gotten Yalatti - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Arkadan Yaslayan Oglunun Arkadasina Gotten Yalatti - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arkadasiyla Birlikte Uvey Annesini Aksam Seksinden Once Siktiler - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Arkadasiyla Birlikte Uvey Annesini Aksam Seksinden Once Siktiler - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="askerden-geldiginde-yapacagi-surprizi-yapinca-aglayarak-bosaldi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",askerden-geldiginde-yapacagi-surprizi-yapinca-aglayarak-bosaldi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="asyali-karisinin-aldattigini-ogrenince-onun-en-yakin-arkadasini-sikti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",asyali-karisinin-aldattigini-ogrenince-onun-en-yakin-arkadasini-sikti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="asyali-melez-kizla-ders-calisirken-babasini-umursamadan-pompaladi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",asyali-melez-kizla-ders-calisirken-babasini-umursamadan-pompaladi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ates-kirmizisi-sarhos-uvey-ablasi-evcilik-oynamak-isteyince" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ates-kirmizisi-sarhos-uvey-ablasi-evcilik-oynamak-isteyince
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ayni-elbiseyi-giyen-kivrimli-kaynanaya-aptala-yatip-sokan-damat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ayni-elbiseyi-giyen-kivrimli-kaynanaya-aptala-yatip-sokan-damat
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="babasina-ozenip-uvey-annesine-asiri-ozen-gosterince-bosaldi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",babasina-ozenip-uvey-annesine-asiri-ozen-gosterince-bosaldi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="babasinin-kurabiye-gibi-yeni-karisini-koklayarak-yiyen-kurabiye-canavari" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",babasinin-kurabiye-gibi-yeni-karisini-koklayarak-yiyen-kurabiye-canavari
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="babasinin-yapamadigini-uvey-annesine-yasatan-ergenin-kivranisi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",babasinin-yapamadigini-uvey-annesine-yasatan-ergenin-kivranisi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="babasinin-zengin-arkadasini-ayartan-sarisin-liseli-surtuk" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",babasinin-zengin-arkadasini-ayartan-sarisin-liseli-surtuk
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babasinin Arkadasina Gotten Vurduran Kasar Kizin Rahatligi - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Babasinin Arkadasina Gotten Vurduran Kasar Kizin Rahatligi - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="balik-etli-uvey-annesi-hamile-kalmak-icin-dolunu-istedi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",balik-etli-uvey-annesi-hamile-kalmak-icin-dolunu-istedi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="begendigi-adam-arkadasinin-babasi-cikinca-buyuk-orgazm-yasadi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",begendigi-adam-arkadasinin-babasi-cikinca-buyuk-orgazm-yasadi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="buyuk-yarak-saka-magdur-sevgilisi-gercek-yaraga-abandi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",buyuk-yarak-saka-magdur-sevgilisi-gercek-yaraga-abandi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="cirkin-ve-yaramaz-liselileri-disipline-vermeyip-iclerine-veren-ogretmen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",cirkin-ve-yaramaz-liselileri-disipline-vermeyip-iclerine-veren-ogretmen
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="dadisi-ve-uvey-annesine-seks-marifetlerini-gosteren-ergen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",dadisi-ve-uvey-annesine-seks-marifetlerini-gosteren-ergen
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="daracik-taytini-yirtarak-amina-soktu-disari-cikmasini-engelledi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",daracik-taytini-yirtarak-amina-soktu-disari-cikmasini-engelledi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dar Taytli Uvey Annesinin Sikilasan Amcigina Sokan Ozguvensiz Velet - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Dar Taytli Uvey Annesinin Sikilasan Amcigina Sokan Ozguvensiz Velet - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="dovus-oyunu-oynayan-erkeginin-dikkatini-sakso-cekerek-dagitti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",dovus-oyunu-oynayan-erkeginin-dikkatini-sakso-cekerek-dagitti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="dugun-toreni-sonrasi-gerdege-girerken-gelinin-arkadasi-geldi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",dugun-toreni-sonrasi-gerdege-girerken-gelinin-arkadasi-geldi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="duzenbaz-liseli-ogrenciyi-erkek-ogretmene-siktiren-kadin-mudur" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",duzenbaz-liseli-ogrenciyi-erkek-ogretmene-siktiren-kadin-mudur
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ebeveynlerinin-sikisini-izleyip-oksanan-uvey-kardesiyle-sekslesti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ebeveynlerinin-sikisini-izleyip-oksanan-uvey-kardesiyle-sekslesti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="emanet-edilen-liseli-kizlari-takasla-tokusturup-sokusturan-uvey-amcalar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",emanet-edilen-liseli-kizlari-takasla-tokusturup-sokusturan-uvey-amcalar
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="enistesinden-nefret-eden-baldizin-fikri-yaragi-yiyince-degisti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",enistesinden-nefret-eden-baldizin-fikri-yaragi-yiyince-degisti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ergenlige Giren uvey Oglunun Sikin Oksayinca Buyuk Patlama Yasadi - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Ergenlige Giren uvey Oglunun Sikin Oksayinca Buyuk Patlama Yasadi - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="erken-bosaldigi-icin-terk-edilen-uvey-ogluyla-sikis-idmani" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",erken-bosaldigi-icin-terk-edilen-uvey-ogluyla-sikis-idmani
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="eskileri-veren-arkadasinin-babasiyla-elbiseler-arasinda-sikisti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",eskileri-veren-arkadasinin-babasiyla-elbiseler-arasinda-sikisti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="eve-gelen-sporcu-hatunu-dikizlerken-yaraginin-sulari-akti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",eve-gelen-sporcu-hatunu-dikizlerken-yaraginin-sulari-akti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="evli-adami-karisinin-yaninda-ayartan-spor-salonun-en-seksisi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",evli-adami-karisinin-yaninda-ayartan-spor-salonun-en-seksisi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="evliliklerini-alevlendirmek-icin-baldizini-kocasina-takasladi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",evliliklerini-alevlendirmek-icin-baldizini-kocasina-takasladi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="filmden-korkup-uvey-abisinin-sikine-yatan-sarisin-titreyerek-sikildi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",filmden-korkup-uvey-abisinin-sikine-yatan-sarisin-titreyerek-sikildi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="gec-kalan-buyuk-memeli-hemsirenin-kalcalarinin-arasina-kafasini-soktu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",gec-kalan-buyuk-memeli-hemsirenin-kalcalarinin-arasina-kafasini-soktu
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="geceleyin-uvey-abisinin-sikini-uykuda-yalamaya-baslayan-surtuk" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",geceleyin-uvey-abisinin-sikini-uykuda-yalamaya-baslayan-surtuk
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="genc-kizlari-agina-dusuren-uvey-annesiyle-ters-dustu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",genc-kizlari-agina-dusuren-uvey-annesiyle-ters-dustu
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="gerdekten-korkan-gelin-kocasini-arkadasindan-seks-yardimi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",gerdekten-korkan-gelin-kocasini-arkadasindan-seks-yardimi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="gozluklu-uvey-kardesine-kese-atarken-sikini-surterek-kopurttu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",gozluklu-uvey-kardesine-kese-atarken-sikini-surterek-kopurttu
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="hastaliktan-baygin-sekilde-uyuyan-uvey-annesini-uykuda-sikti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",hastaliktan-baygin-sekilde-uyuyan-uvey-annesini-uykuda-sikti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="hayranlariyla-bulusma-duzenleyip-seks-partisi-veren-unluler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",hayranlariyla-bulusma-duzenleyip-seks-partisi-veren-unluler
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hirsiz Kizi Depoya Getirip Zorbalikla Zorla Siken Guvenlik Muduru - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Hirsiz Kizi Depoya Getirip Zorbalikla Zorla Siken Guvenlik Muduru - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ic-camasir-sapigi-ergeni-araya-alip-sandvic-yapan-matureler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ic-camasir-sapigi-ergeni-araya-alip-sandvic-yapan-matureler
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ilgisiz Sevgilisi Onu Sikmeyince Kankasina Yonelen Buyuk Memeli - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ilgisiz Sevgilisi Onu Sikmeyince Kankasina Yonelen Buyuk Memeli - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ilk-seks-ilk-deneyim-kizlik-bozma-anlasmasi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ilk-seks-ilk-deneyim-kizlik-bozma-anlasmasi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ilk Kez Seks Yapip Kizligini Bozduracagi icin Heyecandan Sikisemedi - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ilk Kez Seks Yapip Kizligini Bozduracagi icin Heyecandan Sikisemedi - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="isten-kovulan-uzun-arkadasinin-moralini-kocasiyla-sikiserek-duzeltti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",isten-kovulan-uzun-arkadasinin-moralini-kocasiyla-sikiserek-duzeltti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="jakuziye-girip-arkadaslarina-masaj-yaptirip-siken-zengin-firlama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",jakuziye-girip-arkadaslarina-masaj-yaptirip-siken-zengin-firlama
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kacak-calisan-hizmetciyi-calisma-izni-saglamak-icin-sikti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kacak-calisan-hizmetciyi-calisma-izni-saglamak-icin-sikti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kadinlar-tuvaletindeki-delige-sikini-sokup-vahsice-siken-velet" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kadinlar-tuvaletindeki-delige-sikini-sokup-vahsice-siken-velet
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kahve-pisiren-turbanli-yengesine-sirnasan-namus-haini-kardes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kahve-pisiren-turbanli-yengesine-sirnasan-namus-haini-kardes
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kalin-yarakli-uvey-oglunun-siki-kocasininkinden-daha-buyuk-cikti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kalin-yarakli-uvey-oglunun-siki-kocasininkinden-daha-buyuk-cikti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kamyonette-ozel-roportaj-parayla-arabada-seks-yapma-teklifi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kamyonette-ozel-roportaj-parayla-arabada-seks-yapma-teklifi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kardes-gibi-buyuse-de-muazzam-kalcalara-sik-kalkar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kardes-gibi-buyuse-de-muazzam-kalcalara-sik-kalkar
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kardes-gibi-gordukleri-adamin-yaragini-kullanan-cilgin-kizlar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kardes-gibi-gordukleri-adamin-yaragini-kullanan-cilgin-kizlar
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kaybeden-soyunur-bahanesiyle-kuzenini-soyundurup-sikti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kaybeden-soyunur-bahanesiyle-kuzenini-soyundurup-sikti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kaynanayla ilk Tanismada Asiri Kaynasan Damat Gotten Cakti - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kaynanayla ilk Tanismada Asiri Kaynasan Damat Gotten Cakti - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kendisinden-yasca-buyuk-ablasinin-arkadasini-siken-firlama" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kendisinden-yasca-buyuk-ablasinin-arkadasini-siken-firlama
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kiraya-ortak-olan-esmer-baldizin-edepsizligine-kayitsiz-kalamadilar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kiraya-ortak-olan-esmer-baldizin-edepsizligine-kayitsiz-kalamadilar
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kizil-sacli-cilli-uvey-kiz-kardesiyle-temizlik-sikis-anlasmasi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kizil-sacli-cilli-uvey-kiz-kardesiyle-temizlik-sikis-anlasmasi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kizlik-bozma-hayalini-ucretli-sekilde-gerceklestiren-bakire-liseli" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kizlik-bozma-hayalini-ucretli-sekilde-gerceklestiren-bakire-liseli
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kocasi-sanip-hirsizin-sikini-yalamaya-baslayinca-zevkten-deliren-milf" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kocasi-sanip-hirsizin-sikini-yalamaya-baslayinca-zevkten-deliren-milf
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kocasindan-memnun-olmayan-cekik-gozlu-yengesini-memnun-birakti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kocasindan-memnun-olmayan-cekik-gozlu-yengesini-memnun-birakti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kocasinin-duzenledigi-partide-yeni-insanlar-yerine-penisler-kesfetti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kocasinin-duzenledigi-partide-yeni-insanlar-yerine-penisler-kesfetti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="komsusuyla-sikisen-kocasindan-intikamini-arkadasiyla-sikiserek-aldi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",komsusuyla-sikisen-kocasindan-intikamini-arkadasiyla-sikiserek-aldi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="konaklamasina-izin-veren-enistesine-amcik-yediren-esmer-minyon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",konaklamasina-izin-veren-enistesine-amcik-yediren-esmer-minyon
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="korktugu-icin-sikisti-hamile-oldugunu-ailesi-ogrenmemeli" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",korktugu-icin-sikisti-hamile-oldugunu-ailesi-ogrenmemeli
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="korkunca-seks-yapan-yakin-arkadaslariyla-hayretle-sikisti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",korkunca-seks-yapan-yakin-arkadaslariyla-hayretle-sikisti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kumarda-parasi-biten-gavat-karisini-harcayarak-zar-atti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kumarda-parasi-biten-gavat-karisini-harcayarak-zar-atti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kuzenine-ayakta-sokup-hoplatirken-arkadasina-da-yapistirdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kuzenine-ayakta-sokup-hoplatirken-arkadasina-da-yapistirdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="latin-baldizinin-agzina-mutfakta-veren-yakisikli-kocasina-am-destek" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",latin-baldizinin-agzina-mutfakta-veren-yakisikli-kocasina-am-destek
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="latin-uvey-ablasini-sikerken-kiskanc-sevgilisine-yakalandi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",latin-uvey-ablasini-sikerken-kiskanc-sevgilisine-yakalandi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="lezbiyen-uvey-annesini-sevisirken-yakalayinca-sikini-amina-soktu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",lezbiyen-uvey-annesini-sevisirken-yakalayinca-sikini-amina-soktu
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="liseli-kiz-zenci-ogretmenine-notlarini-yukseltmesi-icin-verdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",liseli-kiz-zenci-ogretmenine-notlarini-yukseltmesi-icin-verdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="masturbasyon-yapan-azgin-baldiz-enistesinin-kalkan-yaragi-indirdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",masturbasyon-yapan-azgin-baldiz-enistesinin-kalkan-yaragi-indirdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="milf-uvey-annesi-spor-yaparken-dikizlemenin-cezasini-bosalarak-odedi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",milf-uvey-annesi-spor-yaparken-dikizlemenin-cezasini-bosalarak-odedi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="minyon-arkadasini-simarik-uvey-kardesine-siktiren-esmer-abla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",minyon-arkadasini-simarik-uvey-kardesine-siktiren-esmer-abla
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="mor-sacli-minyon-guzelin-icinden-gecerek-siken-vahsi-zenci" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",mor-sacli-minyon-guzelin-icinden-gecerek-siken-vahsi-zenci
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="muhtesem-uvey-annesinin-belini-kavrayip-sikerken-takasli-sikis-olustu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",muhtesem-uvey-annesinin-belini-kavrayip-sikerken-takasli-sikis-olustu
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muzik Ogretmeninin Amina Binip Sikiyle Flut Calan Ogrenci - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Muzik Ogretmeninin Amina Binip Sikiyle Flut Calan Ogrenci - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="odasina-ses-dinleme-cihazi-yerlestiren-uvey-abisine-inlemesini-dinletti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",odasina-ses-dinleme-cihazi-yerlestiren-uvey-abisine-inlemesini-dinletti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="oglunun-yakisikli-arkadasiyla-fantezi-senaryosu-ceken-matureler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",oglunun-yakisikli-arkadasiyla-fantezi-senaryosu-ceken-matureler
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ogrencilerine-hayat-sikisi-dersi-veren-yakisikli-ogretmen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ogrencilerine-hayat-sikisi-dersi-veren-yakisikli-ogretmen
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Otelde Kocasini Aldatirken Yakalayan Uvey Ogluna Kalca Rusveti - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Otelde Kocasini Aldatirken Yakalayan Uvey Ogluna Kalca Rusveti - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="otostopcu-evsiz-adami-eve-alip-banyoda-sikisirken-babaya-yakalandi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",otostopcu-evsiz-adami-eve-alip-banyoda-sikisirken-babaya-yakalandi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="oyun-oynarken-onunde-islanan-kuzen-amciklarina-bomba-yerlestirdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",oyun-oynarken-onunde-islanan-kuzen-amciklarina-bomba-yerlestirdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="oyun-oynarken-uvey-abisi-amindaki-dugmeye-basarak-yardim-etti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",oyun-oynarken-uvey-abisi-amindaki-dugmeye-basarak-yardim-etti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="oyunculugu-vasat-olan-karisinin-arkadasinin-seks-yetenegini-kesfetti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",oyunculugu-vasat-olan-karisinin-arkadasinin-seks-yetenegini-kesfetti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="oyundan-kalkmayan-uvey-kiz-kardesinin-amcigiyla-oynadi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",oyundan-kalkmayan-uvey-kiz-kardesinin-amcigiyla-oynadi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ozel-yurda-yerlestirdigi-uvey-ogluyla-sinif-arkadasini-sikistiren-milf" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ozel-yurda-yerlestirdigi-uvey-ogluyla-sinif-arkadasini-sikistiren-milf
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="paralel-iliski-yasayan-lezbiyen-karisinin-partnerini-sikti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",paralel-iliski-yasayan-lezbiyen-karisinin-partnerini-sikti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="pazarlikci-balik-etli-musteriyi-sikerek-fiyat-yerine-yarak-dusurdu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",pazarlikci-balik-etli-musteriyi-sikerek-fiyat-yerine-yarak-dusurdu
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="profesyonel-masaj-salonunda-bosalmak-isteyen-musterisini-siken-masor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",profesyonel-masaj-salonunda-bosalmak-isteyen-musterisini-siken-masor
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Projesine Yardim Eden Uvey Anne ve Cici Teyzeden Tam Destek - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Projesine Yardim Eden Uvey Anne ve Cici Teyzeden Tam Destek - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="rontgenci-sapik-oglani-teftise-gelince-amini-yalatarak-uzaklasti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",rontgenci-sapik-oglani-teftise-gelince-amini-yalatarak-uzaklasti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rus Manitasinin Gidiklanan Amcigini Sert Yaragiyla Kasiyarak Bosaltti - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Rus Manitasinin Gidiklanan Amcigini Sert Yaragiyla Kasiyarak Bosaltti - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="saka-yapmasina-sinirlenen-uvey-abisinin-sikini-dudaklarinin-arasina-aldi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",saka-yapmasina-sinirlenen-uvey-abisinin-sikini-dudaklarinin-arasina-aldi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sandalyeye-oturttugu-yasak-iliskisinin-yaragina-oturup-bosaldi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",sandalyeye-oturttugu-yasak-iliskisinin-yaragina-oturup-bosaldi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sarisin-baldizindan-araba-icin-surtunme-para-icin-sikisme-teklifi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",sarisin-baldizindan-araba-icin-surtunme-para-icin-sikisme-teklifi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="satrancta-yenen-zevki-arkadasina-maglubiyet-armagani-veren-fistik" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",satrancta-yenen-zevki-arkadasina-maglubiyet-armagani-veren-fistik
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="seker-oyunu-oynamak-isteyen-uvey-annesi-ve-arkadasini-ballandirdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",seker-oyunu-oynamak-isteyen-uvey-annesi-ve-arkadasini-ballandirdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Seksi Fotografci Kizi Sulandirip Kendinden Gecirerek Sanatsal Sikti - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Seksi Fotografci Kizi Sulandirip Kendinden Gecirerek Sanatsal Sikti - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sen Koltukta Sikis Biraz Ben Aminda Sikisecegim Diyerek Sikti - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Sen Koltukta Sikis Biraz Ben Aminda Sikisecegim Diyerek Sikti - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sevgilisini-birakip-travestiyle-sinemada-sikisen-biseksuel-kiz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",sevgilisini-birakip-travestiyle-sinemada-sikisen-biseksuel-kiz
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sevgilisinin-annesiyle-uvey-babasini-yaninda-sikistiren-atesli-kiz" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",sevgilisinin-annesiyle-uvey-babasini-yaninda-sikistiren-atesli-kiz
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sevgilisinin Cici Annesinin Seks ikramini Kabul Etti - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Sevgilisinin Cici Annesinin Seks ikramini Kabul Etti - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sevgilisinin Guzeller Guzeli Oda Arkadasini Dikizlerken Sikti - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Sevgilisinin Guzeller Guzeli Oda Arkadasini Dikizlerken Sikti - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sevismeye-geldigi-kizin-evinde-annesine-oyun-oynatarak-emdirdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",sevismeye-geldigi-kizin-evinde-annesine-oyun-oynatarak-emdirdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sikici-gencleri-grup-seks-eglendirmeye-calisan-komsu-mature" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",sikici-gencleri-grup-seks-eglendirmeye-calisan-komsu-mature
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sikini-kaldiramayan-uvey-ogluna-kicini-elletip-sakso-cekti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",sikini-kaldiramayan-uvey-ogluna-kicini-elletip-sakso-cekti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sikini-ufak-sanip-tasak-gecen-uvey-kardesine-sok-yasatti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",sikini-ufak-sanip-tasak-gecen-uvey-kardesine-sok-yasatti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sikini Gormek isteyen Manyak Uvey Annesine En Sonunda Soktu - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Sikini Gormek isteyen Manyak Uvey Annesine En Sonunda Soktu - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sikismeyi-bilmedigini-soyleyen-uvey-kizina-takviye-destek-veren-mature" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",sikismeyi-bilmedigini-soyleyen-uvey-kizina-takviye-destek-veren-mature
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="sorusturma-geciren-kadini-itaat-ettirip-siken-savci-dosyayi-kapatti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",sorusturma-geciren-kadini-itaat-ettirip-siken-savci-dosyayi-kapatti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="taytla-acmali-germeli-hareketler-yapan-uvey-ablasiyla-sikini-konusturdu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",taytla-acmali-germeli-hareketler-yapan-uvey-ablasiyla-sikini-konusturdu
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tek Adama Asik iki Kadinin Dunyadan Uzak Fantezili Sikisi - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Tek Adama Asik iki Kadinin Dunyadan Uzak Fantezili Sikisi - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="telefonundaki-yarak-resimlerine-bakmak-isteyen-uvey-kardesinin-amina-dustu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",telefonundaki-yarak-resimlerine-bakmak-isteyen-uvey-kardesinin-amina-dustu
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Temizlik Yapan Uvey Annesine Para Teklif Edip Soyundurdu - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Temizlik Yapan Uvey Annesine Para Teklif Edip Soyundurdu - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teyzesiyle Eslerini Desistirip Takas Yoluyla Sikisen Orospular - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Teyzesiyle Eslerini Desistirip Takas Yoluyla Sikisen Orospular - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="tombul-karisinin-universiteli-yegenini-aralarina-alip-siktiler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",tombul-karisinin-universiteli-yegenini-aralarina-alip-siktiler
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="turbanli-hemsireye-sikini-gosterince-utandi-yaragin-tadina-bayildi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",turbanli-hemsireye-sikini-gosterince-utandi-yaragin-tadina-bayildi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turbanli Kadin ilk Kez Kocasindan Baska Biriyle Seks Yapti - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Turbanli Kadin ilk Kez Kocasindan Baska Biriyle Seks Yapti - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turkiye'den ABD'ye Goc Eden Türk Ogretmen Alara Sansursuz Ful Pornosu - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Turkiye'den ABD'ye Goc Eden Türk Ogretmen Alara Sansursuz Ful Pornosu - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uclu-fantezisini-kiz-kardesinin-arkadaslariyla-gerceklestirdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uclu-fantezisini-kiz-kardesinin-arkadaslariyla-gerceklestirdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="universiteli-ogrencilerin-odasina-girip-sikisen-sapik-yurt-muduru" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",universiteli-ogrencilerin-odasina-girip-sikisen-sapik-yurt-muduru
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="utangac-ve-korkak-bakire-kiza-acimadan-sokunca-aglatti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",utangac-ve-korkak-bakire-kiza-acimadan-sokunca-aglatti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-abisiyle-sikisirken-uyanacak-mi-korkusuyla-yuzlestiler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-abisiyle-sikisirken-uyanacak-mi-korkusuyla-yuzlestiler
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-ablalarinin-ustlerine-cikip-eteklerini-kaldirarak-sokan-firlamalar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-ablalarinin-ustlerine-cikip-eteklerini-kaldirarak-sokan-firlamalar
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-amcasindan-erkek-kiskandirma-tuyosunu-fazlasiyla-aldi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-amcasindan-erkek-kiskandirma-tuyosunu-fazlasiyla-aldi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-amcasini-ilk-kez-canli-gorunce-namusu-unutan-esmer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-amcasini-ilk-kez-canli-gorunce-namusu-unutan-esmer
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-annesinin-barismak-icin-attigi-adimlar-bosalarak-son-buldu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-annesinin-barismak-icin-attigi-adimlar-bosalarak-son-buldu
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-babaciklarla-kamp-kuran-kizlar-amciklarinda-cadir-kurdurdu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-babaciklarla-kamp-kuran-kizlar-amciklarinda-cadir-kurdurdu
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-erkek-kardesiyle-sikisirken-oz-olmayan-ebeveynlerini-harekete-gecirdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-erkek-kardesiyle-sikisirken-oz-olmayan-ebeveynlerini-harekete-gecirdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-kardesine-islanan-gomleginin-altindaki-memelerini-elletti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-kardesine-islanan-gomleginin-altindaki-memelerini-elletti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-kardesine-yakin-arkadasini-siktiren-balerin-abla" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-kardesine-yakin-arkadasini-siktiren-balerin-abla
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-kardesinin-amina-ayakta-surterken-toplu-sikis-yasandi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-kardesinin-amina-ayakta-surterken-toplu-sikis-yasandi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-kardesleriyle-evcilik-oynayip-swingers-yapan-kaltaklar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-kardesleriyle-evcilik-oynayip-swingers-yapan-kaltaklar
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-kiz-kardeslerinin-lezbiyen-oldugunu-ogrenince-sikerek-normallestirmek-istedi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-kiz-kardeslerinin-lezbiyen-oldugunu-ogrenince-sikerek-normallestirmek-istedi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-kizi-ve-sevgilisine-meme-uclarini-yalatarak-sikis-ogretti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-kizi-ve-sevgilisine-meme-uclarini-yalatarak-sikis-ogretti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey-kizinin-seks-mutluluguna-mani-olan-kiskanc-kadin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey-kizinin-seks-mutluluguna-mani-olan-kiskanc-kadin
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uvey Aile Swap Yarismassnda Sikis Sonu Berabere Kalindi - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Uvey Aile Swap Yarismassnda Sikis Sonu Berabere Kalindi - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="yakisikli-erkek-takintili-citir-annesinin-sevgilisiyle-iliskiye-girdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",yakisikli-erkek-takintili-citir-annesinin-sevgilisiyle-iliskiye-girdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="yaraliyi-gorunce-bayilan-acemi-hemsireyi-sikerek-ayiltti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",yaraliyi-gorunce-bayilan-acemi-hemsireyi-sikerek-ayiltti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yaslanmamak icin Yaptigi ilk Yogada Uvey Oglunun Yaragiyla Tanisiyor - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Yaslanmamak icin Yaptigi ilk Yogada Uvey Oglunun Yaragiyla Tanisiyor - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="yengesinin-beysbol-maci-dinleyip-maskotla-seks-fantezisini-gerceklestirdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",yengesinin-beysbol-maci-dinleyip-maskotla-seks-fantezisini-gerceklestirdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="yeni-karisi-uzaktayken-fahiselesen-uvey-kizini-sikerek-dizginledi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",yeni-karisi-uzaktayken-fahiselesen-uvey-kizini-sikerek-dizginledi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="yirtik-corapli-komsusunun-amini-dillerken-balik-etli-ablasina-yakalandi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",yirtik-corapli-komsusunun-amini-dillerken-balik-etli-ablasina-yakalandi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yuzleri Gozukmeden Uvey Abisiyle Porno Cekimi Faciasi - Astalavista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Yuzleri Gozukmeden Uvey Abisiyle Porno Cekimi Faciasi - Astalavista
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="zenci-is-adaminin-olcusunu-almaya-gelen-kadin-terzinin-soku" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",zenci-is-adaminin-olcusunu-almaya-gelen-kadin-terzinin-soku
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="zengin-kocasindan-para-alip-jigoloyla-sikisen-evli-kadin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",zengin-kocasindan-para-alip-jigoloyla-sikisen-evli-kadin
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Abimin siktigi evli kadini tehdit edip zorla sahip oldum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Abimin siktigi evli kadini tehdit edip zorla sahip oldum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ablam ders calisirken bagirarak oyun oynuyorum diye kizdi - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Ablam ders calisirken bagirarak oyun oynuyorum diye kizdi - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ablamin-arkadasi-istakayi-istedi-sikimi-cikarip-eline-verdim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ablamin-arkadasi-istakayi-istedi-sikimi-cikarip-eline-verdim
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ablamin-arkadasina-sikimin-fotografini-yolladim-ablam-ogrenmis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",ablamin-arkadasina-sikimin-fotografini-yolladim-ablam-ogrenmis
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ablam oyun oynarken cesareti secti Sortun ustunden elledim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Ablam oyun oynarken cesareti secti Sortun ustunden elledim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="annem-mutfakta-kek-yaparken-egilince-ic-camasirini-gordum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",annem-mutfakta-kek-yaparken-egilince-ic-camasirini-gordum
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="annem-yoga-sonrasi-ustunu-degistiriyordu-gizli-video-cektim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",annem-yoga-sonrasi-ustunu-degistiriyordu-gizli-video-cektim
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annem babama yetemiyormus Ayrilmasinlar diye babama siktiriyorum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annem babama yetemiyormus Ayrilmasinlar diye babama siktiriyorum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annem bana firca cekerken onumde egilince agzina veresim geldi - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annem bana firca cekerken onumde egilince agzina veresim geldi - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annem benle yasak ask yasiyor Rizam olmadan sikimi acip yaliyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annem benle yasak ask yasiyor Rizam olmadan sikimi acip yaliyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annem gecenin bi yarisi odama kafasi guzel gelince olanlar oldu - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annem gecenin bi yarisi odama kafasi guzel gelince olanlar oldu - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="annemin-55-yasindaki-arkadasi-minicik-etek-giymis-gozum-kaydi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",annemin-55-yasindaki-arkadasi-minicik-etek-giymis-gozum-kaydi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="annemin-arkadasi-benle-konusurken-gozum-memelerine-kayiyor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",annemin-arkadasi-benle-konusurken-gozum-memelerine-kayiyor
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annemi sikerken Babam odaya girince kapinin arkasina saklandik - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annemi sikerken Babam odaya girince kapinin arkasina saklandik - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annem kirlileri toplarken Kalin sikimi gorsun diye ugrastim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annem kirlileri toplarken Kalin sikimi gorsun diye ugrastim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annemle +18 konulari konusurken karsimda bacaklari acik oturdu - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annemle +18 konulari konusurken karsimda bacaklari acik oturdu - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annemle babam ayrildi Firsati degerlendirip annemi siktim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annemle babam ayrildi Firsati degerlendirip annemi siktim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annemle denize geldik o guneslenirken mallarina baktim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annemle denize geldik o guneslenirken mallarina baktim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annem onu acik kiyafet giymis memeleri meydanda Tahrik oldum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annem onu acik kiyafet giymis memeleri meydanda Tahrik oldum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annem ortunun altindan sevgilime amini yalatiyor Yakaladim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annem ortunun altindan sevgilime amini yalatiyor Yakaladim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annem surekli kalem pil istiyor Megerse vibratore takiyormus - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annem surekli kalem pil istiyor Megerse vibratore takiyormus - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annem yasadigimiz yasak iliski bitsin diye beni yatili okula gonderiyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Annem yasadigimiz yasak iliski bitsin diye beni yatili okula gonderiyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="arkadasimin-dul-annesi-mini-etekle-evde-geziyor-gotune-baktim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",arkadasimin-dul-annesi-mini-etekle-evde-geziyor-gotune-baktim
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arkadasimin annesine tasinirken yardim ettim Elini dizime koydu - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Arkadasimin annesine tasinirken yardim ettim Elini dizime koydu - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babami yoldan cikarip video cektim Araba almazsa tehdit edecegim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Babami yoldan cikarip video cektim Araba almazsa tehdit edecegim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babamla iddiayi kaybedince annemle sevgilimi anirta anirta siktik - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Babamla iddiayi kaybedince annemle sevgilimi anirta anirta siktik - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ben annemi gotten sikerken oda kiz kardesimin amini yaliyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Ben annemi gotten sikerken oda kiz kardesimin amini yaliyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bize oturmaya gelen Teyzeme sarilirken salakta elliyorum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Bize oturmaya gelen Teyzeme sarilirken salakta elliyorum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doktor memesini buytmek isteyen kadini muayene ayagina elliyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Doktor memesini buytmek isteyen kadini muayene ayagina elliyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eger tuttugum takim maci kaybederse arkadasim kizimi sikecek - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Eger tuttugum takim maci kaybederse arkadasim kizimi sikecek - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="eniste-yokken-hamile-kuzenimi-sikmek-icin-yol-yapiyorum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",eniste-yokken-hamile-kuzenimi-sikmek-icin-yol-yapiyorum
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="erkek-arkadasim-amim-genis-diye-sikmedi-bende-babama-sordum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",erkek-arkadasim-amim-genis-diye-sikmedi-bende-babama-sordum
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Erkek arkadasim 2 dk dayanabiliyor Abime bu normal mi diye sordum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Erkek arkadasim 2 dk dayanabiliyor Abime bu normal mi diye sordum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Esimle birlikte universiteyi birakan kizimizi cezalandirdik - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Esimle birlikte universiteyi birakan kizimizi cezalandirdik - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fakir kuzenim borcc para istedi Karsiliginda bedenini bana satacak - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Fakir kuzenim borcc para istedi Karsiliginda bedenini bana satacak - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gozluklu kardesimin memelerini gormek icin üstünü islattim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Gozluklu kardesimin memelerini gormek icin üstünü islattim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="iskolik kocasindan sikilan olgun kadin Ogluna yanasti - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",iskolik kocasindan sikilan olgun kadin Ogluna yanasti - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kankamin Annesiyle lafliyoruz Gozum karinin memelerine kayiyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kankamin Annesiyle lafliyoruz Gozum karinin memelerine kayiyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karim kaza gecirdikten sonra gecmis olsuna gelen arkadasini siktim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Karim kaza gecirdikten sonra gecmis olsuna gelen arkadasini siktim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karisi yokken uvey kizini icerken yakaladi Bacaklarini elledi - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Karisi yokken uvey kizini icerken yakaladi Bacaklarini elledi - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kasar hatun sevgilisine telefonda soyunurken abisine yakalaniyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kasar hatun sevgilisine telefonda soyunurken abisine yakalaniyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kisacik sortla okula gitmek isteyen kiz kardeÅime kizdim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kisacik sortla okula gitmek isteyen kiz kardeÅime kizdim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kiz-kardesim-onu-sikmezsem-babama-taciz-ettigimi-soyleyecekmis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",kiz-kardesim-onu-sikmezsem-babama-taciz-ettigimi-soyleyecekmis
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kiz arkadasimi kiskanan uvey annem Beni bastan cikariyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kiz arkadasimi kiskanan uvey annem Beni bastan cikariyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kiz arkadasimla film izlerken salakta anasinin gotune bakiyorum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kiz arkadasimla film izlerken salakta anasinin gotune bakiyorum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kizim galiba lezbiyen Komsunun kiziyla opüsürken bastim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kizim galiba lezbiyen Komsunun kiziyla opüsürken bastim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kiz kardesim Am sik dol haric butun kelimeleri yanlis soyluyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kiz kardesim Am sik dol haric butun kelimeleri yanlis soyluyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kiz kardesim daracik sortla salonun ortasinda yoga yapiyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kiz kardesim daracik sortla salonun ortasinda yoga yapiyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kiz kardesim daracik taytla yerleri supururken goyune baktim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kiz kardesim daracik taytla yerleri supururken goyune baktim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kiz kardesim elbiseyle otururken frikik verdi altina baktim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kiz kardesim elbiseyle otururken frikik verdi altina baktim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kiz kardesimin altina telefonu uzatip gizlice foto cekiyorum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Kiz kardesimin altina telefonu uzatip gizlice foto cekiyorum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Klimaci genc servise gittigi evde Evli kadinin altina bakiyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Klimaci genc servise gittigi evde Evli kadinin altina bakiyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ogluma evin heryerine bosaliyor diye kizdim Geldi icime bosaldi - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Ogluma evin heryerine bosaliyor diye kizdim Geldi icime bosaldi - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oglum anal seks istedi diye kiz arkadasi onu terk etmis - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Oglum anal seks istedi diye kiz arkadasi onu terk etmis - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ogluna kizlari hamile birakmasin diye anal seks ogreten anne - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Ogluna kizlari hamile birakmasin diye anal seks ogreten anne - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="okulda-dovdugum-oglanin-yasli-dul-annesi-beni-konusmaya-cagirdi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",okulda-dovdugum-oglanin-yasli-dul-annesi-beni-konusmaya-cagirdi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Okuldan masaj odevi verdiler Babama masaj yapiyorum Siki kalkti - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Okuldan masaj odevi verdiler Babama masaj yapiyorum Siki kalkti - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patron dukkanda yokken karisina ve yegenine cakiyorum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Patron dukkanda yokken karisina ve yegenine cakiyorum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="psikologa-kocamin-beni-sikmedigini-anlattim-serefsiz-ellemeye-kalkti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",psikologa-kocamin-beni-sikmedigini-anlattim-serefsiz-ellemeye-kalkti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salak kiz kardesim sevgilisine atacagi nudeyi bana atti - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Salak kiz kardesim sevgilisine atacagi nudeyi bana atti - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sevgilime tam sikimin fotosunu atacam anneme yakalandim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Sevgilime tam sikimin fotosunu atacam anneme yakalandim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="surekli-31-ceken-oglunu-ceza-ile-yola-getiremeyince-el-atti" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",surekli-31-ceken-oglunu-ceza-ile-yola-getiremeyince-el-atti
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tatil iccin gittigimiz otelde gizlice kizimi dus alirken izledim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Tatil iccin gittigimiz otelde gizlice kizimi dus alirken izledim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tum gun temizlik yapip yorulan sisman anneme masaj yaptim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Tum gun temizlik yapip yorulan sisman anneme masaj yaptim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turbanli Annem evde tek diye kulotla temizlik yapiyor ben geldim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Turbanli Annem evde tek diye kulotla temizlik yapiyor ben geldim - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turbanli kiz youtube kanali icin abisinden borc istiyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",Turbanli kiz youtube kanali icin abisinden borc istiyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey annem egilince pantolonu yirtildi aradan amini gordum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey annem egilince pantolonu yirtildi aradan amini gordum - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="uvey babam vr gozluk takmis Benim adimi soyleyip asiliyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTNH17t90EdYLyCenxbfNKST8BJ.jpg" group-title="+18 ADULTS | Turkce Alyazı ",uvey babam vr gozluk takmis Benim adimi soyleyip asiliyor - HdAbla - Brazzers, Hd Porno, Rokettube, Mobil porno filmi
+http://veb56.online:8080/movie/Johannbaur/EvTUMafDcEnm/352427.mp4
 
 -------------------------------------------------------------------
 
