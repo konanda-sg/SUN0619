@@ -2,8 +2,8 @@
 #EXTINF:1, STAR1
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,TEVE 2 HD
-http://135.125.234.9:8081/teve2/index.m3u8
+#EXTINF:2,STAR2
+https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
 #EXTINF:1,kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
@@ -94,6 +94,9 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/77
 
 #EXTINF:32, CINE1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:0,TEVE 2 HD
+http://135.125.234.9:8081/teve2/index.m3u8
 
 #EXTINF:-1,TV 5 
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401197
