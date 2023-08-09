@@ -5,18 +5,16 @@ https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks
 #EXTINF:2,STAR2
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
+#EXTINF:1,TİVİ TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI TURK" group-title="TURK ULUSAL",TR:TIVI TURK
-http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/824
-
-
-#EXTINF:4,TV4
+#EXTINF:1,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 #EXTINF:-1,TV5 (YUTB)
 http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
-#EXTINF:6,TIVI 6 
+#EXTINF:1,TIVI 6 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-logo="https://www.canlitv.mobi/kanallar/kanal-7.png" tvg-name="TR:KANAL 7 HD" group-title="TURK ULUSAL",TR:KANAL 7 HD
@@ -39,6 +37,12 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/70
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI TURK" group-title="TURK ULUSAL",TR:TIVI TURK
 https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:4,TELE ON 4k 
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
+
+#EXTINF:1,SAM TV
+https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 
 #EXTINF:-1 tvg-id="2356" tvg-logo="https://ewsat.com/img/TRT_1.png" tvg-name="TR:TRT 1 HD" group-title="TURK ULUSAL",TR:TRT 1 HD
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/47
@@ -151,8 +155,10 @@ http://canli.haber365.com.tr/tr/showtv/index.m3u8
 #EXTINF:46 type="stream" channelId="3983" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-9T4mNgfkgOY/YI3eM_KXKxI/AAAAAAAATQg/7C2JZ7Vklo4xVFtWmAl8bpqLiUnDpMrIQCLcBGAsYHQ/s0/360%2B-%2BKopya.png", 360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
---------------------ÖZGÜR-----HABER------------------------------
 
+--------------------ÖZGÜR-----HABER------------------------------
+#EXTINF:-1,FLASH TV
+https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SOZCU TV FHD
 http://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:-1,TELE1 FHD
@@ -185,9 +191,6 @@ https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1,ULUSAL KANAL
 https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
-
-#EXTINF:-1,FLASH TV
-https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1,HALK TV 
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
@@ -312,7 +315,132 @@ https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
 
 #EXTINF:1,GÜNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
+-------------------------------------------------------------
 
+#EXTINF: -1 tvg-name="TR:ELIT KEMAL SUNAL TV 2" group-title="TR Turkey", TR:ELIT KEMAL SUNAL TV 
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/25046
+#EXTINF: -1 tvg-id="beinboxoffice1.tr" tvg-name="TR:BEIN BOX OFFICE 1" group-title="TR Turkey", TR:BEIN BOX OFFICE 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/153
+#EXTINF: -1 tvg-id="beinboxoffice2.tr" tvg-name="TR:BEIN BOX OFFICE 2" group-title="TR Turkey", TR:BEIN BOX OFFICE 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/154
+#EXTINF: -1 tvg-id="beinboxoffice3.tr" tvg-name="TR:BEIN BOX OFFICE 3" group-title="TR Turkey", TR:BEIN BOX OFFICE 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/155
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 1" group-title="TR Turkey", TR:SINEMA MIX 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/804
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 2" group-title="TR Turkey", TR:SINEMA MIX 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/805
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 3" group-title="TR Turkey", TR:SINEMA MIX 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/806
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 4" group-title="TR Turkey", TR:SINEMA MIX 4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/807
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 5" group-title="TR Turkey", TR:SINEMA MIX 5
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/808
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 6" group-title="TR Turkey", TR:SINEMA MIX 6
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/809
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 7" group-title="TR Turkey", TR:SINEMA MIX 7
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/810
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 8" group-title="TR Turkey", TR:SINEMA MIX 8
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/811
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 9" group-title="TR Turkey", TR:SINEMA MIX 9
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/812
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 10" group-title="TR Turkey", TR:SINEMA MIX 10
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/813
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 11" group-title="TR Turkey", TR:SINEMA MIX 11
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/814
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 12" group-title="TR Turkey", TR:SINEMA MIX 12
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/815
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 13" group-title="TR Turkey", TR:SINEMA MIX 13
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/816
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 14" group-title="TR Turkey", TR:SINEMA MIX 14
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/817
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 15" group-title="TR Turkey", TR:SINEMA MIX 15
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/818
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 16" group-title="TR Turkey", TR:SINEMA MIX 16
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/819
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 17" group-title="TR Turkey", TR:SINEMA MIX 17
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/820
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 18" group-title="TR Turkey", TR:SINEMA MIX 18
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/821
+#EXTINF: -1 tvg-name="TR:SINEMA MIX 19" group-title="TR Turkey", TR:SINEMA MIX 19
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/822
+#EXTINF: -1 tvg-name="TR:SINEMA COCUK" group-title="TR Turkey", TR:SINEMA COCUK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/803
+#EXTINF: -1 tvg-name="TR:SINEMA ANIMASYON 1" group-title="TR Turkey", TR:SINEMA ANIMASYON 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/778
+#EXTINF: -1 tvg-name="TR:SINEMA ANIMASYON 2" group-title="TR Turkey", TR:SINEMA ANIMASYON 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/779
+#EXTINF: -1 tvg-name="TR:SINEMA ANIMASYON 3" group-title="TR Turkey", TR:SINEMA ANIMASYON 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/780
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 1" group-title="TR Turkey", TR:SINEMA AKSIYON 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/769
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 2" group-title="TR Turkey", TR:SINEMA AKSIYON 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/770
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 3" group-title="TR Turkey", TR:SINEMA AKSIYON 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/771
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 4" group-title="TR Turkey", TR:SINEMA AKSIYON 4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/772
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 5" group-title="TR Turkey", TR:SINEMA AKSIYON 5
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/773
+#EXTINF: -1 tvg-name="TR:SINEMA AKSIYON 6" group-title="TR Turkey", TR:SINEMA AKSIYON 6
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/774
+#EXTINF: -1 tvg-name="TR:SINEMA BILIM KURGU 1" group-title="TR Turkey", TR:SINEMA BILIM KURGU 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/775
+#EXTINF: -1 tvg-name="TR:SINEMA BILIM KURGU 2" group-title="TR Turkey", TR:SINEMA BILIM KURGU 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/776
+#EXTINF: -1 tvg-name="TR:SINEMA BILIM KURGU 3" group-title="TR Turkey", TR:SINEMA BILIM KURGU 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/777
+#EXTINF: -1 tvg-name="TR:SINEMA KOMEDI 1" group-title="TR Turkey", TR:SINEMA KOMEDI 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/788
+#EXTINF: -1 tvg-name="TR:SINEMA KOMEDI 2" group-title="TR Turkey", TR:SINEMA KOMEDI 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/787
+#EXTINF: -1 tvg-name="TR:SINEMA KOMEDI 3" group-title="TR Turkey", TR:SINEMA KOMEDI 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/786
+#EXTINF: -1 tvg-name="TR:SINEMA KOMEDI 4" group-title="TR Turkey", TR:SINEMA KOMEDI 4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/789
+#EXTINF: -1 tvg-name="TR:SINEMA KOMEDI 5" group-title="TR Turkey", TR:SINEMA KOMEDI 5
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/790
+#EXTINF: -1 tvg-name="TR:SINEMA DRAMA 1" group-title="TR Turkey", TR:SINEMA DRAMA 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/796
+#EXTINF: -1 tvg-name="TR:SINEMA DRAMA 2" group-title="TR Turkey", TR:SINEMA DRAMA 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/797
+#EXTINF: -1 tvg-name="TR:MOVIESHD BILIM KURGU" group-title="TR Turkey", TR:MOVIESHD BILIM KURGU
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/798
+#EXTINF: -1 tvg-name="TR:MOVIESHD DRAM" group-title="TR Turkey", TR:MOVIESHD DRAM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/799
+#EXTINF: -1 tvg-name="TR:MOVIESHD KOMEDI" group-title="TR Turkey", TR:MOVIESHD KOMEDI
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/800
+#EXTINF: -1 tvg-name="TR:MOVIESHD ROMANTIK" group-title="TR Turkey", TR:MOVIESHD ROMANTIK
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/801
+#EXTINF: -1 tvg-name="TR:SINEMA YESILCAM" group-title="TR Turkey", TR:SINEMA YESILCAM
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/802
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 1" group-title="TR Turkey", TR:SINEMA TURK 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/781
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 2" group-title="TR Turkey", TR:SINEMA TURK 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/782
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 3" group-title="TR Turkey", TR:SINEMA TURK 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/783
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 4" group-title="TR Turkey", TR:SINEMA TURK 4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/784
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 5" group-title="TR Turkey", TR:SINEMA TURK 5
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/785
+#EXTINF: -1 tvg-name="TR:SINEMA TURK 6" group-title="TR Turkey", TR:SINEMA TURK 6
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/791
+#EXTINF: -1 tvg-name="TR:SINEMA KORKU 1" group-title="TR Turkey", TR:SINEMA KORKU 1
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/792
+#EXTINF: -1 tvg-name="TR:SINEMA KORKU 2" group-title="TR Turkey", TR:SINEMA KORKU 2
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/793
+#EXTINF: -1 tvg-name="TR:SINEMA KORKU 3" group-title="TR Turkey", TR:SINEMA KORKU 3
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/794
+#EXTINF: -1 tvg-name="TR:SINEMA KORKU 4" group-title="TR Turkey", TR:SINEMA KORKU 4
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/795
+#EXTINF: -1 tvg-id="sinemayerli.tr" tvg-name="TR:SINEMA TV KOMEDI" group-title="TR Turkey", TR:SINEMA TV KOMEDI
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/178
+#EXTINF: -1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR:SINEMA TV AKSIYON" group-title="TR Turkey", TR:SINEMA TV AKSIYON
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/180
+#EXTINF: -1 tvg-id="sinemaailehd.tr" tvg-name="TR:SINEMA TV AILE" group-title="TR Turkey", TR:SINEMA TV AILE
+http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/179
+
+----------------------------------------------------------------
 #EXTINF:-1,TR:BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
