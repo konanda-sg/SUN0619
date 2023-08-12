@@ -1,17 +1,13 @@
 #EXTM3U
 
-#EXTM3U
-#EXTINF:1, STAR1
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#EXTINF:32, CINE1 TV
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:2,STAR2
-https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+#EXTINF:0,TEVE 2 HD
+http://135.125.234.9:8081/teve2/index.m3u8
 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
-http://canli.haber365.com.tr/tr/startv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="[TR]  EUROSTAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euro_star_tr.png" group-title="TR➤ ULUSAL",[TR]  EUROSTAR HD
-http://ders.site:8080/garibua10/JHEWh7WFvv/147546
+#EXTINF:1,kanal 3
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 
 #EXTINF:1,TV4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
@@ -36,6 +32,18 @@ http://ders.site:8080/garibua10/JHEWh7WFvv/5
 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5 FHD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/TV.8.5.png" group-title="TURK ULUSAL",TV8.5 FHD
 http://ders.site:8080/garibua10/JHEWh7WFvv/101508
+
+#EXTINF:2,CINE 9
+https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+
+#EXTINF:1, HÇRT TV
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
+http://canli.haber365.com.tr/tr/startv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="[TR]  EUROSTAR HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euro_star_tr.png" group-title="TR➤ ULUSAL",[TR]  EUROSTAR HD
+http://ders.site:8080/garibua10/JHEWh7WFvv/147546
 
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="FOX TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/FOX.TV.png" group-title="TURK ULUSAL",FOX TV HD
 http://ders.site:8080/garibua10/JHEWh7WFvv/13
@@ -162,14 +170,7 @@ http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140745
 http://ders.site:8080/garibua10/JHEWh7WFvv/101505
 
 
-#EXTINF:32, CINE1 TV
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:0,TEVE 2 HD
-http://135.125.234.9:8081/teve2/index.m3u8
-
-#EXTINF:1,kanal 3
-https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-name="TLC" tvg-logo="https://www.server365.dev/logo/TURKIYE/tlc.png" group-title="TURK ULUSAL",TLC
 http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140750
