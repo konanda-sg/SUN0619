@@ -117,14 +117,14 @@ http://ders.site:8080/garibua10/JHEWh7WFvv/99796
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="[TR] TRT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-2-tr.png" group-title="TR➤ ULUSAL",[TR] TRT 2 HD
 http://ders.site:8080/garibua10/JHEWh7WFvv/101506
 
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT TURK HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/TRTT%e2%94%bc%d0%b1RK.png" group-title="TURK ULUSAL",TRT3 TURK HD
-http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140748
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT TURK HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/TRTT%e2%94%bc%d0%b1RK.png" group-title="TURK ULUSAL",TRT NEŞET ERTAŞ VİDEO
+https://cdn-v.pr.trt.com.tr/trttv/website/1efee8de-d816-44ad-a872-9cbffdd0eb43/master1080p.m3u8
 
 #EXTINF:-1,TRT 4K
 http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_avaz_tr.png" group-title="TURK ULUSAL",TRT5 AVAZ HD
-http://dk.tgt6373.online:8080/tv2204/tvlnk2204/140749
+https://tv-trtavaz.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 http://ders.site:8080/garibua10/JHEWh7WFvv/9
