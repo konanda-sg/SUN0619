@@ -39,6 +39,9 @@ https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks
 #EXTINF:1,TÜRK HÇRT TV
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
+#EXTINF:4,TELE ON HD 
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
+
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
 http://canli.haber365.com.tr/tr/startv/index.m3u8
 
@@ -214,9 +217,6 @@ http://canli.haber365.com.tr/tr/showtv/index.m3u8
 
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
-
-#EXTINF:4,TELE ON 4k 
-https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
 
 #EXTINF:-13,RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
