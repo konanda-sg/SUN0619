@@ -165,8 +165,8 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT3 TÜRK 
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1,TRT 4K
-hhttp://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
+#EXTINF:-1,TRT 4K 
+http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_avaz_tr.png" group-title="TURK ULUSAL",TRT5 AVAZ HD
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
