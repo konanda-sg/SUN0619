@@ -48,6 +48,12 @@ https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultr
 #EXTINF:-1,TR:BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
+#EXTINF:-1,ŞABAN TV1
+https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
+
+#EXTINF:-1,ŞABAN TV2
+https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+
 #EXTINF:-12,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
@@ -95,12 +101,6 @@ https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
 
 #EXTINF:1,GÜNAYDIN TV
 https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
-
-#EXTINF:-1,ŞABAN TV1
-https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
-
-#EXTINF:-1,ŞABAN TV2
-https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
 
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
@@ -156,29 +156,29 @@ https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 #EXTINF:-1,WOMAN TV 
 https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
-#EXTINF:-1,TÜRK HABER 
-https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8 
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="[TR] TRT 1 HD" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="TR➤ ULUSAL",TRT 1 FHD
-http://ders.site:8080/garibua10/JHEWh7WFvv/99796
-
 #EXTINF:-1,TRT 1 HD
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="[TR] TRT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-2-tr.png" group-title="TR➤ ULUSAL",[TR] TRT 2 HD
-http://ders.site:8080/garibua10/JHEWh7WFvv/101506
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1,TRT3 TÜRK 
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1,TRT 4K
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
-
-#EXTINF:-1,TRT 4K UHD
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
+hhttp://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_avaz_tr.png" group-title="TURK ULUSAL",TRT5 AVAZ HD
-https://tv-trtavaz.medya.trt.com.tr/master_480.m3u8
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT6 BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT BİLGİ
+https://eu1.tabii.com/apigateway/pbr/v1/media/12242/12241.m3u8?width=-1&height=-1&bandwidth=-1&subtitleType=m3u8
+
+#EXTINF:-1,TRT TEKNO
+https://eu1.tabii.com/apigateway/pbr/v1/media/34362/34331.m3u8?width=-1&height=-1&bandwidth=-1&subtitleType=m3u8
 
 #EXTINF:-1 tvg-id="TRT.tr" tvg-name="TRT HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/TRT.png" group-title="TURK ULUSAL",TRT NEŞET ERTAŞ BELGESELİ
 https://cdn-v.pr.trt.com.tr/trttv/website/1efee8de-d816-44ad-a872-9cbffdd0eb43/master1080p.m3u8
@@ -197,9 +197,6 @@ https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 
 #EXTINF:-40,Kanal D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.telekom.de/is-bin/intershop.static/WFS/EKI-PK-Site/EKI-PK/de_DE/themen/senderwall/page/images/channel-wall/logos/senderlogo-euro-d.png" tvg-name="TR:EURO D" group-title="TURK ULUSAL",TR:EURO D 
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
 #EXTINF:0,KONYA OLAY TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
@@ -227,9 +224,6 @@ http://ders.site:8080/garibua10/JHEWh7WFvv/101505
 
 #EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
-#EXTINF:0 type="stream" channelId="4628" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4628", ATV AVRUPA
-http://62.182.82.104/atv_turk/index.m3u8?token=test
-
 #EXTINF:0 type="stream" channelId="3119" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png", SHOW TV HD
 http://canli.haber365.com.tr/tr/showtv/index.m3u8
 
@@ -249,7 +243,7 @@ https://kackartv.ozelip.com:3898/stream/play.m3u8
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
 
 #EXTINF:1,KIBRIS TV
-https://play.kibristv.com/stream/hls/stream.m3u8
+https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 
 #EXTINF:1,ADA TV
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
@@ -269,8 +263,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:1,KANAL T
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 
-#EXTINF:-1,GAZETE TV 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1692147358/ei/PsrbZIDNHoSE6dsPjaa0iAw/ip/31.206.7.203/id/icpuOChU7sc.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/rr1---sn-8vq54voxu-5qce.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fzE76fY2w3gQcXLYBuKWYUqHhjcnW0zVB_sJKQ/vprv/1/playlist_type/DVR/initcwndbps/836250/mh/pi/mm/44/mn/sn-8vq54voxu-5qce/ms/lva/mv/m/mvi/1/pl/23/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362685,24363392/mt/1692125327/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRgIhAKbrT1RCeNVvBXQRkC-tJUoBKHxR1jVhV-17Ye-PTee7AiEAwylG6SToD_xi7OVbNIMStJ2v69MoruXGPzWKRbQWUB8%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgezJwGyGyME8eVwwjgDocTNbWMvHWgYQvL_yeQrc7YeACIQDj5z4tgXOCKlw1vATZqP6-Q5zIdO67zFrZpW4kqIu7ug%3D%3D/playlist/index.m3u8
+
 --------------------ÖZGÜR-----HABER------------------------------
 
 #EXTINF:-1,FLASH TV
