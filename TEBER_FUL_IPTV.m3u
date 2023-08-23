@@ -21,8 +21,8 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7 HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/KANAL.7.png" group-title="TURK ULUSAL",KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="[TR] Kanal 7 Euro" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_avrupa.png" group-title="TR➤ ULUSAL",[TR] Kanal 7 Euro
-http://ders.site:8080/garibua10/JHEWh7WFvv/33
+#EXTINF:-1 tvg-id="" tvg-name="[TR] Kanal 7 Euro" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kanal7_avrupa.png" group-title="TR➤ ULUSAL",[TR] Kanal 7 Avrupa
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 
 #EXTINF:-1,TR:KANAL7 hz yusuf
 https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
@@ -813,6 +813,249 @@ http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6353.m3u
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6356.m3u
 #EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR HEVC" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/ULUSAL/TRT.SPOR.png" group-title="TR ✦ HEVC",TRT SPOR HEVC
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6357.m3u
+
+-------------------------HACELİ SİNEMA-----------------------------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="##TR: SINEMA##" tvg-logo="" group-title="TR: SINEMA",##TR: SINEMA##
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/6451
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4698
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Aile HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Aile HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4699
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Action HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Action HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4700
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Yerli
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4701
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Comedy HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Comedy HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4702
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Classic HD" tvg-logo="" group-title="TR: SINEMA",TR: Moviesmart Classic HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4696
+#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Turk" tvg-logo="" group-title="TR: SINEMA",TR: MovieSmart Turk
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4697
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZISMART PREMIUM HD" tvg-logo="" group-title="TR: SINEMA",TR: DIZISMART PREMIUM HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4676
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES ACTION HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4683
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES ACTION 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4684
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES PREMIERE HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4682
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES PREMIERE 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20778
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINMOVIES STARS HD" tvg-logo="" group-title="TR: SINEMA",TR: BEINMOVIES STARS HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4685
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES FAMLY HD " tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES FAMLY HD 
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4686
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES TURK HD " tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES TURK HD 
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4687
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES SCI FI" tvg-logo="" group-title="TR: SINEMA",TR: BEIN SERIES SCI FI
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/15391
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES VICE" tvg-logo="" group-title="TR: SINEMA",TR: BEIN SERIES VICE
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/15393
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES COMEDY" tvg-logo="" group-title="TR: SINEMA",TR: BEIN SERIES COMEDY
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/15392
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Bilim Kurgu HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Bilim Kurgu HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/57
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gine Gold Dram/Western HD" tvg-logo="" group-title="TR: SINEMA",TR: Gine Gold Dram/Western HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/56
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Polisiye HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Polisiye HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/55
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Dövüş HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Dövüş HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/54
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Dram HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Dram HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/53
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gine Gold Gerilim HD" tvg-logo="" group-title="TR: SINEMA",TR: Gine Gold Gerilim HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/52
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Animasyon HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Animasyon HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/51
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Komedi HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Komedi HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/50
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Korku HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Korku HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/49
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Macera HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Macera HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/48
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Aksiyon 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Aksiyon 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/47
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 5 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/46
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Belgesel 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Belgesel 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/16
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/42
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/43
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 3 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/44
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 4 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/45
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7283
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7284
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 3 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7285
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 4 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7286
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 5 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7287
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 6 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7288
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 7 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7289
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 8 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7290
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 9 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7291
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 10 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7292
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 11 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 11 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7293
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 12 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 12 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7294
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 13 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 13 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7295
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 14 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 14 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7296
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 15 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 15 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7297
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 16 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 16 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7298
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 17 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 17 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7299
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 18 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 18 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7300
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 19 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 19 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7301
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 20 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 20 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7302
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7303
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7304
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 3 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7305
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 4 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7306
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 5 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7307
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 6 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7308
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 7 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7309
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 8 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7310
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 9 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7311
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 10 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7312
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7313
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7314
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 3 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7315
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 4 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7316
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 5 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7317
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 6 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7318
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 7 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7319
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 8 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7320
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 9 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7321
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 10 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7322
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7323
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7324
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 3 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7325
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 4 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7326
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 5 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7327
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 6 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7328
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 7 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7329
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 8 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7330
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 9 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7331
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 10 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7332
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7333
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7334
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 3 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7335
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 4 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7336
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 5 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7337
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 6 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7338
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 7 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7339
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 8 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7340
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 9 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7341
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 10 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7342
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 1. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 1. Sezon
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 2. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 2. Sezon
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 3. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 3. Sezon
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 4. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 4. Sezon
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/23
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 5. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 5. Sezon
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/24
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 6. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 6. Sezon
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/25
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 7.Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 7.Sezon
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/26
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 8. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 8. Sezon
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/37
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/38
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 3 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/39
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 4 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/40
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 5 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/41
+#EXTINF:-1 tvg-id="" tvg-name="TR: Siyah Beyaz Yesilcam" tvg-logo="" group-title="TR: SINEMA",TR: Siyah Beyaz Yesilcam
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/28
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Tv" tvg-logo="" group-title="TR: SINEMA",TR: Yesilcam Tv
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/29
+#EXTINF:-1 tvg-id="" tvg-name="TR: Heidi 3D" tvg-logo="" group-title="TR: SINEMA",TR: Heidi 3D
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4626
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD" tvg-logo="" group-title="TR: SINEMA",TR: FX HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4678
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX LIFE " tvg-logo="" group-title="TR: SINEMA",TR: FOX LIFE 
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4679
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT BOX HD" tvg-logo="" group-title="TR: SINEMA",TR: FIGHT BOX HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4680
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 2" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV 2
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/28856
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1001" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV 1001
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/28857
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1002" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV 1002
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/28858
+
+
+-----------------------MESUTABİ-------SİNEMA--------------------------------------
+
 #EXTINF:-1 tvg-id="" tvg-name="✦ ✦YEŞİLÇAM✦✦" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png" group-title="TR ✦ 7/24 YEŞİLÇAM",✦ ✦YEŞİLÇAM✦✦
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6593.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 1 ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.01.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: KEMAL SUNAL 1 ʜᴅ
@@ -1195,7 +1438,9 @@ http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6385.m3u
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/107976.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TR: NETFLIX Belgesel ʜᴅ" tvg-logo="" group-title="TR ✦ 7/24 NETFLIX CLUB",TR: NETFLIX Belgesel ʜᴅ
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/108108.m3u
--------------------------------------------------------------------------------------------------------------
+
+
+-----------------------ULTRA SİNEMA----------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="======== Sinema ========" tvg-logo="" group-title="Turkey",======== Sinema ========
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401211
@@ -1801,7 +2046,137 @@ http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401128
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401129
 #EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR YILDIZ TR" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1584000/trtspor-yildiz-1584116.jpg" group-title="Turkey",TRT SPOR YILDIZ TR
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401131
------------------------------------------------------------------------------------------------------
+
+------------------------HACALİ---VERDİĞİ-----SPOR------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="##TR: SPOR##" tvg-logo="" group-title="TR: SPOR",##TR: SPOR##
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/6446
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS HABER FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS HABER FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4647
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4649
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/18947
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORT 1 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORT 1 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4658
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 HEVC" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 1 HEVC
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4648
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 FEED" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 1 FEED
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4650
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 1 FHD FEED" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 1 FHD FEED
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/24511
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 2 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4651
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 2 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4652
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 3 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4653
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 3 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4654
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 3 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 3 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/6688
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 4 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4655
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 4 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4656
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS 5 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27608
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 1 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS MAX 1 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4657
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 2 HD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS MAX 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4659
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 2 FHD" tvg-logo="" group-title="TR: SPOR",TR: beIN SPORTS MAX 2 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4660
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1 FHD" tvg-logo="" group-title="TR: SPOR",TR: TIVIBU SPOR 1 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4661
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 2 FHD" tvg-logo="" group-title="TR: SPOR",TR: TIVIBU SPOR 2 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4662
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 3 FHD" tvg-logo="" group-title="TR: SPOR",TR: TIVIBU SPOR 3 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4663
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 4" tvg-logo="" group-title="TR: SPOR",TR: TIVIBU SPOR 4
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/16096
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT FHD" tvg-logo="" group-title="TR: SPOR",TR: S SPORT FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4665
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT 2 HD" tvg-logo="" group-title="TR: SPOR",TR: S SPORT 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4666
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT PLUS+ HD " tvg-logo="" group-title="TR: SPOR",TR: S SPORT PLUS+ HD 
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/6452
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART HD" tvg-logo="" group-title="TR: SPOR",TR: SPOR SMART HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4664
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART SPOR 2" tvg-logo="" group-title="TR: SPOR",TR: SMART SPOR 2
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/19361
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN FEED" tvg-logo="https://www.fullindir.com.tr/wp-content/uploads/2020/12/exxen-350x350-1.jpg" group-title="TR: SPOR",TR: EXXEN FEED
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20918
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 1 HD" tvg-logo="" group-title="TR: SPOR",TR: EUROSPORT 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4667
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2" tvg-logo="" group-title="TR: SPOR",TR: EUROSPORT 2
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4668
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV FHD" tvg-logo="" group-title="TR: SPOR",TR: NBA TV FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4669
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo="" group-title="TR: SPOR",TR: TRT SPOR HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4670
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 2 HD" tvg-logo="" group-title="TR: SPOR",TR: TRT SPOR 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/19277
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 2 FHD" tvg-logo="" group-title="TR: SPOR",TR: TRT SPOR 2 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4671
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Spor HD" tvg-logo="" group-title="TR: SPOR",TR: A Spor HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/15385
+#EXTINF:-1 tvg-id="" tvg-name="TR: A SPOR FHD" tvg-logo="" group-title="TR: SPOR",TR: A SPOR FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4672
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV" tvg-logo="" group-title="TR: SPOR",TR: GS TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4673
+#EXTINF:-1 tvg-id="" tvg-name="TR: FB TV HD" tvg-logo="" group-title="TR: SPOR",TR: FB TV HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4674
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK HD" tvg-logo="" group-title="TR: SPOR",TR: TJK HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/6300
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 HD" tvg-logo="" group-title="TR: SPOR",Exxen Spor 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20754
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 2 HD" tvg-logo="" group-title="TR: SPOR",Exxen Spor 2 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20755
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 3 HD" tvg-logo="" group-title="TR: SPOR",Exxen Spor 3 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20756
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 4 HD" tvg-logo="" group-title="TR: SPOR",Exxen Spor 4 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/20757
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 1 RAW" tvg-logo="" group-title="TR: SPOR",Exxen Spor 1 RAW
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21457
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 2 RAW" tvg-logo="" group-title="TR: SPOR",Exxen Spor 2 RAW
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21458
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 3 RAW" tvg-logo="" group-title="TR: SPOR",Exxen Spor 3 RAW
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21459
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 5 HD" tvg-logo="" group-title="TR: SPOR",Exxen Spor 5 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/23169
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 6 HD" tvg-logo="" group-title="TR: SPOR",Exxen Spor 6 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/23170
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 7 HD" tvg-logo="" group-title="TR: SPOR",Exxen Spor 7 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/24236
+#EXTINF:-1 tvg-id="" tvg-name="Exxen Spor 8 HD" tvg-logo="" group-title="TR: SPOR",Exxen Spor 8 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/24237
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT +5 MAC SAATI AKTIF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR: SPOR",S SPORT +5 MAC SAATI AKTIF
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21475
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT +4 MAC SAATI AKTIF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR: SPOR",S SPORT +4 MAC SAATI AKTIF
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21476
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT +3 MAC SAATI AKTIF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR: SPOR",S SPORT +3 MAC SAATI AKTIF
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21477
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT +2 MAC SAATI AKTIF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR: SPOR",S SPORT +2 MAC SAATI AKTIF
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21478
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT +1 MAC SAATI AKTIF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" group-title="TR: SPOR",S SPORT +1 MAC SAATI AKTIF
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/21479
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT +6 MAC SAATI AKTIF" tvg-logo="" group-title="TR: SPOR",S SPORT +6 MAC SAATI AKTIF
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/26542
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT HD 1 (MAC ZAMANI)" tvg-logo="" group-title="TR: SPOR",beIN CONNECT HD 1 (MAC ZAMANI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27863
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT HD 2 (MAC ZAMANI)" tvg-logo="" group-title="TR: SPOR",beIN CONNECT HD 2 (MAC ZAMANI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27864
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT HD 3 (MAC ZAMANI)" tvg-logo="" group-title="TR: SPOR",beIN CONNECT HD 3 (MAC ZAMANI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27865
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT HD 4 (MAC ZAMANI)" tvg-logo="" group-title="TR: SPOR",beIN CONNECT HD 4 (MAC ZAMANI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27866
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT HD 5 (MAC ZAMANI)" tvg-logo="" group-title="TR: SPOR",beIN CONNECT HD 5 (MAC ZAMANI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27867
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT HD 6 (MAC ZAMANI)" tvg-logo="" group-title="TR: SPOR",beIN CONNECT HD 6 (MAC ZAMANI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27868
+
+-------------------------------Mesutabi----SPOR---------------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="✦  ✦ BEIN SPORTS  ✦ ✦" tvg-logo="http://vip.nessatv.pro:8080/LOGO/TR/BAYRAK.png" group-title="TR ✦ beIN SPORTS LIVE",✦  ✦ BEIN SPORTS  ✦ ✦
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/5847.m3u
@@ -1982,6 +2357,8 @@ http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401435
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401434
 #EXTINF:-1 tvg-id="yabantv.tr" tvg-name="YABAN TV TR HD TR" tvg-logo="http://abvsjdg.cluster030.hosting.ovh.net/logo/Turkey/yaban_tv_tr.png" group-title="Turkey",YABAN TV TR HD TR
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401436
+
+
 #EXTINF:-1 tvg-id="" tvg-name="======== COCUK ========" tvg-logo="" group-title="Turkey",======== COCUK ========
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401450
 #EXTINF:-1 tvg-id="babytv.tr" tvg-name="Baby TV TR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Turkey",Baby TV TR
@@ -2014,12 +2391,7 @@ http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401464
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401465
 #EXTINF:-1 tvg-id="" tvg-name="Kukuli TV TR " tvg-logo="" group-title="Turkey",Kukuli TV TR 
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401467
-#EXTINF:-1 tvg-id="minikacocuk.tr" tvg-name="minika COCUK TR" tvg-logo="" group-title="Turkey",minika COCUK TR
-http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401468
-#EXTINF:-1 tvg-id="minikago.tr" tvg-name="minika GO HD TR" tvg-logo="https://i.postimg.cc/QCZXZVpL/Minika-go.png" group-title="Turkey",minika GO HD TR
-http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401470
-#EXTINF:-1 tvg-id="minikago.tr" tvg-name="minika GO TR" tvg-logo="" group-title="Turkey",minika GO TR
-http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401469
+
 #EXTINF:-1 tvg-id="" tvg-name="NETSERVER ANIMASYON 1 FHD TR" tvg-logo="" group-title="Turkey",NETSERVER ANIMASYON 1 FHD TR
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401472
 #EXTINF:-1 tvg-id="" tvg-name="NETSERVER ANIMASYON 2 FHD TR" tvg-logo="" group-title="Turkey",NETSERVER ANIMASYON 2 FHD TR
@@ -2062,6 +2434,384 @@ http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401487
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401488
 #EXTINF:-1 tvg-id="" tvg-name="Warner Bros TR" tvg-logo="" group-title="Turkey",Warner Bros TR
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401489
+------------------------HACELİ----BELGESEL----------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN IZ HD" tvg-logo="" group-title="TR: BELGESEL",TR: beIN IZ HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2512
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN GURME HD" tvg-logo="" group-title="TR: BELGESEL",TR: beIN GURME HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7281
+#EXTINF:-1 tvg-id="" tvg-name="TR: HİSTORY HD" tvg-logo="" group-title="TR: BELGESEL",TR: HİSTORY HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2495
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel HD" tvg-logo="" group-title="TR: BELGESEL",TR: TRT Belgesel HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2498
+#EXTINF:-1 tvg-id="" tvg-name="TR: History Channel HD" tvg-logo="" group-title="TR: BELGESEL",TR: History Channel HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2504
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo HD" tvg-logo="" group-title="TR: BELGESEL",TR: Nat Geo HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2505
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nat Geo Wild HD" tvg-logo="" group-title="TR: BELGESEL",TR: Nat Geo Wild HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2507
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery IDX" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery IDX
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2496
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Channel" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery Channel
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2501
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery IDX HD" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery IDX HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2502
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="" group-title="TR: BELGESEL",TR: DISCOVERY CHANNEL
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2516
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE FHD" tvg-logo="" group-title="TR: BELGESEL",TR: DISCOVERY SCIENCE FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7282
+#EXTINF:-1 tvg-id="" tvg-name="TR: Discovery Turbo Extra HD" tvg-logo="" group-title="TR: BELGESEL",TR: Discovery Turbo Extra HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/15387
+#EXTINF:-1 tvg-id="" tvg-name="TR: TLC" tvg-logo="" group-title="TR: BELGESEL",TR: TLC
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2499
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yaban TV" tvg-logo="" group-title="TR: BELGESEL",TR: Yaban TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2508
+#EXTINF:-1 tvg-id="" tvg-name="TR: DMAX" tvg-logo="" group-title="TR: BELGESEL",TR: DMAX
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2509
+#EXTINF:-1 tvg-id="" tvg-name="TR: BBC EARTH" tvg-logo="" group-title="TR: BELGESEL",TR: BBC EARTH
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/15386
+#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci Learning HD" tvg-logo="" group-title="TR: BELGESEL",TR: Da Vinci Learning HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2514
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HISTORY" tvg-logo="" group-title="TR: BELGESEL",TR: VIASAT HISTORY
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/6620
+#EXTINF:-1 tvg-id="" tvg-name="TR: WOMAN KADIN TV" tvg-logo="" group-title="TR: BELGESEL",TR: WOMAN KADIN TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2500
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tarih TV" tvg-logo="" group-title="TR: BELGESEL",TR: Tarih TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27607
+
+------------------------HACELİ----ÇOCUK TV----------------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA iLKOKUL нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT EBA iLKOKUL нᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12788
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA ORTAOKUL нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT EBA ORTAOKUL нᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12789
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT EBA LiSE нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT EBA LiSE нᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12790
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK нᴅ" tvg-logo="" group-title="TR: COCUK",TR: TRT COCUK нᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12793
+#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI KIDS ғнᴅ" tvg-logo="" group-title="TR: COCUK",TR: DA VINCI KIDS ғнᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12791
+#EXTINF:-1 tvg-id="" tvg-name="TR: BOOMERANG ғнᴅ" tvg-logo="" group-title="TR: COCUK",TR: BOOMERANG ғнᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12794
+#EXTINF:-1 tvg-id="" tvg-name="TR: CARTOON NETWORK ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: CARTOON NETWORK ѕᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12795
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY XD" tvg-logo="" group-title="TR: COCUK",TR: DISNEY XD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12798
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY JUNIOR ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: DISNEY JUNIOR ѕᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12797
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISNEY CHANNEL HD" tvg-logo="" group-title="TR: COCUK",TR: DISNEY CHANNEL HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2517
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA GO ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: MINIKA GO ѕᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12799
+#EXTINF:-1 tvg-id="" tvg-name="TR: MINIKA COCUK ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: MINIKA COCUK ѕᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12800
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON нᴅ" tvg-logo="" group-title="TR: COCUK",TR: NICKELODEON нᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12801
+#EXTINF:-1 tvg-id="" tvg-name="TR: NICKELODEON JR ѕᴅ" tvg-logo="" group-title="TR: COCUK",TR: NICKELODEON JR ѕᴅ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12802
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK HD" tvg-logo="" group-title="TR: COCUK",TR: SMART COCUK HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7280
+#EXTINF:-1 tvg-id="" tvg-name="TR: SMART COCUK FHD" tvg-logo="" group-title="TR: COCUK",TR: SMART COCUK FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12803
+#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV HD" tvg-logo="" group-title="TR: COCUK",TR: BABY TV HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12804
+#EXTINF:-1 tvg-id="" tvg-name="TR: CBEEBiES HD" tvg-logo="" group-title="TR: COCUK",TR: CBEEBiES HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12806
+#EXTINF:-1 tvg-id="" tvg-name="TR: Konusan Tom" tvg-logo="" group-title="TR: COCUK",TR: Konusan Tom
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/36
+#EXTINF:-1 tvg-id="" tvg-name="TR: SUNGER BOB TV" tvg-logo="" group-title="TR: COCUK",TR: SUNGER BOB TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/35
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sünger Bob" tvg-logo="" group-title="TR: COCUK",TR: Sünger Bob
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/34
+#EXTINF:-1 tvg-id="" tvg-name="TR: PAW Patrol" tvg-logo="" group-title="TR: COCUK",TR: PAW Patrol
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/33
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kukuli HD" tvg-logo="" group-title="TR: COCUK",TR: Kukuli HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/15
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pijamaskeliler 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Pijamaskeliler 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/14
+#EXTINF:-1 tvg-id="" tvg-name="TR: 80 Günde Devr-i Alem HD" tvg-logo="" group-title="TR: COCUK",TR: 80 Günde Devr-i Alem HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/13
+#EXTINF:-1 tvg-id="" tvg-name="TR: POKEMON TV" tvg-logo="" group-title="TR: COCUK",TR: POKEMON TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12
+#EXTINF:-1 tvg-id="" tvg-name="TR: Maşa ile Koca Ayı 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Maşa ile Koca Ayı 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/11
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sirinler 1 FHD" tvg-logo="" group-title="TR: COCUK",TR: Sirinler 1 FHD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/10
+#EXTINF:-1 tvg-id="" tvg-name="TR: Rafadan Tayfa" tvg-logo="" group-title="TR: COCUK",TR: Rafadan Tayfa
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/9
+#EXTINF:-1 tvg-id="" tvg-name="TR: SpongeBob" tvg-logo="" group-title="TR: COCUK",TR: SpongeBob
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Oddbods HD" tvg-logo="" group-title="TR: COCUK",TR: Oddbods HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/7
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kukuli 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Kukuli 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/6
+#EXTINF:-1 tvg-id="" tvg-name="TR: Pepee 1 HD" tvg-logo="" group-title="TR: COCUK",TR: Pepee 1 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/5
+#EXTINF:-1 tvg-id="" tvg-name="TR: Baby Alive HD" tvg-logo="" group-title="TR: COCUK",TR: Baby Alive HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/4
+#EXTINF:-1 tvg-id="" tvg-name="TR: POKEMON TV" tvg-logo="" group-title="TR: COCUK",TR: POKEMON TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/3
+#EXTINF:-1 tvg-id="" tvg-name="TR: PIJAMASKELILER" tvg-logo="" group-title="TR: COCUK",TR: PIJAMASKELILER
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2
+#EXTINF:-1 tvg-id="" tvg-name="TR: Temel Reis" tvg-logo="" group-title="TR: COCUK",TR: Temel Reis
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/1
+#EXTINF:-1 tvg-id="" tvg-name="TR: Niloya TV HD" tvg-logo="" group-title="TR: COCUK",TR: Niloya TV HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/2583
+#EXTINF:-1 tvg-id="" tvg-name="TR: Booba TV" tvg-logo="" group-title="TR: COCUK",TR: Booba TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/12796
+
+----------------HACELİ-----YEREL TV-----------------------
+#EXTINF:-1 tvg-id="" tvg-name="### TURK YEREL ###" tvg-logo="" group-title="TR: YEREL",### TURK YEREL ###
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27725
+#EXTINF:-1 tvg-id="" tvg-name="AKIT TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/akit-tv-tr.png" group-title="TR: YEREL",AKIT TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27726
+#EXTINF:-1 tvg-id="" tvg-name="TOKAT SUPER TV" tvg-logo="" group-title="TR: YEREL",TOKAT SUPER TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27727
+#EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/yol-tv-tr.png" group-title="TR: YEREL",YOL TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27728
+#EXTINF:-1 tvg-id="" tvg-name="AA LIVE TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/vatan-tv-tr.png" group-title="TR: YEREL",AA LIVE TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27729
+#EXTINF:-1 tvg-id="" tvg-name="Meltem TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/meltem-tv.png" group-title="TR: YEREL",Meltem TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27730
+#EXTINF:-1 tvg-id="" tvg-name="IBB TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-em.png" group-title="TR: YEREL",IBB TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27731
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 3" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal3-tr.png" group-title="TR: YEREL",KANAL 3
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27732
+#EXTINF:-1 tvg-id="" tvg-name="Tivi Türk" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tiviturk.png" group-title="TR: YEREL",Tivi Türk
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27734
+#EXTINF:-1 tvg-id="" tvg-name="ON4 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/akillitv.png" group-title="TR: YEREL",ON4 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27735
+#EXTINF:-1 tvg-id="" tvg-name="AKSU TV (KAHRAMAN MARAS)" tvg-logo="" group-title="TR: YEREL",AKSU TV (KAHRAMAN MARAS)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27736
+#EXTINF:-1 tvg-id="" tvg-name="AS TV (BURSA)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/astv.png" group-title="TR: YEREL",AS TV (BURSA)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27737
+#EXTINF:-1 tvg-id="" tvg-name="BR TV (KARABUK)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/brtv-tr.png" group-title="TR: YEREL",BR TV (KARABUK)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27738
+#EXTINF:-1 tvg-id="" tvg-name="DEHA TV (DENIZLI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/dehatv.png" group-title="TR: YEREL",DEHA TV (DENIZLI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27739
+#EXTINF:-1 tvg-id="" tvg-name="DENIZ POSTASI TV (KAYSERI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-kayseri.png" group-title="TR: YEREL",DENIZ POSTASI TV (KAYSERI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27740
+#EXTINF:-1 tvg-id="" tvg-name="KANAL B" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/dimtv.png" group-title="TR: YEREL",KANAL B
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27741
+#EXTINF:-1 tvg-id="" tvg-name="ER TV (MALATYA)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ertv.png" group-title="TR: YEREL",ER TV (MALATYA)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27742
+#EXTINF:-1 tvg-id="" tvg-name="VIYANA TV" tvg-logo="" group-title="TR: YEREL",VIYANA TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27743
+#EXTINF:-1 tvg-id="" tvg-name="GRT TV (GAZIANTEP)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/grt.png" group-title="TR: YEREL",GRT TV (GAZIANTEP)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27744
+#EXTINF:-1 tvg-id="" tvg-name="HUNAT TV (KAYSERI)" tvg-logo="" group-title="TR: YEREL",HUNAT TV (KAYSERI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27745
+#EXTINF:-1 tvg-id="" tvg-name="KANAL S" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal12.png" group-title="TR: YEREL",KANAL S
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27746
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 15 TV" tvg-logo="" group-title="TR: YEREL",KANAL 15 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27747
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 23 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal23-tr.png" group-title="TR: YEREL",KANAL 23 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27748
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 26 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-26-tr.png" group-title="TR: YEREL",KANAL 26 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27749
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 68 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal68.png" group-title="TR: YEREL",KANAL 68 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27750
+#EXTINF:-1 tvg-id="" tvg-name="KANAL FIRAT TV (ELAZIG)" tvg-logo="" group-title="TR: YEREL",KANAL FIRAT TV (ELAZIG)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27751
+#EXTINF:-1 tvg-id="" tvg-name="KANAL Z (ZONGULDAK)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanalztv.png" group-title="TR: YEREL",KANAL Z (ZONGULDAK)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27752
+#EXTINF:-1 tvg-id="" tvg-name="KANAL V (ANTALYA)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-v-tr.png" group-title="TR: YEREL",KANAL V (ANTALYA)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27753
+#EXTINF:-1 tvg-id="" tvg-name="KAY TV (KAYSERI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kaytv.png" group-title="TR: YEREL",KAY TV (KAYSERI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27754
+#EXTINF:-1 tvg-id="" tvg-name="KENT 38 TV (KAYSERI)" tvg-logo="" group-title="TR: YEREL",KENT 38 TV (KAYSERI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27755
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TV (KAYSERI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/life-tv.png" group-title="TR: YEREL",LIFE TV (KAYSERI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27756
+#EXTINF:-1 tvg-id="" tvg-name="MAVI KARADENIZ" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/mavi-karadeniz-tr.png" group-title="TR: YEREL",MAVI KARADENIZ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27757
+#EXTINF:-1 tvg-id="" tvg-name="MERCAN TV (ADIYAMAN)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/mercan-tv.png" group-title="TR: YEREL",MERCAN TV (ADIYAMAN)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27758
+#EXTINF:-1 tvg-id="" tvg-name="OLAY TURK TV (KAYSERI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/olay-turk-tv.png" group-title="TR: YEREL",OLAY TURK TV (KAYSERI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27759
+#EXTINF:-1 tvg-id="" tvg-name="SAT 7 TURK" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/sat7-turk-tr.png" group-title="TR: YEREL",SAT 7 TURK
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27760
+#EXTINF:-1 tvg-id="" tvg-name="TON TV (CANAKKALE)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ton-tv.png" group-title="TR: YEREL",TON TV (CANAKKALE)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27761
+#EXTINF:-1 tvg-id="" tvg-name="TV 41 (KOCAELI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-41.png" group-title="TR: YEREL",TV 41 (KOCAELI)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27762
+#EXTINF:-1 tvg-id="" tvg-name="VIZYON 58 TV (SIVAS)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/vizyon-58-tr.png" group-title="TR: YEREL",VIZYON 58 TV (SIVAS)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27763
+#EXTINF:-1 tvg-id="" tvg-name="VUSLAT TV (MALATYA)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/vuslat-tv.png" group-title="TR: YEREL",VUSLAT TV (MALATYA)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27764
+#EXTINF:-1 tvg-id="" tvg-name="TEMPO TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tempo-tv.png" group-title="TR: YEREL",TEMPO TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27765
+#EXTINF:-1 tvg-id="" tvg-name="RUMELI TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/rumeli-tv-tr.png" group-title="TR: YEREL",RUMELI TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27766
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 34" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/cem-tv-tr.png" group-title="TR: YEREL",Kanal 34
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27767
+#EXTINF:-1 tvg-id="" tvg-name="Business Channel Türk" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/business-channel-turk.png" group-title="TR: YEREL",Business Channel Türk
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27768
+#EXTINF:-1 tvg-id="" tvg-name="EKIN TURK" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ekin-tv-turk-tr.png" group-title="TR: YEREL",EKIN TURK
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27769
+#EXTINF:-1 tvg-id="" tvg-name="YILDIZ  EN TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/yildiz-en-tv-tr.png" group-title="TR: YEREL",YILDIZ  EN TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27770
+#EXTINF:-1 tvg-id="" tvg-name="Can TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/can-tv.png" group-title="TR: YEREL",Can TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27771
+#EXTINF:-1 tvg-id="" tvg-name="Tek Rumeli TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tek-rumeli-tr.png" group-title="TR: YEREL",Tek Rumeli TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27772
+#EXTINF:-1 tvg-id="" tvg-name="KONTV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kon-tv-tr.png" group-title="TR: YEREL",KONTV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27773
+#EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/flash-tv-tr.png" group-title="TR: YEREL",FLASH TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27774
+#EXTINF:-1 tvg-id="" tvg-name="TRAKYA TURK TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ahi-tv.png" group-title="TR: YEREL",TRAKYA TURK TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27775
+#EXTINF:-1 tvg-id="" tvg-name="Alanya Posta TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/alanya-posta-tv.png" group-title="TR: YEREL",Alanya Posta TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27776
+#EXTINF:-1 tvg-id="" tvg-name="Cay TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/cay-tv-tr.png" group-title="TR: YEREL",Cay TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27777
+#EXTINF:-1 tvg-id="" tvg-name="İçel TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/içel-tv.png" group-title="TR: YEREL",İçel TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27778
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 33 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-33.png" group-title="TR: YEREL",KANAL 33 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27779
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 32 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-38.png" group-title="TR: YEREL",KANAL 32 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27780
+#EXTINF:-1 tvg-id="" tvg-name="Alanya TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/alanya-tv.png" group-title="TR: YEREL",Alanya TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27781
+#EXTINF:-1 tvg-id="" tvg-name="BERAT TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/manisa-tv.png" group-title="TR: YEREL",BERAT TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27782
+#EXTINF:-1 tvg-id="" tvg-name="EDIRNE TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/vav-tv-tr.png" group-title="TR: YEREL",EDIRNE TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27783
+#EXTINF:-1 tvg-id="" tvg-name="SARIYER TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/sarıyer-tv.png" group-title="TR: YEREL",SARIYER TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27784
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV (Mersin)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/sun-tv.png" group-title="TR: YEREL",SUN TV (Mersin)
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27785
+#EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-1.png" group-title="TR: YEREL",TV 1
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27786
+#EXTINF:-1 tvg-id="" tvg-name="TV DEN" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-den-tr.png" group-title="TR: YEREL",TV DEN
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27787
+#EXTINF:-1 tvg-id="" tvg-name="TV 264" tvg-logo="" group-title="TR: YEREL",TV 264
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27788
+#EXTINF:-1 tvg-id="" tvg-name="Es TV HD" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/es-tv-tr.png" group-title="TR: YEREL",Es TV HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27789
+#EXTINF:-1 tvg-id="" tvg-name="Cine5 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/koza-tv-tr.png" group-title="TR: YEREL",Cine5 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27790
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 61" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/a-52-tv.png" group-title="TR: YEREL",Kanal 61
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27791
+#EXTINF:-1 tvg-id="" tvg-name="ADA TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ada-tv-tr.png" group-title="TR: YEREL",ADA TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27792
+#EXTINF:-1 tvg-id="" tvg-name="ADA TV KIBRIS" tvg-logo="" group-title="TR: YEREL",ADA TV KIBRIS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27793
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV TR" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/agro-tv-tr.png" group-title="TR: YEREL",AGRO TV TR
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27794
+#EXTINF:-1 tvg-id="" tvg-name="ALTAS TV ORDU" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/altas-tv-tr.png" group-title="TR: YEREL",ALTAS TV ORDU
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27795
+#EXTINF:-1 tvg-id="" tvg-name="ANGARA TV HD" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/angara-tv.png" group-title="TR: YEREL",ANGARA TV HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27796
+#EXTINF:-1 tvg-id="" tvg-name="DHA TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/anka-tv.png" group-title="TR: YEREL",DHA TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27797
+#EXTINF:-1 tvg-id="" tvg-name="HRT AKDENIZ TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/avrupa-tv.png" group-title="TR: YEREL",HRT AKDENIZ TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27799
+#EXTINF:-1 tvg-id="" tvg-name="IBB TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/bayraklı-tv.png" group-title="TR: YEREL",IBB TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27800
+#EXTINF:-1 tvg-id="" tvg-name="ELMAS TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/beykent-tv-tr.png" group-title="TR: YEREL",ELMAS TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27801
+#EXTINF:-1 tvg-id="" tvg-name="BRT 1" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/brt-1-tr.png" group-title="TR: YEREL",BRT 1
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27804
+#EXTINF:-1 tvg-id="" tvg-name="BURSA LiNE TV" tvg-logo="" group-title="TR: YEREL",BURSA LiNE TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27805
+#EXTINF:-1 tvg-id="" tvg-name="BURSA ON6 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/bursa-on6-tv.png" group-title="TR: YEREL",BURSA ON6 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27806
+#EXTINF:-1 tvg-id="" tvg-name="CADDE TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/çankırı--tv.png" group-title="TR: YEREL",CADDE TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27807
+#EXTINF:-1 tvg-id="" tvg-name="CEKMEKOY BELEDiYE TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/çekmeköy-tv.png" group-title="TR: YEREL",CEKMEKOY BELEDiYE TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27808
+#EXTINF:-1 tvg-id="" tvg-name="CRI Türk" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/cri-turk.png" group-title="TR: YEREL",CRI Türk
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27809
+#EXTINF:-1 tvg-id="" tvg-name="BIR TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/erbaa-tv.png" group-title="TR: YEREL",BIR TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27810
+#EXTINF:-1 tvg-id="" tvg-name="ERCiS TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ercis-tv.png" group-title="TR: YEREL",ERCiS TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27811
+#EXTINF:-1 tvg-id="" tvg-name="CINE 1" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ert.png" group-title="TR: YEREL",CINE 1
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27812
+#EXTINF:-1 tvg-id="" tvg-name="24 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/erzurum-web-tv.png" group-title="TR: YEREL",24 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27813
+#EXTINF:-1 tvg-id="" tvg-name="ETV KAYSERi" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/e-tv-kayseri.png" group-title="TR: YEREL",ETV KAYSERi
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27814
+#EXTINF:-1 tvg-id="" tvg-name="GENC TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/genc-tv.png" group-title="TR: YEREL",GENC TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27815
+#EXTINF:-1 tvg-id="" tvg-name="GUNEY TV TARSUS" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/guney-tv-tarsus.png" group-title="TR: YEREL",GUNEY TV TARSUS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27816
+#EXTINF:-1 tvg-id="" tvg-name="GURBET 24 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/gurbet-24-tv.png" group-title="TR: YEREL",GURBET 24 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27817
+#EXTINF:-1 tvg-id="" tvg-name="Karasu TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/isvicre-tv.png" group-title="TR: YEREL",Karasu TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27818
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 56" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-56.png" group-title="TR: YEREL",KANAL 56
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27819
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 58" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-58.png" group-title="TR: YEREL",KANAL 58
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27820
+#EXTINF:-1 tvg-id="" tvg-name="ILK TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-65.png" group-title="TR: YEREL",ILK TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27821
+#EXTINF:-1 tvg-id="" tvg-name="Konya Olay TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-sim-tr.png" group-title="TR: YEREL",Konya Olay TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27824
+#EXTINF:-1 tvg-id="" tvg-name="Kent Türk" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kent-turk.png" group-title="TR: YEREL",Kent Türk
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27825
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS GENC TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/genc-tv.png" group-title="TR: YEREL",KIBRIS GENC TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27826
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV Konya" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kmd-tv.png" group-title="TR: YEREL",SUN TV Konya
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27827
+#EXTINF:-1 tvg-id="" tvg-name="KOROGLU TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/koroğlu-tv.png" group-title="TR: YEREL",KOROGLU TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27828
+#EXTINF:-1 tvg-id="" tvg-name="KTV-KIBRIS TV" tvg-logo="" group-title="TR: YEREL",KTV-KIBRIS TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27829
+#EXTINF:-1 tvg-id="" tvg-name="Line TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/line-tv-tr.png" group-title="TR: YEREL",Line TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27830
+#EXTINF:-1 tvg-id="" tvg-name="Luys TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/luys-tv.png" group-title="TR: YEREL",Luys TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27831
+#EXTINF:-1 tvg-id="" tvg-name="MARMARiS TV WEB TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/marmaris-tv.png" group-title="TR: YEREL",MARMARiS TV WEB TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27832
+#EXTINF:-1 tvg-id="" tvg-name="TV 4" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/msbc-2000-kanal.png" group-title="TR: YEREL",TV 4
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27833
+#EXTINF:-1 tvg-id="" tvg-name="ON6 TV" tvg-logo="" group-title="TR: YEREL",ON6 TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27834
+#EXTINF:-1 tvg-id="" tvg-name="ORDU BEL TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ordu-bel-tv.png" group-title="TR: YEREL",ORDU BEL TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27836
+#EXTINF:-1 tvg-id="" tvg-name="GONCA TV" tvg-logo="" group-title="TR: YEREL",GONCA TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27837
+#EXTINF:-1 tvg-id="" tvg-name="ABB WEB TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/super-7-tv.png" group-title="TR: YEREL",ABB WEB TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27838
+#EXTINF:-1 tvg-id="" tvg-name="Tarsus Güney TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/guney-tv-tarsus.png" group-title="TR: YEREL",Tarsus Güney TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27839
+#EXTINF:-1 tvg-id="" tvg-name="TiVi 6 HD" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tivi-6.png" group-title="TR: YEREL",TiVi 6 HD
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27840
+#EXTINF:-1 tvg-id="" tvg-name="TV A" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ton-tv.png" group-title="TR: YEREL",TV A
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27841
+#EXTINF:-1 tvg-id="" tvg-name="Izmir Turk TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/turhal-spuer-tv.png" group-title="TR: YEREL",Izmir Turk TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27842
+#EXTINF:-1 tvg-id="" tvg-name="TURHAL WEB TV" tvg-logo="" group-title="TR: YEREL",TURHAL WEB TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27843
+#EXTINF:-1 tvg-id="" tvg-name="TARSUS Guney TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/turk-haber.png" group-title="TR: YEREL",TARSUS Guney TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27844
+#EXTINF:-1 tvg-id="" tvg-name="TV 2020" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv2020.png" group-title="TR: YEREL",TV 2020
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27845
+#EXTINF:-1 tvg-id="" tvg-name="TV 38" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-38.png" group-title="TR: YEREL",TV 38
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27846
+#EXTINF:-1 tvg-id="" tvg-name="TV 52" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv52-tr.png" group-title="TR: YEREL",TV 52
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27847
+#EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-kayseri.png" group-title="TR: YEREL",SZC TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27848
+#EXTINF:-1 tvg-id="" tvg-name="UR FANATiK TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/urfanatik-tv.png" group-title="TR: YEREL",UR FANATiK TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27849
+#EXTINF:-1 tvg-id="" tvg-name="Üsküdar Üniversitesi TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/üsküdar-üni-tv.png" group-title="TR: YEREL",Üsküdar Üniversitesi TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27850
+#EXTINF:-1 tvg-id="" tvg-name="Viyana TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/viyana-tv.png" group-title="TR: YEREL",Viyana TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27851
+#EXTINF:-1 tvg-id="" tvg-name="Anadolu Net TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/world-turk.png" group-title="TR: YEREL",Anadolu Net TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27852
+#EXTINF:-1 tvg-id="" tvg-name="Gunaydın TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/yaren-tv.png" group-title="TR: YEREL",Gunaydın TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27853
+#EXTINF:-1 tvg-id="" tvg-name="BRT 2" tvg-logo="" group-title="TR: YEREL",BRT 2
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27854
+#EXTINF:-1 tvg-id="" tvg-name="ZAZA TV" tvg-logo="" group-title="TR: YEREL",ZAZA TV
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27855
+#EXTINF:-1 tvg-id="" tvg-name="TEVE 63" tvg-logo="" group-title="TR: YEREL",TEVE 63
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/27856
+----------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="======== Müzik ========" tvg-logo="" group-title="Turkey",======== Müzik ========
 http://ultratv.one:2095/oQUCFpEeFq/u5C1DYYr/401494
 #EXTINF:-1 tvg-id="" tvg-name="360 TuneBox HD TR" tvg-logo="" group-title="Turkey",360 TuneBox HD TR
@@ -7515,3 +8265,140 @@ http://162.251.62.114:80/live/laurindo9955/4799556387blm/46201.ts
 http://162.251.62.114:80/live/laurindo9955/4799556387blm/46204.ts
 #EXTINF:-1,[+18] Sexy Hot HD
 http://162.251.62.114:80/live/laurindo9955/4799556387blm/136233.ts
+
+---------------------------HACALİ---XXL-----------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: SEX WORKING" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: SEX WORKING
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22084
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: SHARE MY BF" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: SHARE MY BF
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22085
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: SIS LOVES ME" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: SIS LOVES ME
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22086
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: STEP MOM LESSONS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: STEP MOM LESSONS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22087
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: STEPSIBLINGS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: STEPSIBLINGS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22088
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: STRANDED TEENS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: STRANDED TEENS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22089
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: SWALLOW SALON" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: SWALLOW SALON
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22090
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: THE INNOCENCE OF YOUTH" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: THE INNOCENCE OF YOUTH
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22091
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: TINY 4K" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: TINY 4K
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22092
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: TONIGHTS GIRLFRIEND" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: TONIGHTS GIRLFRIEND
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22093
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: TURNING TWISTYS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: TURNING TWISTYS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22094
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: TUSHY" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: TUSHY
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22095
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: TWISTYS ORIGINAL" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: TWISTYS ORIGINAL
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22096
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: BANGERZ XX" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: BANGERZ XX
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22097
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: VLOG XXX" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: VLOG XXX
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22098
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: WE LIVE TOGETHER" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: WE LIVE TOGETHER
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22099
+#EXTINF:-1 tvg-id="" tvg-name="PORNBOX: WHEN GIRLS PLAY" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Originals.png" group-title="XXX",PORNBOX: WHEN GIRLS PLAY
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22100
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: ABELLA DANGER" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: ABELLA DANGER
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22101
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: ADRIANA CHECHIK" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: ADRIANA CHECHIK
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22102
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: ALINA LOPEZ" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: ALINA LOPEZ
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22103
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: ANGELA WHITE" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: ANGELA WHITE
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22104
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: ARIANA MARIE" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: ARIANA MARIE
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22105
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: AUGUST AMES" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: AUGUST AMES
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22106
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: AUTUMN FALLS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: AUTUMN FALLS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22107
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: BRANDI LOVE" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: BRANDI LOVE
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22108
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: DANI DANIELS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: DANI DANIELS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22109
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: DANI JENSEN" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: DANI JENSEN
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22110
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: ELSA JEAN" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: ELSA JEAN
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22111
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: EMILY WILLIS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: EMILY WILLIS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22112
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: EVA LOVIA" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: EVA LOVIA
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22113
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: GINA VALENTINA" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: GINA VALENTINA
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22114
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: JANICE GRIFFITH" tvg-logo="https://cinebox.one/cinebox_and_pornbox/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: JANICE GRIFFITH
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22115
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: JESSA RHODES" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: JESSA RHODES
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22116
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: LANA RHOADES" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: LANA RHOADES
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22117
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: LENA PAUL" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: LENA PAUL
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22118
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: LISA ANN" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: LISA ANN
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22119
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: MADISON IVY" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: MADISON IVY
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22120
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: MIA MALKOVA" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: MIA MALKOVA
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22121
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: NICOLE ANISTON" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: NICOLE ANISTON
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22122
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: RILEY REID" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: RILEY REID
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22123
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: UMA JOLIE" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: UMA JOLIE
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22124
+#EXTINF:-1 tvg-id="" tvg-name="STARS EXCLUSIVE: VALENTINA NAPPI" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/pornbox-stars.png" group-title="XXX",STARS EXCLUSIVE: VALENTINA NAPPI
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22125
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: ALICE REDLIPS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: ALICE REDLIPS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22126
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: BIGTITTYGOTHEGG" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: BIGTITTYGOTHEGG
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22127
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: CHERRY GRACE" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: CHERRY GRACE
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22128
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: CHESSIE RAE" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: CHESSIE RAE
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22129
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: DIANA DANIELS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: DIANA DANIELS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22130
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: ELLAKAI" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: ELLAKAI
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22131
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: FIAMURR" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: FIAMURR
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22132
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: KRISS KISS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: KRISS KISS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22133
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: LEAH MEOW" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: LEAH MEOW
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22134
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: LUXURYGIRL" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: LUXURYGIRL
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22135
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: MIKANIKA69" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: MIKANIKA69
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22136
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: MINI DIVA" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: MINI DIVA
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22137
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: MOLLYREDWOLF" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: MOLLYREDWOLF
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22138
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: NOFACEGIRL" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: NOFACEGIRL
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22139
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: HOOKUP HOTSHOT" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: HOOKUP HOTSHOT
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22140
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: NYNA FERRAGNI" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: NYNA FERRAGNI
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22141
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: PURPLE BITCH" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: PURPLE BITCH
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22142
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: REISLIN" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: REISLIN
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22143
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: SECRETCRUSH" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: SECRETCRUSH
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22144
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: SHAIDEN ROUGE" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: SHAIDEN ROUGE
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22145
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: SOLAZOLA" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: SOLAZOLA
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22146
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: SWEET BUNNY" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: SWEET BUNNY
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22147
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: TESSA WINTERS" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: TESSA WINTERS
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22148
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: TINNA ANGEL" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: TINNA ANGEL
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22149
+#EXTINF:-1 tvg-id="" tvg-name="VERIFIED AMATEURS: YINYLEON" tvg-logo="https://instant-iptv.net/wp-content/uploads/2021/05/PORNBOX_Verified_AmateursS.png" group-title="XXX",VERIFIED AMATEURS: YINYLEON
+http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/22150
