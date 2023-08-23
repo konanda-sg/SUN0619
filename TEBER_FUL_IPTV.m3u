@@ -250,6 +250,52 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:1,KANAL T
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 
+#EXTM3U
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansinema TV SD 
+https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansinema TV SD-1
+http://iptvh.it/Yansima-Sinema-TV-SD
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansinema TV HD 
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansinema TV HD-1
+http://iptvh.it/Yansima-Sinema-TV-HD
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansinema TV HD-2
+https://tinyurl.com/Yansima-Sinema-TV-HD
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansıma Muzik TV SD 
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansıma Muzik TV SD-1
+http://iptvh.it/Yansima-Muzik-TV-SD
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansıma Muzik TV Dance SD
+https://live-server-2.splitstream.io/224c48a8-f430-43ca-bc4e-9f7bbe8cd240/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansıma Muzik TV Dance HD
+https://ssh101.bozztv.com/ssh101/yansimamuzik/chunks.m3u8 
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansıma Muzik TV HD 
+https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansıma Muzik TV HD-1
+http://iptvh.it/Yansima-Muzik-TV-HD
+#EXTINF: -1 group-title="YANSIMA MEDYA",Yansıma Muzik TV HD-2
+https://tinyurl.com/Yansima-Muzik-TV-HD
+#EXTINF: -1 group-title="YANSIMA MEDYA",TİMUR MEDYA TV SD 
+https://live-server-2.splitstream.io/eb9133d4-107e-4cb2-af99-8227df998e7f/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",TİMUR MEDYA TV SD-1
+http://iptvh.it/timur_medya_tv
+#EXTINF: -1 group-title="YANSIMA MEDYA",TİMUR MEDYA TV SD-2
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/timurmedyatvs/chunklist_w471215078.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",TEBER BOX TV 1
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",TEBER BOX TV 2 
+https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",TEBER BOX TV 3
+https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",TEBER BOX TV 4
+https://live-server-2.splitstream.io/3a08cd55-6cbc-4072-8381-e7d0dc5b6d0d/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="YANSIMA MEDYA",RADYO YANSIMA-1
+http://95.173.162.181:9912/;
+#EXTINF: -1 group-title="YANSIMA MEDYA",RADYO YANSIMA-2
+http://iptvh.it/Radyoyansima
+#EXTINF: -1 group-title="YANSIMA MEDYA",RADYO YANSIMA-3
+http://iptvh.it/Radyoyansima1
+
 
 --------------------ÖZGÜR-----HABER------------------------------
 
