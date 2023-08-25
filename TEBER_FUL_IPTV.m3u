@@ -12,8 +12,8 @@ https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 #EXTINF:1,TV4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
-#EXTINF:1,CINE5 TÜRK
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV5 (YUTB)
+http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
 #EXTINF:1,TIVI 6 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
@@ -32,6 +32,9 @@ https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 
 #EXTINF:2,CINE 9
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
+
+#EXTINF:1,CINE 10
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 group-title="YANSIMA MEDYA",YANSIMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
@@ -162,13 +165,10 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT 4K 
 http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
 
-#EXTINF:-1,TV5 (YUTB)
-http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
-
-#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_avaz_tr.png" group-title="TURK ULUSAL",TRT6 AVAZ HD
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_avaz_tr.png" group-title="TURK ULUSAL",TRT5 AVAZ HD
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL 7 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT7 BELGESEL HD
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL 7 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT6 BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1,TRT BİLGİ
