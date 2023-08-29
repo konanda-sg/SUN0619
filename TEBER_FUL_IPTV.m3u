@@ -48,14 +48,90 @@ https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks
 #EXTINF:1,TELE ON
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 
+#EXTINF:-1,TRT 1 HD
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="[TR] TRT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-2-tr.png" group-title="TR➤ ULUSAL",[TR] TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT3 TÜRK 
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT 4K 
+http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
+
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_avaz_tr.png" group-title="TURK ULUSAL",TRT5 AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL 7 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT6 BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT BİLGİ
+https://eu1.tabii.com/apigateway/pbr/v1/media/12242/12241.m3u8?width=-1&height=-1&bandwidth=-1&subtitleType=m3u8
+
+#EXTINF:-1 tvg-id="TRT.tr" tvg-name="TRT HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/TRT.png" group-title="TURK ULUSAL",TRT NEŞET ERTAŞ BELGESELİ
+https://cdn-v.pr.trt.com.tr/trttv/website/1efee8de-d816-44ad-a872-9cbffdd0eb43/master1080p.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
+http://ders.site:8080/garibua10/JHEWh7WFvv/9
+
+#EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW TURK HD
+http://135.125.234.9:8081/showturk/index.m3u8  
+
+#EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW DİZİ TV1
+https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8 
+
+#EXTINF:-1,SHOW DİZİ TV2
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71842
+
+#EXTINF:-1,G PLUS - GULDUR GULDUR SHOW
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/74761
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL GÜLDÜR GÜLDÜR SHOW" tvg-logo="http://logo.hdplustv.us/logoslar/guldurguldur.jpg" group-title="TR-EGLENCE",TR: UNIVERSAL G.G.S TV
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/19988
+
+#EXTINF:-40,Kanal D HD
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1,TR:EURO D HD
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/88989
+
+#EXTINF:-1,TR:A2 HD
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89813
+
+#EXTINF:-1,ATV HD
+http://116.202.238.88/ATV_TR/index.m3u8
+
+#EXTINF:-1,TR:ATV AVRUPA HD
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/88990
+
+#EXTINF:-1,FOX TV 
+http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXlrcOffWvChvepjdj5sgFj0/ts
+
+#EXTINF:-1,TR:TGRT EU HD
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89118
+
+#EXTINF:-1 tvg-id="" tvg-name="ATV Alanya (720p)" tvg-logo="http://iptv.team1454.com:80/images/10ad4650249b2e8d66008fe7b4632a3c.png" group-title="TR YEREL KANALLAR",ATV Alanya 
+http://88.99.211.53:1935/alanyatv/bant1/sec-f5-v1-a1.m3u8
+
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360 FHD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/360.TV.png" group-title="TURK ULUSAL",TV 360 FHD
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/BEYAZ.TV.png" group-title="TURK ULUSAL",BEYAZ TV HD
+http://ders.site:8080/garibua10/JHEWh7WFvv/101505
+
+#EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+
+#EXTINF:0,KONYA OLAY TV
+http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
+
+#EXTINF:-1,WOMAN TV 
+https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+
 #EXTINF:-1,G PLUS - KEMAL SUNAL
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72278
 #EXTINF:-1,G PLUS - ISLER GUCLER
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71847
-#EXTINF:-1,G PLUS - GULDUR GULDUR SHOW
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/74761
-#EXTINF:-1,G PLUS - CENNET MAHALLESI
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71842
 #EXTINF:-1,G PLUS - AYHAN ISIK
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72264
 #EXTINF:-1,G PLUS - CUNEYT ARKIN
@@ -184,9 +260,6 @@ https://ssh101.bozztv.com/ssh101/yansimamuzik/chunks.m3u8
 
 #EXTINF: -1 group-title="YANSIMA MEDYA",YANSIMA Muzik TV HD 
 https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
-
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL GÜLDÜR GÜLDÜR SHOW" tvg-logo="http://logo.hdplustv.us/logoslar/guldurguldur.jpg" group-title="TR-EGLENCE",TR: UNIVERSAL G.G.S TV
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/19988
 
 #EXTINF:-1,TR:BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
@@ -1015,83 +1088,6 @@ https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 #EXTINF:-1,TR:TV 1 HD
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89164
 
-#EXTINF:-1,WOMAN TV 
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
-
-#EXTINF:-1,TRT 1 HD
-https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
-
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="[TR] TRT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-2-tr.png" group-title="TR➤ ULUSAL",[TR] TRT 2 HD
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1,TRT3 TÜRK 
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1,TRT 4K 
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXuwjqDu4unS5reo9rJR7nSA/ts
-
-#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_avaz_tr.png" group-title="TURK ULUSAL",TRT5 AVAZ HD
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL 7 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT6 BELGESEL HD
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1,TRT BİLGİ
-https://eu1.tabii.com/apigateway/pbr/v1/media/12242/12241.m3u8?width=-1&height=-1&bandwidth=-1&subtitleType=m3u8
-
-#EXTINF:-1 tvg-id="TRT.tr" tvg-name="TRT HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/TRT.png" group-title="TURK ULUSAL",TRT NEŞET ERTAŞ BELGESELİ
-https://cdn-v.pr.trt.com.tr/trttv/website/1efee8de-d816-44ad-a872-9cbffdd0eb43/master1080p.m3u8
-
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
-http://ders.site:8080/garibua10/JHEWh7WFvv/9
-
-#EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW TURK HD
-http://135.125.234.9:8081/showturk/index.m3u8  
-
-#EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW DİZİ TV
-https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8 
-
-#EXTINF:11, SHOW PULUS TV 
-https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
-
-#EXTINF:-40,Kanal D HD
-https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-
-#EXTINF:-1,TR:EURO D HD
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/88989
-
-#EXTINF:-1,TR:A2 HD
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89813
-
-#EXTINF:-1,ATV HD
-http://116.202.238.88/ATV_TR/index.m3u8
-
-#EXTINF:-1,TR:ATV AVRUPA HD
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/88990
-
-#EXTINF:-1,FOX TV 
-http://4r6.grande365.xyz:80/play/6HndMfTxiCp8q_GR5dQYXlrcOffWvChvepjdj5sgFj0/ts
-
-#EXTINF:-1,TR:TGRT EU HD
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89118
-
-#EXTINF:0,KONYA OLAY TV
-http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="yktv2828" tvg-name="yktv2828" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/YEŞİLKARADEİZ.TV.png" group-title="TURK ULUSAL",YEŞİL KARADEİZ TV
-http://yktv2828.ozelip.com:24596/ykaradeniztv/ykaradeniztv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ATV Alanya (720p)" tvg-logo="http://iptv.team1454.com:80/images/10ad4650249b2e8d66008fe7b4632a3c.png" group-title="TR YEREL KANALLAR",ATV Alanya 
-http://88.99.211.53:1935/alanyatv/bant1/sec-f5-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360 FHD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/360.TV.png" group-title="TURK ULUSAL",TV 360 FHD
-https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/BEYAZ.TV.png" group-title="TURK ULUSAL",BEYAZ TV HD
-http://ders.site:8080/garibua10/JHEWh7WFvv/101505
-
-#EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-
 #EXTINF:0 type="stream" channelId="3119" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png", SHOW TV HD
 http://canli.haber365.com.tr/tr/showtv/index.m3u8
 
@@ -1131,9 +1127,8 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:1,KANAL T
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 
-#EXTINF:4,TELE ON HD 
-https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
-
+#EXTINF:-1 tvg-id="yktv2828" tvg-name="yktv2828" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/YEŞİLKARADEİZ.TV.png" group-title="TURK ULUSAL",YEŞİL KARADEİZ TV
+http://yktv2828.ozelip.com:24596/ykaradeniztv/ykaradeniztv/playlist.m3u8
 ------------------DİJİTAL-ULUSAL----------------------------
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR:TRT1.HD" tvg-logo="" group-title="TURKEY",TR:TRT1.HD
@@ -1741,7 +1736,8 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116370.ts
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134368.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Movie Smart TURK HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/29958076441.png" group-title="TR - Turkish TV",TR: Movie Smart TURK HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97610.ts
-
+#EXTINF:11, SHOW PULUS TV 
+https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 ***** TURK SPOR *****
 
 #EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT PLUS" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/FHD/S.SPORT.png" group-title="TR ➤SPORT ",TR | S-SPORT PLUS
