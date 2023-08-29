@@ -33,11 +33,54 @@ https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1,TR:TV 8 INT HD
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/88991
 
+#EXTINF:0 user-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://logo.hdplustv.us/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 FHD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/28
+
+#EXTINF:0 user-agent="Firefox" tvg-id="TV 8,5" tvg-name="TR: TV 8.5 HD" tvg-logo="http://logo.hdplustv.us/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 HD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/27
+
 #EXTINF:2,CINE 9
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
 #EXTINF:1,CINE 10
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 1" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 1
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/160
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 2" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 2
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/159
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 3" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 3
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/158
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 4" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 4
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/157
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 5" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 5
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/156
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 6" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 6
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/155
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 7" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 7
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/154
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR: CINE BOX HD 8" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 8
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/230514
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 1
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115706
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 2
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115707
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 3
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115708
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 1" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 1
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115709
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 2" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 2
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115710
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 3" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 3
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115711
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 4" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 4
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115712
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 5" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 5
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115713
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 6" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 6
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Exxen TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-ULUSAL",TR: Exxen TV
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/232446
 
 #EXTINF:-1,TR:AKILLI TV HD
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/88998
@@ -65,6 +108,9 @@ https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
 #EXTINF:-1,ŞABAN TV2
 https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="Kutsal Damacana 4 (2023)" tvg-logo="" group-title="SONVIZYON FILMLER",Kutsal Damacana 4 (2023)
+http://143951.iptvone.eu:80/movie/ErcinSoysal/27BQ1HdQ74/227067.mkv
 
 #EXTINF:-12,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
@@ -155,82 +201,12 @@ https://cageu.bozztv.com/ssh101/ssh101/fdtvyesilcam/chunks.m3u8
 
 #EXTINF:109, AFYON TÜRK 
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIVI TURK TV" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] YEREL",TIVI TURK TV
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17129
-#EXTINF:-1 tvg-id="" tvg-name="KEMAL SUNAL TV" tvg-logo="https://2.bp.blogspot.com/-Kd2SDJFyCXk/VAsKdsmeZGI/AAAAAAAAAHA/nWJ7NO-b14M/s400/kemalsunal.png" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",KEMAL SUNAL TV
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/11808
-#EXTINF:-1 tvg-id="" tvg-name="Recep iVEDiK TV" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",Recep iVEDiK TV
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17967
-#EXTINF:-1 tvg-id="" tvg-name="GULDUR GULDUR HD" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",GULDUR GULDUR HD
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17935
-#EXTINF:-1 tvg-id="" tvg-name="AVRUPA YAKASI" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",AVRUPA YAKASI
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17937
-#EXTINF:-1 tvg-id="" tvg-name="SiNEMA KOMEDI" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SiNEMA KOMEDI
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17938
-#EXTINF:-1 tvg-id="" tvg-name="SiNEMA AKSIYON" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SiNEMA AKSIYON
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17939
-#EXTINF:-1 tvg-id="" tvg-name="SiNEMA FANTASTIK" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SiNEMA FANTASTIK
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17940
-#EXTINF:-1 tvg-id="" tvg-name="SiNEMA ROMANTIK" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SiNEMA ROMANTIK
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17941
-#EXTINF:-1 tvg-id="" tvg-name="SiNEMA BILIM KURGU" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SiNEMA BILIM KURGU
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17942
-#EXTINF:-1 tvg-id="" tvg-name="SiNEMA YERLI KOMEDI" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SiNEMA YERLI KOMEDI
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17943
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU 4K" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU 4K
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17944
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU  AILE" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU  AILE
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17945
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU SAVAS" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU SAVAS
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17946
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU OSCAR" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU OSCAR
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17948
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU  KOMEDI" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU  KOMEDI
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17949
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU ACTION" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU ACTION
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17950
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU MACERA" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU MACERA
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17952
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU VAHSI BATI" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU VAHSI BATI
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17953
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU  ROMANTIK" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU  ROMANTIK
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17954
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU BILIM KURGU" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU BILIM KURGU
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17955
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBLU YERLI VIZYON" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SMARTBLU YERLI VIZYON
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17956
-#EXTINF:-1 tvg-id="" tvg-name="Van Damme Filmleri" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",Van Damme Filmleri
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17997
-#EXTINF:-1 tvg-id="" tvg-name="Jackie Chan Filmleri" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",Jackie Chan Filmleri
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/17998
-#EXTINF:-1 tvg-id="" tvg-name="Konusanlar Tv" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",Konusanlar Tv
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18012
-#EXTINF:-1 tvg-id="" tvg-name="OSCAR" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",OSCAR
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18099
-#EXTINF:-1 tvg-id="" tvg-name="KORKU" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",KORKU
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18100
-#EXTINF:-1 tvg-id="" tvg-name="SAVAS" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",SAVAS
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18101
-#EXTINF:-1 tvg-id="" tvg-name="MACERA" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",MACERA
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18102
-#EXTINF:-1 tvg-id="" tvg-name="KONSER" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",KONSER
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18103
-#EXTINF:-1 tvg-id="" tvg-name="KOMEDI" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",KOMEDI
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18104
-#EXTINF:-1 tvg-id="" tvg-name="AKSIYON" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",AKSIYON
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18105
-#EXTINF:-1 tvg-id="" tvg-name="FANTASTIK" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",FANTASTIK
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18106
-#EXTINF:-1 tvg-id="" tvg-name="ROMANTIK" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",ROMANTIK
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18107
-#EXTINF:-1 tvg-id="" tvg-name="YERLI KOMEDI" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",YERLI KOMEDI
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18108
-#EXTINF:-1 tvg-id="" tvg-name="PLATiN HD" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",PLATiN HD
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18111
-#EXTINF:-1 tvg-id="" tvg-name="PREMiUM HD" tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",PREMiUM HD
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18113
-#EXTINF:-1 tvg-id="" tvg-name="TURK HD." tvg-logo="" tvg-id2="NDMxNjg=" group-title="🇹🇷 [01] SINEMA",TURK HD.
-http://cms.3p24.de:1453/AqaBnLRhjEu7Z445zzEh/btnRRwaKmtmvmKJfa62i/18114
+
+#EXTINF:0 user-agent="Firefox" tvg-id="Epic Drama" tvg-name="TR: EPIC DRAMA" tvg-logo="http://logo.hdplustv.us/logoslar/Epicdrama.jpg" group-title="TR-DIZI",TR: EPIC DRAMA
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/50426
+#EXTINF:0 user-agent="Firefox" tvg-id="FX" tvg-name="TR: FX FHD" tvg-logo="http://logo.hdplustv.us/logoslar/fxhd.png" group-title="TR-DIZI",TR: FX FHD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/12
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: HABABAM SINIFI TV" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: HABABAM SINIFI TV
 http://8kstream.uk:8080/rtn2517/rt00/58640
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Movies Action HD
