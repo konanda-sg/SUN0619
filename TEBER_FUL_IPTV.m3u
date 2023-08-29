@@ -42,51 +42,139 @@ http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/27
 #EXTINF:2,CINE 9
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
-#EXTINF:1,CINE 10
+#EXTINF:1,CINE ON
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 1" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 1
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/160
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 2" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 2
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/159
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 3" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 3
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/158
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 4" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 4
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/157
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 5" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 5
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/156
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 6" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 6
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/155
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 7" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 7
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/154
-#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR: CINE BOX HD 8" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 8
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/230514
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 1
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115706
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 2
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115707
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 3
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115708
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 1" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 1
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115709
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 2" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 2
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115710
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 3" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 3
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115711
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 4" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 4
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115712
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 5" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 5
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115713
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 6" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 6
+#EXTINF:1,TELE ON
+https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 
+#EXTINF:-1,G PLUS - KEMAL SUNAL
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72278
+#EXTINF:-1,G PLUS - ISLER GUCLER
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71847
+#EXTINF:-1,G PLUS - GULDUR GULDUR SHOW
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/74761
+#EXTINF:-1,G PLUS - CENNET MAHALLESI
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71842
+#EXTINF:-1,G PLUS - AYHAN ISIK
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72264
+#EXTINF:-1,G PLUS - CUNEYT ARKIN
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72265
+#EXTINF:-1,G PLUS - TARIK AKAN
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72283
+#EXTINF:-1,G PLUS - TURKAN SORAY
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72284
+#EXTINF:-1,G PLUS - EMEL SAYIN
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72267
+#EXTINF:-1,G PLUS - EROL TAS
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72268
+#EXTINF:-1,G PLUS - YILMAZ GUNEY
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72285
+#EXTINF:-1,G PLUS - ZEKI METIN
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72286
+#EXTINF:-1,G PLUS- ADILE NASIT
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72263
+#EXTINF:-1,G PLUS - FATMA GIRIK
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72269
+#EXTINF:-1,G PLUS - FERDI TAYFUR
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72270
+#EXTINF:-1,G PLUS - FILIZ AKIN
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72271
+#EXTINF:-1,G PLUS - GULSEN BUBIKOGLU
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72272
+#EXTINF:-1,G PLUS - HALIT AKCATEPE
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72273
+#EXTINF:-1,G PLUS - MUNIR OZKUL
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72280
+#EXTINF:-1,G PLUS - ORHAN GENCEBAY
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72281
+#EXTINF:-1,G PLUS - SADRI ALISIK
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72287
+#EXTINF:-1,G PLUS - HULUSI KENTMEN
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72288
+#EXTINF:-1,G PLUS - HULYA KOCYIGIT
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72274
+#EXTINF:-1,G PLUS - ILYAS SALMAN
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72275
+#EXTINF:-1,G PLUS - KADIR INANIR
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72276
+#EXTINF:-1,G PLUS - KARTAL TIBET
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72277
+#EXTINF:-1,G PLUS - YERLI FILM 1
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71783
+#EXTINF:-1,G PLUS - YERLI FILM 2
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71784
+#EXTINF:-1,G PLUS - YERLI FILM 3
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71785
+#EXTINF:-1,G PLUS - YERLI FILM 4
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71786
+#EXTINF:-1,G PLUS - YERLI FILM 5
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71787
+#EXTINF:-1,G PLUS - YESILCAM 1
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71788
+#EXTINF:-1,G PLUS - YESILCAM 2
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71789
+#EXTINF:-1,G PLUS - YESILCAM 3
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71790
+#EXTINF:-1,G PLUS - YESILCAM 4
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71791
+#EXTINF:-1,G PLUS - YESILCAM 5
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71792
+#EXTINF:-1,G PLUS - GALIP DERVIS
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71844
+#EXTINF:-1,G PLUS - EDIZ HUN
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72266
+#EXTINF:-1,G PLUS - SIYAH BEYAZ 1
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71759
+#EXTINF:-1,G PLUS - SIYAH BEYAZ 2
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71760
+#EXTINF:-1,G PLUS - SIYAH BEYAZ 3
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71761
+#EXTINF:-1,G PLUS - SIYAH BEYAZ 4
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71762
+#EXTINF:-1,G PLUS - SIYAH BEYAZ 5
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71763
+#EXTINF:-1,G PLUS - IBO SHOW
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71845
+#EXTINF:-1,G PLUS - HINT FILMLERI
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71128
+#EXTINF:-1,G PLUS - JACKIE CHAN
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71750
+#EXTINF:-1,G PLUS - JAN CLOTH VAN DAMME
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71768
+#EXTINF:-1,G PLUS - JASON STATHAM
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71751
+#EXTINF:-1,G PLUS - JETLI
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71752
+#EXTINF:-1,G PLUS - MARVEL 1
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71756
+#EXTINF:-1,G PLUS - MARVEL 2
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71757
+#EXTINF:-1,G PLUS - BILIM KURGU 1
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71740
+#EXTINF:-1,G PLUS - BILIM KURGU 2
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71741
+#EXTINF:-1,G PLUS - BILIM KURGU 3
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71742
+#EXTINF:-1,G PLUS - BILIM KURGU 4
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71743
+#EXTINF:-1,G PLUS - BILIM KURGU 5
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71951
+#EXTINF:-1,G PLUS - BILIM KURGU 6
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71739
+#EXTINF:-1,G PLUS - STAR WARS
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71766
+#EXTINF:-1,G PLUS - SYLVESTER STALONE
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71765
+#EXTINF:-1,G PLUS - ARNOLD SCHWARZENEGGER
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71170
+#EXTINF:-1,G PLUS - UZAK DOGU
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71767
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: Exxen TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="TR-ULUSAL",TR: Exxen TV
 http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/232446
 
 #EXTINF:-1,TR:AKILLI TV HD
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/88998
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TV" tvg-logo="" group-title="TR: Yerel",TR:FHD AKILLI TV
-http://8kstream.uk:8080/rtn2517/rt00/70108
 
 #EXTINF: -1 group-title="YANSIMA MEDYA",YANSIMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
@@ -202,13 +290,7 @@ https://cageu.bozztv.com/ssh101/ssh101/fdtvyesilcam/chunks.m3u8
 #EXTINF:109, AFYON TÜRK 
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:0 user-agent="Firefox" tvg-id="Epic Drama" tvg-name="TR: EPIC DRAMA" tvg-logo="http://logo.hdplustv.us/logoslar/Epicdrama.jpg" group-title="TR-DIZI",TR: EPIC DRAMA
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/50426
-#EXTINF:0 user-agent="Firefox" tvg-id="FX" tvg-name="TR: FX FHD" tvg-logo="http://logo.hdplustv.us/logoslar/fxhd.png" group-title="TR-DIZI",TR: FX FHD
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/12
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABABAM SINIFI TV" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: HABABAM SINIFI TV
-http://8kstream.uk:8080/rtn2517/rt00/58640
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Movies Action HD
 http://8kstream.uk:8080/rtn2517/rt00/58641
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION 2 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN MOVIES ACTION 2 HD
@@ -659,6 +741,47 @@ http://8kstream.uk:8080/movie/rtn2517/rt00/1167.mkv
 
 #EXTINF:-1,KUTSAL DAMACANA 4
 https://eu1.tabii.com/apigateway/pbr/v1/media/34362/34331.m3u8?width=-1&height=-1&bandwidth=-1&subtitleType=m3u8
+#EXTINF:0 user-agent="Firefox" tvg-id="Epic Drama" tvg-name="TR: EPIC DRAMA" tvg-logo="http://logo.hdplustv.us/logoslar/Epicdrama.jpg" group-title="TR-DIZI",TR: EPIC DRAMA
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/50426
+#EXTINF:0 user-agent="Firefox" tvg-id="FX" tvg-name="TR: FX FHD" tvg-logo="http://logo.hdplustv.us/logoslar/fxhd.png" group-title="TR-DIZI",TR: FX FHD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/12
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 1" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 1
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/160
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 2" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 2
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/159
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 3" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 3
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/158
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 4" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 4
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/157
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 5" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 5
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/156
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 6" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 6
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/155
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE BOX HD 7" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 7
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/154
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR: CINE BOX HD 8" tvg-logo="http://logo.hdplustv.us/logoslar/cinebox.png" group-title="TR-SINEMA",TR: CINE BOX HD 8
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/230514
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 1
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115706
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 2
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115707
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: LOCA 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiSvXBBIqQfnIFKtRSiOLeC0iFOdY7fA6W6XUMDK0AYxOMil-pLZSQzcDoTv9i5IIHemo&usqp=CAU" group-title="TR-SINEMA",TR: LOCA 3
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115708
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 1" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 1
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115709
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 2" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 2
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115710
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 3" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 3
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115711
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 4" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 4
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115712
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 5" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 5
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/115713
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: CINE VISION 6" tvg-logo="https://www.cinevisiontv.com/wp-content/uploads/2016/08/cinevisionlogo.jpg" group-title="TR-SINEMA",TR: CINE VISION 6
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TV" tvg-logo="" group-title="TR: Yerel",TR:FHD AKILLI TV
+http://8kstream.uk:8080/rtn2517/rt00/70108
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABABAM SINIFI TV" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: HABABAM SINIFI TV
+http://8kstream.uk:8080/rtn2517/rt00/58640
 #EXTINF:-1,TR:BEIN BOX OFFICE 1 HD
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/90481
 #EXTINF:-1,TR:BEIN BOX OFFICE 2 HD
@@ -753,98 +876,20 @@ http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71167
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71168
 #EXTINF:-1,G PLUS - ANIMASYON
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71169
-#EXTINF:-1,G PLUS - ARNOLD SCHWARZENEGGER
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71170
-#EXTINF:-1,G PLUS - AYHAN ISIK
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72264
 #EXTINF:-1,G PLUS - BEHZAT C
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71130
-#EXTINF:-1,G PLUS - BILIM KURGU
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71739
-#EXTINF:-1,G PLUS - BILIM KURGU 1
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71740
-#EXTINF:-1,G PLUS - BILIM KURGU 2
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71741
-#EXTINF:-1,G PLUS - BILIM KURGU 3
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71742
-#EXTINF:-1,G PLUS - BILIM KURGU 4
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71743
-#EXTINF:-1,G PLUS - BILIM KURGU 5
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71951
 #EXTINF:-1,G PLUS - BOXSET
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71745
 #EXTINF:-1,G PLUS - CAMERON DIAZ
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71746
-#EXTINF:-1,G PLUS - CENNET MAHALLESI
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71842
-#EXTINF:-1,G PLUS - CUNEYT ARKIN
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72265
-#EXTINF:-1,G PLUS - DIRILIS ERTUGRUL
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71129
-#EXTINF:-1,G PLUS - DRAM
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71747
-#EXTINF:-1,G PLUS - DWAYNE JOHNSON
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71748
-#EXTINF:-1,G PLUS - EDIZ HUN
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72266
-#EXTINF:-1,G PLUS - EMEL SAYIN
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72267
-#EXTINF:-1,G PLUS - EROL TAS
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72268
-#EXTINF:-1,G PLUS - YILMAZ GUNEY
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72285
-#EXTINF:-1,G PLUS - ZEKI METIN
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72286
-#EXTINF:-1,G PLUS- ADILE NASIT
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72263
-#EXTINF:-1,G PLUS - FATMA GIRIK
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72269
-#EXTINF:-1,G PLUS - FERDI TAYFUR
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72270
-#EXTINF:-1,G PLUS - FILIZ AKIN
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72271
-#EXTINF:-1,G PLUS - GALIP DERVIS
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71844
-#EXTINF:-1,G PLUS - GULDUR GULDUR SHOW
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/74761
-#EXTINF:-1,G PLUS - GULSEN BUBIKOGLU
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72272
-#EXTINF:-1,G PLUS - HALIT AKCATEPE
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72273
-#EXTINF:-1,G PLUS - HINT FILMLERI
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71128
-#EXTINF:-1,G PLUS - HULUSI KENTMEN
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72288
-#EXTINF:-1,G PLUS - HULYA KOCYIGIT
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72274
-#EXTINF:-1,G PLUS - IBO SHOW
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71845
 #EXTINF:-1,G PLUS - ICERDE
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71846
-#EXTINF:-1,G PLUS - ILYAS SALMAN
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72275
 #EXTINF:-1,G PLUS - IMDB EN IYILER
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71749
-#EXTINF:-1,G PLUS - ISLER GUCLER
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71847
-#EXTINF:-1,G PLUS - JACKIE CHAN
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71750
-#EXTINF:-1,G PLUS - JAN CLOTH VAN DAMME
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71768
-#EXTINF:-1,G PLUS - JASON STATHAM
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71751
-#EXTINF:-1,G PLUS - JETLI
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71752
-#EXTINF:-1,G PLUS - KADIR INANIR
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72276
 #EXTINF:-1,G PLUS - KANIT
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71848
 #EXTINF:-1,G PLUS - KARADAYI
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71849
-#EXTINF:-1,G PLUS - KARTAL TIBET
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72277
-#EXTINF:-1,G PLUS - KEMAL SUNAL
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72278
 #EXTINF:-1,G PLUS - KOMEDI
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71753
 #EXTINF:-1,G PLUS - KORKU
@@ -859,42 +904,18 @@ http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71156
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/90460
 #EXTINF:-1,G PLUS - MACERA
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71755
-#EXTINF:-1,G PLUS - MARVEL 1
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71756
-#EXTINF:-1,G PLUS - MARVEL 2
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71757
-#EXTINF:-1,G PLUS - MUNIR OZKUL
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72280
-#EXTINF:-1,G PLUS - ORHAN GENCEBAY
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72281
-#EXTINF:-1,G PLUS - SADRI ALISIK
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72287
-#EXTINF:-1,G PLUS - SAVAS
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71758
-#EXTINF:-1,G PLUS - SIYAH BEYAZ 1
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71759
-#EXTINF:-1,G PLUS - SIYAH BEYAZ 2
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71760
-#EXTINF:-1,G PLUS - SIYAH BEYAZ 3
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71761
-#EXTINF:-1,G PLUS - SIYAH BEYAZ 4
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71762
-#EXTINF:-1,G PLUS - SIYAH BEYAZ 5
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71763
-#EXTINF:-1,G PLUS - SPOR
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71764
-#EXTINF:-1,G PLUS - STAR WARS
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71766
 #EXTINF:-1,G PLUS - SON YAZ
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/95520
-#EXTINF:-1,G PLUS - SYLVESTER STALONE
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71765
-#EXTINF:-1,G PLUS - TARIK AKAN
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72283
-#EXTINF:-1,G PLUS - TURKAN SORAY
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72284
-#EXTINF:-1,G PLUS - UZAK DOGU
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71767
+#EXTINF:-1,G PLUS - SAVAS
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71758
+#EXTINF:-1,G PLUS - SPOR
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71764
+#EXTINF:-1,G PLUS - DIRILIS ERTUGRUL
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71129
+#EXTINF:-1,G PLUS - DRAM
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71747
+#EXTINF:-1,G PLUS - DWAYNE JOHNSON
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71748
 #EXTINF:-1,G PLUS - VATANIM SENSIN
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71851
 #EXTINF:-1,G PLUS - VIZYON 1
@@ -921,26 +942,7 @@ http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71778
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71779
 #EXTINF:-1,G PLUS - WILL SMITH
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71782
-#EXTINF:-1,G PLUS - YERLI FILM 1
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71783
-#EXTINF:-1,G PLUS - YERLI FILM 2
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71784
-#EXTINF:-1,G PLUS - YERLI FILM 3
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71785
-#EXTINF:-1,G PLUS - YERLI FILM 4
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71786
-#EXTINF:-1,G PLUS - YERLI FILM 5
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71787
-#EXTINF:-1,G PLUS - YESILCAM 1
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71788
-#EXTINF:-1,G PLUS - YESILCAM 2
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71789
-#EXTINF:-1,G PLUS - YESILCAM 3
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71790
-#EXTINF:-1,G PLUS - YESILCAM 4
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71791
-#EXTINF:-1,G PLUS - YESILCAM 5
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71792
+
 #EXTINF:-1,TR:MAX 007 HD
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/90124
 #EXTINF:-1,TR:MAX 4K UHD
@@ -1129,8 +1131,8 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:1,KANAL T
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 
-#EXTINF:4,DENGEZELAL TV
-https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8
+#EXTINF:4,TELE ON HD 
+https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd__/chunks.m3u8
 
 ------------------DİJİTAL-ULUSAL----------------------------
 
