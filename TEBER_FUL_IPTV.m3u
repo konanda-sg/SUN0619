@@ -48,6 +48,9 @@ https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks
 #EXTINF:1,TELE ON
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 
+#EXTINF:-1,inter STAR
+http://137.116.95.87/inter_star_tv_hd/index.m3u8
+
 #EXTINF:-1,TRT 1 HD
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
@@ -124,9 +127,6 @@ http://ders.site:8080/garibua10/JHEWh7WFvv/101505
 
 #EXTINF:0,KONYA OLAY TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
-
-#EXTINF:-1,WOMAN TV 
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
 #EXTINF:-1,G PLUS - KEMAL SUNAL
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72278
