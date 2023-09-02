@@ -51,6 +51,9 @@ https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrah
 #EXTINF:-1,inter STAR
 http://137.116.95.87/inter_star_tv_hd/index.m3u8
 
+#EXTINF:-1,EKOL TV
+https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
+
 #EXTINF:-1,TRT 1 HD
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
@@ -305,9 +308,6 @@ https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
 #EXTINF:1,İSVİCRE TV 
 https://is.gd/NdDhgK.m3u8
-
-#EXTINF:-1,TR:DİZİ TV1
-http://cdn-dizimax.yayin.com.tr/dizimax/dizimax/playlist.m3u8
 
 #EXTINF:-1,TR:DİZİ TV2
 https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
