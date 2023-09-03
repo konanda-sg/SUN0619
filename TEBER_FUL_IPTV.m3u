@@ -375,7 +375,7 @@ https://cageu.bozztv.com/ssh101/ssh101/fdtvyesilcam/chunks.m3u8
 #EXTINF:109, AFYON TÜRK 
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:-1,TR:MAX HD
+#EXTINF:-1,İST MAX HD
 https://vdo.digitalbox.xyz:3883/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Movies Action HD
