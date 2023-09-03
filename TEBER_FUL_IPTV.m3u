@@ -96,6 +96,18 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:1,SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
+#EXTINF:-1,TR:BİR TV
+https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
+
+#EXTINF:-1,ŞABAN TV1
+https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
+
+#EXTINF:-1,ŞABAN TV2
+https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+
+#EXTINF:99, KANAL ADA TV
+http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
+
 #EXTINF:-1,TRT 1 HD
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 
@@ -311,15 +323,6 @@ https://ssh101.bozztv.com/ssh101/yansimamuzik/chunks.m3u8
 #EXTINF: -1 group-title="YANSIMA MEDYA",YANSIMA Muzik TV HD 
 https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
 
-#EXTINF:-1,TR:BİR TV
-https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
-
-#EXTINF:-1,ŞABAN TV1
-https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
-
-#EXTINF:-1,ŞABAN TV2
-https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
-
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="Kutsal Damacana 4 (2023)" tvg-logo="" group-title="SONVIZYON FILMLER",Kutsal Damacana 4 (2023)
 http://143951.iptvone.eu:80/movie/ErcinSoysal/27BQ1HdQ74/227067.mkv
 
@@ -350,11 +353,8 @@ https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:30, 15 TV
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 
-#XTINF :-1,KANAL S
+#EXTINF:1,KANAL S
 https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w486539089.m3u8
-
-#EXTINF:1,KONYA OLAY TV
-http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 
 #EXTINF:1,KRAL BOX TV
 https://film.ozelip.com:3344/stream/play.m3u8
@@ -4227,9 +4227,6 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 
 #EXTINF:60 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BTV
 https://edge1.socialsmart.tv/btv/bant1/chunks.m3u8
-
-#EXTINF:99, KANAL ADA TV
-http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
 
 #EXTINF:103,DEMİRCİ TV
 http://91.134.203.253:30124/demircitv/demircitv/chunklist.m3u8
