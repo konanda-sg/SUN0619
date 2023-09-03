@@ -122,8 +122,8 @@ http://germanydnsx15.com:8080/guzel0084/F5G8pzS76o/88971
 #EXTINF:-1,TR:TGRT EU HD
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89118
 
-#EXTINF:-1 tvg-id="" tvg-name="ATV Alanya (720p)" tvg-logo="http://iptv.team1454.com:80/images/10ad4650249b2e8d66008fe7b4632a3c.png" group-title="TR YEREL KANALLAR",ATV Alanya 
-http://88.99.211.53:1935/alanyatv/bant1/sec-f5-v1-a1.m3u8
+#EXTINF:-1,PALA TV
+http://tv86905.radyotelekomtv.com:22808/palatv/palatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="TV 360 FHD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/360.TV.png" group-title="TURK ULUSAL",TV 360 FHD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
