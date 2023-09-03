@@ -51,6 +51,9 @@ https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrah
 #EXTINF:-1,inter STAR
 http://137.116.95.87/inter_star_tv_hd/index.m3u8
 
+#EXTINF:-1,Özburun TV
+https://media2.streambrothers.com:19360/8314/8314.m3u8
+
 #EXTINF:-1,EKOL TV
 https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
 
