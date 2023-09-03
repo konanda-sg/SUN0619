@@ -136,10 +136,10 @@ https://eu1.tabii.com/apigateway/pbr/v1/media/12242/12241.m3u8?width=-1&height=-
 https://cdn-v.pr.trt.com.tr/trttv/website/1efee8de-d816-44ad-a872-9cbffdd0eb43/master1080p.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
-http://germanydnsx15.com:8080/guzel0084/F5G8pzS76o/88961
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW TURK HD
-https://ciner-live.ercdn.net/showturk/showturk_576p.m3u8?e=1693700905&st=X6jEXdr57zgPlZz4HVAJuQ&tv=1  
+https://showturk.blutv.com/blutv_showturk2/live.m3u8  
 
 
 #EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW MAX 
