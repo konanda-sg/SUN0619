@@ -42,11 +42,11 @@ http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/27
 #EXTINF:2,CINE 9
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
-#EXTINF:1,CINE ON
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-
 #EXTINF:1,TELE ON
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
+
+#EXTINF:1,CINE 11
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,inter STAR
 http://137.116.95.87/inter_star_tv_hd/index.m3u8
