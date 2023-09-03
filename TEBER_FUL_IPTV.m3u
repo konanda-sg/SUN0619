@@ -375,6 +375,8 @@ https://cageu.bozztv.com/ssh101/ssh101/fdtvyesilcam/chunks.m3u8
 #EXTINF:109, AFYON TÜRK 
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
+:-1,TR:MAX HD
+https://vdo.digitalbox.xyz:3883/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Movies Action HD
 http://8kstream.uk:8080/rtn2517/rt00/58641
@@ -885,10 +887,6 @@ http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89266
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/90484
 #EXTINF:-1,TR:BEIN MOVIES PREMIERE 2 HD
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89264
-#EXTINF:-1,TR:BEIN MOVIES STARS HD
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89261
-#EXTINF:-1,TR:DIZISMART MAX HD
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89272
 #EXTINF:-1,TR:DIZISMART PREMIUM HD
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89271
 #EXTINF:-1,TR:FILMBOX HD
