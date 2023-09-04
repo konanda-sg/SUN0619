@@ -36,9 +36,6 @@ http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/88991
 #EXTINF:0 user-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://logo.hdplustv.us/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 FHD
 http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/28
 
-#EXTINF:1,Exxen TV8
-http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/232446
-
 #EXTINF:2,CINE 9
 https://live-server-2.splitstream.io/f97854bd-6c00-40d3-b9a2-e85f95a4f94f/tracks-v1a1/mono.m3u8
 
@@ -60,14 +57,14 @@ http://145.239.58.133:28008/kanalg/kanalg/playlist.m3u8
 #EXTINF:1,EM TV
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
 
+#EXTINF:1,Exxen
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/232446
+
 #EXTINF:-1,A52 TV
 http://tv56245.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
 
 #EXTINF:-1,BR TV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
-
-#EXTINF:-1,EKOL TV
-https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
 
 #EXTINF:98, DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
@@ -225,6 +222,9 @@ http://91.134.203.253:30124/farkturktv/farkturktv/playlist.m3u8
 #EXTINF:1, M.TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 
+#EXTINF:-1,EKOL TV
+https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
+
 #EXTINF:-1,TR:TV 1 HD
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89164
 
@@ -301,95 +301,40 @@ https://250weu.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
---------------------ÖZGÜR-----HABER------------------------------
+--------------------GERÇEK-----HABER------------------------------
 
-#EXTINF:-1,FLASH TV
-https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:-1,SOZCU TV FHD
-http://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
-#EXTINF:-1,TELE1 FHD
-http://livestream.zazerconer.workers.dev/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
-#EXTINF:-1,HALK TV FHD
-http://livestream.zazerconer.workers.dev/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
-#EXTINF:-1,KRT TV FHD
-http://livestream.zazerconer.workers.dev/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH HABER TV HD
-https://mn-nl.mncdn.com/blutv_flashtv/live_720p2000000kbps/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH HABER TV FHD
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/61951f54866ac31a807822ea", KRT TV HD
-https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1,ARTI TV FHD
-http://livestream.zazerconer.workers.dev/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/63ff0d17866ac3189cf375d9", SOZCU TV HD
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
-
-#EXTINF:-1,HALK TV
-http://135.125.234.9:8081/halktv/index.m3u8
-
-#EXTINF:-1,KRT TV
-https://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-
-#EXTINF:-1,Can24 tv
-http://5.9.136.157/cantv24/cantv24/playlist.m3u8
-
-#EXTINF:-1,ULUSAL KANAL
-https://mn-nl.mncdn.com/blutv_ulusalkanal/smil:blutv_ulusalkanal.smil/chunklist_b2096000.m3u8
-
-#EXTINF:-1,HALK TV 
-https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV
-http://135.125.234.9:8081/halktv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV HD
-https://mn-nl.mncdn.com/blutv_halktv2/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV FHD
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/61951f54866ac31a807822ea", KRT TV HD YEDEK
-http://135.125.234.9:8081/krttv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD
-https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="BeyazTV.tr"tvg-name="BeyazTV.tr"tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg" group-title="ULUSAL",BEYAZ TV ᵁᴴᴰ⁺
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100 
-#EXTINF:-1 group-title="Tvplus", TV100
-http://49.12.123.148:8989/9/hls/playlist.m3u8
-#EXTINF:18 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD 
-http://135.125.234.9:8081/tele1/index.m3u8
+
 #EXTINF:21 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV FHD
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:22 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61951f4c866ac31a807822e8?w=80&q=75", KRT TV HD 
+
+#EXTINF:-1,HALK TV YTB
+http://livestream.zazerconer.workers.dev/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
+
+#EXTINF:-1,HALK TV UHD
+http://135.125.234.9:8081/halktv/index.m3u8
+
+#EXTINF:-1,TELE1 YTB
+http://livestream.zazerconer.workers.dev/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
+
+#EXTINF:18 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD 
+http://135.125.234.9:8081/tele1/index.m3u8
+
+#EXTINF:22 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61951f4c866ac31a807822e8?w=80&q=75", KRT TV UHD 
 http://135.125.234.9:8081/krttv/index.m3u8
-#EXTINF: 16 tvg-logo="http://i.ibb.co/KbJFP48/SZC.png" group-title="HABER", SZC TV
-https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+
+#EXTINF:-1,KRT TV YTB
+http://livestream.zazerconer.workers.dev/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8
+
+#EXTINF:-1,ARTI TV YTB
+http://livestream.zazerconer.workers.dev/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
+
+#EXTINF:-1,Can24 tv SD
+http://5.9.136.157/cantv24/cantv24/playlist.m3u8
 
 ------------SİNEMA TV------------------------
-#EXTINF:-1,|TR| 4K CINEMA TV 1 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102233
-#EXTINF:-1,|TR| 4K CINEMA TV 2 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102234
-#EXTINF:-1,|TR| 4K CINEMA TV 3 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102235
-#EXTINF:-1,|TR| 4K CINEMA TV 4 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102236
-#EXTINF:-1,|TR| 4K CINEMA TV 5 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102237
-#EXTINF:-1,|TR| 4K CINEMA TV  6 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102238
-#EXTINF:-1,|TR| 4K CINEMA TV 7 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102239
-#EXTINF:-1,|TR| 4K CINEMA TV 8 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102240
-#EXTINF:-1,|TR| 4K CINEMA TV 9 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102241
-#EXTINF:-1,|TR| 4K CINEMA TV 10 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102242
-#EXTINF:-1,|TR| Habitat TV HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/103303
-#EXTINF:-1,Yedek: TGRT Haber
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/103314
-#EXTINF:-1,|TR| Max Nick JR HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/113705
+
 #EXTINF:-1,|TR| SINEMA TV 2
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/123920
 #EXTINF:-1,|TR| SINEMA TV 1001
@@ -794,9 +739,30 @@ http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6161
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6162
 #EXTINF:-1,|TR| SALON 10 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6163
+#EXTINF:-1,|TR| 4K CINEMA TV 1 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102233
+#EXTINF:-1,|TR| 4K CINEMA TV 2 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102234
+#EXTINF:-1,|TR| 4K CINEMA TV 3 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102235
+#EXTINF:-1,|TR| 4K CINEMA TV 4 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102236
+#EXTINF:-1,|TR| 4K CINEMA TV 5 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102237
+#EXTINF:-1,|TR| 4K CINEMA TV  6 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102238
+#EXTINF:-1,|TR| 4K CINEMA TV 7 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102239
+#EXTINF:-1,|TR| 4K CINEMA TV 8 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102240
+#EXTINF:-1,|TR| 4K CINEMA TV 9 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102241
+#EXTINF:-1,|TR| 4K CINEMA TV 10 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102242
 
 ----------------BELGESEL------------------------
-
+#EXTINF:-1,|TR| Habitat TV HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/103303
 #EXTINF:-1,|TR| National Geographic HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6286
 #EXTINF:-1,|TR| National Geographic Wild HD
@@ -869,7 +835,8 @@ http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20921
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/97247
 
 ------------ÇOCUK-------------------------------
-
+#EXTINF:-1,|TR| Max Nick JR HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/113705
 #EXTINF:-1,|TR| TRT Çocuk HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/48856
 #EXTINF:-1,|TR| Max Niloya HD
@@ -1021,54 +988,6 @@ http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6116
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6117
 #EXTINF:-1,|TR| Sports TV
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20772
-
--------------MUZİK--------------------------
-#EXTINF:-1,|TR| TRT Muzik HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/61298
-#EXTINF:-1,|TR| Kral TV HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101123
-#EXTINF:-1,|TR| Kral Pop HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101124
-#EXTINF:-1,|TR| Tatlıses TV HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101125
-#EXTINF:-1,|TR| Power TV HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101126
-#EXTINF:-1,|TR| Dream Türk HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101885
-#EXTINF:-1,|TR| Number One Türk HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101887
-#EXTINF:-1,|TR| Number One HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101888
-#EXTINF:-1,|TR| KRAL POP
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102075
-#EXTINF:-1,|TR| MAX Müzik Tv 1 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189584
-#EXTINF:-1,|TR| MAX Müzik Tv 2 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189585
-#EXTINF:-1,|TR| MAX Müzik Tv 3 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189586
-#EXTINF:-1,|TR| MAX Müzik Tv 4 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189587
-#EXTINF:-1,|TR| MAX Müzik Tv 5 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189588
-#EXTINF:-1,|TR| MAX Müzik Tv  6 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189589
-#EXTINF:-1,|TR| MAX Müzik Tv 7 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189590
-#EXTINF:-1,|TR| MAX Müzik Tv 8 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189591
-#EXTINF:-1,|TR| MAX Müzik Tv 9 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189592
-#EXTINF:-1,|TR| MAX Müzik Tv 10 HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189593
-#EXTINF:-1,|TR| Trt Türk
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/61299
-#EXTINF:-1,|TR| TRT Diyanet (1080p)
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102033
-#EXTINF:-1,|TR| 360
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102066
-#EXTINF:-1,|TR| EURO D HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102083
 
 #EXTINF:-1,G PLUS - KEMAL SUNAL
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72278
@@ -5342,6 +5261,53 @@ http://tv56245.ozelip.com:2052/aktuel/aktuel/playlist.m3u8
 
 ---------------DİJİTAL-MÜZİK------------------------------
 
+-------------MUZİK--------------------------
+#EXTINF:-1,|TR| TRT Muzik HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/61298
+#EXTINF:-1,|TR| Kral TV HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101123
+#EXTINF:-1,|TR| Kral Pop HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101124
+#EXTINF:-1,|TR| Tatlıses TV HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101125
+#EXTINF:-1,|TR| Power TV HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101126
+#EXTINF:-1,|TR| Dream Türk HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101885
+#EXTINF:-1,|TR| Number One Türk HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101887
+#EXTINF:-1,|TR| Number One HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101888
+#EXTINF:-1,|TR| KRAL POP
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102075
+#EXTINF:-1,|TR| MAX Müzik Tv 1 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189584
+#EXTINF:-1,|TR| MAX Müzik Tv 2 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189585
+#EXTINF:-1,|TR| MAX Müzik Tv 3 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189586
+#EXTINF:-1,|TR| MAX Müzik Tv 4 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189587
+#EXTINF:-1,|TR| MAX Müzik Tv 5 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189588
+#EXTINF:-1,|TR| MAX Müzik Tv  6 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189589
+#EXTINF:-1,|TR| MAX Müzik Tv 7 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189590
+#EXTINF:-1,|TR| MAX Müzik Tv 8 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189591
+#EXTINF:-1,|TR| MAX Müzik Tv 9 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189592
+#EXTINF:-1,|TR| MAX Müzik Tv 10 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/189593
+#EXTINF:-1,|TR| Trt Türk
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/61299
+#EXTINF:-1,|TR| TRT Diyanet (1080p)
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102033
+#EXTINF:-1,|TR| 360
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102066
+#EXTINF:-1,|TR| EURO D HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/102083
 #EXTINF:-1 tvg-ID="" tvg-name="TR:PowerTv" tvg-logo="" group-title="TURKEY",TR:PowerTv
 http://cyber1.info:8000/QAa8zPL@MPL12mpG/AS47@ytAMPp9854/1127
 
