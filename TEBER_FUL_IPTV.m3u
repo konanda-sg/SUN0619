@@ -54,11 +54,80 @@ https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks
 #EXTINF:1,EM TV
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
 
-#EXTINF:1, FD SİNEMA TV
-https://cageu.bozztv.com/ssh101/ssh101/fdtvsinema/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 1 YTB
+https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
-#EXTINF:1, FD YEŞİLÇAM TV
-https://cageu.bozztv.com/ssh101/ssh101/fdtvyesilcam/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 2
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 3 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/39
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 4 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/40
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 5 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/41
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 6 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/37
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 7 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/38
+
+#EXTINF:-1,KEMAL SUNAL 8 FILMBOX
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8565
+
+#EXTINF:-1,KEMAL SUNAL 9 ARENABOX
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20070
+
+#EXTINF:-1,KEMAL SUNAL 10 GLOBAL
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20053
+
+#EXTINF:-1,KEMAL SUNAL 11 KINGBOX
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20062
+
+#EXTINF:-1,KEMAL SUNAL 12 PROTURK
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/3251
+
+#EXTINF:-1,|TR| KEMAL SUNAL TV 13
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6325
+
+#EXTINF:-1,|TR| KEMAL SUNAL TV 14
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101136
+
+#EXTINF:-1,G PLUS - KEMAL SUNAL 15
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72278
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 1" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 16
+http://8kstream.uk:8080/rtn2517/rt00/58661
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 2" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 17
+http://8kstream.uk:8080/rtn2517/rt00/58662
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 3" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 18
+http://8kstream.uk:8080/rtn2517/rt00/58663
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 4" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 19
+http://8kstream.uk:8080/rtn2517/rt00/58664
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 5" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 20
+http://8kstream.uk:8080/rtn2517/rt00/58665
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 1 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 21 4K
+http://8kstream.uk:8080/rtn2517/rt00/58735
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 2 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 22 4K
+http://8kstream.uk:8080/rtn2517/rt00/58736
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 4 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 24 4K
+http://8kstream.uk:8080/rtn2517/rt00/58737
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 5 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 25 4K
+http://8kstream.uk:8080/rtn2517/rt00/58738
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 6 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 26 4K
+http://8kstream.uk:8080/rtn2517/rt00/58739
 
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
@@ -164,12 +233,6 @@ https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240
 
 #EXTINF:-1,TR:BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
-
-#EXTINF:-1,ŞABAN TV1
-https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
-
-#EXTINF:-1,ŞABAN TV2
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
 
 #EXTINF:99, KANAL ADA TV
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
@@ -822,16 +885,9 @@ http://aca3b.tk:8080/serkankul/GcEbVsLBU2/25
 http://aca3b.tk:8080/serkankul/GcEbVsLBU2/26
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 8. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 8. Sezon
 http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 1 HD
-http://aca3b.tk:8080/serkankul/GcEbVsLBU2/37
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 2 HD
-http://aca3b.tk:8080/serkankul/GcEbVsLBU2/38
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 3 HD
-http://aca3b.tk:8080/serkankul/GcEbVsLBU2/39
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 4 HD
-http://aca3b.tk:8080/serkankul/GcEbVsLBU2/40
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 5 HD
-http://aca3b.tk:8080/serkankul/GcEbVsLBU2/41
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: Siyah Beyaz Yesilcam" tvg-logo="" group-title="TR: SINEMA",TR: Siyah Beyaz Yesilcam
 http://aca3b.tk:8080/serkankul/GcEbVsLBU2/28
 #EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Tv" tvg-logo="" group-title="TR: SINEMA",TR: Yesilcam Tv
@@ -1319,16 +1375,6 @@ http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86625
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8800
 #EXTINF:-1,TR: KADIR INANIR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86619
-#EXTINF:-1,KEMAL SUNAL FILMBOX
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8565
-#EXTINF:-1,KEMAL SUNAL ARENABOX
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20070
-#EXTINF:-1,KEMAL SUNAL GLOBAL
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20053
-#EXTINF:-1,KEMAL SUNAL KINGBOX
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20062
-#EXTINF:-1,KEMAL SUNAL PROTURK
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/3251
 #EXTINF:-1,MUNIR OZKUL TV YESILCAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/18381
 #EXTINF:-1,SADRI ALISIK TV
@@ -1723,10 +1769,6 @@ http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/113291
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/113293
 #EXTINF:-1,|TR| SINEMA TV AKSIYON 2
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/113557
-#EXTINF:-1,|TR| KEMAL SUNAL TV 1
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6325
-#EXTINF:-1,|TR| KEMAL SUNAL TV 2
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101136
 #EXTINF:-1,|TR| ZEKİ - METİN TV
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6320
 #EXTINF:-1,|TR| ŞENER ŞEN TV
@@ -1835,8 +1877,6 @@ http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6162
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6163
 
 ----------------BELGESEL------------------------
-
-
 #EXTINF:-1,TR: Discovery Channel HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/33712
 #EXTINF:-1,TR: Nat Geo HD
@@ -2238,8 +2278,7 @@ http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6117
 #EXTINF:-1,|TR| Sports TV
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20772
 
-#EXTINF:-1,G PLUS - KEMAL SUNAL
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72278
+
 #EXTINF:-1,G PLUS - ISLER GUCLER
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71847
 #EXTINF:-1,G PLUS - AYHAN ISIK
@@ -2356,7 +2395,6 @@ http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71765
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71170
 #EXTINF:-1,G PLUS - UZAK DOGU
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/71767
-
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Movies Action HD
 http://8kstream.uk:8080/rtn2517/rt00/58641
 #EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION 2 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN MOVIES ACTION 2 HD
@@ -2397,16 +2435,6 @@ http://8kstream.uk:8080/rtn2517/rt00/58658
 http://8kstream.uk:8080/rtn2517/rt00/58659
 #EXTINF:-1 tvg-id="" tvg-name="TR: FX HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FX HD
 http://8kstream.uk:8080/rtn2517/rt00/58660
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 1" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 1
-http://8kstream.uk:8080/rtn2517/rt00/58661
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 2" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 2
-http://8kstream.uk:8080/rtn2517/rt00/58662
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 3" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 3
-http://8kstream.uk:8080/rtn2517/rt00/58663
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 4" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 4
-http://8kstream.uk:8080/rtn2517/rt00/58664
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 5" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 5
-http://8kstream.uk:8080/rtn2517/rt00/58665
 #EXTINF:-1 tvg-id="" tvg-name="TR: GalaBox Recep Ivedik HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: GalaBox Recep Ivedik HD
 http://8kstream.uk:8080/rtn2517/rt00/58666
 #EXTINF:-1 tvg-id="" tvg-name="TR: GalaBox Scooby-Doo" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: GalaBox Scooby-Doo
@@ -2533,16 +2561,6 @@ http://8kstream.uk:8080/rtn2517/rt00/58732
 http://8kstream.uk:8080/rtn2517/rt00/58733
 #EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 20 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 20 HD
 http://8kstream.uk:8080/rtn2517/rt00/58734
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 1 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 1 4K
-http://8kstream.uk:8080/rtn2517/rt00/58735
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 2 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 2 4K
-http://8kstream.uk:8080/rtn2517/rt00/58736
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 4 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 4 4K
-http://8kstream.uk:8080/rtn2517/rt00/58737
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 5 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 5 4K
-http://8kstream.uk:8080/rtn2517/rt00/58738
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 6 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 6 4K
-http://8kstream.uk:8080/rtn2517/rt00/58739
 #EXTINF:-1 tvg-id="" tvg-name="TR: MOOVİE Marvel Studios 1" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MOOVİE Marvel Studios 1
 http://8kstream.uk:8080/rtn2517/rt00/58740
 #EXTINF:-1 tvg-id="" tvg-name="TR: MOOVİE Marvel Studios 2" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MOOVİE Marvel Studios 2
