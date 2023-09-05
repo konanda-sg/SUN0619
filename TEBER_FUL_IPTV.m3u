@@ -114,6 +114,9 @@ http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185041
 #EXTINF:-13,RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
+#EXTINF:-1,TARIH TV
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/90994
+
 #EXTINF:-1,NAT GEO WILD HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/131
 
@@ -258,7 +261,17 @@ https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
 
 #EXTINF:-1,BR TV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
+#EXTINF:-1,KANAL 14 
+https://edge1.socialsmart.tv/on4/bant1/chunks.m3u8
 
+#EXTINF:-1,KANAL 16 
+https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
+
+#EXTINF:-1,KANAL 23 
+https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,KANAL Z 
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 ------------KIBRIS TVLERİ-------------------------------------
 #EXTINF:1,BRT1 TV
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
