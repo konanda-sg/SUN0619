@@ -48,7 +48,7 @@ https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks
 #EXTINF:1,TEBER CHANNEL
 https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 group-title="YANSIMA MEDYA",YANSIMA TV
+#EXTINF: -1 group-title="YANSIMA MEDYA",YANSIMA SİNEMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 
 #EXTINF:1,EM TV
@@ -59,22 +59,22 @@ https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 1 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 3 4K
+http://8kstream.uk:8080/rtn2517/rt00/58735
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 3 HD
-http://aca3b.tk:8080/serkankul/GcEbVsLBU2/39
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 2 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 4 4K
+http://8kstream.uk:8080/rtn2517/rt00/58736
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 4 HD
-http://aca3b.tk:8080/serkankul/GcEbVsLBU2/40
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 4 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 5 4K
+http://8kstream.uk:8080/rtn2517/rt00/58737
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 5 HD
-http://aca3b.tk:8080/serkankul/GcEbVsLBU2/41
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 5 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 6 4K
+http://8kstream.uk:8080/rtn2517/rt00/58738
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 6 HD
-http://aca3b.tk:8080/serkankul/GcEbVsLBU2/37
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 6 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 7 4K
+http://8kstream.uk:8080/rtn2517/rt00/58739
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 7 HD
-http://aca3b.tk:8080/serkankul/GcEbVsLBU2/38
-
+#EXTINF:-1 tvg-i
 #EXTINF:-1,KEMAL SUNAL 8 FILMBOX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8565
 
@@ -113,21 +113,6 @@ http://8kstream.uk:8080/rtn2517/rt00/58664
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 5" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 20
 http://8kstream.uk:8080/rtn2517/rt00/58665
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 1 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 21 4K
-http://8kstream.uk:8080/rtn2517/rt00/58735
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 2 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 22 4K
-http://8kstream.uk:8080/rtn2517/rt00/58736
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 4 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 24 4K
-http://8kstream.uk:8080/rtn2517/rt00/58737
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 5 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 25 4K
-http://8kstream.uk:8080/rtn2517/rt00/58738
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 6 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 26 4K
-http://8kstream.uk:8080/rtn2517/rt00/58739
 
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
