@@ -90,8 +90,8 @@ https://film.ozelip.com:3344/stream/play.m3u8
 #EXTINF:-1,TR: BABALA TV
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185041
 
-#EXTINF:-1,TARIH TV HD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/68985
+#EXTINF:-13,RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
 #EXTINF:-1,NAT GEO WILD HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/131
@@ -145,7 +145,7 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
 #EXTINF:-1,ŞABAN TV2
-https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
 
 #EXTINF:99, KANAL ADA TV
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
@@ -249,11 +249,15 @@ https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:-1,EKOL TV
 https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
 
-#EXTINF:-1,TR:TV 1 HD
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89164
+#EXTINF:-1,BR TV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 
-#EXTINF:-13,RIZE TÜRK
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+------------KIBRIS TVLERİ-------------------------------------
+#EXTINF:1,BRT1 TV
+https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
+
+#EXTINF:1,BRT2 TV
+https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 
 #EXTINF:1,TV 2020
 https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist.m3u8
@@ -263,15 +267,6 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kibristv/bant1/playlist.m3u8
 
 #EXTINF:1,ADA TV
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8
-
-#EXTINF:-1,BR TV
-https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
-
-#EXTINF:1,BRT1 TV
-https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
-
-#EXTINF:1,BRT2 TV
-https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8
 
 #EXTINF:1,GENÇ TV
 https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
@@ -286,6 +281,9 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 #EXTINF:-12,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
+#EXTINF:99,DOSTELİ TV
+http://91.134.203.253:30124/dost/dost/chunklist.m3u8
+
 #EXTINF:-1,YEŞİL KARADEİZ TV
 http://yktv2828.ozelip.com:24596/ykaradeniztv/ykaradeniztv/playlist.m3u8
 
@@ -294,9 +292,6 @@ https://vdo.digitalbox.xyz:3883/hybrid/play.m3u8
 
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
-
-#EXTINF:99,DOSTELİ TV
-http://91.134.203.253:30124/dost/dost/chunklist.m3u8
 
 #EXTINF:-1,PALA TV
 http://tv86905.radyotelekomtv.com:22808/palatv/palatv/playlist.m3u8
@@ -310,17 +305,17 @@ https://ssh101.bozztv.com/ssh101/yansimamuzik/chunks.m3u8
 #EXTINF:-1,YANSIMA Muzik TV HD 
 https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
 
-#EXTINF:-1,TRT BİLGİ
-https://eu1.tabii.com/apigateway/pbr/v1/media/12242/12241.m3u8?width=-1&height=-1&bandwidth=-1&subtitleType=m3u8
-
-#EXTINF:-1 tvg-id="TRT.tr" tvg-name="TRT HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/TRT.png" group-title="TURK ULUSAL",TRT NEŞET ERTAŞ BELGESELİ
-https://cdn-v.pr.trt.com.tr/trttv/website/1efee8de-d816-44ad-a872-9cbffdd0eb43/master1080p.m3u8
-
 #EXTINF:1,SLOW K.DENİZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 
 #EXTINF:1,KAÇKAR TV
 https://kackartv.ozelip.com:3898/stream/play.m3u8
+
+#EXTINF:-1,TRT BİLGİ
+https://eu1.tabii.com/apigateway/pbr/v1/media/12242/12241.m3u8?width=-1&height=-1&bandwidth=-1&subtitleType=m3u8
+
+#EXTINF:-1 tvg-id="TRT.tr" tvg-name="TRT HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/TRT.png" group-title="TURK ULUSAL",TRT NEŞET ERTAŞ BELGESELİ
+https://cdn-v.pr.trt.com.tr/trttv/website/1efee8de-d816-44ad-a872-9cbffdd0eb43/master1080p.m3u8
 
 #EXTINF:-1,ING SİNEMASI TV
 https://250weu.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
@@ -333,25 +328,16 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV HD
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:21 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV FHD
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
 #EXTINF:-1,HALK TV YTB
 http://livestream.zazerconer.workers.dev/channel/UCf_ResXZzE-o18zACUEmyvQ.m3u8
 
 #EXTINF:-1,HALK TV UHD
 http://135.125.234.9:8081/halktv/index.m3u8
 
-#EXTINF:-1,TELE1 YTB
+#EXTINF:18 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 YTB
 http://livestream.zazerconer.workers.dev/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 
-#EXTINF:18 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD 
-http://135.125.234.9:8081/tele1/index.m3u8
-
-#EXTINF:22 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61951f4c866ac31a807822e8?w=80&q=75", KRT TV UHD 
-http://135.125.234.9:8081/krttv/index.m3u8
-
-#EXTINF:-1,KRT TV YTB
+#EXTINF:22 type="stream" channelId="-1" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61951f4c866ac31a807822e8?w=80&q=75", KRT TV YTB 
 http://livestream.zazerconer.workers.dev/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8
 
 #EXTINF:-1,ARTI TV YTB
@@ -2580,7 +2566,316 @@ http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89270
 http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89283
 #EXTINF:1,SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
-
+#EXTINF:-1,TR: BATMAN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185002
+#EXTINF:-1,TR: BEN 10
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185066
+#EXTINF:-1,TR: BETTER CALL SAUL
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185139
+#EXTINF:-1,TR: BOOBA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185067
+#EXTINF:-1,TR: BRAD BITT
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185031
+#EXTINF:-1,TR: BREAKING BAD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185141
+#EXTINF:-1,TR: BRUCE LEE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185004
+#EXTINF:-1,TR: BRUCE WILLS
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185038
+#EXTINF:-1,TR: BULMACA KULESI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185068
+#EXTINF:-1,TR: CALLOU
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185069
+#EXTINF:-1,TR: CAMARON DIAZ
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185032
+#EXTINF:-1,TR: CANIM KARDESIM
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185070
+#EXTINF:-1,TR: CARMEN SANDIEGO
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185114
+#EXTINF:-1,TR: CHICO
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185115
+#EXTINF:-1,TR: CHIKCY
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185071
+#EXTINF:-1,TR: CILGIN ORMAN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185072
+#EXTINF:-1,TR: COCUK ILAHI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185073
+#EXTINF:-1,TR: DAREDEVIL
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185142
+#EXTINF:-1,TR: DESIGNATOR SURVIVOR
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185143
+#EXTINF:-1,TR: DEXTER
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185144
+#EXTINF:-1,TR: DORU
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185074
+#EXTINF:-1,TR: DRAGON RACE TO THE EDGE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185116
+#EXTINF:-1,TR: EGE GAGA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185075
+#EXTINF:-1,TR: EL CHAPO
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185145
+#EXTINF:-1,TR: ELIFIN RUYASI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185077
+#EXTINF:-1,TR: ELITE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185146
+#EXTINF:-1,TR: ELİF ARKADASLAR
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185076
+#EXTINF:-1,TR: EMPATI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185043
+#EXTINF:-1,TR: ERSAN KUNERI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185147
+#EXTINF:-1,TR: GABBY HOUSE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185118
+#EXTINF:-1,TR: GAME OF THRONES
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185148
+#EXTINF:-1,TR: GERCEK KESIT
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185044
+#EXTINF:-1,TR: GIZEMLI DIYARI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185078
+#EXTINF:-1,TR: HADISLERLE DIRILIS
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185050
+#EXTINF:-1,TR: HAPSUU
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185079
+#EXTINF:-1,TR: HARRISON FORD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185039
+#EXTINF:-1,TR: HARRY POTTER
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185006
+#EXTINF:-1,TR: HASAN VE HUSEYIN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185055
+#EXTINF:-1,TR: HAYALHANEM
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185045
+#EXTINF:-1,TR: HE-MAN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185121
+#EXTINF:-1,TR: HEIDI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185119
+#EXTINF:-1,TR: HELLO NINJA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185120
+#EXTINF:-1,TR: HIZLI VE OFKELI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185117
+#EXTINF:-1,TR: HOBBIT
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185007
+#EXTINF:-1,TR: HZ MERYEM
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185057
+#EXTINF:-1,TR: HZ OMER
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185058
+#EXTINF:-1,TR: HZ YUSUF
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185060
+#EXTINF:-1,TR: IMAM
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185056
+#EXTINF:-1,TR: IPMAN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185008
+#EXTINF:-1,TR: IRON FIST
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185149
+#EXTINF:-1,TR: ISLAM VE HAYAT
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185053
+#EXTINF:-1,TR: ITFAYECI SAM
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185080
+#EXTINF:-1,TR: JACKY CHAN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185040
+#EXTINF:-1,TR: JASON STATHOM
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185034
+#EXTINF:-1,TR: JESSICA JONES
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185154
+#EXTINF:-1,TR: JETLI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185036
+#EXTINF:-1,TR: JURASSIC WORLD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185122
+#EXTINF:-1,TR: KARANLIK ULKESI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185009
+#EXTINF:-1,TR: KARAYIP KORSANLARI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185010
+#EXTINF:-1,TR: KARE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185081
+#EXTINF:-1,TR: KATARSIS
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185046
+#EXTINF:-1,TR: KELOGLAN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185082
+#EXTINF:-1,TR: KONG KING
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185123
+#EXTINF:-1,TR: KONUSANLAR
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185047
+#EXTINF:-1,TR: KOSTEBEKGILLER
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185083
+#EXTINF:-1,TR: KRAL SAKIR
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185084
+#EXTINF:-1,TR: KUKULI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185085
+#EXTINF:-1,TR: KUNGFU PANDA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185124
+#EXTINF:-1,TR: LA CASA DE PAPEL
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185150
+#EXTINF:-1,TR: LEYLEK KARDES
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185086
+#EXTINF:-1,TR: LIMON ZEYTIN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185087
+#EXTINF:-1,TR: LOST
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185151
+#EXTINF:-1,TR: LOST IN SPACE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185152
+#EXTINF:-1,TR: LOVE THE DEATH ROBOT
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185125
+#EXTINF:-1,TR: LUCIFER
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185153
+#EXTINF:-1,TR: MASA KOCAAYI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185088
+#EXTINF:-1,TR: MATRIX
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185011
+#EXTINF:-1,TR: MAYMUNLAR CEHHENEMI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185012
+#EXTINF:-1,TR: MERLIN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185157
+#EXTINF:-1,TR: MICKEY MOUSE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185126
+#EXTINF:-1,TR: MIMOCAN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185089
+#EXTINF:-1,TR: MUMYA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185013
+#EXTINF:-1,TR: NARCOS MEXICO
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185158
+#EXTINF:-1,TR: NASRETTİN HOCA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185090
+#EXTINF:-1,TR: NICHOLAS CAGE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185037
+#EXTINF:-1,TR: NILOYA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185091
+#EXTINF:-1,TR: ORUMCEK ADAM
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185014
+#EXTINF:-1,TR: OSCAR COLLERDE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185092
+#EXTINF:-1,TR: OZARK
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185159
+#EXTINF:-1,TR: PAK PIRPIR
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185093
+#EXTINF:-1,TR: PARADISE PD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185127
+#EXTINF:-1,TR: PATRON BEBEK
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185128
+#EXTINF:-1,TR: PAW PETROL
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185094
+#EXTINF:-1,TR: PEAKY BLINDERS
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185160
+#EXTINF:-1,TR: PEEPA PIG
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185095
+#EXTINF:-1,TR: PEPE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185096
+#EXTINF:-1,TR: PEYGAMBERLER TARIHI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185051
+#EXTINF:-1,TR: PIJAMA MASKE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185097
+#EXTINF:-1,TR: PIRIL
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185098
+#EXTINF:-1,TR: PISI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185099
+#EXTINF:-1,TR: POKEMON
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185100
+#EXTINF:-1,TR: POLIS AKADEMESI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185015
+#EXTINF:-1,TR: PRISON BREAK
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185156
+#EXTINF:-1,TR: PUNISHER
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185155
+#EXTINF:-1,TR: QUANTICO
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185161
+#EXTINF:-1,TR: RAFADAN TAYFA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185101
+#EXTINF:-1,TR: RAMBO
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185016
+#EXTINF:-1,TR: RECEP IVEDIK
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185017
+#EXTINF:-1,TR: RESEDENT EVIL
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185018
+#EXTINF:-1,TR: ROCKY BALBOA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185019
+#EXTINF:-1,TR: RUYA TRENI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185102
+#EXTINF:-1,TR: SAHABE HAYATLARI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185052
+#EXTINF:-1,TR: SEF ROKKA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185103
+#EXTINF:-1,TR: SEKER HOCA
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185104
+#EXTINF:-1,TR: SERCE KUS
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185105
+#EXTINF:-1,TR: SEVIMLI DOSTLAR
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185106
+#EXTINF:-1,TR: SIRINLER
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185107
+#EXTINF:-1,TR: SLVEYSTER STALLONE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185035
+#EXTINF:-1,TR: SNOWPIERCER
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185162
+#EXTINF:-1,TR: SON DURAK
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185020
+#EXTINF:-1,TR: SON OF ANARCY
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185164
+#EXTINF:-1,TR: SONIC BOOM
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185129
+#EXTINF:-1,TR: SPIDERMAN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185108
+#EXTINF:-1,TR: STAR TREK
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185021
+#EXTINF:-1,TR: STAR WARS THE CLONE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185130
+#EXTINF:-1,TR: STARBREAM
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185131
+#EXTINF:-1,TR: STRANGER THINKS
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185165
+#EXTINF:-1,TR: SUITS
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185163
+#EXTINF:-1,TR: SUPERMAN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185022
+#EXTINF:-1,TR: TAVSAN MOMO
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185109
+#EXTINF:-1,TR: TAYO
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185110
+#EXTINF:-1,TR: TEEM TİTANS GO
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185132
+#EXTINF:-1,TR: TEEN WOLF
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185166
+#EXTINF:-1,TR: TERMINATOR
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185023
+#EXTINF:-1,TR: TESTERE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185024
+#EXTINF:-1,TR: THE 100
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185136
+#EXTINF:-1,TR: THE BLACKLIST
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185167
+#EXTINF:-1,TR: THE BOURNE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185003
+#EXTINF:-1,TR: THE WALKING DEAD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185168
+#EXTINF:-1,TR: TOLGSHOW FILTRESIZ
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185048
+#EXTINF:-1,TR: TOY STORY
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185133
+#EXTINF:-1,TR: TRANSFORMERS
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185025
+#EXTINF:-1,TR: TRANSFORMERS
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185134
+#EXTINF:-1,TR: TRUE AND THE RAINBOW
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185135
+#EXTINF:-1,TR: VAN DAMME
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185033
+#EXTINF:-1,TR: VAN HELSING
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185169
+#EXTINF:-1,TR: VIKINGLER
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185111
+#EXTINF:-1,TR: VIKINGS
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185170
+#EXTINF:-1,TR: X-MEN
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185026
+#EXTINF:-1,TR: YER 6
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185049
+#EXTINF:-1,TR: YUNUS EMRE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185059
+#EXTINF:-1,TR: YURTSEVEN KARDESLER
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/88954
+#EXTINF:-1,TR: ZOR OLUM
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185027
+#EXTINF:-1,TR: ÇILGIN DERSHANE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185005
+#EXTINF:-1,TR: ÇOK GUZEL HAREKETLER 2
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185042
 ------------------DİJİTAL-ULUSAL----------------------------
 
 #EXTINF:-1 tvg-ID="" tvg-name="TR:TRT1.HD" tvg-logo="" group-title="TURKEY",TR:TRT1.HD
@@ -3042,6 +3337,7 @@ http://cyber1.info:8000/QAa8zPL@MPL12mpG/AS47@ytAMPp9854/5520
 http://cyber1.info:8000/QAa8zPL@MPL12mpG/AS47@ytAMPp9854/5521
 
 --------------------DİJİTAL3-SİNEMA----------------------------------
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/54195416221.png" group-title="TR - Turkish TV",TR: Kemal Sunal 1 HD
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116691.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/88713823671.png" group-title="TR - Turkish TV",TR: Kemal Sunal 2 HD
@@ -3191,7 +3487,6 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97610.ts
 #EXTINF:11, SHOW PULUS TV 
 https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
 ***** TURK SPOR *****
-
 #EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT PLUS" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/FHD/S.SPORT.png" group-title="TR ➤SPORT ",TR | S-SPORT PLUS
 http://8kstream.uk:8080/rtn2517/rt00/57843
 #EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT PLUS FHD" tvg-logo="https://imagizer.imageshack.com/img923/9075/E9ooBn.png" group-title="TR ➤SPORT ",TR | S SPORT PLUS FHD
