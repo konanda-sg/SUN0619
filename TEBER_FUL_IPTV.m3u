@@ -45,8 +45,11 @@ https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrah
 #EXTINF:7,SÜPER CHANNEL
 https://ssh101.bozztv.com/ssh101/süper channel/chunks.m3u8
 
-#EXTINF:-1,inter STAR
-http://137.116.95.87/inter_star_tv_hd/index.m3u8
+#EXTINF:-1,TEBER CHANNEL
+https://ssh101.bozztv.com/ssh101/teber1/chunks.m3u8
+
+#EXTINF:-1,Tivi Turk
+https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1,Özburun TV
 https://media2.streambrothers.com:19360/8314/8314.m3u8
