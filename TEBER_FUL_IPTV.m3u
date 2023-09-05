@@ -87,6 +87,27 @@ http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/232446
 #EXTINF:1,KRAL BOX TV
 https://film.ozelip.com:3344/stream/play.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sirinler 1 FHD" tvg-logo="" group-title="TR: COCUK",TR: Sirinler TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/10
+
+#EXTINF:-1,TRT 1 HD
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="[TR] TRT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-2-tr.png" group-title="TR➤ ULUSAL",[TR] TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT3 TÜRK 
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,TRT 4K 
+http://germanydnsx15.com:8080/guzel0084/F5G8pzS76o/89002
+
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_avaz_tr.png" group-title="TURK ULUSAL",TRT5 AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL 7 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT6 BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1,TR: BABALA TV
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185041
 
@@ -150,30 +171,16 @@ http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
 #EXTINF:99, KANAL ADA TV
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
 
-#EXTINF:-1,TRT 1 HD
-https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: WOMAN KADIN TV" tvg-logo="" group-title="TR: BELGESEL",TR: WOMAN KADIN TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/2500
 
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="[TR] TRT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-2-tr.png" group-title="TR➤ ULUSAL",[TR] TRT 2 HD
-https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1,TRT3 TÜRK 
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1,TRT 4K 
-http://germanydnsx15.com:8080/guzel0084/F5G8pzS76o/89002
-
-#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_avaz_tr.png" group-title="TURK ULUSAL",TRT5 AVAZ HD
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL 7 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT6 BELGESEL HD
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW TURK HD
 https://showturk.blutv.com/blutv_showturk2/live.m3u8  
-
 
 #EXTINF:0 type="stream" channelId="4631" group-title="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4631", SHOW MAX 
 http://germanydnsx15.com:8080/guzel0084/F5G8pzS76o/88987
@@ -277,6 +284,254 @@ https://sc-kuzeykibrissmarttv.ercdn.net/simtv/bantp1/playlist.m3u8
 #EXTINF:1,KANAL T
 https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 
+--------### TURK YEREL ###------------------
+#EXTINF:-1 tvg-id="" tvg-name="TOKAT SUPER TV" tvg-logo="" group-title="TR: YEREL",TOKAT SUPER TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27727
+#EXTINF:-1 tvg-id="" tvg-name="YOL TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/yol-tv-tr.png" group-title="TR: YEREL",YOL TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27728
+#EXTINF:-1 tvg-id="" tvg-name="AA LIVE TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/vatan-tv-tr.png" group-title="TR: YEREL",AA LIVE TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27729
+#EXTINF:-1 tvg-id="" tvg-name="Meltem TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/meltem-tv.png" group-title="TR: YEREL",Meltem TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27730
+#EXTINF:-1 tvg-id="" tvg-name="IBB TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-em.png" group-title="TR: YEREL",IBB TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27731
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 3" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal3-tr.png" group-title="TR: YEREL",KANAL 3
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27732
+#EXTINF:-1 tvg-id="" tvg-name="Tivi Türk" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tiviturk.png" group-title="TR: YEREL",Tivi Türk
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27734
+#EXTINF:-1 tvg-id="" tvg-name="ON4 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/akillitv.png" group-title="TR: YEREL",ON4 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27735
+#EXTINF:-1 tvg-id="" tvg-name="AKSU TV (KAHRAMAN MARAS)" tvg-logo="" group-title="TR: YEREL",AKSU TV (KAHRAMAN MARAS)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27736
+#EXTINF:-1 tvg-id="" tvg-name="AS TV (BURSA)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/astv.png" group-title="TR: YEREL",AS TV (BURSA)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27737
+#EXTINF:-1 tvg-id="" tvg-name="BR TV (KARABUK)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/brtv-tr.png" group-title="TR: YEREL",BR TV (KARABUK)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27738
+#EXTINF:-1 tvg-id="" tvg-name="DEHA TV (DENIZLI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/dehatv.png" group-title="TR: YEREL",DEHA TV (DENIZLI)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27739
+#EXTINF:-1 tvg-id="" tvg-name="DENIZ POSTASI TV (KAYSERI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-kayseri.png" group-title="TR: YEREL",DENIZ POSTASI TV (KAYSERI)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27740
+#EXTINF:-1 tvg-id="" tvg-name="TRT DIYANET" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/dimtv.png" group-title="TR: YEREL",TRT DIYANET
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27741
+#EXTINF:-1 tvg-id="" tvg-name="ER TV (MALATYA)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ertv.png" group-title="TR: YEREL",ER TV (MALATYA)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27742
+#EXTINF:-1 tvg-id="" tvg-name="VIYANA TV" tvg-logo="" group-title="TR: YEREL",VIYANA TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27743
+#EXTINF:-1 tvg-id="" tvg-name="GRT TV (GAZIANTEP)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/grt.png" group-title="TR: YEREL",GRT TV (GAZIANTEP)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27744
+#EXTINF:-1 tvg-id="" tvg-name="HUNAT TV (KAYSERI)" tvg-logo="" group-title="TR: YEREL",HUNAT TV (KAYSERI)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27745
+#EXTINF:-1 tvg-id="" tvg-name="KANAL S" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal12.png" group-title="TR: YEREL",KANAL S
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27746
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 15 TV" tvg-logo="" group-title="TR: YEREL",KANAL 15 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27747
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 23 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal23-tr.png" group-title="TR: YEREL",KANAL 23 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27748
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 26 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-26-tr.png" group-title="TR: YEREL",KANAL 26 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27749
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 68 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal68.png" group-title="TR: YEREL",KANAL 68 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27750
+#EXTINF:-1 tvg-id="" tvg-name="KANAL FIRAT TV (ELAZIG)" tvg-logo="" group-title="TR: YEREL",KANAL FIRAT TV (ELAZIG)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27751
+#EXTINF:-1 tvg-id="" tvg-name="KANAL Z (ZONGULDAK)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanalztv.png" group-title="TR: YEREL",KANAL Z (ZONGULDAK)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27752
+#EXTINF:-1 tvg-id="" tvg-name="KANAL V (ANTALYA)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-v-tr.png" group-title="TR: YEREL",KANAL V (ANTALYA)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27753
+#EXTINF:-1 tvg-id="" tvg-name="KAY TV (KAYSERI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kaytv.png" group-title="TR: YEREL",KAY TV (KAYSERI)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27754
+#EXTINF:-1 tvg-id="" tvg-name="KENT 38 TV (KAYSERI)" tvg-logo="" group-title="TR: YEREL",KENT 38 TV (KAYSERI)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27755
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TV (KAYSERI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/life-tv.png" group-title="TR: YEREL",LIFE TV (KAYSERI)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27756
+#EXTINF:-1 tvg-id="" tvg-name="MAVI KARADENIZ" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/mavi-karadeniz-tr.png" group-title="TR: YEREL",MAVI KARADENIZ
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27757
+#EXTINF:-1 tvg-id="" tvg-name="MERCAN TV (ADIYAMAN)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/mercan-tv.png" group-title="TR: YEREL",MERCAN TV (ADIYAMAN)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27758
+#EXTINF:-1 tvg-id="" tvg-name="OLAY TURK TV (KAYSERI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/olay-turk-tv.png" group-title="TR: YEREL",OLAY TURK TV (KAYSERI)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27759
+#EXTINF:-1 tvg-id="" tvg-name="SAT 7 TURK" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/sat7-turk-tr.png" group-title="TR: YEREL",SAT 7 TURK
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27760
+#EXTINF:-1 tvg-id="" tvg-name="TON TV (CANAKKALE)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ton-tv.png" group-title="TR: YEREL",TON TV (CANAKKALE)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27761
+#EXTINF:-1 tvg-id="" tvg-name="TV 41 (KOCAELI)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-41.png" group-title="TR: YEREL",TV 41 (KOCAELI)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27762
+#EXTINF:-1 tvg-id="" tvg-name="VIZYON 58 TV (SIVAS)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/vizyon-58-tr.png" group-title="TR: YEREL",VIZYON 58 TV (SIVAS)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27763
+#EXTINF:-1 tvg-id="" tvg-name="VUSLAT TV (MALATYA)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/vuslat-tv.png" group-title="TR: YEREL",VUSLAT TV (MALATYA)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27764
+#EXTINF:-1 tvg-id="" tvg-name="TEMPO TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tempo-tv.png" group-title="TR: YEREL",TEMPO TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27765
+#EXTINF:-1 tvg-id="" tvg-name="RUMELI TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/rumeli-tv-tr.png" group-title="TR: YEREL",RUMELI TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27766
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 34" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/cem-tv-tr.png" group-title="TR: YEREL",Kanal 34
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27767
+#EXTINF:-1 tvg-id="" tvg-name="Business Channel Türk" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/business-channel-turk.png" group-title="TR: YEREL",Business Channel Türk
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27768
+#EXTINF:-1 tvg-id="" tvg-name="EKIN TURK" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ekin-tv-turk-tr.png" group-title="TR: YEREL",EKIN TURK
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27769
+#EXTINF:-1 tvg-id="" tvg-name="YILDIZ  EN TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/yildiz-en-tv-tr.png" group-title="TR: YEREL",YILDIZ  EN TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27770
+#EXTINF:-1 tvg-id="" tvg-name="Can TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/can-tv.png" group-title="TR: YEREL",Can TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27771
+#EXTINF:-1 tvg-id="" tvg-name="Tek Rumeli TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tek-rumeli-tr.png" group-title="TR: YEREL",Tek Rumeli TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27772
+#EXTINF:-1 tvg-id="" tvg-name="KONTV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kon-tv-tr.png" group-title="TR: YEREL",KONTV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27773
+#EXTINF:-1 tvg-id="" tvg-name="FLASH TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/flash-tv-tr.png" group-title="TR: YEREL",FLASH TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27774
+#EXTINF:-1 tvg-id="" tvg-name="TRAKYA TURK TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ahi-tv.png" group-title="TR: YEREL",TRAKYA TURK TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27775
+#EXTINF:-1 tvg-id="" tvg-name="Alanya Posta TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/alanya-posta-tv.png" group-title="TR: YEREL",Alanya Posta TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27776
+#EXTINF:-1 tvg-id="" tvg-name="Cay TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/cay-tv-tr.png" group-title="TR: YEREL",Cay TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27777
+#EXTINF:-1 tvg-id="" tvg-name="İçel TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/içel-tv.png" group-title="TR: YEREL",İçel TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27778
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 33 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-33.png" group-title="TR: YEREL",KANAL 33 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27779
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 32 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-38.png" group-title="TR: YEREL",KANAL 32 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27780
+#EXTINF:-1 tvg-id="" tvg-name="Alanya TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/alanya-tv.png" group-title="TR: YEREL",Alanya TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27781
+#EXTINF:-1 tvg-id="" tvg-name="BERAT TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/manisa-tv.png" group-title="TR: YEREL",BERAT TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27782
+#EXTINF:-1 tvg-id="" tvg-name="EDIRNE TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/vav-tv-tr.png" group-title="TR: YEREL",EDIRNE TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27783
+#EXTINF:-1 tvg-id="" tvg-name="SARIYER TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/sarıyer-tv.png" group-title="TR: YEREL",SARIYER TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27784
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV (Mersin)" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/sun-tv.png" group-title="TR: YEREL",SUN TV (Mersin)
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27785
+#EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-1.png" group-title="TR: YEREL",TV 1
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27786
+#EXTINF:-1 tvg-id="" tvg-name="TV DEN" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-den-tr.png" group-title="TR: YEREL",TV DEN
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27787
+#EXTINF:-1 tvg-id="" tvg-name="TV 264" tvg-logo="" group-title="TR: YEREL",TV 264
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27788
+#EXTINF:-1 tvg-id="" tvg-name="Es TV HD" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/es-tv-tr.png" group-title="TR: YEREL",Es TV HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27789
+#EXTINF:-1 tvg-id="" tvg-name="Cine5 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/koza-tv-tr.png" group-title="TR: YEREL",Cine5 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27790
+#EXTINF:-1 tvg-id="" tvg-name="Kanal 61" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/a-52-tv.png" group-title="TR: YEREL",Kanal 61
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27791
+#EXTINF:-1 tvg-id="" tvg-name="ADA TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ada-tv-tr.png" group-title="TR: YEREL",ADA TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27792
+#EXTINF:-1 tvg-id="" tvg-name="ADA TV KIBRIS" tvg-logo="" group-title="TR: YEREL",ADA TV KIBRIS
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27793
+#EXTINF:-1 tvg-id="" tvg-name="AGRO TV TR" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/agro-tv-tr.png" group-title="TR: YEREL",AGRO TV TR
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27794
+#EXTINF:-1 tvg-id="" tvg-name="ALTAS TV ORDU" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/altas-tv-tr.png" group-title="TR: YEREL",ALTAS TV ORDU
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27795
+#EXTINF:-1 tvg-id="" tvg-name="ANGARA TV HD" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/angara-tv.png" group-title="TR: YEREL",ANGARA TV HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27796
+#EXTINF:-1 tvg-id="" tvg-name="DHA TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/anka-tv.png" group-title="TR: YEREL",DHA TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27797
+#EXTINF:-1 tvg-id="" tvg-name="HRT AKDENIZ TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/avrupa-tv.png" group-title="TR: YEREL",HRT AKDENIZ TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27799
+#EXTINF:-1 tvg-id="" tvg-name="IBB TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/bayraklı-tv.png" group-title="TR: YEREL",IBB TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27800
+#EXTINF:-1 tvg-id="" tvg-name="ELMAS TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/beykent-tv-tr.png" group-title="TR: YEREL",ELMAS TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27801
+#EXTINF:-1 tvg-id="" tvg-name="BRT 1" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/brt-1-tr.png" group-title="TR: YEREL",BRT 1
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27804
+#EXTINF:-1 tvg-id="" tvg-name="BURSA LiNE TV" tvg-logo="" group-title="TR: YEREL",BURSA LiNE TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27805
+#EXTINF:-1 tvg-id="" tvg-name="BURSA ON6 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/bursa-on6-tv.png" group-title="TR: YEREL",BURSA ON6 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27806
+#EXTINF:-1 tvg-id="" tvg-name="CADDE TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/çankırı--tv.png" group-title="TR: YEREL",CADDE TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27807
+#EXTINF:-1 tvg-id="" tvg-name="CEKMEKOY BELEDiYE TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/çekmeköy-tv.png" group-title="TR: YEREL",CEKMEKOY BELEDiYE TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27808
+#EXTINF:-1 tvg-id="" tvg-name="CRI Türk" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/cri-turk.png" group-title="TR: YEREL",CRI Türk
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27809
+#EXTINF:-1 tvg-id="" tvg-name="BIR TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/erbaa-tv.png" group-title="TR: YEREL",BIR TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27810
+#EXTINF:-1 tvg-id="" tvg-name="ERCiS TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ercis-tv.png" group-title="TR: YEREL",ERCiS TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27811
+#EXTINF:-1 tvg-id="" tvg-name="CINE 1" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ert.png" group-title="TR: YEREL",CINE 1
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27812
+#EXTINF:-1 tvg-id="" tvg-name="24 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/erzurum-web-tv.png" group-title="TR: YEREL",24 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27813
+#EXTINF:-1 tvg-id="" tvg-name="ETV KAYSERi" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/e-tv-kayseri.png" group-title="TR: YEREL",ETV KAYSERi
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27814
+#EXTINF:-1 tvg-id="" tvg-name="GENC TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/genc-tv.png" group-title="TR: YEREL",GENC TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27815
+#EXTINF:-1 tvg-id="" tvg-name="GUNEY TV TARSUS" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/guney-tv-tarsus.png" group-title="TR: YEREL",GUNEY TV TARSUS
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27816
+#EXTINF:-1 tvg-id="" tvg-name="GURBET 24 TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/gurbet-24-tv.png" group-title="TR: YEREL",GURBET 24 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27817
+#EXTINF:-1 tvg-id="" tvg-name="Karasu TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/isvicre-tv.png" group-title="TR: YEREL",Karasu TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27818
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 56" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-56.png" group-title="TR: YEREL",KANAL 56
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27819
+#EXTINF:-1 tvg-id="" tvg-name="KANAL 58" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-58.png" group-title="TR: YEREL",KANAL 58
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27820
+#EXTINF:-1 tvg-id="" tvg-name="ILK TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-65.png" group-title="TR: YEREL",ILK TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27821
+#EXTINF:-1 tvg-id="" tvg-name="Konya Olay TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kanal-sim-tr.png" group-title="TR: YEREL",Konya Olay TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27824
+#EXTINF:-1 tvg-id="" tvg-name="Kent Türk" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kent-turk.png" group-title="TR: YEREL",Kent Türk
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27825
+#EXTINF:-1 tvg-id="" tvg-name="KIBRIS GENC TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/genc-tv.png" group-title="TR: YEREL",KIBRIS GENC TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27826
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV Konya" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/kmd-tv.png" group-title="TR: YEREL",SUN TV Konya
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27827
+#EXTINF:-1 tvg-id="" tvg-name="KOROGLU TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/koroğlu-tv.png" group-title="TR: YEREL",KOROGLU TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27828
+#EXTINF:-1 tvg-id="" tvg-name="KTV-KIBRIS TV" tvg-logo="" group-title="TR: YEREL",KTV-KIBRIS TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27829
+#EXTINF:-1 tvg-id="" tvg-name="Line TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/line-tv-tr.png" group-title="TR: YEREL",Line TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27830
+#EXTINF:-1 tvg-id="" tvg-name="Luys TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/luys-tv.png" group-title="TR: YEREL",Luys TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27831
+#EXTINF:-1 tvg-id="" tvg-name="MARMARiS TV WEB TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/marmaris-tv.png" group-title="TR: YEREL",MARMARiS TV WEB TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27832
+#EXTINF:-1 tvg-id="" tvg-name="TV 4" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/msbc-2000-kanal.png" group-title="TR: YEREL",TV 4
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27833
+#EXTINF:-1 tvg-id="" tvg-name="ON6 TV" tvg-logo="" group-title="TR: YEREL",ON6 TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27834
+#EXTINF:-1 tvg-id="" tvg-name="ORDU BEL TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ordu-bel-tv.png" group-title="TR: YEREL",ORDU BEL TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27836
+#EXTINF:-1 tvg-id="" tvg-name="GONCA TV" tvg-logo="" group-title="TR: YEREL",GONCA TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27837
+#EXTINF:-1 tvg-id="" tvg-name="ABB WEB TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/super-7-tv.png" group-title="TR: YEREL",ABB WEB TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27838
+#EXTINF:-1 tvg-id="" tvg-name="Tarsus Güney TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/guney-tv-tarsus.png" group-title="TR: YEREL",Tarsus Güney TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27839
+#EXTINF:-1 tvg-id="" tvg-name="TiVi 6 HD" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tivi-6.png" group-title="TR: YEREL",TiVi 6 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27840
+#EXTINF:-1 tvg-id="" tvg-name="TV A" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/ton-tv.png" group-title="TR: YEREL",TV A
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27841
+#EXTINF:-1 tvg-id="" tvg-name="Izmir Turk TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/turhal-spuer-tv.png" group-title="TR: YEREL",Izmir Turk TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27842
+#EXTINF:-1 tvg-id="" tvg-name="TURHAL WEB TV" tvg-logo="" group-title="TR: YEREL",TURHAL WEB TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27843
+#EXTINF:-1 tvg-id="" tvg-name="TARSUS Guney TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/turk-haber.png" group-title="TR: YEREL",TARSUS Guney TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27844
+#EXTINF:-1 tvg-id="" tvg-name="TV 2020" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv2020.png" group-title="TR: YEREL",TV 2020
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27845
+#EXTINF:-1 tvg-id="" tvg-name="TV 38" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-38.png" group-title="TR: YEREL",TV 38
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27846
+#EXTINF:-1 tvg-id="" tvg-name="TV 52" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv52-tr.png" group-title="TR: YEREL",TV 52
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27847
+#EXTINF:-1 tvg-id="" tvg-name="SZC TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/tv-kayseri.png" group-title="TR: YEREL",SZC TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27848
+#EXTINF:-1 tvg-id="" tvg-name="UR FANATiK TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/urfanatik-tv.png" group-title="TR: YEREL",UR FANATiK TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27849
+#EXTINF:-1 tvg-id="" tvg-name="Üsküdar Üniversitesi TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/üsküdar-üni-tv.png" group-title="TR: YEREL",Üsküdar Üniversitesi TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27850
+#EXTINF:-1 tvg-id="" tvg-name="Viyana TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/viyana-tv.png" group-title="TR: YEREL",Viyana TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27851
+#EXTINF:-1 tvg-id="" tvg-name="Anadolu Net TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/world-turk.png" group-title="TR: YEREL",Anadolu Net TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27852
+#EXTINF:-1 tvg-id="" tvg-name="Gunaydın TV" tvg-logo="http://icon.cmsceu.com:8080/icon/yerel/yaren-tv.png" group-title="TR: YEREL",Gunaydın TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27853
+#EXTINF:-1 tvg-id="" tvg-name="BRT 2" tvg-logo="" group-title="TR: YEREL",BRT 2
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27854
+#EXTINF:-1 tvg-id="" tvg-name="ZAZA TV" tvg-logo="" group-title="TR: YEREL",ZAZA TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27855
+#EXTINF:-1 tvg-id="" tvg-name="TEVE 63" tvg-logo="" group-title="TR: YEREL",TEVE 63
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27856
+
 ------------------AMCSIZ TV LER---------------------------
 #EXTINF:-12,VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
@@ -292,6 +547,9 @@ https://vdo.digitalbox.xyz:3883/hybrid/play.m3u8
 
 #EXTINF:102, CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: YILDIZ TV" tvg-logo="" group-title="TR: YEREL",TR: YILDIZ TV
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/20948
 
 #EXTINF:-1,PALA TV
 http://tv86905.radyotelekomtv.com:22808/palatv/palatv/playlist.m3u8
@@ -344,6 +602,241 @@ http://livestream.zazerconer.workers.dev/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 http://5.9.136.157/cantv24/cantv24/playlist.m3u8
 
 ------------SİNEMA TV------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4698
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Aile HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Aile HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4699
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Action HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Action HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4700
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Yerli" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Yerli
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4701
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV Comedy HD" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV Comedy HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4702
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Classic HD" tvg-logo="" group-title="TR: SINEMA",TR: Moviesmart Classic HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4696
+#EXTINF:-1 tvg-id="" tvg-name="TR: MovieSmart Turk" tvg-logo="" group-title="TR: SINEMA",TR: MovieSmart Turk
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4697
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIZISMART PREMIUM HD" tvg-logo="" group-title="TR: SINEMA",TR: DIZISMART PREMIUM HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4676
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES ACTION HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4683
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES ACTION 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES ACTION 2 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4684
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES PREMIERE HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4682
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES PREMIERE 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES PREMIERE 2 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/20778
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEINMOVIES STARS HD" tvg-logo="" group-title="TR: SINEMA",TR: BEINMOVIES STARS HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4685
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES FAMLY HD " tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES FAMLY HD 
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4686
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN MOVIES TURK HD " tvg-logo="" group-title="TR: SINEMA",TR: BEIN MOVIES TURK HD 
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4687
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES SCI FI" tvg-logo="" group-title="TR: SINEMA",TR: BEIN SERIES SCI FI
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/15391
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES VICE" tvg-logo="" group-title="TR: SINEMA",TR: BEIN SERIES VICE
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/15393
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES COMEDY" tvg-logo="" group-title="TR: SINEMA",TR: BEIN SERIES COMEDY
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/15392
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Bilim Kurgu HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Bilim Kurgu HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/57
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Dram/Western HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Dram/Western HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/56
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Polisiye HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Polisiye HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/55
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Dövüş HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Dövüş HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/54
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Dram HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Dram HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/53
+#EXTINF:-1 tvg-id="" tvg-name="TR: Gine Gold Gerilim HD" tvg-logo="" group-title="TR: SINEMA",TR: Gine Gold Gerilim HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/52
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Animasyon HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Animasyon HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/51
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Komedi HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Komedi HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/50
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Korku HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Korku HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/49
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Macera HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Macera HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/48
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Aksiyon 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Aksiyon 1 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/47
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 5 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/46
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Belgesel 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Belgesel 1 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/16
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 1 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/42
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 2 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/43
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 3 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/44
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine Gold Yerli 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: Cine Gold Yerli 4 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/45
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 1 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7283
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 2 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7284
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 3 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7285
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 4 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7286
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 5 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7287
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 6 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7288
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 7 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7289
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 8 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7290
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 9 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7291
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 10 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7292
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 11 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 11 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7293
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 12 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 12 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7294
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 13 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 13 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7295
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 14 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 14 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7296
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 15 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 15 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7297
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 16 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 16 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7298
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 17 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 17 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7299
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 18 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 18 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7300
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 19 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 19 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7301
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX 20 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX 20 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7302
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 1 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7303
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 2 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7304
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 3 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7305
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 4 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7306
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 5 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7307
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 6 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7308
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 7 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7309
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 8 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7310
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 9 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7311
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAXBOX YESILCAM 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MAXBOX YESILCAM 10 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7312
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 1 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7313
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 2 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7314
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 3 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7315
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 4 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7316
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 5 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7317
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 6 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7318
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 7 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7319
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 8 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7320
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 9 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7321
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Turk 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Turk 10 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7322
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 1 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7323
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 2 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7324
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 3 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7325
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 4 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7326
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 5 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7327
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 6 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7328
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 7 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7329
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 8 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7330
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 9 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7331
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Netflix 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Netflix 10 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7332
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 1 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7333
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 2 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7334
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 3 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7335
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 4 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7336
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 5 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7337
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 6 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 6 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7338
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 7 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 7 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7339
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 8 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 8 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7340
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 9 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 9 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7341
+#EXTINF:-1 tvg-id="" tvg-name="TR: MaxBox Cocuk 10 HD" tvg-logo="" group-title="TR: SINEMA",TR: MaxBox Cocuk 10 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/7342
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 1. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 1. Sezon
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/20
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 2. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 2. Sezon
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/21
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 3. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 3. Sezon
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/22
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 4. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 4. Sezon
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/23
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 5. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 5. Sezon
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/24
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 6. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 6. Sezon
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/25
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 7.Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 7.Sezon
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/26
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kurtlar Vadisi Pusu 8. Sezon" tvg-logo="" group-title="TR: SINEMA",TR: Kurtlar Vadisi Pusu 8. Sezon
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/27
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 1 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/37
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 2 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 2 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/38
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 3 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 3 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/39
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 4 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 4 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/40
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 5 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 5 HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/41
+#EXTINF:-1 tvg-id="" tvg-name="TR: Siyah Beyaz Yesilcam" tvg-logo="" group-title="TR: SINEMA",TR: Siyah Beyaz Yesilcam
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/28
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Tv" tvg-logo="" group-title="TR: SINEMA",TR: Yesilcam Tv
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/29
+#EXTINF:-1 tvg-id="" tvg-name="TR: Heidi 3D" tvg-logo="" group-title="TR: SINEMA",TR: Heidi 3D
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4626
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD" tvg-logo="" group-title="TR: SINEMA",TR: FX HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4678
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX LIFE " tvg-logo="" group-title="TR: SINEMA",TR: FOX LIFE 
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4679
+#EXTINF:-1 tvg-id="" tvg-name="TR: FIGHT BOX HD" tvg-logo="" group-title="TR: SINEMA",TR: FIGHT BOX HD
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/4680
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 2" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV 2
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/28856
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1001" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV 1001
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/28857
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 1002" tvg-logo="" group-title="TR: SINEMA",TR: Sinema TV 1002
+http://aca3b.tk:8080/serkankul/GcEbVsLBU2/28858
 
 #EXTINF:-1,TR: FX FHD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/203
