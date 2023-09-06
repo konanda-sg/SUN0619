@@ -59,6 +59,7 @@ https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 1 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 3 4K
 http://8kstream.uk:8080/rtn2517/rt00/58735
 
@@ -138,20 +139,32 @@ http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/40
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 28 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 27 HD
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/41
 
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABABAM SINIFI" tvg-logo="" group-title="TR ➤SİNEMA ViP",Kemal Sunal 28 : HABABAM SINIFI 
+http://8kstream.uk:8080/rtn2517/rt00/58708
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL 29 HD
+http://8kstream.uk:8080/rtn2517/rt00/58709
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: ZEKİ METİN ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/ZEKI.ILE.METIN.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: ZEKİ METİN ʜᴅ
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6610.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KOMEDİ TV" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KOMEDI TV 
 http://8kstream.uk:8080/rtn2517/rt00/58662
 
+#EXTINF:109, AFYON TÜRK 
+http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
+
+#EXTINF:19,KANAL 19
+https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:FTV" group-title="1, FARK TÜRK TV
+http://91.134.203.253:30124/farkturktv/farkturktv/playlist.m3u8
+
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 
 #EXTINF:1,TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
-
-#EXTINF:109, AFYON TÜRK 
-http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:1, OA TV HD
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
@@ -191,6 +204,12 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL 7 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT6 BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,BEYAZ TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1 tvg-id="MELTEMTV.tr" tvg-name="MELTEM_TV_HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/MELTEM.TV.png" group-title="TURK ULUSAL",MELTEM TV HD
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
 #EXTINF:-1,TR: BABALA TV
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185041
@@ -317,15 +336,6 @@ http://143951.iptvone.eu:80/movie/ErcinSoysal/27BQ1HdQ74/227067.mkv
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
 http://canli.haber365.com.tr/tr/startv/index.m3u8
-
-#EXTINF:-1,BEYAZ TV 
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-
-#EXTINF:-1 tvg-id="MELTEMTV.tr" tvg-name="MELTEM_TV_HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/MELTEM.TV.png" group-title="TURK ULUSAL",MELTEM TV HD
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:FTV" group-title="1, FARK TÜRK TV
-http://91.134.203.253:30124/farkturktv/farkturktv/playlist.m3u8
 
 --------------ULUSAL LİNK------------------------
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 4K
@@ -715,8 +725,7 @@ https://vdo.digitalbox.xyz:3883/hybrid/play.m3u8
 #EXTINF:-1,ING SİNEMASI TV
 https://250weu.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
 
-#EXTINF:19,KANAL 19
-https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+
 
 ------------------AMCSIZ TV LER---------------------------
 
@@ -3455,10 +3464,6 @@ http://8kstream.uk:8080/rtn2517/rt00/58703
 http://8kstream.uk:8080/rtn2517/rt00/58704
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 1 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MAX Vizyon 1 HD
 http://8kstream.uk:8080/rtn2517/rt00/58706
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABABAM SINIFI" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: HABABAM SINIFI
-http://8kstream.uk:8080/rtn2517/rt00/58708
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL HD
-http://8kstream.uk:8080/rtn2517/rt00/58709
 #EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Sinema HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Yesilcam Sinema HD
 http://8kstream.uk:8080/rtn2517/rt00/58710
 #EXTINF:-1 tvg-id="" tvg-name="TR: KADIR INANIR HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KADIR INANIR HD
