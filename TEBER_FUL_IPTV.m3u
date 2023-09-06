@@ -327,6 +327,334 @@ https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:FTV" group-title="1, FARK TÜRK TV
 http://91.134.203.253:30124/farkturktv/farkturktv/playlist.m3u8
 
+--------------ULUSAL LİNK------------------------
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 4K
+http://8kstream.uk:8080/rtn2517/rt00/70066
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 1 UHD
+http://8kstream.uk:8080/rtn2517/rt00/70067
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: ATV HD
+http://8kstream.uk:8080/rtn2517/rt00/70068
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: ATV UHD
+http://8kstream.uk:8080/rtn2517/rt00/70069
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV EU" tvg-logo="" group-title="TR ➤ULUSAL ",TR: ATV EU
+http://8kstream.uk:8080/rtn2517/rt00/70070
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: SHOW TV UHD
+http://8kstream.uk:8080/rtn2517/rt00/70071
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV EU" tvg-logo="" group-title="TR ➤ULUSAL ",TR: SHOW TV EU
+http://8kstream.uk:8080/rtn2517/rt00/70072
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW MAX HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: SHOW MAX HD
+http://8kstream.uk:8080/rtn2517/rt00/70073
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: STAR TV HD
+http://8kstream.uk:8080/rtn2517/rt00/70074
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: STAR TV UHD
+http://8kstream.uk:8080/rtn2517/rt00/70075
+#EXTINF:-1 tvg-id="" tvg-name="TR: STAR TV EU" tvg-logo="" group-title="TR ➤ULUSAL ",TR: STAR TV EU
+http://8kstream.uk:8080/rtn2517/rt00/70076
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: KANAL D HD
+http://8kstream.uk:8080/rtn2517/rt00/70077
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: KANAL D UHD
+http://8kstream.uk:8080/rtn2517/rt00/70078
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D EU" tvg-logo="" group-title="TR ➤ULUSAL ",TR: KANAL D EU
+http://8kstream.uk:8080/rtn2517/rt00/70079
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: KANAL 7 UHD
+http://8kstream.uk:8080/rtn2517/rt00/70080
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: KANAL 7 HD
+http://8kstream.uk:8080/rtn2517/rt00/70081
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TV 8 HD
+http://8kstream.uk:8080/rtn2517/rt00/70082
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8 UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TV 8 UHD
+http://8kstream.uk:8080/rtn2517/rt00/70083
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TV 8.5 UHD
+http://8kstream.uk:8080/rtn2517/rt00/70085
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5 HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TV 8.5 HD
+http://8kstream.uk:8080/rtn2517/rt00/70086
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: FOX TV UHD
+http://8kstream.uk:8080/rtn2517/rt00/70087
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: FOX TV HD
+http://8kstream.uk:8080/rtn2517/rt00/70088
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: BEYAZ TV HD
+http://8kstream.uk:8080/rtn2517/rt00/70089
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYAZ TV UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: BEYAZ TV UHD
+http://8kstream.uk:8080/rtn2517/rt00/70090
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TEVE 2 UHD
+http://8kstream.uk:8080/rtn2517/rt00/70091
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEVE 2 HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TEVE 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/70092
+#EXTINF:-1 tvg-id="" tvg-name="TR: SHOW TV HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: SHOW TV HD
+http://8kstream.uk:8080/rtn2517/rt00/70093
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="" group-title="TR ➤ULUSAL ",TR: A2
+http://8kstream.uk:8080/rtn2517/rt00/70094
+#EXTINF:-1 tvg-id="" tvg-name="TR: SKY 360" tvg-logo="" group-title="TR ➤ULUSAL ",TR: SKY 360
+http://8kstream.uk:8080/rtn2517/rt00/70095
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/70096
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 AVRUPA" tvg-logo="" group-title="TR ➤ULUSAL ",TR: KANAL 7 AVRUPA
+http://8kstream.uk:8080/rtn2517/rt00/70097
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: A2 HD
+http://8kstream.uk:8080/rtn2517/rt00/70098
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TGRT EU HD
+http://8kstream.uk:8080/rtn2517/rt00/70099
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 2
+http://8kstream.uk:8080/rtn2517/rt00/70100
+#EXTINF:-1 tvg-id="" tvg-name="TR | FOX CRIME HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/FOX.CRIME.png" group-title=" TR ➤SiNEMA ",TR | FOX CRIME HD
+http://8kstream.uk:8080/rtn2517/rt00/76302
+#EXTINF:-1 tvg-id="" tvg-name="TR | FX HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/FX.png" group-title=" TR ➤SiNEMA ",TR | FX HD
+http://8kstream.uk:8080/rtn2517/rt00/76303
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FX HD
+http://8kstream.uk:8080/rtn2517/rt00/58660
+#EXTINF:-1 tvg-id="360.tr" tvg-name="TR: TV 100 HD" tvg-logo="https://imagizer.imageshack.com/img922/1266/FBSMZD.png" group-title=" TR ➤SiNEMA ",TR: TV 100 HD
+http://8kstream.uk:8080/rtn2517/rt00/76313
+#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD+" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FX HD+
+http://8kstream.uk:8080/rtn2517/rt00/58659
+#EXTINF:-1 tvg-id="" tvg-name="### TR: 4K KANALLAR ###" tvg-logo="" group-title="TR ➤ULUSAL ",### TR: 4K KANALLAR ###
+http://8kstream.uk:8080/rtn2517/rt00/70101
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 4K" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 2 4K
+http://8kstream.uk:8080/rtn2517/rt00/70102
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HD" tvg-logo="" group-title="TR ➤HABER ",TR: TRT HABER HD
+http://8kstream.uk:8080/rtn2517/rt00/69994
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER UHD" tvg-logo="" group-title="TR ➤HABER ",TR: TRT HABER UHD
+http://8kstream.uk:8080/rtn2517/rt00/69995
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT HABER" tvg-logo="" group-title="TR ➤HABER ",TR: TGRT HABER
+http://8kstream.uk:8080/rtn2517/rt00/69996
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER" tvg-logo="" group-title="TR ➤HABER ",TR: A HABER
+http://8kstream.uk:8080/rtn2517/rt00/69997
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABERTURK" tvg-logo="" group-title="TR ➤HABER ",TR: HABERTURK
+http://8kstream.uk:8080/rtn2517/rt00/69998
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD HD" tvg-logo="" group-title="TR ➤HABER ",TR: TRT WORLD HD
+http://8kstream.uk:8080/rtn2517/rt00/69999
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL" tvg-logo="" group-title="TR ➤HABER ",TR: HABER GLOBAL
+http://8kstream.uk:8080/rtn2517/rt00/70000
+#EXTINF:-1 tvg-id="" tvg-name="TR: ULUSAL KANAL" tvg-logo="" group-title="TR ➤HABER ",TR: ULUSAL KANAL
+http://8kstream.uk:8080/rtn2517/rt00/70001
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK HD" tvg-logo="" group-title="TR ➤HABER ",TR: CNN TURK HD
+http://8kstream.uk:8080/rtn2517/rt00/70002
+#EXTINF:-1 tvg-id="" tvg-name="TR: CNN TURK UHD" tvg-logo="" group-title="TR ➤HABER ",TR: CNN TURK UHD
+http://8kstream.uk:8080/rtn2517/rt00/70003
+#EXTINF:-1 tvg-id="" tvg-name="TR: TELE 1" tvg-logo="" group-title="TR ➤HABER ",TR: TELE 1
+http://8kstream.uk:8080/rtn2517/rt00/70004
+#EXTINF:-1 tvg-id="" tvg-name="TR: ARTI 1" tvg-logo="" group-title="TR ➤HABER ",TR: ARTI 1
+http://8kstream.uk:8080/rtn2517/rt00/70005
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 100" tvg-logo="" group-title="TR ➤HABER ",TR: TV 100
+http://8kstream.uk:8080/rtn2517/rt00/70006
+#EXTINF:-1 tvg-id="" tvg-name="TR: HALK TV" tvg-logo="" group-title="TR ➤HABER ",TR: HALK TV
+http://8kstream.uk:8080/rtn2517/rt00/70007
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRT TV" tvg-logo="" group-title="TR ➤HABER ",TR: KRT TV
+http://8kstream.uk:8080/rtn2517/rt00/70008
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV" tvg-logo="" group-title="TR ➤HABER ",TR: NTV
+http://8kstream.uk:8080/rtn2517/rt00/70009
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 TV HD" tvg-logo="" group-title="TR ➤HABER ",TR: 24 TV HD
+http://8kstream.uk:8080/rtn2517/rt00/70010
+#EXTINF:-1 tvg-id="" tvg-name="TR: BLOOMBERG HT" tvg-logo="" group-title="TR ➤HABER ",TR: BLOOMBERG HT
+http://8kstream.uk:8080/rtn2517/rt00/70011
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVNET HD" tvg-logo="" group-title="TR ➤HABER ",TR: TVNET HD
+http://8kstream.uk:8080/rtn2517/rt00/70012
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÜLKE TV" tvg-logo="" group-title="TR ➤HABER ",TR: ÜLKE TV
+http://8kstream.uk:8080/rtn2517/rt00/70013
+#EXTINF:-1 tvg-id="" tvg-name="TR: UZAY HABER" tvg-logo="" group-title="TR ➤HABER ",TR: UZAY HABER
+http://8kstream.uk:8080/rtn2517/rt00/70014
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Turk HD" tvg-logo="" group-title="TR ➤HABER ",TR: Haber Turk HD
+http://8kstream.uk:8080/rtn2517/rt00/70015
+#EXTINF:-1 tvg-id="" tvg-name="TR: Halk TV HD" tvg-logo="" group-title="TR ➤HABER ",TR: Halk TV HD
+http://8kstream.uk:8080/rtn2517/rt00/70016
+#EXTINF:-1 tvg-id="" tvg-name="TR: A HABER HD+" tvg-logo="" group-title="TR ➤HABER ",TR: A HABER HD+
+http://8kstream.uk:8080/rtn2517/rt00/70017
+#EXTINF:-1 tvg-id="" tvg-name="TR: A PARA HD" tvg-logo="" group-title="TR ➤HABER ",TR: A PARA HD
+http://8kstream.uk:8080/rtn2517/rt00/70018
+#EXTINF:-1 tvg-id="" tvg-name="TR: A NEWS HD" tvg-logo="" group-title="TR ➤HABER ",TR: A NEWS HD
+http://8kstream.uk:8080/rtn2517/rt00/70019
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV +" tvg-logo="" group-title="TR ➤HABER ",TR: NTV +
+http://8kstream.uk:8080/rtn2517/rt00/70020
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU SZC TV HD" tvg-logo="" group-title="TR ➤HABER ",TR: SOZCU SZC TV HD
+http://8kstream.uk:8080/rtn2517/rt00/70021
+------------YERELTV---EROLİNK------------
+#EXTINF:-1 tvg-id="" tvg-name="###TR: YEREL###" tvg-logo="" group-title="TR ➤Yerel",###TR: YEREL###
+http://8kstream.uk:8080/rtn2517/rt00/70103
+#EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="" group-title="TR ➤Yerel",TR: YOL TV
+http://8kstream.uk:8080/rtn2517/rt00/70104
+#EXTINF:-1 tvg-id="" tvg-name="TR: CAN TV" tvg-logo="" group-title="TR ➤Yerel",TR: CAN TV
+http://8kstream.uk:8080/rtn2517/rt00/70105
+#EXTINF:-1 tvg-id="" tvg-name="TR: IBB TV" tvg-logo="" group-title="TR ➤Yerel",TR: IBB TV
+http://8kstream.uk:8080/rtn2517/rt00/70106
+#EXTINF:-1 tvg-id="" tvg-name="TR: ALTAS TV" tvg-logo="" group-title="TR ➤Yerel",TR: ALTAS TV
+http://8kstream.uk:8080/rtn2517/rt00/70107
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TV" tvg-logo="" group-title="TR ➤Yerel",TR: AKILLI TV
+http://8kstream.uk:8080/rtn2517/rt00/70108
+#EXTINF:-1 tvg-id="" tvg-name="TR: CAY TV" tvg-logo="" group-title="TR ➤Yerel",TR: CAY TV
+http://8kstream.uk:8080/rtn2517/rt00/70109
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU SZC TV" tvg-logo="" group-title="TR ➤Yerel",TR: SOZCU SZC TV
+http://8kstream.uk:8080/rtn2517/rt00/70110
+#EXTINF:-1 tvg-id="" tvg-name="TR: ES TV" tvg-logo="" group-title="TR ➤Yerel",TR: ES TV
+http://8kstream.uk:8080/rtn2517/rt00/70111
+#EXTINF:-1 tvg-id="" tvg-name="TR: GUNEYDOGU TV" tvg-logo="" group-title="TR ➤Yerel",TR: GUNEYDOGU TV
+http://8kstream.uk:8080/rtn2517/rt00/70112
+#EXTINF:-1 tvg-id="" tvg-name="TR: HRT AKDENIZ TV" tvg-logo="" group-title="TR ➤Yerel",TR: HRT AKDENIZ TV
+http://8kstream.uk:8080/rtn2517/rt00/70113
+#EXTINF:-1 tvg-id="" tvg-name="TR: KADIRGA TV" tvg-logo="" group-title="TR ➤Yerel",TR: KADIRGA TV
+http://8kstream.uk:8080/rtn2517/rt00/70114
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 23" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 23
+http://8kstream.uk:8080/rtn2517/rt00/70115
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 43" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 43
+http://8kstream.uk:8080/rtn2517/rt00/70116
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 58" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 58
+http://8kstream.uk:8080/rtn2517/rt00/70117
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL AVRUPA
+http://8kstream.uk:8080/rtn2517/rt00/70118
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL URFA" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL URFA
+http://8kstream.uk:8080/rtn2517/rt00/70119
+#EXTINF:-1 tvg-id="" tvg-name="TR: KON TV" tvg-logo="" group-title="TR ➤Yerel",TR: KON TV
+http://8kstream.uk:8080/rtn2517/rt00/70120
+#EXTINF:-1 tvg-id="" tvg-name="TR: LINE TV" tvg-logo="" group-title="TR ➤Yerel",TR: LINE TV
+http://8kstream.uk:8080/rtn2517/rt00/70121
+#EXTINF:-1 tvg-id="" tvg-name="TR: AKSU TV" tvg-logo="" group-title="TR ➤Yerel",TR: AKSU TV
+http://8kstream.uk:8080/rtn2517/rt00/70122
+#EXTINF:-1 tvg-id="" tvg-name="TR: 38 KENT TV" tvg-logo="" group-title="TR ➤Yerel",TR: 38 KENT TV
+http://8kstream.uk:8080/rtn2517/rt00/70123
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEYKENT TV" tvg-logo="" group-title="TR ➤Yerel",TR: BEYKENT TV
+http://8kstream.uk:8080/rtn2517/rt00/70124
+#EXTINF:-1 tvg-id="" tvg-name="TR: UÇAN KUS TV" tvg-logo="" group-title="TR ➤Yerel",TR: UÇAN KUS TV
+http://8kstream.uk:8080/rtn2517/rt00/70125
+#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo="" group-title="TR ➤Yerel",TR: CEM TV
+http://8kstream.uk:8080/rtn2517/rt00/70126
+#EXTINF:-1 tvg-id="" tvg-name="TR: BENGU TURK" tvg-logo="" group-title="TR ➤Yerel",TR: BENGU TURK
+http://8kstream.uk:8080/rtn2517/rt00/70127
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ UHD" tvg-logo="" group-title="TR ➤Yerel",TR: MAVI KARADENIZ UHD
+http://8kstream.uk:8080/rtn2517/rt00/70128
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ" tvg-logo="" group-title="TR ➤Yerel",TR: TRT AVAZ
+http://8kstream.uk:8080/rtn2517/rt00/70129
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 3 TV" tvg-logo="" group-title="TR ➤Yerel",TR: Kanal 3 TV
+http://8kstream.uk:8080/rtn2517/rt00/70130
+#EXTINF:-1 tvg-id="" tvg-name="TR: ON4 TV" tvg-logo="" group-title="TR ➤Yerel",TR: ON4 TV
+http://8kstream.uk:8080/rtn2517/rt00/70131
+#EXTINF:-1 tvg-id="" tvg-name="TR: PAMUKKALE TV" tvg-logo="" group-title="TR ➤Yerel",TR: PAMUKKALE TV
+http://8kstream.uk:8080/rtn2517/rt00/70132
+#EXTINF:-1 tvg-id="" tvg-name="TR: DIYAR TV" tvg-logo="" group-title="TR ➤Yerel",TR: DIYAR TV
+http://8kstream.uk:8080/rtn2517/rt00/70133
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL FIRAT ELAZIĞ" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL FIRAT ELAZIĞ
+http://8kstream.uk:8080/rtn2517/rt00/70134
+#EXTINF:-1 tvg-id="" tvg-name="TR: TH TURKHABER" tvg-logo="" group-title="TR ➤Yerel",TR: TH TURKHABER
+http://8kstream.uk:8080/rtn2517/rt00/70135
+#EXTINF:-1 tvg-id="" tvg-name="TR: ÇAY TV RİZE" tvg-logo="" group-title="TR ➤Yerel",TR: ÇAY TV RİZE
+http://8kstream.uk:8080/rtn2517/rt00/70136
+#EXTINF:-1 tvg-id="" tvg-name="TR: KENTTÜRK TV KAYSERİ" tvg-logo="" group-title="TR ➤Yerel",TR: KENTTÜRK TV KAYSERİ
+http://8kstream.uk:8080/rtn2517/rt00/70137
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri Kay TV" tvg-logo="" group-title="TR ➤Yerel",TR: Kayseri Kay TV
+http://8kstream.uk:8080/rtn2517/rt00/70138
+#EXTINF:-1 tvg-id="" tvg-name="TR: ES TV ESKİŞEHİR" tvg-logo="" group-title="TR ➤Yerel",TR: ES TV ESKİŞEHİR
+http://8kstream.uk:8080/rtn2517/rt00/70139
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 32 ISPARTA HD" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 32 ISPARTA HD
+http://8kstream.uk:8080/rtn2517/rt00/70140
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 42 KONYA" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 42 KONYA
+http://8kstream.uk:8080/rtn2517/rt00/70141
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL V ANTALYA" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL V ANTALYA
+http://8kstream.uk:8080/rtn2517/rt00/70142
+#EXTINF:-1 tvg-id="" tvg-name="TR: A VUSLAT TV" tvg-logo="" group-title="TR ➤Yerel",TR: A VUSLAT TV
+http://8kstream.uk:8080/rtn2517/rt00/70143
+#EXTINF:-1 tvg-id="" tvg-name="TR: ADA TV" tvg-logo="" group-title="TR ➤Yerel",TR: ADA TV
+http://8kstream.uk:8080/rtn2517/rt00/70144
+#EXTINF:-1 tvg-id="" tvg-name="TR: AMBIANCE" tvg-logo="" group-title="TR ➤Yerel",TR: AMBIANCE
+http://8kstream.uk:8080/rtn2517/rt00/70145
+#EXTINF:-1 tvg-id="" tvg-name="TR: ASTV" tvg-logo="" group-title="TR ➤Yerel",TR: ASTV
+http://8kstream.uk:8080/rtn2517/rt00/70146
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 1 HD" tvg-logo="" group-title="TR ➤Yerel",TR: BRT 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/70147
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 2 HD" tvg-logo="" group-title="TR ➤Yerel",TR: BRT 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/70148
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRTV B KRDNIZ" tvg-logo="" group-title="TR ➤Yerel",TR: BRTV B KRDNIZ
+http://8kstream.uk:8080/rtn2517/rt00/70149
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRT 3" tvg-logo="" group-title="TR ➤Yerel",TR: BRT 3
+http://8kstream.uk:8080/rtn2517/rt00/70150
+#EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV" tvg-logo="" group-title="TR ➤Yerel",TR: DEHA TV
+http://8kstream.uk:8080/rtn2517/rt00/70151
+#EXTINF:-1 tvg-id="" tvg-name="TR: RUMELİ TV" tvg-logo="" group-title="TR ➤Yerel",TR: RUMELİ TV
+http://8kstream.uk:8080/rtn2517/rt00/70152
+#EXTINF:-1 tvg-id="" tvg-name="TR: EDESSA TV" tvg-logo="" group-title="TR ➤Yerel",TR: EDESSA TV
+http://8kstream.uk:8080/rtn2517/rt00/70153
+#EXTINF:-1 tvg-id="" tvg-name="TR: ER TV" tvg-logo="" group-title="TR ➤Yerel",TR: ER TV
+http://8kstream.uk:8080/rtn2517/rt00/70154
+#EXTINF:-1 tvg-id="" tvg-name="TR: GRT TV" tvg-logo="" group-title="TR ➤Yerel",TR: GRT TV
+http://8kstream.uk:8080/rtn2517/rt00/70155
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 15" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 15
+http://8kstream.uk:8080/rtn2517/rt00/70156
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 26" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 26
+http://8kstream.uk:8080/rtn2517/rt00/70157
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 33" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 33
+http://8kstream.uk:8080/rtn2517/rt00/70158
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 68" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 68
+http://8kstream.uk:8080/rtn2517/rt00/70159
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL T" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL T
+http://8kstream.uk:8080/rtn2517/rt00/70160
+#EXTINF:-1 tvg-id="" tvg-name="TR: WORLD TURK" tvg-logo="" group-title="TR ➤Yerel",TR: WORLD TURK
+http://8kstream.uk:8080/rtn2517/rt00/70161
+#EXTINF:-1 tvg-id="" tvg-name="TR: KOY TV" tvg-logo="" group-title="TR ➤Yerel",TR: KOY TV
+http://8kstream.uk:8080/rtn2517/rt00/70162
+#EXTINF:-1 tvg-id="" tvg-name="TR: KIBRIS TV" tvg-logo="" group-title="TR ➤Yerel",TR: KIBRIS TV
+http://8kstream.uk:8080/rtn2517/rt00/70163
+#EXTINF:-1 tvg-id="" tvg-name="TR: MERCAN TV" tvg-logo="" group-title="TR ➤Yerel",TR: MERCAN TV
+http://8kstream.uk:8080/rtn2517/rt00/70164
+#EXTINF:-1 tvg-id="" tvg-name="TR: ORDU ALTAS TV" tvg-logo="" group-title="TR ➤Yerel",TR: ORDU ALTAS TV
+http://8kstream.uk:8080/rtn2517/rt00/70165
+#EXTINF:-1 tvg-id="" tvg-name="TR: SAT7TURK" tvg-logo="" group-title="TR ➤Yerel",TR: SAT7TURK
+http://8kstream.uk:8080/rtn2517/rt00/70166
+#EXTINF:-1 tvg-id="" tvg-name="TR: SIM TV" tvg-logo="" group-title="TR ➤Yerel",TR: SIM TV
+http://8kstream.uk:8080/rtn2517/rt00/70167
+#EXTINF:-1 tvg-id="" tvg-name="TR: T.A.Y TV" tvg-logo="" group-title="TR ➤Yerel",TR: T.A.Y TV
+http://8kstream.uk:8080/rtn2517/rt00/70168
+#EXTINF:-1 tvg-id="" tvg-name="TR: TEK RUMELI TV" tvg-logo="" group-title="TR ➤Yerel",TR: TEK RUMELI TV
+http://8kstream.uk:8080/rtn2517/rt00/70169
+#EXTINF:-1 tvg-id="" tvg-name="TR: TON TV" tvg-logo="" group-title="TR ➤Yerel",TR: TON TV
+http://8kstream.uk:8080/rtn2517/rt00/70170
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 1" tvg-logo="" group-title="TR ➤Yerel",TR: TV 1
+http://8kstream.uk:8080/rtn2517/rt00/70171
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4 HD" tvg-logo="" group-title="TR ➤Yerel",TR: TV 4 HD
+http://8kstream.uk:8080/rtn2517/rt00/70172
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 41" tvg-logo="" group-title="TR ➤Yerel",TR: TV 41
+http://8kstream.uk:8080/rtn2517/rt00/70173
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 52" tvg-logo="" group-title="TR ➤Yerel",TR: TV 52
+http://8kstream.uk:8080/rtn2517/rt00/70174
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV A ADANA" tvg-logo="" group-title="TR ➤Yerel",TR: TV A ADANA
+http://8kstream.uk:8080/rtn2517/rt00/70175
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV5" tvg-logo="" group-title="TR ➤Yerel",TR: TV5
+http://8kstream.uk:8080/rtn2517/rt00/70176
+#EXTINF:-1 tvg-id="" tvg-name="TR: TVDEN" tvg-logo="" group-title="TR ➤Yerel",TR: TVDEN
+http://8kstream.uk:8080/rtn2517/rt00/70177
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON 58" tvg-logo="" group-title="TR ➤Yerel",TR: VIZYON 58
+http://8kstream.uk:8080/rtn2517/rt00/70178
+#EXTINF:-1 tvg-id="" tvg-name="TR: UA TV" tvg-logo="" group-title="TR ➤Yerel",TR: UA TV
+http://8kstream.uk:8080/rtn2517/rt00/70179
+#EXTINF:-1 tvg-id="" tvg-name="TR: YENİ KOCAELİ TV" tvg-logo="" group-title="TR ➤Yerel",TR: YENİ KOCAELİ TV
+http://8kstream.uk:8080/rtn2517/rt00/70180
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ekin Tv" tvg-logo="" group-title="TR ➤Yerel",TR: Ekin Tv
+http://8kstream.uk:8080/rtn2517/rt00/70181
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 264" tvg-logo="" group-title="TR ➤Yerel",TR: TV 264
+http://8kstream.uk:8080/rtn2517/rt00/70182
+#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP TV" tvg-logo="" group-title="TR ➤MUSIC ",TR: KRAL POP TV
+http://8kstream.uk:8080/rtn2517/rt00/70183
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK" tvg-logo="" group-title="TR ➤MUSIC ",TR: POWER TURK
+http://8kstream.uk:8080/rtn2517/rt00/70184
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 TURK TV HD" tvg-logo="" group-title="TR ➤MUSIC ",TR: NR1 TURK TV HD
+http://8kstream.uk:8080/rtn2517/rt00/70185
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TURK" tvg-logo="" group-title="TR ➤MUSIC ",TR: DREAM TURK
+http://8kstream.uk:8080/rtn2517/rt00/70186
+#EXTINF:-1 tvg-id="" tvg-name="TR: DREAM TV" tvg-logo="" group-title="TR ➤MUSIC ",TR: DREAM TV
+http://8kstream.uk:8080/rtn2517/rt00/70187
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER HD" tvg-logo="" group-title="TR ➤MUSIC ",TR: POWER HD
+http://8kstream.uk:8080/rtn2517/rt00/70188
+#EXTINF:-1 tvg-id="" tvg-name="TR: POWER TV UHD" tvg-logo="" group-title="TR ➤MUSIC ",TR: POWER TV UHD
+http://8kstream.uk:8080/rtn2517/rt00/70189
+#EXTINF:-1 tvg-id="" tvg-name="TR: YILDIZ EN TV" tvg-logo="" group-title="TR ➤MUSIC ",TR: YILDIZ EN TV
+http://8kstream.uk:8080/rtn2517/rt00/70190
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANADOLU DERNEK TV" tvg-logo="" group-title="TR ➤MUSIC ",TR: ANADOLU DERNEK TV
+http://8kstream.uk:8080/rtn2517/rt00/70191
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 TV HD" tvg-logo="" group-title="TR ➤MUSIC ",TR: NR1 TV HD
+http://8kstream.uk:8080/rtn2517/rt00/70192
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR 1 TURK HD" tvg-logo="" group-title="TR ➤MUSIC ",TR: NR 1 TURK HD
+http://8kstream.uk:8080/rtn2517/rt00/70193
+#EXTINF:-1 tvg-id="" tvg-name="TR: MİLYON TV" tvg-logo="" group-title="TR ➤MUSIC ",TR: MİLYON TV
+http://8kstream.uk:8080/rtn2517/rt00/70194
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Müzik" tvg-logo="" group-title="TR ➤MUSIC ",TR: Trt Müzik
+http://8kstream.uk:8080/rtn2517/rt00/70195
+
+
 ------------KIBRIS TVLERİ-------------------------------------
 #EXTINF:1,BRT1 TV
 https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8
@@ -442,6 +770,257 @@ http://livestream.zazerconer.workers.dev/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 
 #EXTINF:-1,Can24 tv SD
 http://5.9.136.157/cantv24/cantv24/playlist.m3u8
+
+------------SİNEMA TV-----EURO-------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABABAM SINIFI TV" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: HABABAM SINIFI TV
+http://8kstream.uk:8080/rtn2517/rt00/58640
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Movies Action HD
+http://8kstream.uk:8080/rtn2517/rt00/58641
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES ACTION 2 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN MOVIES ACTION 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/58642
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premiere HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Movies Premiere HD
+http://8kstream.uk:8080/rtn2517/rt00/58643
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN MOVIES PREMIERE 2 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN MOVIES PREMIERE 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/58644
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Turk HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Movies Turk HD
+http://8kstream.uk:8080/rtn2517/rt00/58645
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Comedy HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Series Comedy HD
+http://8kstream.uk:8080/rtn2517/rt00/58646
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Sci-Fi HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Series Sci-Fi HD
+http://8kstream.uk:8080/rtn2517/rt00/58647
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Vice HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Series Vice HD
+http://8kstream.uk:8080/rtn2517/rt00/58648
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOVİESMART CLASSİC HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MOVİESMART CLASSİC HD
+http://8kstream.uk:8080/rtn2517/rt00/58649
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Stars HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Movies Stars HD
+http://8kstream.uk:8080/rtn2517/rt00/58650
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Series Drama HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Series Drama HD
+http://8kstream.uk:8080/rtn2517/rt00/58651
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Turk HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Moviesmart Turk HD
+http://8kstream.uk:8080/rtn2517/rt00/58652
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEiN BOX OFFİCE 1 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: BEiN BOX OFFİCE 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/58653
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA TV" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: SINEMA TV
+http://8kstream.uk:8080/rtn2517/rt00/58654
+#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMA TV YERLi HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: SiNEMA TV YERLi HD
+http://8kstream.uk:8080/rtn2517/rt00/58655
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 1" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Box Office 1
+http://8kstream.uk:8080/rtn2517/rt00/58656
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Box Office 2
+http://8kstream.uk:8080/rtn2517/rt00/58657
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 3" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: beIN Box Office 3
+http://8kstream.uk:8080/rtn2517/rt00/58658
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 1" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 1
+http://8kstream.uk:8080/rtn2517/rt00/58661
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 2" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 2
+http://8kstream.uk:8080/rtn2517/rt00/58662
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 3" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 3
+http://8kstream.uk:8080/rtn2517/rt00/58663
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 4" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 4
+http://8kstream.uk:8080/rtn2517/rt00/58664
+#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 5" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 5
+http://8kstream.uk:8080/rtn2517/rt00/58665
+#EXTINF:-1 tvg-id="" tvg-name="TR: GalaBox Recep Ivedik HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: GalaBox Recep Ivedik HD
+http://8kstream.uk:8080/rtn2517/rt00/58666
+#EXTINF:-1 tvg-id="" tvg-name="TR: GalaBox Scooby-Doo" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: GalaBox Scooby-Doo
+http://8kstream.uk:8080/rtn2517/rt00/58667
+#EXTINF:-1 tvg-id="" tvg-name="TR: ilyas Salman Tv" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: ilyas Salman Tv
+http://8kstream.uk:8080/rtn2517/rt00/58668
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sener Sen TV" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Sener Sen TV
+http://8kstream.uk:8080/rtn2517/rt00/58669
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yilmaz Guney Tv" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Yilmaz Guney Tv
+http://8kstream.uk:8080/rtn2517/rt00/58670
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Sinema TV HD
+http://8kstream.uk:8080/rtn2517/rt00/58671
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema tv Aksiyon 2" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Sinema tv Aksiyon 2
+http://8kstream.uk:8080/rtn2517/rt00/58672
+#EXTINF:-1 tvg-id="" tvg-name="TR: SiNEMA TV AKSiYON" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: SiNEMA TV AKSiYON
+http://8kstream.uk:8080/rtn2517/rt00/58673
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV 2 FHD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Sinema TV 2 FHD
+http://8kstream.uk:8080/rtn2517/rt00/58674
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA KOMEDI 2" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: SINEMA KOMEDI 2
+http://8kstream.uk:8080/rtn2517/rt00/58675
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA KOMEDI" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: SINEMA KOMEDI
+http://8kstream.uk:8080/rtn2517/rt00/58676
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA AILE 2" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: SINEMA AILE 2
+http://8kstream.uk:8080/rtn2517/rt00/58677
+#EXTINF:-1 tvg-id="" tvg-name="TR: SINEMA AKSIYON" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: SINEMA AKSIYON
+http://8kstream.uk:8080/rtn2517/rt00/58678
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nextbox Movie 5" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Nextbox Movie 5
+http://8kstream.uk:8080/rtn2517/rt00/58679
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nextbox Movie 4" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Nextbox Movie 4
+http://8kstream.uk:8080/rtn2517/rt00/58680
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nextbox Movie 3" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Nextbox Movie 3
+http://8kstream.uk:8080/rtn2517/rt00/58681
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nextbox Movie 2" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: Nextbox Movie 2
+http://8kstream.uk:8080/rtn2517/rt00/58682
+#EXTINF:-1 tvg-id="" tvg-name="TR: NEXTBOX WALL" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: NEXTBOX WALL
+http://8kstream.uk:8080/rtn2517/rt00/58683
+#EXTINF:-1 tvg-id="" tvg-name="TR: NEXTBOX TESLA" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: NEXTBOX TESLA
+http://8kstream.uk:8080/rtn2517/rt00/58684
+#EXTINF:-1 tvg-id="" tvg-name="TR: NEXTBOX GOLD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: NEXTBOX GOLD
+http://8kstream.uk:8080/rtn2517/rt00/58685
+#EXTINF:-1 tvg-id="" tvg-name="TR: NEXTBOX DREAM" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: NEXTBOX DREAM
+http://8kstream.uk:8080/rtn2517/rt00/58686
+#EXTINF:-1 tvg-id="" tvg-name="TR: NEXTBOX ACTION" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: NEXTBOX ACTION
+http://8kstream.uk:8080/rtn2517/rt00/58687
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIP AVRUPA Yesilcam 1" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: VIP AVRUPA Yesilcam 1
+http://8kstream.uk:8080/rtn2517/rt00/58688
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIPMAX TÜRK" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: VIPMAX TÜRK
+http://8kstream.uk:8080/rtn2517/rt00/58690
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIPMAX 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: VIPMAX 4K
+http://8kstream.uk:8080/rtn2517/rt00/58691
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 4K Romantik" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: LOCA 4K Romantik
+http://8kstream.uk:8080/rtn2517/rt00/58693
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 4K Western" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: LOCA 4K Western
+http://8kstream.uk:8080/rtn2517/rt00/58695
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 4K  Yerli Drama" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: LOCA 4K  Yerli Drama
+http://8kstream.uk:8080/rtn2517/rt00/58696
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOCA 4K KEMAL SUNAL" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: LOCA 4K KEMAL SUNAL
+http://8kstream.uk:8080/rtn2517/rt00/58697
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIPMAX 4K  Aile" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: VIPMAX 4K  Aile
+http://8kstream.uk:8080/rtn2517/rt00/58698
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIPMAX 4K Macera" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: VIPMAX 4K Macera
+http://8kstream.uk:8080/rtn2517/rt00/58701
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIPMAX 4K Romantik" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: VIPMAX 4K Romantik
+http://8kstream.uk:8080/rtn2517/rt00/58702
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIPMAX 4K Turk" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: VIPMAX 4K Turk
+http://8kstream.uk:8080/rtn2517/rt00/58703
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIPMAX 4K Vizyon" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: VIPMAX 4K Vizyon
+http://8kstream.uk:8080/rtn2517/rt00/58704
+#EXTINF:-1 tvg-id="" tvg-name="TR: MAX Vizyon 1 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MAX Vizyon 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/58706
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABABAM SINIFI" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: HABABAM SINIFI
+http://8kstream.uk:8080/rtn2517/rt00/58708
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATA DEMIREL HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: ATA DEMIREL HD
+http://8kstream.uk:8080/rtn2517/rt00/58713
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 21 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 21 HD
+http://8kstream.uk:8080/rtn2517/rt00/58714
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 1 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/58715
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 2 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/58716
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 3 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 3 HD
+http://8kstream.uk:8080/rtn2517/rt00/58717
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 4 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 4 HD
+http://8kstream.uk:8080/rtn2517/rt00/58718
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 6 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 6 HD
+http://8kstream.uk:8080/rtn2517/rt00/58719
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 5 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 5 HD
+http://8kstream.uk:8080/rtn2517/rt00/58720
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 7 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 7 HD
+http://8kstream.uk:8080/rtn2517/rt00/58721
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 8 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 8 HD
+http://8kstream.uk:8080/rtn2517/rt00/58722
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 9 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 9 HD
+http://8kstream.uk:8080/rtn2517/rt00/58723
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 10 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 10 HD
+http://8kstream.uk:8080/rtn2517/rt00/58724
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 11 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 11 HD
+http://8kstream.uk:8080/rtn2517/rt00/58725
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 12 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 12 HD
+http://8kstream.uk:8080/rtn2517/rt00/58726
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 13 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 13 HD
+http://8kstream.uk:8080/rtn2517/rt00/58727
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 14 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 14 HD
+http://8kstream.uk:8080/rtn2517/rt00/58728
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 15 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 15 HD
+http://8kstream.uk:8080/rtn2517/rt00/58729
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 16 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 16 HD
+http://8kstream.uk:8080/rtn2517/rt00/58730
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 17 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 17 HD
+http://8kstream.uk:8080/rtn2517/rt00/58731
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 18 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 18 HD
+http://8kstream.uk:8080/rtn2517/rt00/58732
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 19 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 19 HD
+http://8kstream.uk:8080/rtn2517/rt00/58733
+#EXTINF:-1 tvg-id="" tvg-name="TR: FİLMMODU SALON 20 HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FİLMMODU SALON 20 HD
+http://8kstream.uk:8080/rtn2517/rt00/58734
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 1 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 1 4K
+http://8kstream.uk:8080/rtn2517/rt00/58735
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 2 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 2 4K
+http://8kstream.uk:8080/rtn2517/rt00/58736
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 4 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 4 4K
+http://8kstream.uk:8080/rtn2517/rt00/58737
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 5 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 5 4K
+http://8kstream.uk:8080/rtn2517/rt00/58738
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 6 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 6 4K
+http://8kstream.uk:8080/rtn2517/rt00/58739
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOOVİE Marvel Studios 1" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MOOVİE Marvel Studios 1
+http://8kstream.uk:8080/rtn2517/rt00/58740
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOOVİE Marvel Studios 2" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MOOVİE Marvel Studios 2
+http://8kstream.uk:8080/rtn2517/rt00/58741
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOOVİE Marvel Studios 3" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MOOVİE Marvel Studios 3
+http://8kstream.uk:8080/rtn2517/rt00/58742
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOOVİE Marvel Studios 4" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MOOVİE Marvel Studios 4
+http://8kstream.uk:8080/rtn2517/rt00/58743
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOOVİE Marvel Studios 5" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MOOVİE Marvel Studios 5
+http://8kstream.uk:8080/rtn2517/rt00/58744
+#EXTINF:-1 tvg-id="" tvg-name="TR: MOOVİE Marvel Studios 6" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: MOOVİE Marvel Studios 6
+http://8kstream.uk:8080/rtn2517/rt00/58745
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SERIES VICE HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.VICE.png" group-title=" TR ➤SiNEMA ",TR | beIN SERIES VICE HD
+http://8kstream.uk:8080/rtn2517/rt00/76284
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SERIES COMEDY HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.COMEDY.png" group-title=" TR ➤SiNEMA ",TR | beIN SERIES COMEDY HD
+http://8kstream.uk:8080/rtn2517/rt00/76285
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN SERIES SCI-FI HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.SERIES.SCI.FI.png" group-title=" TR ➤SiNEMA ",TR | beIN SERIES SCI-FI HD
+http://8kstream.uk:8080/rtn2517/rt00/76286
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN MOVIES TURK HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.TURK.png" group-title=" TR ➤SiNEMA ",TR | beIN MOVIES TURK HD
+http://8kstream.uk:8080/rtn2517/rt00/76287
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN MOVIES STARS HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.STARS.png" group-title=" TR ➤SiNEMA ",TR | beIN MOVIES STARS HD
+http://8kstream.uk:8080/rtn2517/rt00/76288
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN MOVIES PREMIER HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.PREMIERE.png" group-title=" TR ➤SiNEMA ",TR | beIN MOVIES PREMIER HD
+http://8kstream.uk:8080/rtn2517/rt00/76289
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN MOVIES PREMIER 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.PREMIERE.2.png" group-title=" TR ➤SiNEMA ",TR | beIN MOVIES PREMIER 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/76290
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN MOVIES FAMILY HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.FAMILY.png" group-title=" TR ➤SiNEMA ",TR | beIN MOVIES FAMILY HD
+http://8kstream.uk:8080/rtn2517/rt00/76291
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN MOVIES ACTION HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.ACTION.png" group-title=" TR ➤SiNEMA ",TR | beIN MOVIES ACTION HD
+http://8kstream.uk:8080/rtn2517/rt00/76292
+#EXTINF:-1 tvg-id="" tvg-name="TR | beIN MOVIES ACTION 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.MOVIES.ACTION.2.png" group-title=" TR ➤SiNEMA ",TR | beIN MOVIES ACTION 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/76293
+#EXTINF:-1 tvg-id="" tvg-name="TR | beINBOX OFFICE 1 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.BOX.OFFICE.1.png" group-title=" TR ➤SiNEMA ",TR | beINBOX OFFICE 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/76294
+#EXTINF:-1 tvg-id="" tvg-name="TR | beINBOX OFFICE 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/BEIN.BOX.OFFICE.2.png" group-title=" TR ➤SiNEMA ",TR | beINBOX OFFICE 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/76295
+#EXTINF:-1 tvg-id="" tvg-name="TR | MOVIESMART TURK HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.TURK.png" group-title=" TR ➤SiNEMA ",TR | MOVIESMART TURK HD
+http://8kstream.uk:8080/rtn2517/rt00/76296
+#EXTINF:-1 tvg-id="" tvg-name="TR | MOVIESMART PREMIUM HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/DIZI.SMART.PREMIUM.png" group-title=" TR ➤SiNEMA ",TR | MOVIESMART PREMIUM HD
+http://8kstream.uk:8080/rtn2517/rt00/76297
+#EXTINF:-1 tvg-id="" tvg-name="TR | MOVIESMART PREMIUM 2 HD" tvg-logo="http:..." group-title=" TR ➤SiNEMA ",TR | MOVIESMART PREMIUM 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/76298
+#EXTINF:-1 tvg-id="" tvg-name="TR | MOVIESMART CLASSIC HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.CLASSIC.png" group-title=" TR ➤SiNEMA ",TR | MOVIESMART CLASSIC HD
+http://8kstream.uk:8080/rtn2517/rt00/76299
+#EXTINF:-1 tvg-id="" tvg-name="TR | DIZISMART PREMIUM HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/MOVIE.SMART.PREMIUM.png" group-title=" TR ➤SiNEMA ",TR | DIZISMART PREMIUM HD
+http://8kstream.uk:8080/rtn2517/rt00/76300
+#EXTINF:-1 tvg-id="" tvg-name="TR | DIZI SMART MAX HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/DIZI.SMART.MAX.png" group-title=" TR ➤SiNEMA ",TR | DIZI SMART MAX HD
+http://8kstream.uk:8080/rtn2517/rt00/76301
+#EXTINF:-1 tvg-id="" tvg-name="TR | SiNEMA TV YERLi HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.YERLI.png" group-title=" TR ➤SiNEMA ",TR | SiNEMA TV YERLi HD
+http://8kstream.uk:8080/rtn2517/rt00/76304
+#EXTINF:-1 tvg-id="" tvg-name="TR | SiNEMA TV 1001 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.1001.png" group-title=" TR ➤SiNEMA ",TR | SiNEMA TV 1001 HD
+http://8kstream.uk:8080/rtn2517/rt00/76305
+#EXTINF:-1 tvg-id="" tvg-name="TR | SiNEMA TV AiLE HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.AILE.png" group-title=" TR ➤SiNEMA ",TR | SiNEMA TV AiLE HD
+http://8kstream.uk:8080/rtn2517/rt00/76306
+#EXTINF:-1 tvg-id="" tvg-name="TR | SiNEMA TV AKSiYON HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.AKSIYON.png" group-title=" TR ➤SiNEMA ",TR | SiNEMA TV AKSiYON HD
+http://8kstream.uk:8080/rtn2517/rt00/76307
+#EXTINF:-1 tvg-id="" tvg-name="TR | SiNEMA TV HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.png" group-title=" TR ➤SiNEMA ",TR | SiNEMA TV HD
+http://8kstream.uk:8080/rtn2517/rt00/76308
+#EXTINF:-1 tvg-id="" tvg-name="TR | SINEMA TV AKSIYON 2 HD" tvg-logo="http:..." group-title=" TR ➤SiNEMA ",TR | SINEMA TV AKSIYON 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/76309
+#EXTINF:-1 tvg-id="" tvg-name="TR | SINEMA TV 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.2.png" group-title=" TR ➤SiNEMA ",TR | SINEMA TV 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/76310
+#EXTINF:-1 tvg-id="" tvg-name="TR | SINEMA TV KOMEDI HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.KOMEDI.png" group-title=" TR ➤SiNEMA ",TR | SINEMA TV KOMEDI HD
+http://8kstream.uk:8080/rtn2517/rt00/76311
+#EXTINF:-1 tvg-id="" tvg-name="TR | SINEMA TV 1002 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/BEIN.DSMART/HD/SINEMA.TV.1002.png" group-title=" TR ➤SiNEMA ",TR | SINEMA TV 1002 HD
+http://8kstream.uk:8080/rtn2517/rt00/76312
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX SENER SEN" tvg-logo="https://i.imgur.com/aTs860O.png" group-title=" TR ➤SiNEMA ",TR: FILMBOX SENER SEN
+http://8kstream.uk:8080/rtn2517/rt00/76314
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Yesilcam" tvg-logo="" group-title=" TR ➤SiNEMA ",TR: FILMAX Yesilcam
+http://8kstream.uk:8080/rtn2517/rt00/76315
+#EXTINF:-1 tvg-id="" tvg-name="TR: FILMAX Kemal Sunal" tvg-logo="" group-title=" TR ➤SiNEMA ",TR: FILMAX Kemal Sunal
+http://8kstream.uk:8080/rtn2517/rt00/76316
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yesilcam Sinema HD" tvg-logo="https://www.rizedeyiz.com/Arsiv/Icerik/2011/07/12/Resim_1310480030.jpg" group-title=" TR ➤SiNEMA ",TR: Yesilcam Sinema HD
+http://8kstream.uk:8080/rtn2517/rt00/76317
 
 ------------SİNEMA TV------------------------
 
@@ -4368,8 +4947,184 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/134368.ts
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/97610.ts
 #EXTINF:11, SHOW PULUS TV 
 https://ssh101.bozztv.com/ssh101/showplus/chunks.m3u8
+--------------------SPOR EURU LİNK------------------
 
-***** TURK SPOR *****
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 8K Xsport" tvg-logo="https://png.pngtree.com/png-clipart/20221212/ourmid/pngtree-k-ultra-hd-button-transparent-video-size-resolution-icon-label-free-png-image_6521541.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 8K Xsport
+http://8kstream.uk:8080/rtn2517/rt00/58610
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 4K Xsport" tvg-logo="https://w7.pngwing.com/pngs/481/439/png-transparent-yellow-4k-4k-resolution-ultra-high-definition-television-resolution-1080p-a-miscellaneous-television-angle.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 4K Xsport
+http://8kstream.uk:8080/rtn2517/rt00/58611
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-1" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-1
+http://8kstream.uk:8080/rtn2517/rt00/58612
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-2" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-2
+http://8kstream.uk:8080/rtn2517/rt00/58613
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-3" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-3
+http://8kstream.uk:8080/rtn2517/rt00/58614
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-4" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-4
+http://8kstream.uk:8080/rtn2517/rt00/58615
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-5" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-5
+http://8kstream.uk:8080/rtn2517/rt00/58616
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-6" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-6
+http://8kstream.uk:8080/rtn2517/rt00/58617
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-7" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-7
+http://8kstream.uk:8080/rtn2517/rt00/58618
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-8" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-8
+http://8kstream.uk:8080/rtn2517/rt00/58619
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-9" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-9
+http://8kstream.uk:8080/rtn2517/rt00/58620
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-10" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-10
+http://8kstream.uk:8080/rtn2517/rt00/58621
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-11" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-11
+http://8kstream.uk:8080/rtn2517/rt00/58623
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-12" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-12
+http://8kstream.uk:8080/rtn2517/rt00/58624
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 1 Xsport-13" tvg-logo="https://i.ibb.co/gDB11NP/be-in-tr-sports-01-hd.png" group-title="TR ➤ B Sports",TR: Bein Sport 1 Xsport-13
+http://8kstream.uk:8080/rtn2517/rt00/58625
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein Sport 2 8K" tvg-logo="https://png.pngtree.com/png-clipart/20221212/ourmid/pngtree-k-ultra-hd-button-transparent-video-size-resolution-icon-label-free-png-image_6521541.png" group-title="TR ➤ B Sports",TR: Bein Sport 2 8K
+http://8kstream.uk:8080/rtn2517/rt00/58626
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 2 HD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR ➤ B Sports",TR: Bein SPORTS 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/58627
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 2 UHD" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR ➤ B Sports",TR: Bein SPORTS 2 UHD
+http://8kstream.uk:8080/rtn2517/rt00/58628
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 2 (Yedek)" tvg-logo="https://i.ibb.co/2nFhKs8/be-in-tr-sports-02-hd.png" group-title="TR ➤ B Sports",TR: Bein SPORTS 2 (Yedek)
+http://8kstream.uk:8080/rtn2517/rt00/58629
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORT 3 8K" tvg-logo="https://png.pngtree.com/png-clipart/20221212/ourmid/pngtree-k-ultra-hd-button-transparent-video-size-resolution-icon-label-free-png-image_6521541.png" group-title="TR ➤ B Sports",TR: BEIN SPORT 3 8K
+http://8kstream.uk:8080/rtn2517/rt00/58630
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 3 HD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="TR ➤ B Sports",TR: Bein SPORTS 3 HD
+http://8kstream.uk:8080/rtn2517/rt00/58631
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 3 UHD" tvg-logo="https://i.ibb.co/FxT4x1P/be-in-tr-sports-03-hd.png" group-title="TR ➤ B Sports",TR: Bein SPORTS 3 UHD
+http://8kstream.uk:8080/rtn2517/rt00/58632
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bein SPORTS 4 HD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="TR ➤ B Sports",TR: Bein SPORTS 4 HD
+http://8kstream.uk:8080/rtn2517/rt00/58633
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 4 UHD" tvg-logo="https://i.ibb.co/2k7RV8S/be-in-tr-sports-04-hd.png" group-title="TR ➤ B Sports",TR: beIN SPORTS 4 UHD
+http://8kstream.uk:8080/rtn2517/rt00/58634
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 HD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR ➤ B Sports",TR: beIN SPORTS 5 HD
+http://8kstream.uk:8080/rtn2517/rt00/58635
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS 5 UHD" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="TR ➤ B Sports",TR: beIN SPORTS 5 UHD
+http://8kstream.uk:8080/rtn2517/rt00/58636
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 1 UHD" tvg-logo="https://i.ibb.co/hLm58rM/bein-sports-max-1-qa-tr.png" group-title="TR ➤ B Sports",TR: beIN SPORTS MAX 1 UHD
+http://8kstream.uk:8080/rtn2517/rt00/58637
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS MAX 2 UHD" tvg-logo="https://i.ibb.co/Nn04gp5/bein-sports-max-2-qa-tr.png" group-title="TR ➤ B Sports",TR: beIN SPORTS MAX 2 UHD
+http://8kstream.uk:8080/rtn2517/rt00/58638
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN SPORTS HABER HD" tvg-logo="https://i.ibb.co/sbpWcfv/bein-sports-haber-qa-tr.png" group-title="TR ➤ B Sports",TR: beIN SPORTS HABER HD
+http://8kstream.uk:8080/rtn2517/rt00/58639
+#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT PLUS" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/FHD/S.SPORT.png" group-title="TR ➤S Sports ",TR | S-SPORT PLUS
+http://8kstream.uk:8080/rtn2517/rt00/57843
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT PLUS FHD" tvg-logo="https://imagizer.imageshack.com/img923/9075/E9ooBn.png" group-title="TR ➤S Sports ",TR | S SPORT PLUS FHD
+http://8kstream.uk:8080/rtn2517/rt00/57844
+#EXTINF:-1 tvg-id="" tvg-name="|TR| S SPORT HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/S.SPORT.png" group-title="TR ➤S Sports ",|TR| S SPORT HD
+http://8kstream.uk:8080/rtn2517/rt00/57856
+#EXTINF:-1 tvg-id="" tvg-name="TR | S Sport PLUS HD" tvg-logo="https://imagizer.imageshack.com/img924/7016/6oFcMZ.png" group-title="TR ➤S Sports ",TR | S Sport PLUS HD
+http://8kstream.uk:8080/rtn2517/rt00/57845
+#EXTINF:-1 tvg-id="" tvg-name="TR| S-SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="TR ➤S Sports ",TR| S-SPORT 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/57884
+#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="TR ➤S Sports ",TR | S-SPORT 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/57846
+#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT 2 FHD" tvg-logo="https://imagizer.imageshack.com/img922/2875/6kFCuk.png" group-title="TR ➤S Sports ",TR | S-SPORT 2 FHD
+http://8kstream.uk:8080/rtn2517/rt00/57847
+#EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT 2 FHD" tvg-logo="https://imagizer.imageshack.com/img924/5886/XSbQZC.png" group-title="TR ➤S Sports ",TR | S SPORT 2 FHD
+http://8kstream.uk:8080/rtn2517/rt00/57848
+#EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT 2 HD" tvg-logo="https://imagizer.imageshack.com/img924/2981/xvXCNE.png" group-title="TR ➤S Sports ",TR | S-SPORT 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/57849
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+4 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/9936/9OFIu4.png" group-title="TR ➤S Sports ",TR: S Sport+4 Mac Saati
+http://8kstream.uk:8080/rtn2517/rt00/57853
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+5 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/1665/66YDyr.png" group-title="TR ➤S Sports ",TR: S Sport+5 Mac Saati
+http://8kstream.uk:8080/rtn2517/rt00/57854
+#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT + 6 Mac Saati" tvg-logo="https://imagizer.imageshack.com/img923/8083/AzUJ2W.png" group-title="TR ➤S Sports ",TR: S SPORT + 6 Mac Saati
+http://8kstream.uk:8080/rtn2517/rt00/57855
+#EXTINF:-1 tvg-id="" tvg-name="TR | SPOR SMART FHD" tvg-logo="http://logo.superbtv.online/Logo/TR/SARAN.S.SPORTS/FHD/SPOR.SMART.png" group-title="TR ➤ D-Smart Sports",TR | SPOR SMART FHD
+http://8kstream.uk:8080/rtn2517/rt00/57857
+#EXTINF:-1 tvg-id="" tvg-name="TR | SPOR SMART HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/SPOR.SMART.png" group-title="TR ➤ D-Smart Sports",TR | SPOR SMART HD
+http://8kstream.uk:8080/rtn2517/rt00/57858
+#EXTINF:-1 tvg-id="" tvg-name="TR | SPOR SMART 2 HD+" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/SPOR.SMART.2.png" group-title="TR ➤ D-Smart Sports",TR | SPOR SMART 2 HD+
+http://8kstream.uk:8080/rtn2517/rt00/57859
+#EXTINF:-1 tvg-id="" tvg-name="TR | SPOR SMART 2 HD+" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/SPOR.SMART.2.png" group-title="TR ➤ D-Smart Sports",TR | SPOR SMART 2 HD+
+http://8kstream.uk:8080/rtn2517/rt00/57860
+#EXTINF:-1 tvg-id="" tvg-name="TR: SPOR SMART 2 [](maçta açık,)" tvg-logo="" group-title="TR ➤ D-Smart Sports",TR: SPOR SMART 2 [](maçta açık,)
+http://8kstream.uk:8080/rtn2517/rt00/57861
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 1 FHD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/FHD/TIVIBU.SPOR.1.png" group-title="TR ➤ Tivibu Sports",TR | TIVIBUSPOR 1 FHD
+http://8kstream.uk:8080/rtn2517/rt00/57862
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 1 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/FHD/TIVIBU.SPOR.1.png" group-title="TR ➤ Tivibu Sports",TR | TIVIBUSPOR 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/57863
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 2 FHD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/FHD/TIVIBU.SPOR.2.png" group-title="TR ➤ Tivibu Sports",TR | TIVIBUSPOR 2 FHD
+http://8kstream.uk:8080/rtn2517/rt00/57864
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 2 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/TIVIBU.SPOR.2.png" group-title="TR ➤ Tivibu Sports",TR | TIVIBUSPOR 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/57865
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 3 FHD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/FHD/TIVIBU.SPOR.3.png" group-title="TR ➤ Tivibu Sports",TR | TIVIBUSPOR 3 FHD
+http://8kstream.uk:8080/rtn2517/rt00/57866
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 3 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/TIVIBU.SPOR.3.png" group-title="TR ➤ Tivibu Sports",TR | TIVIBUSPOR 3 HD
+http://8kstream.uk:8080/rtn2517/rt00/57867
+#EXTINF:-1 tvg-id="" tvg-name="TR | TIVIBUSPOR 4 HD" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/HD/TIVIBU.SPOR.4.png" group-title="TR ➤ Tivibu Sports",TR | TIVIBUSPOR 4 HD
+http://8kstream.uk:8080/rtn2517/rt00/57868
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 FHD (MAC SAATI)" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 1 FHD (MAC SAATI)
+http://8kstream.uk:8080/rtn2517/rt00/70226
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 FHD (MAC SAATI)" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 2 FHD (MAC SAATI)
+http://8kstream.uk:8080/rtn2517/rt00/70227
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 FHD (MAC SAATI)" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 3 FHD (MAC SAATI)
+http://8kstream.uk:8080/rtn2517/rt00/70228
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 1 HD (MAC SAATI)" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 1 HD (MAC SAATI)
+http://8kstream.uk:8080/rtn2517/rt00/70229
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 2 HD (MAC SAATI)" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 2 HD (MAC SAATI)
+http://8kstream.uk:8080/rtn2517/rt00/70230
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 3 HD (MAC SAATI)" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 3 HD (MAC SAATI)
+http://8kstream.uk:8080/rtn2517/rt00/70231
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 HD" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 4 HD
+http://8kstream.uk:8080/rtn2517/rt00/70232
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 4 FHD" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 4 FHD
+http://8kstream.uk:8080/rtn2517/rt00/70233
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 HD" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 5 HD
+http://8kstream.uk:8080/rtn2517/rt00/70234
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 5 FHD" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 5 FHD
+http://8kstream.uk:8080/rtn2517/rt00/70235
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 HD" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 6 HD
+http://8kstream.uk:8080/rtn2517/rt00/70236
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 6 FHD" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 6 FHD
+http://8kstream.uk:8080/rtn2517/rt00/70237
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 HD" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 7 HD
+http://8kstream.uk:8080/rtn2517/rt00/70238
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 7 FHD" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 7 FHD
+http://8kstream.uk:8080/rtn2517/rt00/70239
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 HD" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 8 HD
+http://8kstream.uk:8080/rtn2517/rt00/70240
+#EXTINF:-1 tvg-id="" tvg-name="TR: EXXEN SPORT 8 FHD" tvg-logo="" group-title="TR ➤ Exxen Sports",TR: EXXEN SPORT 8 FHD
+http://8kstream.uk:8080/rtn2517/rt00/70241
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD+" tvg-logo="https://imagizer.imageshack.com/img924/593/i6XR1S.png" group-title="TR ➤ Diğer Spor Kanalları",TR: NBA TV HD+
+http://8kstream.uk:8080/rtn2517/rt00/57870
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="https://imagizer.imageshack.com/img924/6655/QWR0O4.png" group-title="TR ➤ Diğer Spor Kanalları",TR: NBA TV HD
+http://8kstream.uk:8080/rtn2517/rt00/57871
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD+" tvg-logo="https://imagizer.imageshack.com/img924/8126/A94YQF.png" group-title="TR ➤ Diğer Spor Kanalları",TR: TRT SPOR HD+
+http://8kstream.uk:8080/rtn2517/rt00/57872
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo="https://imagizer.imageshack.com/img924/1395/9nci21.png" group-title="TR ➤ Diğer Spor Kanalları",TR: TRT SPOR HD
+http://8kstream.uk:8080/rtn2517/rt00/57873
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD+" tvg-logo="https://imagizer.imageshack.com/img922/3413/0BgyiY.png" group-title="TR ➤ Diğer Spor Kanalları",TR: TRT SPOR YILDIZ HD+
+http://8kstream.uk:8080/rtn2517/rt00/57874
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR YILDIZ HD" tvg-logo="https://imagizer.imageshack.com/img922/3852/AffC2x.png" group-title="TR ➤ Diğer Spor Kanalları",TR: TRT SPOR YILDIZ HD
+http://8kstream.uk:8080/rtn2517/rt00/57875
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 3 SPOR" tvg-logo="https://imagizer.imageshack.com/img924/4729/PFzmr0.png" group-title="TR ➤ Diğer Spor Kanalları",TR: TRT 3 SPOR
+http://8kstream.uk:8080/rtn2517/rt00/57876
+#EXTINF:-1 tvg-id="" tvg-name="TR: EUROSPORT 2 HD+" tvg-logo="https://imagizer.imageshack.com/img924/1492/NzipQS.png" group-title="TR ➤ D-Smart Sports",TR: EUROSPORT 2 HD+
+http://8kstream.uk:8080/rtn2517/rt00/57877
+#EXTINF:-1 tvg-id="" tvg-name="TR: GS TV HD" tvg-logo="https://imagizer.imageshack.com/img924/9840/33pFx2.png" group-title="TR ➤ Diğer Spor Kanalları",TR: GS TV HD
+http://8kstream.uk:8080/rtn2517/rt00/57878
+#EXTINF:-1 tvg-id="" tvg-name="TR: TJK TV HD" tvg-logo="https://imagizer.imageshack.com/img924/5153/2SIAyq.png" group-title="TR ➤ Diğer Spor Kanalları",TR: TJK TV HD
+http://8kstream.uk:8080/rtn2517/rt00/57879
+#EXTINF:-1 tvg-id="" tvg-name="TR| EURO SPORT 1 HD" tvg-logo="https://imagizer.imageshack.com/img922/380/5GQN4t.png" group-title="TR ➤ D-Smart Sports",TR| EURO SPORT 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/57882
+#EXTINF:-1 tvg-id="" tvg-name="TR| SPORT SMART 1 HD" tvg-logo="" group-title="TR ➤ D-Smart Sports",TR| SPORT SMART 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/57883
+#EXTINF:-1 tvg-id="" tvg-name="TR| TRT SPOR 1 HD" tvg-logo="https://imagizer.imageshack.com/img924/1395/9nci21.png" group-title="TR ➤ Diğer Spor Kanalları",TR| TRT SPOR 1 HD
+http://8kstream.uk:8080/rtn2517/rt00/57886
+#EXTINF:-1 tvg-id="" tvg-name="TR| TRT SPOR 2 HD" tvg-logo="" group-title="TR ➤ Diğer Spor Kanalları",TR| TRT SPOR 2 HD
+http://8kstream.uk:8080/rtn2517/rt00/57887
+#EXTINF:-1 tvg-id="" tvg-name="TR| TRT SPOR YILDIZ HD" tvg-logo="https://imagizer.imageshack.com/img922/3852/AffC2x.png" group-title="TR ➤ Diğer Spor Kanalları",TR| TRT SPOR YILDIZ HD
+http://8kstream.uk:8080/rtn2517/rt00/57888
+#EXTINF:-1 tvg-id="" tvg-name="A SPOR HD+" tvg-logo="https://imagizer.imageshack.com/img924/370/IdV9sw.png" group-title="TR ➤ Diğer Spor Kanalları",A SPOR HD+
+http://8kstream.uk:8080/rtn2517/rt00/57869
+#EXTINF:-1 tvg-id="" tvg-name="TR| A SPOR HD" tvg-logo="https://imagizer.imageshack.com/img924/8193/cyFBDf.png" group-title="TR ➤ Diğer Spor Kanalları",TR| A SPOR HD
+http://8kstream.uk:8080/rtn2517/rt00/57889
+#EXTINF:-1 tvg-id="" tvg-name="TR| FB TV HD" tvg-logo="https://imagizer.imageshack.com/img922/6193/pFr1XN.png" group-title="TR ➤ Diğer Spor Kanalları",TR| FB TV HD
+http://8kstream.uk:8080/rtn2517/rt00/57890
+
+----***** TURK SPOR *****-----------------------------
 #EXTINF:-1 tvg-id="" tvg-name="TR | S-SPORT PLUS" tvg-logo="http://logo.gulatv.xyz/Logo/TR/SARAN.S.SPORTS/FHD/S.SPORT.png" group-title="TR ➤SPORT ",TR | S-SPORT PLUS
 http://8kstream.uk:8080/rtn2517/rt00/57843
 #EXTINF:-1 tvg-id="" tvg-name="TR | S SPORT PLUS FHD" tvg-logo="https://imagizer.imageshack.com/img923/9075/E9ooBn.png" group-title="TR ➤SPORT ",TR | S SPORT PLUS FHD
