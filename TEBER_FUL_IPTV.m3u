@@ -138,14 +138,8 @@ http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/40
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 28 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 27 HD
 http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/41
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 1 ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.01.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: KEMAL SUNAL 28 ʜᴅ
-http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6594.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 2 ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.02.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: KEMAL SUNAL 29 ʜᴅ
-http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6595.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 3 ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.03.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: KEMAL SUNAL 30 ʜᴅ
-http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6596.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TR: ZEKİ METİN ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/ZEKI.ILE.METIN.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: ZEKİ METİN ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6610.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KOMEDİ TV" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KOMEDI TV 
 http://8kstream.uk:8080/rtn2517/rt00/58662
@@ -450,8 +444,6 @@ http://livestream.zazerconer.workers.dev/channel/UCxVicskgBc8OD66iLKc7Uaw.m3u8
 http://5.9.136.157/cantv24/cantv24/playlist.m3u8
 
 ------------SİNEMA TV------------------------
-#EXTINF:-1 tvg-id="" tvg-name="✦ ✦YEŞİLÇAM✦✦" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/KATAGORI.png" group-title="TR ✦ 7/24 YEŞİLÇAM",✦ ✦YEŞİLÇAM✦✦
-http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6593.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: CÜNEYT ARKIN  ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/CUNEYT.ARKIN.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: CÜNEYT ARKIN  ʜᴅ
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6597.m3u
@@ -479,8 +471,7 @@ http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6607.m3u
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6608.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TR: YILMAZ GÜNEY ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/YILMA.GUNEY.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: YILMAZ GÜNEY ʜᴅ
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6609.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TR: ZEKİ METİN ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/ZEKI.ILE.METIN.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: ZEKİ METİN ʜᴅ
-http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6610.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: KÜÇÜK EMRAH ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/KUCUK.EMRAH.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: KÜÇÜK EMRAH ʜᴅ
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6611.m3u
 #EXTINF:-1 tvg-id="" tvg-name="TR: HABAMAM SINIFI ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/HABABAM.SINIFI.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: HABAMAM SINIFI ʜᴅ
