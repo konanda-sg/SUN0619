@@ -124,29 +124,6 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116694.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 3 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/679aa971a43c4ce652ca217425a7f862.png" group-title="TR - Turkish TV",TR: Kemal Sunal 23
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116660.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 24 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 1 HD
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/37
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 25 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 24 HD
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/38
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 26 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 25 HD
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/39
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 27 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 26 HD
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/40
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 28 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 27 HD
-http://aca3b.tk:8080/stremlocal1047/vcEaxAXDeawp/41
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABABAM SINIFI" tvg-logo="" group-title="TR ➤SİNEMA ViP",Kemal Sunal 28 : HABABAM SINIFI 
-http://8kstream.uk:8080/rtn2517/rt00/58708
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL HD" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL 29 HD
-http://8kstream.uk:8080/rtn2517/rt00/58709
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: ZEKİ METİN ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/ZEKI.ILE.METIN.png" group-title="TR ✦ 7/24 YEŞİLÇAM",TR: ZEKİ METİN ʜᴅ
-http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6610.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KOMEDİ TV" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KOMEDI TV 
 http://8kstream.uk:8080/rtn2517/rt00/58662
@@ -210,33 +187,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="MELTEMTV.tr" tvg-name="MELTEM_TV_HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/MELTEM.TV.png" group-title="TURK ULUSAL",MELTEM TV HD
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-
-#EXTINF:-1,TR: BABALA TV
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185041
-
-#EXTINF:-13,RIZE TÜRK
-https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-
-#EXTINF:-1,TARIH TV
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/90994
-
-#EXTINF:-1,NAT GEO WILD HD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/131
-
-#EXTINF:-1,ANIMAUX HD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9245
-
-#EXTINF:-1,LOVE NATURE HD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/16841
-
-#EXTINF:-1,HABITAT TV HD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/34068
-
-#EXTINF:-1,DA VINCI HD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/16914
-
-#EXTINF:-1,YABAN TV HD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/118
 
 #EXTINF:-1,A52 TV
 http://tv56245.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
@@ -336,6 +286,33 @@ http://143951.iptvone.eu:80/movie/ErcinSoysal/27BQ1HdQ74/227067.mkv
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
 http://canli.haber365.com.tr/tr/startv/index.m3u8
+
+#EXTINF:-1,TR: BABALA TV
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185041
+
+#EXTINF:-13,RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:-1,TARIH TV
+http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/90994
+
+#EXTINF:-1,NAT GEO WILD HD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/131
+
+#EXTINF:-1,ANIMAUX HD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9245
+
+#EXTINF:-1,LOVE NATURE HD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/16841
+
+#EXTINF:-1,HABITAT TV HD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/34068
+
+#EXTINF:-1,DA VINCI HD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/16914
+
+#EXTINF:-1,YABAN TV HD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/118
 
 --------------ULUSAL LİNK------------------------
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 4K
