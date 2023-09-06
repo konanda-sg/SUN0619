@@ -15145,7 +15145,72 @@ http://8kstream.uk:8080/rtn2517/rt00/72320
 
 #EXTINF: -1 group-title="YANSIMA MEDYA",RADYO YANSIMA-1
 http://95.173.162.181:9912/;
+
+#EXTINF:-1,Karadeniz Türk
+https://radyo.yayin.com.tr:6134/;
+
+#EXTINF:-1,Slow Karadeniz Fm
+https://dinle.slowkaradenizfm.com:9578/;
+
+#EXTINF:-1,06 FM Arabesk
+http://radyomarabesk.kesintisizyayin.com:9968/stream?type=http&nocache=20866
+
+#EXTINF:-1,Ankara Havalari
+http://37.247.98.8/stream/30/;
+
+#EXTINF:-1,ANTAKYA RADYO RENK TURKEY
+http://yayin1.yayindakiler.com:3016/renk
+
+#EXTINF:-1,Arabesk Radyo
+http://dinle.arabeskradyo.biz:2011/;stream.mp3
+
+#EXTINF:-1,BAYRAM FM TURKEY
+https://sslyayin.netyayin.net/3442/stream
+
+#EXTINF:-1,DamarTurk FM
+https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881
+
+#EXTINF:-1,Diyarbakır Can Radyo
+http://yayin1.yayindakiler.com:2028/;
+
+#EXTINF:-1,EGE HAVALARI TURKEY
+https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+
+#EXTINF:-1,FENOMEN TÜRK
+https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
+
+#EXTINF:-1,HAKKARİ FM TURKEY
+https://radyo.slmbilisim.net/8004/stream
+
+#EXTINF:-1,Kral FM
+http://46.20.3.204/
+
+#EXTINF:-1,KRAL TÜRK FM
+https://live.radyositesihazir.com/8032/stream
+
+#EXTINF:-1,Mamaş FM Arabesk
+https://arabesk.mamasfm.com:3500/stream.mp3
+
+#EXTINF:-1,Radyo Turkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+
+#EXTINF:-1,Radyo Vatan Türkü
+http://95.0.173.195:9000/turku
+
+#EXTINF:-1,TRT TÜRKÜ
+https://nmicenotrt.mediatriple.net/trt_turku.aac
+
+#EXTINF:-1,Turkuaz Anadolu
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/playlist.m3u8
+
+#EXTINF:-1,Turkuvaz Musiki
+https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
+
+#EXTINF:-1,Türkü Radyo
+https://mamasfm.com:9984/stream.mp
+
 #EXTINF: -1 group-title="YANSIMA MEDYA",RADYO YANSIMA-2
 http://iptvh.it/Radyoyansima
+
 #EXTINF: -1 group-title="YANSIMA MEDYA",RADYO YANSIMA-3
 http://iptvh.it/Radyoyansima1
