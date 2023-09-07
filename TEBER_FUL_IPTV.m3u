@@ -124,6 +124,11 @@ http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116694.ts
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 3 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/679aa971a43c4ce652ca217425a7f862.png" group-title="TR - Turkish TV",TR: Kemal Sunal 23
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116660.ts
 
+#EXTINF:98, DÜZGÜN TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
+
+#EXTINF:1,SKY HABER TV HD
+https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KOMEDİ TV" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KOMEDI TV 
 http://8kstream.uk:8080/rtn2517/rt00/58662
@@ -143,6 +148,9 @@ https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 #EXTINF:1,TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
+#EXTINF:1,GÜNAYDIN TV
+https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
+
 #EXTINF:1, OA TV HD
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
 
@@ -158,10 +166,7 @@ http://145.239.58.133:28008/kanalg/kanalg/playlist.m3u8
 #EXTINF:1,Exxen TV
 http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/232446
 
-#EXTINF:1,KRAL BOX TV
-https://film.ozelip.com:3344/stream/play.m3u8
-
-#EXTINF:-1,PROTURK 4K ULTRA HD
+#EXTINF:-1,TURK BOX HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20778
 
 #EXTINF:-1,TRT 1 HD
@@ -182,17 +187,11 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL 7 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT6 BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1,BEYAZ TV 
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-
 #EXTINF:-1 tvg-id="MELTEMTV.tr" tvg-name="MELTEM_TV_HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/MELTEM.TV.png" group-title="TURK ULUSAL",MELTEM TV HD
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
 #EXTINF:-1,A52 TV
 http://tv56245.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
-
-#EXTINF:98, DÜZGÜN TV
-http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
 #EXTINF:97,AKTİF TV
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
@@ -209,18 +208,11 @@ https://is.gd/NdDhgK.m3u8
 #EXTINF:-1,TR:DİZİ TV
 https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
 
-#EXTINF:1,GÜNAYDIN TV
-https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
-
-#EXTINF:1,SKY HABER TV HD
-https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
-
 #EXTINF:-1,TR:BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
 #EXTINF:99, KANAL ADA TV
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
-
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -267,8 +259,8 @@ http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89118
 #EXTINF:-1,TV 360 FHD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
-#EXTINF:-1,BEYAZ TV HD
-http://ders.site:8080/garibua10/JHEWh7WFvv/101505
+#EXTINF:-1,BEYAZ TV 
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
 #EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
@@ -314,7 +306,7 @@ http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/16914
 #EXTINF:-1,YABAN TV HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/118
 
---------------ULUSAL LİNK------------------------
+------------4K--ULUSAL LİNK------------------------
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 4K
 http://8kstream.uk:8080/rtn2517/rt00/70066
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 UHD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 1 UHD
@@ -375,6 +367,8 @@ http://8kstream.uk:8080/rtn2517/rt00/70094
 http://8kstream.uk:8080/rtn2517/rt00/70095
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1 HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 1 HD
 http://8kstream.uk:8080/rtn2517/rt00/70096
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 4K" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 2 4K
+http://8kstream.uk:8080/rtn2517/rt00/70102
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 7 AVRUPA" tvg-logo="" group-title="TR ➤ULUSAL ",TR: KANAL 7 AVRUPA
 http://8kstream.uk:8080/rtn2517/rt00/70097
 #EXTINF:-1 tvg-id="" tvg-name="TR: A2 HD" tvg-logo="" group-title="TR ➤ULUSAL ",TR: A2 HD
@@ -393,10 +387,9 @@ http://8kstream.uk:8080/rtn2517/rt00/58660
 http://8kstream.uk:8080/rtn2517/rt00/76313
 #EXTINF:-1 tvg-id="" tvg-name="TR: FX HD+" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: FX HD+
 http://8kstream.uk:8080/rtn2517/rt00/58659
+
 #EXTINF:-1 tvg-id="" tvg-name="### TR: 4K KANALLAR ###" tvg-logo="" group-title="TR ➤ULUSAL ",### TR: 4K KANALLAR ###
 http://8kstream.uk:8080/rtn2517/rt00/70101
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2 4K" tvg-logo="" group-title="TR ➤ULUSAL ",TR: TRT 2 4K
-http://8kstream.uk:8080/rtn2517/rt00/70102
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER HD" tvg-logo="" group-title="TR ➤HABER ",TR: TRT HABER HD
 http://8kstream.uk:8080/rtn2517/rt00/69994
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT HABER UHD" tvg-logo="" group-title="TR ➤HABER ",TR: TRT HABER UHD
@@ -447,29 +440,24 @@ http://8kstream.uk:8080/rtn2517/rt00/70016
 http://8kstream.uk:8080/rtn2517/rt00/70017
 #EXTINF:-1 tvg-id="" tvg-name="TR: A PARA HD" tvg-logo="" group-title="TR ➤HABER ",TR: A PARA HD
 http://8kstream.uk:8080/rtn2517/rt00/70018
-#EXTINF:-1 tvg-id="" tvg-name="TR: A NEWS HD" tvg-logo="" group-title="TR ➤HABER ",TR: A NEWS HD
-http://8kstream.uk:8080/rtn2517/rt00/70019
 #EXTINF:-1 tvg-id="" tvg-name="TR: NTV +" tvg-logo="" group-title="TR ➤HABER ",TR: NTV +
 http://8kstream.uk:8080/rtn2517/rt00/70020
-#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU SZC TV HD" tvg-logo="" group-title="TR ➤HABER ",TR: SOZCU SZC TV HD
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU SZC TV HD" tvg-logo="" group-title="TR ➤HABER ",SZC TV HD
 http://8kstream.uk:8080/rtn2517/rt00/70021
-------------YERELTV---EROLİNK------------
-#EXTINF:-1 tvg-id="" tvg-name="###TR: YEREL###" tvg-logo="" group-title="TR ➤Yerel",###TR: YEREL###
-http://8kstream.uk:8080/rtn2517/rt00/70103
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU SZC TV" tvg-logo="" group-title="TR ➤Yerel",SZC TV FHD
+http://8kstream.uk:8080/rtn2517/rt00/70110
+
+------------TR: YEREL---EROLİNK------------
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: YOL TV" tvg-logo="" group-title="TR ➤Yerel",TR: YOL TV
 http://8kstream.uk:8080/rtn2517/rt00/70104
 #EXTINF:-1 tvg-id="" tvg-name="TR: CAN TV" tvg-logo="" group-title="TR ➤Yerel",TR: CAN TV
 http://8kstream.uk:8080/rtn2517/rt00/70105
-#EXTINF:-1 tvg-id="" tvg-name="TR: IBB TV" tvg-logo="" group-title="TR ➤Yerel",TR: IBB TV
-http://8kstream.uk:8080/rtn2517/rt00/70106
 #EXTINF:-1 tvg-id="" tvg-name="TR: ALTAS TV" tvg-logo="" group-title="TR ➤Yerel",TR: ALTAS TV
 http://8kstream.uk:8080/rtn2517/rt00/70107
-#EXTINF:-1 tvg-id="" tvg-name="TR: AKILLI TV" tvg-logo="" group-title="TR ➤Yerel",TR: AKILLI TV
-http://8kstream.uk:8080/rtn2517/rt00/70108
 #EXTINF:-1 tvg-id="" tvg-name="TR: CAY TV" tvg-logo="" group-title="TR ➤Yerel",TR: CAY TV
 http://8kstream.uk:8080/rtn2517/rt00/70109
-#EXTINF:-1 tvg-id="" tvg-name="TR: SOZCU SZC TV" tvg-logo="" group-title="TR ➤Yerel",TR: SOZCU SZC TV
-http://8kstream.uk:8080/rtn2517/rt00/70110
 #EXTINF:-1 tvg-id="" tvg-name="TR: ES TV" tvg-logo="" group-title="TR ➤Yerel",TR: ES TV
 http://8kstream.uk:8080/rtn2517/rt00/70111
 #EXTINF:-1 tvg-id="" tvg-name="TR: GUNEYDOGU TV" tvg-logo="" group-title="TR ➤Yerel",TR: GUNEYDOGU TV
@@ -480,8 +468,6 @@ http://8kstream.uk:8080/rtn2517/rt00/70113
 http://8kstream.uk:8080/rtn2517/rt00/70114
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 23" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 23
 http://8kstream.uk:8080/rtn2517/rt00/70115
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 43" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 43
-http://8kstream.uk:8080/rtn2517/rt00/70116
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 58" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 58
 http://8kstream.uk:8080/rtn2517/rt00/70117
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL AVRUPA" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL AVRUPA
@@ -498,18 +484,10 @@ http://8kstream.uk:8080/rtn2517/rt00/70122
 http://8kstream.uk:8080/rtn2517/rt00/70123
 #EXTINF:-1 tvg-id="" tvg-name="TR: BEYKENT TV" tvg-logo="" group-title="TR ➤Yerel",TR: BEYKENT TV
 http://8kstream.uk:8080/rtn2517/rt00/70124
-#EXTINF:-1 tvg-id="" tvg-name="TR: UÇAN KUS TV" tvg-logo="" group-title="TR ➤Yerel",TR: UÇAN KUS TV
-http://8kstream.uk:8080/rtn2517/rt00/70125
-#EXTINF:-1 tvg-id="" tvg-name="TR: CEM TV" tvg-logo="" group-title="TR ➤Yerel",TR: CEM TV
-http://8kstream.uk:8080/rtn2517/rt00/70126
 #EXTINF:-1 tvg-id="" tvg-name="TR: BENGU TURK" tvg-logo="" group-title="TR ➤Yerel",TR: BENGU TURK
 http://8kstream.uk:8080/rtn2517/rt00/70127
 #EXTINF:-1 tvg-id="" tvg-name="TR: MAVI KARADENIZ UHD" tvg-logo="" group-title="TR ➤Yerel",TR: MAVI KARADENIZ UHD
 http://8kstream.uk:8080/rtn2517/rt00/70128
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT AVAZ" tvg-logo="" group-title="TR ➤Yerel",TR: TRT AVAZ
-http://8kstream.uk:8080/rtn2517/rt00/70129
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 3 TV" tvg-logo="" group-title="TR ➤Yerel",TR: Kanal 3 TV
-http://8kstream.uk:8080/rtn2517/rt00/70130
 #EXTINF:-1 tvg-id="" tvg-name="TR: ON4 TV" tvg-logo="" group-title="TR ➤Yerel",TR: ON4 TV
 http://8kstream.uk:8080/rtn2517/rt00/70131
 #EXTINF:-1 tvg-id="" tvg-name="TR: PAMUKKALE TV" tvg-logo="" group-title="TR ➤Yerel",TR: PAMUKKALE TV
@@ -520,8 +498,6 @@ http://8kstream.uk:8080/rtn2517/rt00/70133
 http://8kstream.uk:8080/rtn2517/rt00/70134
 #EXTINF:-1 tvg-id="" tvg-name="TR: TH TURKHABER" tvg-logo="" group-title="TR ➤Yerel",TR: TH TURKHABER
 http://8kstream.uk:8080/rtn2517/rt00/70135
-#EXTINF:-1 tvg-id="" tvg-name="TR: ÇAY TV RİZE" tvg-logo="" group-title="TR ➤Yerel",TR: ÇAY TV RİZE
-http://8kstream.uk:8080/rtn2517/rt00/70136
 #EXTINF:-1 tvg-id="" tvg-name="TR: KENTTÜRK TV KAYSERİ" tvg-logo="" group-title="TR ➤Yerel",TR: KENTTÜRK TV KAYSERİ
 http://8kstream.uk:8080/rtn2517/rt00/70137
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kayseri Kay TV" tvg-logo="" group-title="TR ➤Yerel",TR: Kayseri Kay TV
@@ -530,7 +506,7 @@ http://8kstream.uk:8080/rtn2517/rt00/70138
 http://8kstream.uk:8080/rtn2517/rt00/70139
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 32 ISPARTA HD" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 32 ISPARTA HD
 http://8kstream.uk:8080/rtn2517/rt00/70140
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 42 KONYA" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 42 KONYA
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 42 KONYA" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL 42 
 http://8kstream.uk:8080/rtn2517/rt00/70141
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL V ANTALYA" tvg-logo="" group-title="TR ➤Yerel",TR: KANAL V ANTALYA
 http://8kstream.uk:8080/rtn2517/rt00/70142
@@ -538,16 +514,12 @@ http://8kstream.uk:8080/rtn2517/rt00/70142
 http://8kstream.uk:8080/rtn2517/rt00/70143
 #EXTINF:-1 tvg-id="" tvg-name="TR: ADA TV" tvg-logo="" group-title="TR ➤Yerel",TR: ADA TV
 http://8kstream.uk:8080/rtn2517/rt00/70144
-#EXTINF:-1 tvg-id="" tvg-name="TR: AMBIANCE" tvg-logo="" group-title="TR ➤Yerel",TR: AMBIANCE
-http://8kstream.uk:8080/rtn2517/rt00/70145
-#EXTINF:-1 tvg-id="" tvg-name="TR: ASTV" tvg-logo="" group-title="TR ➤Yerel",TR: ASTV
+#EXTINF:-1 tvg-id="" tvg-name="TR: SUNTV" tvg-logo="" group-title="TR ➤Yerel",TR: SUN TV
 http://8kstream.uk:8080/rtn2517/rt00/70146
 #EXTINF:-1 tvg-id="" tvg-name="TR: BRT 1 HD" tvg-logo="" group-title="TR ➤Yerel",TR: BRT 1 HD
 http://8kstream.uk:8080/rtn2517/rt00/70147
 #EXTINF:-1 tvg-id="" tvg-name="TR: BRT 2 HD" tvg-logo="" group-title="TR ➤Yerel",TR: BRT 2 HD
 http://8kstream.uk:8080/rtn2517/rt00/70148
-#EXTINF:-1 tvg-id="" tvg-name="TR: BRTV B KRDNIZ" tvg-logo="" group-title="TR ➤Yerel",TR: BRTV B KRDNIZ
-http://8kstream.uk:8080/rtn2517/rt00/70149
 #EXTINF:-1 tvg-id="" tvg-name="TR: BRT 3" tvg-logo="" group-title="TR ➤Yerel",TR: BRT 3
 http://8kstream.uk:8080/rtn2517/rt00/70150
 #EXTINF:-1 tvg-id="" tvg-name="TR: DEHA TV" tvg-logo="" group-title="TR ➤Yerel",TR: DEHA TV
@@ -606,16 +578,10 @@ http://8kstream.uk:8080/rtn2517/rt00/70176
 http://8kstream.uk:8080/rtn2517/rt00/70177
 #EXTINF:-1 tvg-id="" tvg-name="TR: VIZYON 58" tvg-logo="" group-title="TR ➤Yerel",TR: VIZYON 58
 http://8kstream.uk:8080/rtn2517/rt00/70178
-#EXTINF:-1 tvg-id="" tvg-name="TR: UA TV" tvg-logo="" group-title="TR ➤Yerel",TR: UA TV
-http://8kstream.uk:8080/rtn2517/rt00/70179
 #EXTINF:-1 tvg-id="" tvg-name="TR: YENİ KOCAELİ TV" tvg-logo="" group-title="TR ➤Yerel",TR: YENİ KOCAELİ TV
 http://8kstream.uk:8080/rtn2517/rt00/70180
-#EXTINF:-1 tvg-id="" tvg-name="TR: Ekin Tv" tvg-logo="" group-title="TR ➤Yerel",TR: Ekin Tv
-http://8kstream.uk:8080/rtn2517/rt00/70181
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV 264" tvg-logo="" group-title="TR ➤Yerel",TR: TV 264
 http://8kstream.uk:8080/rtn2517/rt00/70182
-#EXTINF:-1 tvg-id="" tvg-name="TR: KRAL POP TV" tvg-logo="" group-title="TR ➤MUSIC ",TR: KRAL POP TV
-http://8kstream.uk:8080/rtn2517/rt00/70183
 #EXTINF:-1 tvg-id="" tvg-name="TR: POWER TURK" tvg-logo="" group-title="TR ➤MUSIC ",TR: POWER TURK
 http://8kstream.uk:8080/rtn2517/rt00/70184
 #EXTINF:-1 tvg-id="" tvg-name="TR: NR1 TURK TV HD" tvg-logo="" group-title="TR ➤MUSIC ",TR: NR1 TURK TV HD
