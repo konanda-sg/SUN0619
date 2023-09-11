@@ -48,6 +48,9 @@ https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks
 #EXTINF:1,TEBER CHANNEL
 https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,TR:İLKGÜN TEBER  TV
+http://tv56245.ozelip.com:2052/ilkguntv/ilkguntv/İLKGÜN_TEBER_chunklist.m3u8
+
 #EXTINF: -1 group-title="YANSIMA MEDYA",YANSIMA SİNEMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 
@@ -60,69 +63,20 @@ https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 1 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 3 4K
-http://8kstream.uk:8080/rtn2517/rt00/58735
+#EXTINF:-1,TR: BULU PLAY1
+https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 2 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 4 4K
-http://8kstream.uk:8080/rtn2517/rt00/58736
+#EXTINF:-1,TR:BULU PLAY2
+https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 4 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 5 4K
-http://8kstream.uk:8080/rtn2517/rt00/58737
+#EXTINF:-1,TR: İSTANBUL TV
+https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 5 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 6 4K
-http://8kstream.uk:8080/rtn2517/rt00/58738
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 6 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: TURKAsat KEMAL SUNAL 7 4K
-http://8kstream.uk:8080/rtn2517/rt00/58739
-
-#EXTINF:-1 tvg-i
-#EXTINF:-1,KEMAL SUNAL 8 FILMBOX
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8565
-
-#EXTINF:-1,KEMAL SUNAL 9 ARENABOX
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20070
-
-#EXTINF:-1,KEMAL SUNAL 10 GLOBAL
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20053
-
-#EXTINF:-1,KEMAL SUNAL 11 KINGBOX
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20062
-
-#EXTINF:-1,KEMAL SUNAL 12 PROTURK
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/3251
-
-#EXTINF:-1,|TR| KEMAL SUNAL TV 13
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6325
-
-#EXTINF:-1,|TR| KEMAL SUNAL TV 14
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101136
-
-#EXTINF:-1,G PLUS - KEMAL SUNAL 15
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/72278
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 1" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 16
-http://8kstream.uk:8080/rtn2517/rt00/58661
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 5" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 17
-http://8kstream.uk:8080/rtn2517/rt00/58665
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 3" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 18
-http://8kstream.uk:8080/rtn2517/rt00/58663
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL TV 4" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR: KEMAL SUNAL TV 19
-http://8kstream.uk:8080/rtn2517/rt00/58664
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/54195416221.png" group-title="TR - Turkish TV",TR: Kemal Sunal 20 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116691.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 2 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/88713823671.png" group-title="TR - Turkish TV",TR: Kemal Sunal 21 HD
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116692.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 4 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon/59510715201.png" group-title="TR - Turkish TV",TR: Kemal Sunal 22 HD
+#EXTINF:-1,TR:ETV
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116694.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 3 HD" tvg-logo="http://live.geoiptv.org:8880/channels_icon_api/679aa971a43c4ce652ca217425a7f862.png" group-title="TR - Turkish TV",TR: Kemal Sunal 23
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116660.ts
+#EXTINF:-1,|TR|ABN TÜRK
+http://rtmp2.abnvideos.com/hls/abnturkey.m3u8
 
 #EXTINF:98, DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
@@ -138,9 +92,6 @@ http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:19,KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:FTV" group-title="1, FARK TÜRK TV
-http://91.134.203.253:30124/farkturktv/farkturktv/playlist.m3u8
 
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
@@ -160,14 +111,59 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:-1,Özburun TV
 https://media2.streambrothers.com:19360/8314/8314.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="TR:TIVI TURK" group-title="TURK ULUSAL",KANAL G
-http://145.239.58.133:28008/kanalg/kanalg/playlist.m3u8
+#EXTINF:-1,KANAL G
+https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 
 #EXTINF:1,Exxen TV
 http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/232446
 
 #EXTINF:-1,TURK BOX HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20778
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 4 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR:kanal 16 Buçuk
+http://145.239.58.133:28008/bucuk/bucuk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: TURKAsat KEMAL SUNAL 5 4K" tvg-logo="" group-title="TR ➤SİNEMA ViP",TR:TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+
+#EXTINF:-1,TR:ORT
+https://edge1.socialsmart.tv/orttv/bant1/playlist.m3u8
+
+#EXTINF:-1,ATV alanya
+http://88.99.211.53:1935/alanyatv/bant1/sec-f5-v1-a1.m3u8
+
+#EXTINF:-1,DADAŞ TV
+https://dadastv.ozelip.net:3694/stream/play.m3u8
+
+#EXTINF:-1,AKTUEL TV
+http://tv86905.radyotelekomtv.com:22808/aktuel/aktuel/playlist.m3u8
+
+#EXTINF:-1,TV55
+https://cdn-tv55.yayin.com.tr/tv55/tv55/playlist.m3u8
+
+#EXTINF:-1,ASKON TV
+https://vdo.digitalbox.xyz:3119/live/askontvlive.m3u8
+
+#EXTINF:-1,|TR|YOZGAT TV
+https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/amlst:yozgatbeltv/chunklist_w1108470967_b1696000.m3u8
+
+#EXTINF:-1,Kanal 34
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
+
+#EXTINF:-1,TR:TV MOR
+https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8
+
+#EXTINF:-1,TR: VAN GÖLÜ TV
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist_w1465296297_b1696000.m3u8
+
+#EXTINF:-1,TR: KANAL MARKA
+http://tv56245.ozelip.com:2052/marko/marko/chunklist.m3u8
+
+#EXTINF:-1,TR: MTV TÜRK
+https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
+
+#EXTINF:-1,TR: ÖNCÜ TV
+http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116660.ts
 
 #EXTINF:-1,TRT 1 HD
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
