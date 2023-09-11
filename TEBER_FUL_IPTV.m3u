@@ -73,7 +73,7 @@ https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 
 #EXTINF:-1,TR:ETV
-http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116694.ts
+https://edge1.socialsmart.tv/manisaetv/bant1/chunks.m3u8
 
 #EXTINF:-1,|TR|ABN TÜRK
 http://rtmp2.abnvideos.com/hls/abnturkey.m3u8
