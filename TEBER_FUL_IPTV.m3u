@@ -172,22 +172,40 @@ https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 http://live.geoiptv.org:8880/live/tvgp/r050qPk8XT/116660.ts
 
 #EXTINF:-1,TRT 1 HD
-https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="[TR] TRT 2 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trt-2-tr.png" group-title="TR➤ ULUSAL",[TR] TRT 2 HD
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1,TRT3 TÜRK 
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1,TRT 4K 
 http://germanydnsx15.com:8080/guzel0084/F5G8pzS76o/89002
 
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_avaz_tr.png" group-title="TURK ULUSAL",TRT5 AVAZ HD
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL 7 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT6 BELGESEL HD
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT ÇOCUK 7 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT ÇOCUK 7 HD
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT ÇOCUK 8 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT DİYANET ÇOCUK 8 HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT9 HABER HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT9 HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT10 SPOR1 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT TRT10 SPOR1 HD
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT11 SPOR1 HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT TRT11 SPOR2 HD
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT12 MÜZİK HD" tvg-logo="https://www.server365.dev/logo/TURKIYE/trt_belgesel_tr.png" group-title="TURK ULUSAL",TRT12 MÜZİK HD
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="MELTEMTV.tr" tvg-name="MELTEM_TV_HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/MELTEM.TV.png" group-title="TURK ULUSAL",MELTEM TV HD
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
