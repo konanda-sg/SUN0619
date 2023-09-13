@@ -54,11 +54,14 @@ http://tv56245.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
 #EXTINF:109, AFYON TÜRK 
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 1 YTB
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: KEMAL SUNAL TV1 YTB
 https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: Kemal Sunal 2
-https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: KEMAL SUNAL TV2 YTB
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
+
+#EXTINF: -1 tvg-name="TR: KEMAL SUNAL  ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.02.png" group-title="TR Turkey", TR: KEMAL SUNAL TV3 ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6595.m3u
 
 #EXTINF:98, DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
@@ -256,6 +259,26 @@ https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 
 #EXTINF:1,KANAL S
 https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w486539089.m3u8
+
+#EXTINF: -1 tvg-id="sinematvhd.tr" tvg-name="TR: SİNEMA TV FHD" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/BEIN.SMART.MOVIES/SINEMA.TV.png" group-title="TR Turkey", TR: SİNEMA TV FHD
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6467.m3u
+#EXTINF: -1 tvg-id="sinemaaksiyonhd.tr" tvg-name="TR: SINEMA TV AKSIYON FHD" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/BEIN.SMART.MOVIES/SINEMA.TV.AKSIYON.png" group-title="TR Turkey", TR: SİNEMA TV AKSIYON FHD
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6465.m3u
+#EXTINF: -1 tvg-id="sinemakomedihd.tr" tvg-name="TR: SINEMA TV KOMEDI FHD" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/BEIN.SMART.MOVIES/SINEMA.TV.KOMEDI.png" group-title="TR Turkey", TR: SİNEMA TV KOMEDI FHD
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6469.m3u
+#EXTINF: -1 tvg-id="sinemayerli.tr" tvg-name="TR: SİNEMA YERLİ HD" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/BEIN.SMART.MOVIES/SINEMA.TV.YERLI.png" group-title="TR Turkey", TR: SİNEMA YERLİ HD
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/84016.m3u
+
+#EXTINF: -1 tvg-name="TR: BLUETV YEŞİLÇAM 2 ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/YESILCAM.02.png" group-title="TR Turkey", TR: BLUETV YEŞİLÇAM TV ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6614.m3u
+#EXTINF: -1 tvg-name="TR: CINEMAXIMUM 1 ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/CINEMAXIMUM/CINEMAXIMUM.1.png" group-title="TR Turkey", TR: CINEMAXIMUM 1 ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6127.m3u
+#EXTINF: -1 tvg-name="TR: CINEMAXIMUM Yerli 1 ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/CINEMAXIMUM/YERLI.1.png" group-title="TR Turkey", TR: CINEMAXIMUM Yerli 1 ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6122.m3u
+#EXTINF: -1 tvg-name="TR: MAX HD" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/CINE.BOX/MAX.CINEMA.png" group-title="TR Turkey", TR: MAX HD
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6048.m3u
+#EXTINF: -1 tvg-name="TR: MAX AKSİYON 1 ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/CINE.BOX/MAX.CINEMA.AKSIYON.1.png" group-title="TR Turkey", TR: MAX AKSİYON 1 ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6054.m3u
 
 #EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="Kutsal Damacana 4 (2023)" tvg-logo="" group-title="SONVIZYON FILMLER",Kutsal Damacana 4 (2023)
 http://143951.iptvone.eu:80/movie/ErcinSoysal/27BQ1HdQ74/227067.mkv
