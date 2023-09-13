@@ -54,25 +54,31 @@ http://tv56245.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
 #EXTINF:109, AFYON TÜRK 
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: KEMAL SUNAL TV1 YTB
+#EXTINF:-1,KEMAL SUNAL TV1 YTB
 https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kemal Sunal 1 HD" tvg-logo="" group-title="TR: SINEMA",TR: KEMAL SUNAL TV2 YTB
+#EXTINF:-1,KEMAL SUNAL TV2 YTB
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
 
-#EXTINF: -1 tvg-name="TR: KEMAL SUNAL  ʜᴅ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.02.png" group-title="TR Turkey", TR: KEMAL SUNAL TV3 ʜᴅ
+#EXTINF: -1,KEMAL SUNAL TV3 ʜᴅ
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6595.m3u
 
-#EXTINF:98, DÜZGÜN TV
+#EXTINF:-1,KEMAL SUNAL TV4 ʜᴅ
+http://faucontv.live:8080/Iptvtree2/kTryAuS/183653
+
+#EXTINF:98,DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
 #EXTINF:1,SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
-#EXTINF:-1,TR: ADA TV
+#EXTINF:-1,ADA TV
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
-#EXTINF:-1,TR: İSTANBUL TV
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX ZEKI&METIN" tvg-logo="" group-title="24/7 Turk",REDBOX ZEKI&METIN
+http://faucontv.live:8080/Iptvtree2/kTryAuS/183654
+
+#EXTINF:-1,İSTANBUL TV
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 
 #EXTINF:19,KANAL 19
@@ -192,28 +198,20 @@ http://faucontv.live:8080/Iptvtree2/kTryAuS/183674
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183675
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX DRAMA 3" tvg-logo="" group-title="24/7 Turk",REDBOX DRAMA 3
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183676
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX ZEKI&METIN" tvg-logo="" group-title="24/7 Turk",REDBOX ZEKI&METIN
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183654
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX KEMAL SUNAL" tvg-logo="" group-title="24/7 Turk",REDBOX KEMAL SUNAL
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183653
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX HARRY  POTTER" tvg-logo="" group-title="24/7 Turk",REDBOX HARRY  POTTER
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183652
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX FIGHT-UFC" tvg-logo="" group-title="24/7 Turk",REDBOX FIGHT-UFC
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183651
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX KURTLAR VADiSi" tvg-logo="" group-title="24/7 Turk",REDBOX KURTLAR VADiSi
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183648
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX JURASSIC" tvg-logo="" group-title="24/7 Turk",REDBOX JURASSIC
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183647
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX KONUSANLAR" tvg-logo="" group-title="24/7 Turk",REDBOX KONUSANLAR
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183644
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX TURK SINEMA 3" tvg-logo="" group-title="24/7 Turk",REDBOX TURK SINEMA 3
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183643
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX TURK SINEMA 2" tvg-logo="" group-title="24/7 Turk",REDBOX TURK SINEMA 2
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183642
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX TURK SINEMA 1" tvg-logo="" group-title="24/7 Turk",REDBOX TURK SINEMA 1
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183641
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX BOXSET KIDS" tvg-logo="" group-title="24/7 Turk",REDBOX BOXSET KIDS
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183640
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX TURK SINEMA 2" tvg-logo="" group-title="24/7 Turk",REDBOX TURK SINEMA 2
+http://faucontv.live:8080/Iptvtree2/kTryAuS/183642
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX TURK SINEMA 3" tvg-logo="" group-title="24/7 Turk",REDBOX TURK SINEMA 3
+http://faucontv.live:8080/Iptvtree2/kTryAuS/183643
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX AKSIYON 1" tvg-logo="" group-title="24/7 Turk",REDBOX AKSIYON 1
+http://faucontv.live:8080/Iptvtree2/kTryAuS/183655
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX AKSIYON 2" tvg-logo="" group-title="24/7 Turk",REDBOX AKSIYON 2
+http://faucontv.live:8080/Iptvtree2/kTryAuS/183656
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX AKSIYON 3" tvg-logo="" group-title="24/7 Turk",REDBOX AKSIYON 3
+http://faucontv.live:8080/Iptvtree2/kTryAuS/183657
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX BOXSET TURK" tvg-logo="" group-title="24/7 Turk",REDBOX BOXSET TURK
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183639
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX BOXSET" tvg-logo="" group-title="24/7 Turk",REDBOX BOXSET
@@ -226,6 +224,7 @@ http://faucontv.live:8080/Iptvtree2/kTryAuS/183636
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183635
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX 4K UHD" tvg-logo="" group-title="24/7 Turk",REDBOX 4K UHD
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183634
+
 #EXTINF:-1,ATV alanya
 http://88.99.211.53:1935/alanyatv/bant1/sec-f5-v1-a1.m3u8
 
@@ -237,7 +236,10 @@ https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
 #EXTINF:-1,TR:DİZİ TV
 https://livestream.zazerconer.workers.dev/channel/UCRfLDCtkSwmTdwHrbmC78Xg.m3u8
-
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX KURTLAR VADiSi" tvg-logo="" group-title="24/7 Turk",REDBOX KURTLAR VADiSi
+http://faucontv.live:8080/Iptvtree2/kTryAuS/183648
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX BOXSET KIDS" tvg-logo="" group-title="24/7 Turk",REDBOX BOXSET KIDS
+http://faucontv.live:8080/Iptvtree2/kTryAuS/183640
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX SIRINLER" tvg-logo="" group-title="24/7 Turk",REDBOX SIRINLER
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183704
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX REDKIT" tvg-logo="" group-title="24/7 Turk",REDBOX REDKIT
@@ -264,13 +266,6 @@ http://faucontv.live:8080/Iptvtree2/kTryAuS/183693
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183659
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX ANIMASYON 1" tvg-logo="" group-title="24/7 Turk",REDBOX ANIMASYON 1
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183658
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX AKSIYON 3" tvg-logo="" group-title="24/7 Turk",REDBOX AKSIYON 3
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183657
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX AKSIYON 2" tvg-logo="" group-title="24/7 Turk",REDBOX AKSIYON 2
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183656
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX AKSIYON 1" tvg-logo="" group-title="24/7 Turk",REDBOX AKSIYON 1
-http://faucontv.live:8080/Iptvtree2/kTryAuS/183655
-
 #EXTINF:-1,TR: RT1 
 https://stream.guventechnology.com:19360/rt1turktv/rt1turktv.m3u8
 
