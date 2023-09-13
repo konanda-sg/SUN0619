@@ -58,13 +58,16 @@ http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
 #EXTINF:-1,KEMAL SUNAL TV2 YTB
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
+https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
 
 #EXTINF: -1,KEMAL SUNAL TV3 ʜᴅ
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6595.m3u
 
 #EXTINF:-1,KEMAL SUNAL TV4 ʜᴅ
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183653
+
+#EXTINF:-1,KEMAL SUNAL TV5 hd
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
 
 #EXTINF:98,DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
