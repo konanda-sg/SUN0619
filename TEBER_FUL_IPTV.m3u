@@ -60,26 +60,44 @@ https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 #EXTINF:-1,KEMAL SUNAL TV2 YTB
 https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
 
-#EXTINF: -1,KEMAL SUNAL TV3 ʜᴅ
-http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6595.m3u
+#EXTINF:-1,KEMAL SUNAL TV3 ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6594.m3u
 
 #EXTINF:-1,KEMAL SUNAL TV4 ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6595.m3u
+
+#EXTINF:-1,KEMAL SUNAL TV5 ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6596.m3u
+
+#EXTINF:-1,KEMAL SUNAL TV6 ʜᴅ
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183653
 
-#EXTINF:-1,KEMAL SUNAL TV5 hd
+#EXTINF:-1,KEMAL SUNAL TV7 ʜᴅ
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
+
+#EXTINF:-1,KEMAL SUNAL TV8 ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6612.m3u
 
 #EXTINF:98,DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
-#EXTINF:1,SKY HABER TV HD
+#EXTINF:1,SKY ŞABAN TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
 #EXTINF:-1,ADA TV
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="REDBOX ZEKI&METIN" tvg-logo="" group-title="24/7 Turk",REDBOX ZEKI&METIN
+#EXTINF:-1,ŞENER ŞEN TV ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6601.m3u
+
+#EXTINF:-1, ZEKI & METIN TV1
 http://faucontv.live:8080/Iptvtree2/kTryAuS/183654
+
+#EXTINF:-1,ZEKİ METİN TV2 ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6610.m3u
+
+#EXTINF:-1,CÜNEYT ARKIN TV ʜᴅ
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6597.m3u
 
 #EXTINF:-1,İSTANBUL TV
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
