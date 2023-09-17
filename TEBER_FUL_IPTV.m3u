@@ -111,6 +111,9 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 
+XTINF:1,TV 90 
+https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+
 #EXTINF:-1,TR:ETV
 https://edge1.socialsmart.tv/manisaetv/bant1/chunks.m3u8
 
