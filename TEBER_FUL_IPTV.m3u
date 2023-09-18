@@ -48,6 +48,9 @@ https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks
 #EXTINF:1,TEBER SÜPER CHANNEL
 https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
 
+#EXTINF:6,TEBER 6
+https://ssh101.bozztv.com/ssh101/teber6/chunks.m3u8
+
 #EXTINF:1,TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
