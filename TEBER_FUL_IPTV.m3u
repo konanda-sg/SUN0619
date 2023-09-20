@@ -36,6 +36,9 @@ http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/88991
 #EXTINF:0 user-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://logo.hdplustv.us/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 FHD
 http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/28
 
+#EXTINF:1,TEBER 6
+https://ssh101.bozztv.com/ssh101/teber6/chunks.m3u8
+
 #EXTINF:1,TEBER STAR
 https://ssh101.bozztv.com/ssh101/teber_star_tv/chunks.m3u8
 
