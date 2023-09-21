@@ -43,6 +43,9 @@ https://ssh101.bozztv.com/ssh101/teber6/chunks.m3u8
 #EXTINF:1,TEBER STAR
 https://ssh101.bozztv.com/ssh101/teber_star_tv/chunks.m3u8
 
+#EXTINF: -1 group-title="YANSIMA MEDYA",YANSIMA SİNEMA TV
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+
 #EXTINF:6,TEBER & ROMAN TV
 https://ssh101.bozztv.com/ssh101/teber&romantv/chunks.m3u8
 
@@ -118,8 +121,6 @@ http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRY- HRT AKDENIZ TV" tvg-logo="" tvg-id2="NDMyODc=" group-title="🇹🇷 [01] TR- YEREL",HRT (HERKEZİN RADİO TELEVİZYONU)  
 http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/1297
 
-#EXTINF: -1 group-title="YANSIMA MEDYA",YANSIMA SİNEMA TV
-https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 
 #EXTINF:1, CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
