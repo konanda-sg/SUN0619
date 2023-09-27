@@ -3,8 +3,8 @@
 #EXTINF:32, CINE1 HD
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:-1,TEVE2 FHD
-http://221.120.145.12:8000/play/a01l/index.m3u8
+#EXTINF:-1,TEVE2 
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 
 #EXTINF:1,kanal 3
 https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
@@ -30,9 +30,6 @@ https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="[TR] TV8 HD" tvg-logo="https://static.epg.best/tr/TV8.tr.png" group-title="TR➤ ULUSAL",[TR] TV8 HD
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8 
 
-#EXTINF:-1,TR:TV 8 INT HD
-http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/88991
-
 #EXTINF:0 user-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://logo.hdplustv.us/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 FHD
 http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/28
 
@@ -41,6 +38,9 @@ https://ssh101.bozztv.com/ssh101/teber6/chunks.m3u8
 
 #EXTINF:1,TEBER STAR
 https://ssh101.bozztv.com/ssh101/teber_star_tv/chunks.m3u8
+
+#EXTINF:1,YEŞİLÇAM TEBER TV (15GÜN İÇİNDE  YAYINDA)
+https://ssh101.bozztv.com/ssh101/YEŞİLÇAM/chunks.m3u8
 
 #EXTINF:1,YANSIMA SİNEMA TV
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
@@ -59,6 +59,9 @@ https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
 #EXTINF:1,TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
+
+#EXTINF:1,KOBİM TV
+https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist_w1769647051.m3u8
 
 #EXTINF:-1,İSTANBUL TV
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
@@ -247,8 +250,6 @@ http://turcosiptv.com:8080/guzel0084/F5G8pzS76o/89813
 #EXTINF:-1,ATV HD
 http://116.202.238.88/ATV_TR/index.m3u8
 
-
-
 #EXTINF:-1,TV 360 FHD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
@@ -401,6 +402,12 @@ https://tvmesaj.ozelip.com:3673/hybrid/play.m3u8
 #EXTINF:1,SİTELER ANGARA TV 
 https://vdo.digitalbox.xyz:3925/stream/play.m3u8
 
+EXTINF:1,RUMELİ Tv 
+http://191.96.100.42:8080/zihniyurtseven/zhni1133/19107
+
+EXTINF:1,KEÇİ ÖREN Tv 
+https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
+
 #EXTINF:1,Aktuel Tv 
 http://tv86905.radyotelekomtv.com:22808/aktuel/aktuel/playlist.m3u8
 
@@ -539,8 +546,8 @@ http://91.134.203.253:30124/dost/dost/chunklist.m3u8
 #EXTINF:-1,DENGE ZELAL TV
 https://ssh101.bozztv.com/ssh101/denge301/playlist.m3u8
 
-#EXTINF:-1,AVAŞİN TV
-https://ssh101.bozztv.com/ssh101/avasintv/playlist.m3u8
+#EXTINF:-1,SÜMBÜL TV
+https://ssh101.bozztv.com/ssh101/avasintv/chunks.m3u8
 
 #EXTINF:-1,AGRO TV FHD
 https://yayin30.haber100.com/live/agrotv/chunklist.m3u8
@@ -581,15 +588,14 @@ https://kanal7.blutv.com/blutv_kanal7_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,TV8 
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8 
 
-
 #EXTINF:-1,BEYAZ TV 
 https://beyaztv.blutv.com/blutv_beyaztv_live/live_720p2000000kbps/index.m3u8
 
 #EXTINF:-1,KANAL D  
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 
-#EXTINF:-1,TEVE2 
-https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+#EXTINF:-1,TEVE2 FHD
+http://221.120.145.12:8000/play/a01l/index.m3u8
 
 #EXTINF:-1,360 TV 
 https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
@@ -674,11 +680,8 @@ https://tvmesaj.ozelip.com:3673/hybrid/play.m3u8
 #EXTINF:1,SİTELER ANGARA TV 
 https://vdo.digitalbox.xyz:3925/stream/play.m3u8
 
-
-
 #EXTINF:1,24TV 
 https://host.onlineradyotv.net:8081/birguntv/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1,TV A 
 https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
@@ -699,7 +702,7 @@ https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/chunklist_w886123543_b19960
 http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
 
 #EXTINF:50 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7d49b2d4-aab5-48f4-b3d6-928f40a2288f.png" group-title= "YEREL KANALLAR",Bartın TV
-http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
+http://5.9.136.157/BARTINTV/BARTINTV/playlist.m3u8
 
 #EXTINF:-1,TVDEN Aydın
 http://canli.tvden.com.tr/hls/live.m3u8
