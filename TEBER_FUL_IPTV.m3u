@@ -310,7 +310,7 @@ http://canli.haber365.com.tr/tr/startv/index.m3u8
 #EXTINF:-1,TR: BABALA TV
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185041
 
-#EXTINF:-13,RIZE TÜRK
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZİN SESİ_KANALLAR" logo="/KARADENİZİN SESİ-logo-2.png",RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
 #EXTINF:-1,TARIH TV HD
@@ -672,7 +672,7 @@ https://livestream.zazerconer.workers.dev/channel/UCaRFVSGWHqCDjWR69_VlZdg.m3u8
 #EXTINF:119,NTV SPOR
 http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 
-#EXTINF:1,SLOW K.DENİZ TV
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZİN SESİ_KANALLAR" logo="/KARADENİZİN SESİ-logo-2.png",SLOW K.DENİZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 
 #EXTINF:1,DAMAR TV  
@@ -962,7 +962,7 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/59854
 #EXTINF:-13,RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
-#EXTINF:1,KAÇKAR TV
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZİN SESİ_KANALLAR" logo="/KARADENİZİN SESİ-logo-2.png",KAÇKAR TV
 https://kackartv.ozelip.com:3898/stream/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_ _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", MMN TV
@@ -986,24 +986,25 @@ https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,SLOW KARADENİZ TV 
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 
-#EXTINF:-1,RİZE TÜRK 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZİN SESİ_KANALLAR" logo="/KARADENİZİN SESİ-logo-2.png",RİZE TÜRK 
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
----------------------YENİ LİSDE----------------------------------
+---------------------Yerli film----------------------------------
 #EXTINF:-1,ARIM BALIM PETEGIM
-http://vod02.cdn.web.tv/ax/08/ax08zs.../playlist.m3u8 (http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8)
+http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8
 #EXTINF:-1,YADELLER HD
-http://vod02.cdn.web.tv/is/to/istodk.../playlist.m3u8 (http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8)
+http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8
 #EXTINF:-1,BATAN GÜNEŞ
-https://vod02.cdn.web.tv/c8/xe/c8xe6.../playlist.m3u8 (https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8)
+https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
 #EXTINF:-1,KUCUK SEVGILIM HD
-http://vod02.cdn.web.tv/6a/2y/6a2yqf.../playlist.m3u8 (http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8)
+http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8
 #EXTINF:-1,ISTASYON TV
-http://vod02.cdn.web.tv/tk/xc/tkxcv7.../playlist.m3u8 (http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist.m3u8)
+http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist.m3u8
 #EXTINF:-1,OYUN BITTI HD
-http://vod02.cdn.web.tv/6b/gc/6bgcg0.../playlist.m3u8 (http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8)
+http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8
 #EXTINF:-1,SATİN ALİNAN KOCA
-http://vod02.cdn.web.tv/l6/5q/l65qig.../playlist.m3u8 (http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist.m3u8)
+http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist.m3u8
+
 ₪₪₪₪₪ [ TR SINEMA ] ₪₪₪₪₪
 
 #EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX FHD" tvg-logo="https://i.hizliresim.com/n5u19vr.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: FX FHD
@@ -17489,7 +17490,7 @@ https://player.gen.tr/listen/fe098f6c3958f5db9e4afef14f3fb609
 http://skyradyo.org:8300/;
 #EXTINF:-1 type="stream" group-title="Radyolar",SLOW HOME
 https://moondigitalmaster.radyotvonline.net/slowhome/playlist.m3u8
-#EXTINF:-1 type="stream" group-title="Radyolar",SLOW KARADENİZ FM
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZİN SESİ_KANALLAR" logo="/KARADENİZİN SESİ-logo-2.png",SLOW KARADENİZ FM
 http://dinle.slowkaradenizfm.com:9578/;
 #EXTINF:-1 type="stream" group-title="Radyolar",SLOW RADYO
 http://yayindaslowradyo.net:5050/;
