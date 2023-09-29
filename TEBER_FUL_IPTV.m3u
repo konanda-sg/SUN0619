@@ -990,20 +990,27 @@ https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
 ---------------------Yerli film----------------------------------
-#EXTINF:-1,ARIM BALIM PETEGIM
-http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8
-#EXTINF:-1,YADELLER HD
-http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8
-#EXTINF:-1,BATAN GÜNEŞ
-https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
-#EXTINF:-1,KUCUK SEVGILIM HD
-http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8
-#EXTINF:-1,ISTASYON TV
+#EXTINF:-1,ISTASYON TV 
 http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist.m3u8
-#EXTINF:-1,OYUN BITTI HD
-http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8
-#EXTINF:-1,SATİN ALİNAN KOCA
+
+#EXTINF:-1,ARIM BALIM PETEGIM 
+http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:-1,SATİN ALİNAN KOCA 
 http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:-1,KUCUK SEVGILIM HD 
+http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:-1,OYUN BITTI HD 
+http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:-1,YADELLER HD 
+http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8
+
+#EXTINF:-1,BATAN GÜNEŞ 
+https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
+
 
 ₪₪₪₪₪ [ TR SINEMA ] ₪₪₪₪₪
 
