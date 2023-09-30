@@ -42,8 +42,8 @@ https://ssh101.bozztv.com/ssh101/teber6/chunks.m3u8
 #EXTINF:1,TEBER STAR
 https://ssh101.bozztv.com/ssh101/teber_star_tv/chunks.m3u8
 
-#EXTINF:1,TEBER VİZYON TV (DENEME 15 GÜN İÇİNDE AKSİLİK OLMAZSA YAYINDA)
-https://ssh101.bozztv.com/ssh101/TEBERVİZYONTV/chunks.m3u8
+#EXTINF:1,TEBER EHLİBEYT TV 
+https://ssh101.bozztv.com/ssh101/ehlibeyt_tv/chunks.m3u8
 
 #EXTINF:1,YANSIMA SİNEMA TV
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
