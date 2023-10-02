@@ -18,7 +18,7 @@ https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_GÜNDEM" logo="/İPTV_GÜNDEM-logo-2.png",TV5 (YTB)
 http://livestream.zazerconer.workers.dev/channel/UCP-0oW3M7DpjmPDutckOjiA.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",TIVI 6 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-ANGARA_BELEDİYESİ" logo="/ANGAR_BELEDİYESİ_TV-logo-2.png",TIVI 6 
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAL" logo="/İPTV_SULUSAL-logo-2.png",KANAL 7 HD
@@ -635,14 +635,11 @@ https://edge1.socialsmart.tv/btv/bant1/chunks.m3u8
 #EXTINF:103,DEMİRCİ TV
 http://91.134.203.253:30124/demircitv/demircitv/chunklist.m3u8
  
-#EXTINF:106, ABB TV
+#EXTINF:0 type="stream" channelId="-1" group-title="7-ANGARA_BELEDİYESİ" logo="/ANGAR_BELEDİYESİ_TV-logo-2.png", ABB TV
 https://livestream.zazerconer.workers.dev/channel/UCHPDorZxpe9c6WDnXKHCjYA.m3u8
 
 #EXTINF:119,HAVADIS TV
 http://tv86905.radyotelekomtv.com:22808/aktuel/aktuel/playlist.m3u8
-
-#EXTINF:-1,CRI TÜRK HD
-https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 
 #EXTINF:1,KANAL 60 
 https://cdn-kanal60.yayin.com.tr/kanal60/kanal60/chunklist_w996443569.m3u8 
@@ -650,19 +647,16 @@ https://cdn-kanal60.yayin.com.tr/kanal60/kanal60/chunklist_w996443569.m3u8
 #EXTINF:1,REAL TV
 https://livestream.zazerconer.workers.dev/channel/UCjpoTfA8TXO6QfAWiAB67eA.m3u8
 
-#EXTINF:119,NEFTCİ TV
+#EXTINF:119,NEFTCİ SPOR TV
 https://livestream.zazerconer.workers.dev/channel/UCaRFVSGWHqCDjWR69_VlZdg.m3u8
 
 #EXTINF:119,NTV SPOR
 http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZİN SESİ_KANALLAR" logo="/KARADENİZİN SESİ-logo-2.png",SLOW K.DENİZ TV
-https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-
 #EXTINF:1,DAMAR TV  
 https://tvmesaj.ozelip.com:3673/hybrid/play.m3u8
 
-#EXTINF:1,SİTELER ANGARA TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-ANGARA_BELEDİYESİ" logo="/ANGAR_BELEDİYESİ_TV-logo-2.png",SİTELER ANGARA TV 
 https://vdo.digitalbox.xyz:3925/stream/play.m3u8
 
 #EXTINF:1,24TV 
