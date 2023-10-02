@@ -51,6 +51,16 @@ https://ssh101.bozztv.com/ssh101/teber_vizyon_tv/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TEBER_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TEBER & ROMAN TV
 https://ssh101.bozztv.com/ssh101/teber&romantv/chunks.m3u8
 
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YANSIMA_TV_TEBER_GURUP" logo="/TEBER_MEDYA-logo-2.png",Yansinema TV HD
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YANSIMA_TV_TEBER_GURUP" logo="/TEBER_MEDYA-logo-2.png",Yansıma Muzik TV HD
+https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YANSIMA_TV_TEBER_GURUP" logo="/TEBER_MEDYA-logo-2.png",Yansıma Dance TV HD
+https://ssh101.bozztv.com/ssh101/yansimamuzik/chunks.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",TELE ON
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 
