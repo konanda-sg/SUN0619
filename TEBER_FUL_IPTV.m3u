@@ -533,7 +533,7 @@ https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KANAL Z 
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" #EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
 #EXTINF:99,DOSTELİ TV
@@ -611,7 +611,7 @@ http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/80
 #EXTINF:-1 tvg-id="Halk TV TR" tvg-logo="http://logos10.xyz/tvlogolari/TR/halk_tv_tr.png" tvg-name="TR:HALK TV HD" group-title="TURK ULUSAL",TR:HALK TV HD
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/72
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tarih TV HD TR" tvg-logo="" group-title="Turkey",Tarih TV HD TR
 http://ultratv.one:80/oQUCFpEeFq/u5C1DYYr/401427
@@ -817,16 +817,16 @@ https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1,BLOOMBERG TV 
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",SLOW KARADENİZ TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",SLOW KARADENİZ TV 
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",RIZE TÜRK
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",RIZE TÜRK
 https://yayin.rizeturk.com:3777/multi_web/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",Cay TV
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",KAÇKAR TV
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",KAÇKAR TV
 https://kackartv.ozelip.com:3898/stream/play.m3u8
 
 
@@ -13179,7 +13179,6 @@ http://kaprisfm.canliyayinda.com:8183/;
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ_YAYINLARI-logo-2.png",KARADENİZ FM
 http://moondigitalmaster.radyotvonline.net/karadenizfm/playlist.m3u8
-
 
 #EXTINF:-1 type="stream" group-title="Radyolar",KARAMÜRSEL FM
 http://yayin1.yayindakiler.com:3052/;
