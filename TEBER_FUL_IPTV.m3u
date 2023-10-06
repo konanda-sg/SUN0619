@@ -156,11 +156,23 @@ http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
 #EXTINF:-1,TÜRK HABER 
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
 
+#EXTINF:-1,KANAL V
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/chunks.m3u8
+
 #EXTINF:-1,CADDE TV
 http://221.120.145.12:8000/play/a00y/index.m3u8
 
+#EXTINF:-1,KENT TÜRK TV
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
+
+#EXTINF:-1,GÜNEY TV
+https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/chunks.m3u8
+
 #EXTINF:-1,GÖZDE TV
 http://221.120.145.12:8000/play/a011/index.m3u8
+
+#EXTINF:-1,MK HABER TV 
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 
 #EXTINF:-1,ULUSAL TV 
 http://221.120.145.12:8000/play/a03n/index.m3u8
@@ -392,6 +404,9 @@ https://livestream.zazerconer.workers.dev/channel/UCjpoTfA8TXO6QfAWiAB67eA.m3u8
 #EXTINF:119,NEFTCİ TV
 https://livestream.zazerconer.workers.dev/channel/UCaRFVSGWHqCDjWR69_VlZdg.m3u8
 
+#EXTINF:1,TATLISES TV  
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8?nimblesessionid=1416966032
+
 #EXTINF:1,DAMAR TV  
 https://tvmesaj.ozelip.com:3673/hybrid/play.m3u8
 
@@ -401,7 +416,7 @@ https://vdo.digitalbox.xyz:3925/stream/play.m3u8
 EXTINF:1,RUMELİ Tv 
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/19107
 
-EXTINF:1,KEÇİ ÖREN Tv 
+EXTINF:1,KEÇİÖREN Tv 
 https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8
 
 #EXTINF:1,Aktuel Tv 
@@ -430,6 +445,15 @@ http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
 
 #EXTINF:1,Bartın TV
 http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
+
+#EXTINF:1,KANAL 26
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ_YAYINLARI-logo-2.png",TEMPO TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+
+#EXTINF:-1,KANAL FIRAT
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
 
 #EXTINF:-1,TVDEN Aydın
 http://canli.tvden.com.tr/hls/live.m3u8
