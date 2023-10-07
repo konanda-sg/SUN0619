@@ -48,7 +48,7 @@ https://ssh101.bozztv.com/ssh101/teber_çocuk_tv/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TEBER_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TEBER & ROMAN TV
 https://ssh101.bozztv.com/ssh101/teber&romantv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TEBER_MEDYA" logo="/TEBER_MEDYA-logo-2.png",FD SİNEMA TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TEBER_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FD SİNEMA TV 
 https://250weu.bozztv.com/ssh101/ssh101/fdhdtv/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-YANSIMA_TV_TEBER_GURUP" logo="/TEBER_MEDYA-logo-2.png",Yansinema TV HD
