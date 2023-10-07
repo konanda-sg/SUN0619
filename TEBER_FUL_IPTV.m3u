@@ -123,8 +123,8 @@ https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 #EXTINF:-1,TR:İLKGÜN TV
 http://tv56245.ozelip.com:2052/ilkguntv/ilkguntv/İLKGÜN_TEBER_chunklist.m3u8
 
-#EXTINF:1,GÜNAYDIN TV
-https://tv.digitalbox.xyz:19360/gunaydintv/gunaydintv.m3u8
+#EXTINF:1,HBB TV
+http://88.86.215.73:1982/udp/239.99.17.239:1234
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
