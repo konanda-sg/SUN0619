@@ -880,6 +880,50 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/19107
 #EXTINF:-1,AKTUEL TV
 http://tv86905.radyotelekomtv.com:22808/aktuel/aktuel/playlist.m3u8
 
+-------------BELGESEL----TV----------------------------------
+
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL BELGESEL" tvg-logo="http://logo.hdplustv.us/tvlogo/universal_channel_global.png" group-title="TR-BELGESEL",TR: UNIVERSAL BELGESEL
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/97172
+#EXTINF:0 user-agent="Firefox" tvg-id="National Geographic" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.hdplustv.us/tvlogo/natgeohd.png" group-title="TR-BELGESEL",TR: NATIONAL GEOGRAPHIC HD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/286
+#EXTINF:0 user-agent="Firefox" tvg-id="Nat Geo Wild" tvg-name="TR: NAT GEO WILD HD" tvg-logo="http://logo.hdplustv.us/tvlogo/natgeowild.png" group-title="TR-BELGESEL",TR: NAT GEO WILD HD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/282
+#EXTINF:0 user-agent="Firefox" tvg-id="History" tvg-name="TR: HISTORY CHANNEL" tvg-logo="http://logo.hdplustv.us/tvlogo/historyhd.png" group-title="TR-BELGESEL",TR: HISTORY CHANNEL
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/278
+#EXTINF:0 user-agent="Firefox" tvg-id="HABİTAT TV" tvg-name="TR: HABITAT TV" tvg-logo="http://logo.hdplustv.us/tvlogo/HABITATTV.jpg" group-title="TR-BELGESEL",TR: HABITAT TV
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/78416
+#EXTINF:0 user-agent="Firefox" tvg-id="DMAX" tvg-name="TR: DMAX FHD" tvg-logo="http://logo.hdplustv.us/tvlogo/dmax.png" group-title="TR-BELGESEL",TR: DMAX FHD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/274
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN GURME" tvg-name="TR: BEIN GURME HD" tvg-logo="http://logo.hdplustv.us/tvlogo/beingurme.png" group-title="TR-BELGESEL",TR: BEIN GURME HD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/271
+#EXTINF:0 user-agent="Firefox" tvg-id="beIN İZ" tvg-name="TR: BEIN IZ HD" tvg-logo="http://logo.hdplustv.us/tvlogo/beiniz.png" group-title="TR-BELGESEL",TR: BEIN IZ HD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/270
+#EXTINF:0 user-agent="Firefox" tvg-id="Love Nature" tvg-name="TR: LOVE NATURE" tvg-logo="http://logo.hdplustv.us/logoslar/lovenaturehd.png" group-title="TR-BELGESEL",TR: LOVE NATURE
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/50428
+#EXTINF:0 user-agent="Firefox" tvg-id="Discovery Channel" tvg-name="TR: DISCOVERY CHANNEL" tvg-logo="http://logo.hdplustv.us/tvlogo/discoveryhd.png" group-title="TR-BELGESEL",TR: DISCOVERY CHANNEL
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/264
+#EXTINF:0 user-agent="Firefox" tvg-id="Discovery Science" tvg-name="TR: DISCOVERY SCIENCE" tvg-logo="http://logo.hdplustv.us/tvlogo/discoverysciencehd.png" group-title="TR-BELGESEL",TR: DISCOVERY SCIENCE
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/262
+#EXTINF:0 user-agent="Firefox" tvg-id="ID" tvg-name="TR: DISCOVERY IDX" tvg-logo="http://logo.hdplustv.us/tvlogo/idxhd.png" group-title="TR-BELGESEL",TR: DISCOVERY IDX
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/261
+#EXTINF:0 user-agent="Firefox" tvg-id="Yaban TV" tvg-name="TR: YABAN TV HD" tvg-logo="http://logo.hdplustv.us/tvlogo/yaban.png" group-title="TR-BELGESEL",TR: YABAN TV HD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/15018
+#EXTINF:0 user-agent="Firefox" tvg-id="Tarih TV" tvg-name="TR: TARIH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/250px-Tarih-tv-logo-siyah-1080x1080.png" group-title="TR-BELGESEL",TR: TARIH TV
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/140595
+#EXTINF:0 user-agent="Firefox" tvg-id="TRT Belgesel" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://logo.hdplustv.us/tvlogo/trtbelgeselhd.png" group-title="TR-BELGESEL",TR: TRT BELGESEL HD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/50847
+#EXTINF:0 user-agent="Firefox" tvg-id="BBC EARTH" tvg-name="TR: BBC Earth HD" tvg-logo="http://logo.hdplustv.us/tvlogo/bbcearth.png" group-title="TR-BELGESEL",TR: BBC Earth HD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/258
+#EXTINF:0 user-agent="Firefox" tvg-id="Da Vinci" tvg-name="TR: DA Vinci" tvg-logo="http://logo.hdplustv.us/tvlogo/davincilearning.png" group-title="TR-BELGESEL",TR: DA Vinci
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/253
+#EXTINF:0 user-agent="Firefox" tvg-id="Viasat History" tvg-name="TR: VIASAT HISTORY" tvg-logo="http://logo.hdplustv.us/tvlogo/VIASAT-HISTORY.jpg" group-title="TR-BELGESEL",TR: VIASAT HISTORY
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/47970
+#EXTINF:0 user-agent="Firefox" tvg-id="" tvg-name="TR: VIASAT EXPLORER" tvg-logo="" group-title="TR-BELGESEL",TR: VIASAT EXPLORER
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/234449
+#EXTINF:0 user-agent="Firefox" tvg-id="BBC First" tvg-name="TR: BBC First" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BBC_First_Logo_2014.svg/200px-BBC_First_Logo_2014.svg.png" group-title="TR-DIZI",TR: BBC First
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/165462
+
+--------------------------------------------------------------
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL SONVIZYON" tvg-logo="http://logo.hdplustv.us/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL SONVIZYON
 http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/222407
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: UNIVERSAL CHOICE" tvg-logo="http://logo.hdplustv.us/tvlogo/universal_channel_global.png" group-title="TR-SINEMA",TR: UNIVERSAL CHOICE
