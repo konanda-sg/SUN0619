@@ -138,6 +138,9 @@ http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 #EXTINF:1, CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
+#EXTINF:-1 group-title="BURSA_ASTV",Bursa AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
+
 #EXTINF:1,İSVİCRE TV 
 http://tv86905.radyotelekomtv.com:22808/isvicretv/isvicretv/chunklist.m3u8
 
@@ -7332,36 +7335,76 @@ https://eu1.vod.rdncdn.com/vod4/Movies/AutoTopMovies/TR/HowToGetOveraBreakup.mp4
 
 ----------------------------AZERBAIJAN----TV------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="AZ: AMC" tvg-logo="https://asiagrandiptv.us/logo/amc.png" group-title="AZERBAIJAN",AZ: AMC
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5840
-#EXTINF:-1 tvg-id="" tvg-name="AZ: ARB 24" tvg-logo="https://asiagrandiptv.us/logo/ARB24.png" group-title="AZERBAIJAN",AZ: ARB 24
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/37963
-#EXTINF:-1 tvg-id="" tvg-name="AZ: ATV AZ" tvg-logo="https://asiagrandiptv.us/logo/atv.png" group-title="AZERBAIJAN",AZ: ATV AZ
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5846
-#EXTINF:-1 tvg-id="" tvg-name="AZ: AZ TV" tvg-logo="https://asiagrandiptv.us/logo/aztv.png" group-title="AZERBAIJAN",AZ: AZ TV
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5847
-#EXTINF:-1 tvg-id="" tvg-name="AZ: CBC AZERBAJAN" tvg-logo="https://asiagrandiptv.us/logo/CBCAZERBAJAN.png" group-title="AZERBAIJAN",AZ: CBC AZERBAJAN
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/37968
-#EXTINF:-1 tvg-id="" tvg-name="AZ: CBC SPORT" tvg-logo="https://asiagrandiptv.us/logo/cbcsport.png" group-title="AZERBAIJAN",AZ: CBC SPORT
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5842
-#EXTINF:-1 tvg-id="" tvg-name="AZ: DALGA TV" tvg-logo="https://asiagrandiptv.us/logo/DALGATV.png" group-title="AZERBAIJAN",AZ: DALGA TV
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/37967
-#EXTINF:-1 tvg-id="" tvg-name="AZ: DUNYA" tvg-logo="https://asiagrandiptv.us/logo/dunyatv.png" group-title="AZERBAIJAN",AZ: DUNYA
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/74518
-#EXTINF:-1 tvg-id="" tvg-name="AZ: ICTIMAI TV" tvg-logo="https://asiagrandiptv.us/logo/ictimaitv.png" group-title="AZERBAIJAN",AZ: ICTIMAI TV
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5844
-#EXTINF:-1 tvg-id="" tvg-name="AZ: IDMAN TV" tvg-logo="https://asiagrandiptv.us/logo/idmantv.png" group-title="AZERBAIJAN",AZ: IDMAN TV
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5845
-#EXTINF:-1 tvg-id="" tvg-name="AZ: Medeniyyet TV" tvg-logo="https://asiagrandiptv.us/logo/medeniyettvaz.png" group-title="AZERBAIJAN",AZ: Medeniyyet TV
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5851
-#EXTINF:-1 tvg-id="" tvg-name="AZ: REAL TV" tvg-logo="https://asiagrandiptv.us/logo/REALTV.png" group-title="AZERBAIJAN",AZ: REAL TV
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/37959
-#EXTINF:-1 tvg-id="" tvg-name="AZ: SETANTA SPORTS EURASIA 1" tvg-logo="https://asiagrandiptv.us/logo/setantasportseurasia.png" group-title="AZERBAIJAN",AZ: SETANTA SPORTS EURASIA 1
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5854
-#EXTINF:-1 tvg-id="" tvg-name="AZ: SPACE TV" tvg-logo="https://asiagrandiptv.us/logo/spacetv.png" group-title="AZERBAIJAN",AZ: SPACE TV
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5852
-#EXTINF:-1 tvg-id="" tvg-name="AZ: XEZER TV" tvg-logo="https://asiagrandiptv.us/logo/xezertvaz.png" group-title="AZERBAIJAN",AZ: XEZER TV
-http://watch-phoenixtvs.xyz:2095/Whts1414/gkCjBHNgAP/5853
+#EXTM3U
+#EXTINF:-1,azstar HD
+http://65.21.196.155/azerbaijan/azstar/playlist.m3u8
+#EXTINF:-1,baku HD
+http://65.21.196.155/azerbaijan/baku/playlist.m3u8
+#EXTINF:-1,gunaz HD
+http://65.21.196.155/azerbaijan/gunaz/playlist.m3u8
+#EXTINF:-1,Turkmenistan Sport r
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1,Turkmen Спорт
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1,Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,Qazsport
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1,Türkmenistan
+https://alpha.tv.online.tm/legacyhls/ch007_400/index.m3u8
+#EXTINF:-1,Altyn Asyr
+https://alpha.tv.online.tm/legacyhls/ch001_400/index.m3u8
+#EXTINF:-1,Ýaşlyk
+https://alpha.tv.online.tm/legacyhls/ch002_400/index.m3u8
+#EXTINF:-1,Miras
+https://alpha.tv.online.tm/legacyhls/ch003_400/index.m3u8
+#EXTINF:-1,Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_400/index.m3u8
+#EXTINF:-1,Türkmen owazy
+https://alpha.tv.online.tm/legacyhls/ch005_400/index.m3u8
+#EXTINF:-1,Aşgabat
+https://alpha.tv.online.tm/legacyhls/ch006_400/index.m3u8
+#EXTINF:-1,kanals HD
+http://65.21.196.155/azerbaijan/kanals/playlist.m3u8
+#EXTINF:-1,360
+http://65.21.196.155/russia/360/playlist.m3u8
+#EXTINF:-1,amedia_hit
+http://65.21.196.155/russia/amedia_hit/playlist.m3u8
+#EXTINF:-1,denpobedi HD
+http://65.21.196.155/russia/denpobedi/playlist.m3u8
+#EXTINF:-1,euronews
+http://65.21.196.155/russia/euronews/playlist.m3u8
+#EXTINF:-1,fan
+http://65.21.196.155/russia/fan/playlist.m3u8
+#EXTINF:-1,kinosat
+http://65.21.196.155/russia/kinosat/playlist.m3u8
+#EXTINF:-1,kinoseriya
+http://65.21.196.155/russia/kinoseriya/playlist.m3u8
+#EXTINF:-1,mir_seriala
+http://65.21.196.155/russia/mir_seriala/playlist.m3u8
+#EXTINF:-1,muzyka_pervogo
+http://65.21.196.155/russia/muzyka_pervogo/playlist.m3u8
+#EXTINF:-1,nash_kinopokaz HD
+http://65.21.196.155/russia/nash_kinopokaz/playlist.m3u8
+#EXTINF:-1,nashe_lyubimoe
+http://65.21.196.155/russia/nashe_lyubimoe/playlist.m3u8
+#EXTINF:-1,ocean
+http://65.21.196.155/russia/ocean/playlist.m3u8
+#EXTINF:-1,otr
+http://65.21.196.155/russia/otr/playlist.m3u8
+#EXTINF:-1,rodnoe
+http://65.21.196.155/russia/rodnoe/playlist.m3u8
+#EXTINF:-1,sovershenno_sekretno
+http://65.21.196.155/russia/sovershenno_sekretno/playlist.m3u8
+#EXTINF:-1,sts_kids
+http://65.21.196.155/russia/sts_kids/playlist.m3u8
+#EXTINF:-1,unikum
+http://65.21.196.155/russia/unikum/playlist.m3u8
+#EXTINF:-1,zoo
+http://65.21.196.155/russia/zoo/playlist.m3u8
+
 
 
 -------------ADULT XXL----Türkçe Alt Yazılı------------------------------
