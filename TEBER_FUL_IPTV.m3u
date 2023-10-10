@@ -7335,74 +7335,73 @@ https://eu1.vod.rdncdn.com/vod4/Movies/AutoTopMovies/TR/HowToGetOveraBreakup.mp4
 
 ----------------------------AZERBAIJAN----TV------------------------------
 
-#EXTM3U
-#EXTINF:-1,azstar HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",azstar HD
 http://65.21.196.155/azerbaijan/azstar/playlist.m3u8
-#EXTINF:-1,baku HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",baku HD
 http://65.21.196.155/azerbaijan/baku/playlist.m3u8
-#EXTINF:-1,gunaz HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",gunaz HD
 http://65.21.196.155/azerbaijan/gunaz/playlist.m3u8
-#EXTINF:-1,Turkmenistan Sport r
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Turkmenistan Sport r
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1,Turkmen Спорт
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Turkmen Спорт
 http://217.174.225.146/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1,Tennis Channel
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1,Wrestling
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1,Qazsport
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Qazsport
 http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:-1,Türkmenistan
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Türkmenistan
 https://alpha.tv.online.tm/legacyhls/ch007_400/index.m3u8
-#EXTINF:-1,Altyn Asyr
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Altyn Asyr
 https://alpha.tv.online.tm/legacyhls/ch001_400/index.m3u8
-#EXTINF:-1,Ýaşlyk
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Ýaşlyk
 https://alpha.tv.online.tm/legacyhls/ch002_400/index.m3u8
-#EXTINF:-1,Miras
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",,Miras
 https://alpha.tv.online.tm/legacyhls/ch003_400/index.m3u8
-#EXTINF:-1,Türkmenistan Sport
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Türkmenistan Sport
 https://alpha.tv.online.tm/legacyhls/ch004_400/index.m3u8
-#EXTINF:-1,Türkmen owazy
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Türkmen owazy
 https://alpha.tv.online.tm/legacyhls/ch005_400/index.m3u8
-#EXTINF:-1,Aşgabat
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",Aşgabat
 https://alpha.tv.online.tm/legacyhls/ch006_400/index.m3u8
-#EXTINF:-1,kanals HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",kanals HD
 http://65.21.196.155/azerbaijan/kanals/playlist.m3u8
-#EXTINF:-1,360
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",360
 http://65.21.196.155/russia/360/playlist.m3u8
-#EXTINF:-1,amedia_hit
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",amedia_hit
 http://65.21.196.155/russia/amedia_hit/playlist.m3u8
-#EXTINF:-1,denpobedi HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",denpobedi HD
 http://65.21.196.155/russia/denpobedi/playlist.m3u8
-#EXTINF:-1,euronews
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",euronews
 http://65.21.196.155/russia/euronews/playlist.m3u8
 #EXTINF:-1,fan
 http://65.21.196.155/russia/fan/playlist.m3u8
-#EXTINF:-1,kinosat
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",kinosat
 http://65.21.196.155/russia/kinosat/playlist.m3u8
-#EXTINF:-1,kinoseriya
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",kinoseriya
 http://65.21.196.155/russia/kinoseriya/playlist.m3u8
-#EXTINF:-1,mir_seriala
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",mir_seriala
 http://65.21.196.155/russia/mir_seriala/playlist.m3u8
-#EXTINF:-1,muzyka_pervogo
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",muzyka_pervogo
 http://65.21.196.155/russia/muzyka_pervogo/playlist.m3u8
-#EXTINF:-1,nash_kinopokaz HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",nash_kinopokaz HD
 http://65.21.196.155/russia/nash_kinopokaz/playlist.m3u8
-#EXTINF:-1,nashe_lyubimoe
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",nashe_lyubimoe
 http://65.21.196.155/russia/nashe_lyubimoe/playlist.m3u8
 #EXTINF:-1,ocean
 http://65.21.196.155/russia/ocean/playlist.m3u8
-#EXTINF:-1,otr
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",otr
 http://65.21.196.155/russia/otr/playlist.m3u8
-#EXTINF:-1,rodnoe
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",rodnoe
 http://65.21.196.155/russia/rodnoe/playlist.m3u8
-#EXTINF:-1,sovershenno_sekretno
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",sovershenno_sekretno
 http://65.21.196.155/russia/sovershenno_sekretno/playlist.m3u8
-#EXTINF:-1,sts_kids
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",sts_kids
 http://65.21.196.155/russia/sts_kids/playlist.m3u8
-#EXTINF:-1,unikum
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",unikum
 http://65.21.196.155/russia/unikum/playlist.m3u8
-#EXTINF:-1,zoo
+#EXTINF:0 type="stream" channelId="-1" group-title="7-AZERBAIJANTV" logo="/TEBER_MEDYA-logo-2.png",zoo
 http://65.21.196.155/russia/zoo/playlist.m3u8
 
 
