@@ -240,6 +240,10 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",MELTEM TV HD
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:0 user-agent="Firefox" tvg-id="SHOW Max" tvg-name="TR: SHOWMAX HD" tvg-logo="http://logo.showmax.us/tvlogo/showmax.png" group-title="TR-SHOWMAX",SHOWMAX TV
+
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW MAX TV HD" tvg-logo="https://www.server365.dev/logo/SHOW MAK/ulusal/hd/SHOW_MAX_TV.png" group-title="TURK ULUSAL",SHOW TV HD
+http://143951.iptvone.eu:80/ErcinSoysal/27BQ1HdQ74/31363
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
