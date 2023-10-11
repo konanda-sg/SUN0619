@@ -206,6 +206,9 @@ https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-KEMAL SUNAL TV" logo="/İPTV_DİZİ-logo-2.png",KEMAL SUNAL TV3 ʜᴅ
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KÜRTCE_TEMATİK" logo="/KURTCE_TEMATİK-logo-2.png",DENGE ZELAL TV
+https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: FX HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FX HD RAW
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/59944
 #EXTINF:-1 tvg-id="" tvg-name="TR: FOX CRIME HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FOX CRIME HD RAW
@@ -276,6 +279,9 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
 #EXTINF:-1,TR:ORT
 https://edge1.socialsmart.tv/orttv/bant1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/KÜRTCE-MÜZİK-logo-2.png",ASLAN TV
+https://starkurd.ozelip.com:3459/stream/play.m3u8
 
 #EXTINF:1,ALMANYA TV
 http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
@@ -412,8 +418,6 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/118
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/68985
 #EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TRT BELGESEL HD" tvg-logo="https://i.hizliresim.com/f50mlaa.png" group-title="08)TR➾ BELGESEL",TRT BELGESEL HD
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/119
-#EXTINF:-1 tvg-id="" tvg-name="KOY TV" tvg-logo="https://i.hizliresim.com/3z9wqgy.png" group-title="08)TR➾ BELGESEL",KOY TV
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/121
 #EXTINF:-1 tvg-id="" tvg-name="AV TV" tvg-logo="https://i.hizliresim.com/7235wgx.png" group-title="08)TR➾ BELGESEL",AV TV
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/123
 #EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="24 KITCHEN" tvg-logo="https://i.hizliresim.com/5qoh75g.png" group-title="08)TR➾ BELGESEL",24 KITCHEN
@@ -664,17 +668,11 @@ https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KANAL Z 
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" #EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT HD
 https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
-#EXTINF:99,DOSTELİ TV
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/TBRT-TV-logo-2.png",DOSTELİ TV
 http://91.134.203.253:30124/dost/dost/chunklist.m3u8
-
-#EXTINF:-1,DENGE ZELAL TV
-https://ssh101.bozztv.com/ssh101/denge301/playlist.m3u8
-
-#EXTINF:-1,SÜMBÜL TV
-https://ssh101.bozztv.com/ssh101/avasintv/chunks.m3u8
 
 #EXTINF:-1,AGRO TV FHD
 https://yayin30.haber100.com/live/agrotv/chunklist.m3u8
@@ -2827,44 +2825,43 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/59853
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/59854
 ---------------------BİZİM----MÜZİK---------------------------
 
-#EXTINF:0 type="stream" channelId="-1" group-title="5_ULUSAL_ _KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", MMN TV
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/TBRT-TV-logo-2.png", MMN TV
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1571985729.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MÜZÜK" logo="/İPTV_MÜZÜK-logo-2.png",Y.GEÇİDİ TV
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/TBRT-TV-logo-2.png",GEÇİDİ TV
 http://tv86905.radyotelekomtv.com:22808/ceyhantv/ceyhantv/chunklist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MÜZÜK" logo="/İPTV_MÜZÜK-logo-2.png",DEM int TV
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/TBRT-TV-logo-2.png",DEM int TV
 http://77.68.121.3/hls/stream.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MÜZÜK" logo="/İPTV_MÜZÜK-logo-2.png",KRAL POP TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/TBRT-TV-logo-2.png",KRAL POP TV 
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MÜZÜK" logo="/İPTV_MÜZÜK-logo-2.png",POWER TÜRK 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/TBRT-TV-logo-2.png",POWER TÜRK 
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8   
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MÜZÜK" logo="/İPTV_MÜZÜK-logo-2.png",NR1 TÜRK 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/TBRT-TV-logo-2.png",NR1 TÜRK 
 https://mn-nl.mncdn.com/blutv_nr1turk2/live_720p2000000kbps/index.m3u8
 
 ---------------------Yerli film----------------------------------
-#EXTINF:-1,ISTASYON TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT-TV-logo-2.png",ISTASYON TV 
 http://vod02.cdn.web.tv/tk/xc/tkxcv7gtbmm_,720,.mp4.urlset/playlist.m3u8
 
-#EXTINF:-1,ARIM BALIM PETEGIM 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT-TV-logo-2.png",ARIM BALIM PETEGIM 
 http://vod02.cdn.web.tv/ax/08/ax08zsbuioc_,720,.mp4.urlset/playlist.m3u8
 
-#EXTINF:-1,SATİN ALİNAN KOCA 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT-TV-logo-2.png",SATİN ALİNAN KOCA 
 http://vod02.cdn.web.tv/l6/5q/l65qigzmmcw_,720,.mp4.urlset/playlist.m3u8
 
-#EXTINF:-1,KUCUK SEVGILIM HD 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT-TV-logo-2.png",KUCUK SEVGILIM HD 
 http://vod02.cdn.web.tv/6a/2y/6a2yqfglggs_,720,.mp4.urlset/playlist.m3u8
 
-#EXTINF:-1,OYUN BITTI HD 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT-TV-logo-2.png",OYUN BITTI HD 
 http://vod02.cdn.web.tv/6b/gc/6bgcg0wjqho_,720,.mp4.urlset/playlist.m3u8
 
-#EXTINF:-1,YADELLER HD 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT-TV-logo-2.png",YADELLER HD 
 http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8
-
-#EXTINF:-1,BATAN GÜNEŞ HD 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YERLİ_FİLMLER" logo="/TBRT-TV-logo-2.png",BATAN GÜNEŞ HD 
 https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
 
 
