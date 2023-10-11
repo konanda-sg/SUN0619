@@ -209,6 +209,9 @@ http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
 #EXTINF:0 type="stream" channelId="-1" group-title="7-KÜRTCE_TEMATİK" logo="/KURTCE_TEMATİK-logo-2.png",DENGE ZELAL TV
 https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KÜRTCE_TEMATİK" logo="/KURTCE_TEMATİK-logo-2.png", AMED TV
+http://live.amedradyotv.net:2020/hls/ferat.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TR: FX HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FX HD RAW
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/59944
 #EXTINF:-1 tvg-id="" tvg-name="TR: FOX CRIME HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FOX CRIME HD RAW
@@ -3138,8 +3141,7 @@ http://win4.yayin.com.tr/postatv/postatv/simba.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-hKJG4oBtrxI/X2kPKC-qPdI/AAAAAAAAO2k/UeF8UADnPKEFSww-ib2VRuwpuvknpqBUwCLcBGAsYHQ/s320/aras%2Btv.jpg", ARAS TV
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-f_YOmaMm_jI/YGbs9unT2TI/AAAAAAAASbg/ZM-Fd5gY4Bk4tMxIFt-cLlMbkTtTLDHggCLcBGAsYHQ/s128/amed-logo-128x128.png", AMED TV DiYARBAKIR
-http://live.amedradyotv.net:8080/hls/ferat.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1" group-title="11_YEREL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", ANADOLU RTV
 https://broadcasttr.com:446/anadolurtv/bant1/chunklist.m3u8
