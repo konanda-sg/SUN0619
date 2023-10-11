@@ -280,7 +280,7 @@ https://edge1.socialsmart.tv/orttv/bant1/playlist.m3u8
 #EXTINF:1,ALMANYA TV
 http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT 1 HD
+#EXTINF:1,TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",[TR] TRT 2 HD
