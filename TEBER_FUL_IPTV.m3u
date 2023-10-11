@@ -98,19 +98,19 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png", CINE1 HD
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_DİZİ" logo="/İPTV_DİZİ-logo-2.png",DİZİ TV1
+#EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV1
 http://89.187.191.99:8080/tdc/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_DİZİ" logo="/İPTV_DİZİ-logo-2.png",DİZİ TV2 Ç.D.
+#EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV2 Ç.D.
 https://livestream.zazerconer.workers.dev/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_DİZİ" logo="/İPTV_DİZİ-logo-2.png",DİZİ TV3 M.Y.
+#EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV3 M.Y.
 https://livestream.zazerconer.workers.dev/channel/UCkRY4J8G__K8SEWZRLbke-Q.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_DİZİ" logo="/İPTV_DİZİ-logo-2.png",DİZİ TV4 C.M.
+#EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV4 C.M.
 https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_DİZİ" logo="/İPTV_DİZİ-logo-2.png",DİZİ TV5 Hz.Y.
+#EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV5 Hz.Y.
 https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-YANSIMA_TV_TEBER_GURUP" logo="/TEBER_MEDYA-logo-2.png",Yansıma Muzik TV HD
