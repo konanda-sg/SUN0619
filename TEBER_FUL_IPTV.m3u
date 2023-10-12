@@ -77,16 +77,16 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title=TEBER_KANALLARI",TEBER STAR
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="/https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b-logo-2.png",TEBER STAR
 https://ssh101.bozztv.com/ssh101/teber_star_tv/chunks.m3u8
 
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title=TEBER_KANALLARI",T.STAR EHLİBEYT TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="/https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b-logo-2.png",T.STAR EHLİBEYT TV 
 https://ssh101.bozztv.com/ssh101/ehlibeyt_tv/chunks.m3u8
 
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title=TEBER_KANALLARI",T.STAR ÇOCUK TV
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="/https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b-logo-2.png",T.STAR ÇOCUK TV
 https://ssh101.bozztv.com/ssh101/teber_çocuk_tv/chunks.m3u8
 
-#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title=TEBER_KANALLARI",T.STAR VE ROMAN TV
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="/https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b-logo-2.png",T.STAR VE ROMAN TV
 https://ssh101.bozztv.com/ssh101/teber&romantv/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FD SİNEMA TV 
