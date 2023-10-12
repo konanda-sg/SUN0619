@@ -77,22 +77,22 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1,BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANLALARI" logo="/https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b-TEBER_TV-logo-2.png",TEBER STAR
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title=TEBER_KANALLARI",TEBER STAR
 https://ssh101.bozztv.com/ssh101/teber_star_tv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANLALARI" logo="/https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b-TEBER_TV-logo-2.png",T.STAR EHLİBEYT TV 
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title=TEBER_KANALLARI",T.STAR EHLİBEYT TV 
 https://ssh101.bozztv.com/ssh101/ehlibeyt_tv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANLALARI" logo="/https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b-TEBER_TV-logo-2.png",T.STAR ÇOCUK TV
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title=TEBER_KANALLARI",T.STAR ÇOCUK TV
 https://ssh101.bozztv.com/ssh101/teber_çocuk_tv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANLALARI" logo="/https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b-TEBER_TV-logo-2.png",T.STAR VE ROMAN TV
+#EXTINF:10 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png" group-title=TEBER_KANALLARI",T.STAR VE ROMAN TV
 https://ssh101.bozztv.com/ssh101/teber&romantv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TEBER_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FD SİNEMA TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FD SİNEMA TV 
 https://250weu.bozztv.com/ssh101/ssh101/fdhdtv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-YANSIMA_TV_TEBER_GURUP" logo="/TEBER_MEDYA-logo-2.png",Yansinema TV HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",Yansinema TV HD
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png", CINE1 HD
@@ -113,81 +113,80 @@ https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV5 Hz.Y.
 https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",TELE ON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TELE ON
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",KANAL 19
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",TV 90 
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",TV 70 
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
 
 #EXTINF:1,KOBİM TV
 https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist_w1769647051.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",İSTANBUL TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",İSTANBUL TV
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",ViYANA TÜRK TV HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ViYANA TÜRK TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KEMAL SUNAL TV" logo="/İPTV_DİZİ-logo-2.png",A52 TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",A52 TV
 http://tv56245.ozelip.com:2052/a52tv/a52tv/chunklist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KEMAL SUNAL TV" logo="/İPTV_DİZİ-logo-2.png",AFYON TÜRK 
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",AFYON TÜRK 
 http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KEMAL SUNAL TV" logo="/İPTV_DİZİ-logo-2.png",DÜZGÜN TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",DÜZGÜN TV
 http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KEMAL SUNAL TV" logo="/İPTV_DİZİ-logo-2.png",SKY ŞABAN TV HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KEMAL SUNAL TV" logo="/İPTV_DİZİ-logo-2.png",ADA TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ADA TV
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",EM TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",EM TV
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",ETV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ETV
 https://edge1.socialsmart.tv/manisaetv/bant1/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",BULU PLAY1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",BULU PLAY1
 https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",BULU PLAY2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",BULU PLAY2
 https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",BİR TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png", OA TV HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", OA TV HD
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",Tivi Turk
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",Tivi Turk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ_YAYINLARI-logo-2.png",KANAL G 28
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL G 28
 https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 
-#EXTINF:-1,TR:İLKGÜN TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",İLKGÜN TV
 http://tv56245.ozelip.com:2052/ilkguntv/ilkguntv/İLKGÜN_TEBER_chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",SAM TV
 https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",AKTİF TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",AKTİF TV
 http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
 
-#EXTINF:1, CLC MEDYA TV HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
 --------------------GERÇEK-----HABER------------------------------
 
-#EXTINF:-1,TR: BABALA TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BABALA TV
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185041
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",KRT TV
@@ -276,10 +275,10 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/59912
 #EXTINF:-1 tvg-id="" tvg-name="TR: DİZİSMART MAX RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DİZİSMART MAX RAW
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/59913
 
-#EXTINF:-1,ATV alanya
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ATV alanya
 http://88.99.211.53:1935/alanyatv/bant1/sec-f5-v1-a1.m3u8
 
-#EXTINF:99, KANAL ADA TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL ADA TV
 http://145.239.58.133:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
 
 #EXTINF:-1,TÜRK HABER 
@@ -294,10 +293,10 @@ https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8
 #EXTINF:-1,GÜNEY TV
 https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/chunks.m3u8
 
-#EXTINF:-1,TR:TV48
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TV48
 https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 
-#EXTINF:-1,TR:ORT
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ORT
 https://edge1.socialsmart.tv/orttv/bant1/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/KÜRTCE-MÜZİK-logo-2.png",ASLAN TV
@@ -348,7 +347,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,KONYA OLAY TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
 
-#EXTINF:30, 15 TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",15 TV
 https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
 
 #EXTINF:1,KANAL S
@@ -357,7 +356,7 @@ https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w486539089.m3u8
 #EXTINF:-1,KANAL 16 
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
 
-#EXTINF:-1,TR:kanal 16.5
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",kanal 16.5
 http://145.239.58.133:28008/bucuk/bucuk/playlist.m3u8
 
 #EXTINF:-1,TV55
@@ -372,16 +371,16 @@ https://cdn1-yozgatbeltv.yayin.com.tr/yozgatbeltv/amlst:yozgatbeltv/chunklist_w1
 #EXTINF:-1,Kanal 34
 https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
 
-#EXTINF:-1,TR:TV MOR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TV MOR
 https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8
 
-#EXTINF:-1,TR: VAN GÖLÜ TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", VAN GÖLÜ TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist_w1465296297_b1696000.m3u8
 
-#EXTINF:-1,TR: KANAL MARKA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KANAL MARKA
 http://tv56245.ozelip.com:2052/marko/marko/chunklist.m3u8
 
-#EXTINF:-1,TR: HABER ON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HABER ON
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-name="₪₪₪₪₪ [ TR | BELGESEL ] ₪₪₪₪₪" tvg-logo="https://seeklogo.com/images/T/turkiye-yuvarlak-logo-6483C54DD8-seeklogo.com.png" group-title="08)TR➾ BELGESEL",₪₪₪₪₪ [ TR | BELGESEL ] ₪₪₪₪₪
@@ -493,7 +492,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 http://rtmp2.abnvideos.com/hls/abnturkey.m3u8
 
 ---------------BİZİM---YEREL--KANALLAR--------------
-#EXTINF:1,SÜPRİZ TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",SÜPRİZ TV 
 https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
 
 
@@ -596,7 +595,7 @@ https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 #EXTINF:-1,A-Net TV 
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 
-#EXTINF:-1,Özburun TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",Özburun TV
 https://media2.streambrothers.com:19360/8314/8314.m3u8
 
 #EXTINF:70 tvg-id="" tvg-language="Türkçe" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/59a5e6e2-8ae5-432d-948b-509ab7ea4d70.png" group-title= "YEREL KANALLAR", Aras TV
@@ -623,7 +622,7 @@ https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
 #EXTINF:111,GOP SEN TV
 http://91.134.203.253:30124/gopsentv/gopsentv/chunklist.m3u8
 
-#EXTINF:115,KANAL ANTALYA 
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL ANTALYA 
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
 #EXTINF:115,VİZYON 58
@@ -677,7 +676,7 @@ https://live.artidijitalmedya.com/artidijital_ekoltv/ekoltv/chunks.m3u8
 #EXTINF:-1,BR TV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 
-#EXTINF:-1,KANAL BİZ
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL BİZ
 https://st.biztv.uz/hls/stream_hi/index.m3u8
 
 #EXTINF:-1,KANAL 23 
@@ -746,7 +745,7 @@ https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 #EXTINF:-1,TÜRK HABER 
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8 
 
-#EXTINF:-1,TR:BİR TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",KANAL AVRUPA" group-title="TURK ULUSAL",TR:KANAL AVRUPA
@@ -766,12 +765,6 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
 #EXTINF:1,ALMANYA TV
 http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
-
-#EXTINF:58 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLUPLAY 1 HD
-https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
-
-#EXTINF:60 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BTV
-https://edge1.socialsmart.tv/btv/bant1/chunks.m3u8
 
 #EXTINF:103,DEMİRCİ TV
 http://91.134.203.253:30124/demircitv/demircitv/chunklist.m3u8
@@ -854,7 +847,7 @@ https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1,YANSIMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,TV4 
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TV4 
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/TEBER_MEDYA-logo-2.png",CANSUYU TV
@@ -991,191 +984,191 @@ http://tv86905.radyotelekomtv.com:22808/aktuel/aktuel/playlist.m3u8
 
 
 -----------TANSU-------SİNEMA-------------------------
-#EXTINF:-1,TR:  MAX Aksiyon HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",  MAX Aksiyon HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63032
-#EXTINF:-1,TR: MAX Aksiyon 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX Aksiyon 2 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63033
-#EXTINF:-1,TR: MAX Premier HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX Premier HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63034
-#EXTINF:-1,TR: MAX Orjinal HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX Orjinal HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63035
-#EXTINF:-1,TR: MAX Western HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX Western HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63036
-#EXTINF:-1,TR: MAX Hint Filimleri
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX Hint Filimleri
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63037
-#EXTINF:-1,TR: MAX Vizyon HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX Vizyon HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63038
-#EXTINF:-1,TR: MAX Vizyon 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX Vizyon 2 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63039
-#EXTINF:-1,TR: MAX Vizyon 3 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX Vizyon 3 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63040
-#EXTINF:-1,TR: MAX Vizyon 4 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX Vizyon 4 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63041
-#EXTINF:-1,TR: MAX 007 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX 007 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63042
-#EXTINF:-1,TR: MAX STAR WARS HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX STAR WARS HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63043
-#EXTINF:-1,TR: MAX TURK HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX TURK HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63044
-#EXTINF:-1,TR: MAX PLUS HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX PLUS HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63045
-#EXTINF:-1,TR: MAX GOLD HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAX GOLD HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/63046
-#EXTINF:-1,TR: FX FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", FX FHD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/203
-#EXTINF:-1,TR: BEIN BOX OFFICE 1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEIN BOX OFFICE 1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/67359
-#EXTINF:-1,TR: BEIN BOX OFFICE 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEIN BOX OFFICE 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/67360
-#EXTINF:-1,TR: BEIN BOX OFFICE 3
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEIN BOX OFFICE 3
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/67361
-#EXTINF:-1,TR: beIN MOVIES TURK HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", beIN MOVIES TURK HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/170
-#EXTINF:-1,TR: beIN MOVIES PREMIERE HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", beIN MOVIES PREMIERE HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/172
-#EXTINF:-1,TR: beIN MOVIES PREMIERE 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", beIN MOVIES PREMIERE 2 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/173
-#EXTINF:-1,TR: beIN MOVIES STARS HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", beIN MOVIES STARS HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/174
-#EXTINF:-1,TR: beIN SERIES 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", beIN SERIES 1 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/177
-#EXTINF:-1,TR: beIN SERIES 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", beIN SERIES 2 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/95796
-#EXTINF:-1,TR: beIN SERIES 3 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", beIN SERIES 3 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/178
-#EXTINF:-1,TR: beIN SERIES 4 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", beIN SERIES 4 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/180
-#EXTINF:-1,TR: MOVIE SMART TURK HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MOVIE SMART TURK HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184
-#EXTINF:-1,TR: MOVIE SMART CLASSIC HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MOVIE SMART CLASSIC HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/192
-#EXTINF:-1,TR: DIZI SMART PREMIUM HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DIZI SMART PREMIUM HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/194
-#EXTINF:-1,TR: DIZI SMART MAX HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DIZI SMART MAX HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/195
-#EXTINF:-1,TR: SINEMA TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SINEMA TV
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/196
-#EXTINF:-1,TR: SINEMA TV 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SINEMA TV 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/29068
-#EXTINF:-1,TR: SINEMA TV YERLI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SINEMA TV YERLI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/197
-#EXTINF:-1,TR: SINEMA TV YERLI 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SINEMA TV YERLI 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/18781
-#EXTINF:-1,TR: SINEMA TV KOMEDI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SINEMA TV KOMEDI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/198
-#EXTINF:-1,TR: SINEMA TV AKSIYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SINEMA TV AKSIYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/199
-#EXTINF:-1,TR: SINEMA TV AKSIYON 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SINEMA TV AKSIYON 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9232
-#EXTINF:-1,TR: SINEMA TV AILE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SINEMA TV AILE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/200
-#EXTINF:-1,TR: SINEMA TV 1001
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SINEMA TV 1001
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/201
-#EXTINF:-1,TR: SINEMA TV 1002
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SINEMA TV 1002
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9231
 #EXTINF:-1,EPIC DRAMA HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/19215
-#EXTINF:-1,FILMBOX HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/18783
-#EXTINF:-1,FILMBOX ACTION
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX ACTION
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8566
-#EXTINF:-1,FILMBOX EXTRA HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX EXTRA HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/33954
-#EXTINF:-1,FILMBOX ARTHOUSE HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX ARTHOUSE HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/33955
-#EXTINF:-1,FILMBOX ROMANTIC
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX ROMANTIC
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/29069
-#EXTINF:-1,FILMBOX BILIMKURGU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX BILIMKURGU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8567
-#EXTINF:-1,FILMBOX FANTASTIC
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX FANTASTIC
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8568
-#EXTINF:-1,FILMBOX DRAMA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX DRAMA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8569
-#EXTINF:-1,FILMBOX HORROR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX HORROR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8570
-#EXTINF:-1,FILMBOX COMEDY
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX COMEDY
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8571
-#EXTINF:-1,FILMBOX FAMILY
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX FAMILY
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8572
-#EXTINF:-1,FILMBOX YERLI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX YERLI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8574
-#EXTINF:-1,FILMBOX SINEVIZYON INFO
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON INFO
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8544
-#EXTINF:-1,FILMBOX SINEVIZYON 1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8545
-#EXTINF:-1,FILMBOX SINEVIZYON 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8546
-#EXTINF:-1,FILMBOX SINEVIZYON 3
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 3
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8547
-#EXTINF:-1,FILMBOX SINEVIZYON 4
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 4
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8548
-#EXTINF:-1,FILMBOX SINEVIZYON 5
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 5
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8549
-#EXTINF:-1,FILMBOX SINEVIZYON 6
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 6
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8550
-#EXTINF:-1,FILMBOX SINEVIZYON 7
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 7
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8551
-#EXTINF:-1,FILMBOX SINEVIZYON 8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 8
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8552
-#EXTINF:-1,FILMBOX SINEVIZYON 9
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 9
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8553
-#EXTINF:-1,FILMBOX SINEVIZYON 10
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 10
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8554
-#EXTINF:-1,FILMBOX SINEVIZYON 11
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 11
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8555
-#EXTINF:-1,FILMBOX SINEVIZYON 12
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 12
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8556
-#EXTINF:-1,FILMBOX SINEVIZYON 13
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 13
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8557
-#EXTINF:-1,FILMBOX SINEVIZYON 14
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 14
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8558
-#EXTINF:-1,FILMBOX SINEVIZYON 15
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 15
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8559
-#EXTINF:-1,FILMBOX SINEVIZYON 16
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 16
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8560
-#EXTINF:-1,FILMBOX SINEVIZYON 17
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 17
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8561
-#EXTINF:-1,FILMBOX SINEVIZYON 18
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 18
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8562
-#EXTINF:-1,FILMBOX SINEVIZYON 19
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 19
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8563
-#EXTINF:-1,FILMBOX SINEVIZYON 20
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FILMBOX SINEVIZYON 20
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8564
-#EXTINF:-1,PROTURK ACTION
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK ACTION
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9116
-#EXTINF:-1,PROTURK VIZYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK VIZYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9118
-#EXTINF:-1,PROTURK KORKU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK KORKU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9117
-#EXTINF:-1,PROTURK GERILIM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK GERILIM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/3249
-#EXTINF:-1,PROTURK WESTERN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK WESTERN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/3250
-#EXTINF:-1,PROTURK BILIMKURGU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK BILIMKURGU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/3252
-#EXTINF:-1,PROTURK NETFLIX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK NETFLIX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/3254
-#EXTINF:-1,PROTURK DRAMA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK DRAMA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/3255
-#EXTINF:-1,PROTURK YERLI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK YERLI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/3257
-#EXTINF:-1,PROTURK MACERA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK MACERA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/181
-#EXTINF:-1,PROTURK COMEDY
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK COMEDY
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/182
-#EXTINF:-1,PROTURK FANTASTIC
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK FANTASTIC
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/183
-#EXTINF:-1,ARENABOX AKSIYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ARENABOX AKSIYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20065
-#EXTINF:-1,ARENABOX FANTASTIC
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ARENABOX FANTASTIC
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20066
-#EXTINF:-1,ARENABOX KORKU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ARENABOX KORKU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20067
-#EXTINF:-1,ARENABOX YERLI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ARENABOX YERLI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20068
-#EXTINF:-1,ARENABOX ANIMASYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ARENABOX ANIMASYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20069
-#EXTINF:-1,PROTURK ORJINAL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK ORJINAL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20777
 #EXTINF:-1,MEGABOX ACTION
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20032
@@ -1253,813 +1246,813 @@ http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/233
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20057
 #EXTINF:-1,DREAMBOX FANTASTIK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20056
-#EXTINF:-1,TR: DINAMIK SALON-1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SALON-1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184988
-#EXTINF:-1,TR: DINAMIK SALON-2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SALON-2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184989
-#EXTINF:-1,TR: DINAMIK SALON-3
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SALON-3
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184990
-#EXTINF:-1,TR: DINAMIK SALON-4
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SALON-4
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184991
-#EXTINF:-1,TR: DINAMIK SALON-5
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SALON-5
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184992
-#EXTINF:-1,TR: DINAMIK SALON-6
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SALON-6
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184993
-#EXTINF:-1,TR: DINAMIK SALON-7
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SALON-7
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184994
-#EXTINF:-1,TR: DINAMIK SALON-8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SALON-8
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184995
-#EXTINF:-1,TR: DINAMIK SALON-9
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SALON-9
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184996
-#EXTINF:-1,TR: DINAMIK SALON-10
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SALON-10
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184997
-#EXTINF:-1,TR: DINAMIK VIZYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK VIZYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184987
-#EXTINF:-1,TR: DINAMIK BILIMKURGU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK BILIMKURGU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184986
-#EXTINF:-1,TR: DINAMIK ANIMASYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK ANIMASYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184985
-#EXTINF:-1,TR: DINAMIK KORKU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK KORKU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184984
-#EXTINF:-1,TR: DINAMIK KOMEDI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK KOMEDI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184983
-#EXTINF:-1,TR: DINAMIK DRAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK DRAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184982
-#EXTINF:-1,TR: DINAMIK WESTERN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK WESTERN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184980
-#EXTINF:-1,TR: DINAMIK UZAKDOGU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK UZAKDOGU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184979
-#EXTINF:-1,TR: DINAMIK TURK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK TURK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184978
-#EXTINF:-1,TR: DINAMIK SAVAS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SAVAS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184976
-#EXTINF:-1,TR: DINAMIK MARVEL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK MARVEL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184975
-#EXTINF:-1,TR: DINAMIK LOCA-1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK LOCA-1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184972
-#EXTINF:-1,TR: DINAMIK LOCA-2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK LOCA-2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184973
-#EXTINF:-1,TR: DINAMIK LOCA-3
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK LOCA-3
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184974
-#EXTINF:-1,TR: DINAMIK KEMAL SUNAL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK KEMAL SUNAL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
-#EXTINF:-1,TR: DINAMIK IMBD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK IMBD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184970
-#EXTINF:-1,TR: DINAMIK HINT
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK HINT
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184969
-#EXTINF:-1,TR: DINAMIK DINI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK DINI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184967
-#EXTINF:-1,TR: DINAMIK BOX-SET
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK BOX-SET
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184966
-#EXTINF:-1,TR: DINAMIK AKSIYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK AKSIYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184965
-#EXTINF:-1,TR: ULTRA IMBD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA IMBD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184964
-#EXTINF:-1,TR: ULTRA LOCA 1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA LOCA 1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184960
-#EXTINF:-1,TR: ULTRA LOCA 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA LOCA 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184961
-#EXTINF:-1,TR: ULTRA LOCA 3
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA LOCA 3
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184963
-#EXTINF:-1,TR: ULTRA NETFLIX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA NETFLIX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184962
-#EXTINF:-1,TR: ULTRA TURK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA TURK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184959
-#EXTINF:-1,TR: ULTRA SAVAS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA SAVAS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184958
-#EXTINF:-1,TR: ULTRA KORKU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA KORKU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184957
-#EXTINF:-1,TR: ULTRA KOMEDI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA KOMEDI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184956
-#EXTINF:-1,TR: ULTRA KEMAL SUNAL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA KEMAL SUNAL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184955
-#EXTINF:-1,TR: ULTRA BILIMKURGU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA BILIMKURGU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184954
-#EXTINF:-1,TR: ULTRA ANIMASYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA ANIMASYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184953
-#EXTINF:-1,TR: ULTRA AKSIYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ULTRA AKSIYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184952
-#EXTINF:-1,TR: BEST WESTERN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST WESTERN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184950
-#EXTINF:-1,TR: BEST KORKU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST KORKU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184949
-#EXTINF:-1,TR: BEST KOMEDI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST KOMEDI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184948
-#EXTINF:-1,TR: BEST DRAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST DRAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184947
-#EXTINF:-1,TR: BEST BILIMKURGU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST BILIMKURGU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184946
-#EXTINF:-1,TR: BEST TURK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST TURK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184945
-#EXTINF:-1,TR: BEST LOCA 1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST LOCA 1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184942
-#EXTINF:-1,TR: BEST LOCA 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST LOCA 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184943
-#EXTINF:-1,TR: BEST LOCA 3
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST LOCA 3
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184944
-#EXTINF:-1,TR: BEST SAVAS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST SAVAS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184941
-#EXTINF:-1,TR: BEST SALON 1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST SALON 1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184938
-#EXTINF:-1,TR: BEST SALON 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST SALON 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184939
-#EXTINF:-1,TR: BEST SALON 3
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST SALON 3
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184940
-#EXTINF:-1,TR: BEST IMBD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST IMBD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184937
-#EXTINF:-1,TR: BEST ANIMASYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST ANIMASYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184935
-#EXTINF:-1,TR: BEST NETFLİX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST NETFLİX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184934
-#EXTINF:-1,TR: BEST AKSIYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST AKSIYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184933
-#EXTINF:-1,TR: DREAM Western
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM Western
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184932
-#EXTINF:-1,TR: DREAM Savas
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM Savas
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184931
-#EXTINF:-1,TR: DREAM TURK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM TURK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184930
-#EXTINF:-1,TR: DREAM BEINOFFICE 1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BEINOFFICE 1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184920
-#EXTINF:-1,TR: DREAM BEINOFFICE 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BEINOFFICE 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184921
-#EXTINF:-1,TR: DREAM BEINOFFICE 3
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BEINOFFICE 3
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184922
-#EXTINF:-1,TR: DREAM BEINOFFICE 4
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BEINOFFICE 4
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184923
-#EXTINF:-1,TR: DREAM BEINOFFICE 5
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BEINOFFICE 5
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184924
-#EXTINF:-1,TR: DREAM BEINOFFICE 6
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BEINOFFICE 6
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184925
-#EXTINF:-1,TR: DREAM BEINOFFICE 7
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BEINOFFICE 7
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184926
-#EXTINF:-1,TR: DREAM BEINOFFICE 8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BEINOFFICE 8
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184927
-#EXTINF:-1,TR: DREAM BEINOFFICE 9
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BEINOFFICE 9
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184928
-#EXTINF:-1,TR: DREAM BEINOFFICE 10
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BEINOFFICE 10
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184929
-#EXTINF:-1,TR: DREAM Netflix
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM Netflix
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184919
-#EXTINF:-1,TR: DREAM LOCA 1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM LOCA 1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184916
-#EXTINF:-1,TR: DREAM LOCA 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM LOCA 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184917
-#EXTINF:-1,TR: DREAM LOCA 3
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM LOCA 3
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184918
-#EXTINF:-1,TR: DREAM KORKU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM KORKU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184915
-#EXTINF:-1,TR: DREAM KOMEDI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM KOMEDI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184914
-#EXTINF:-1,TR: DREAM AKSIYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM AKSIYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184906
-#EXTINF:-1,TR: DREAM KEMAL SUNAL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM KEMAL SUNAL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184913
-#EXTINF:-1,TR: DREAM IMBD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM IMBD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184912
-#EXTINF:-1,TR: DREAM DRAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM DRAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184911
-#EXTINF:-1,TR: DREAM BOX-SET
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BOX-SET
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184910
-#EXTINF:-1,TR: DREAM BILIMKURGU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BILIMKURGU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184909
-#EXTINF:-1,TR: DREAM BELGESEL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM BELGESEL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184908
-#EXTINF:-1,TR: DREAM ANIMASYON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DREAM ANIMASYON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184907
-#EXTINF:-1,YESILCAM FILMBOX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",YESILCAM FILMBOX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8573
-#EXTINF:-1,YESILCAM MEGABOX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",YESILCAM MEGABOX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20045
-#EXTINF:-1,YESILCAM PRIMEBOX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",YESILCAM PRIMEBOX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9093
-#EXTINF:-1,YESILCAM TV PLUS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",YESILCAM TV PLUS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8793
-#EXTINF:-1,TR: BEST YESILCAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST YESILCAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184951
-#EXTINF:-1,TR: DINAMIK YESILCAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK YESILCAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184981
-#EXTINF:-1,TR: BEST HABABAM SINIFI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEST HABABAM SINIFI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184936
-#EXTINF:-1,TR: DINAMIK HABABAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK HABABAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184968
 #EXTINF:-1,CUNEYT ARKIN TV PLUS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8796
-#EXTINF:-1,TR: CUNEYT ARKIN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CUNEYT ARKIN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86616
-#EXTINF:-1,HALIT AKCATEPE TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",HALIT AKCATEPE TV
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/19284
 #EXTINF:-1,ILYAS SALMAN TV FILMBOX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8801
-#EXTINF:-1,TR: ILYAS SALMAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ILYAS SALMAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86625
-#EXTINF:-1,KADIR INANIR FILMBOX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KADIR INANIR FILMBOX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8800
-#EXTINF:-1,TR: KADIR INANIR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KADIR INANIR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86619
-#EXTINF:-1,MUNIR OZKUL TV YESILCAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MUNIR OZKUL TV YESILCAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/18381
-#EXTINF:-1,SADRI ALISIK TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",SADRI ALISIK TV
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/19283
-#EXTINF:-1,SENER SEN TV FILMBOX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",SENER SEN TV FILMBOX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/262
-#EXTINF:-1,TR: DINAMIK SENER SEN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DINAMIK SENER SEN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184977
-#EXTINF:-1,TARIK AKAN TV FILMBOX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TARIK AKAN TV FILMBOX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8797
-#EXTINF:-1,TR: TARIK AKAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TARIK AKAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86622
-#EXTINF:-1,ZEKI METIN TV FILMBOX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ZEKI METIN TV FILMBOX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/8799
-#EXTINF:-1,TR: AYHAN IŞIK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", AYHAN IŞIK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86615
-#EXTINF:-1,TR: FATMA GIRIK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", FATMA GIRIK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86617
-#EXTINF:-1,TR: FERDI TAYFUR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", FERDI TAYFUR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86618
-#EXTINF:-1,TR: KARTAL TIBET
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KARTAL TIBET
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86620
-#EXTINF:-1,TR: ORHAN GENCEBAY
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ORHAN GENCEBAY
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86621
-#EXTINF:-1,TR: TURKAN SORAY
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TURKAN SORAY
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86623
-#EXTINF:-1,TR: YILMAZ GUNEY
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", YILMAZ GUNEY
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/86624
-#EXTINF:-1,TR: BATMAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BATMAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185002
-#EXTINF:-1,TR: BEN 10
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BEN 10
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185066
-#EXTINF:-1,TR: BETTER CALL SAUL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BETTER CALL SAUL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185139
-#EXTINF:-1,TR: BOOBA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BOOBA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185067
-#EXTINF:-1,TR: BRAD BITT
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BRAD BITT
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185031
-#EXTINF:-1,TR: BREAKING BAD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BREAKING BAD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185141
-#EXTINF:-1,TR: BRUCE LEE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BRUCE LEE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185004
-#EXTINF:-1,TR: BRUCE WILLS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BRUCE WILLS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185038
-#EXTINF:-1,TR: BULMACA KULESI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BULMACA KULESI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185068
-#EXTINF:-1,TR: CALLOU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CALLOU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185069
-#EXTINF:-1,TR: CAMARON DIAZ
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CAMARON DIAZ
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185032
-#EXTINF:-1,TR: CANIM KARDESIM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CANIM KARDESIM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185070
-#EXTINF:-1,TR: CARMEN SANDIEGO
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CARMEN SANDIEGO
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185114
-#EXTINF:-1,TR: CHICO
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CHICO
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185115
-#EXTINF:-1,TR: CHIKCY
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CHIKCY
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185071
-#EXTINF:-1,TR: CILGIN ORMAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CILGIN ORMAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185072
-#EXTINF:-1,TR: COCUK ILAHI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", COCUK ILAHI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185073
-#EXTINF:-1,TR: DAREDEVIL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DAREDEVIL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185142
-#EXTINF:-1,TR: DESIGNATOR SURVIVOR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DESIGNATOR SURVIVOR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185143
-#EXTINF:-1,TR: DEXTER
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DEXTER
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185144
-#EXTINF:-1,TR: DORU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DORU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185074
-#EXTINF:-1,TR: DRAGON RACE TO THE EDGE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", DRAGON RACE TO THE EDGE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185116
-#EXTINF:-1,TR: EGE GAGA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", EGE GAGA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185075
-#EXTINF:-1,TR: EL CHAPO
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", EL CHAPO
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185145
-#EXTINF:-1,TR: ELIFIN RUYASI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ELIFIN RUYASI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185077
-#EXTINF:-1,TR: ELITE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ELITE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185146
-#EXTINF:-1,TR: ELİF ARKADASLAR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ELİF ARKADASLAR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185076
-#EXTINF:-1,TR: EMPATI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", EMPATI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185043
-#EXTINF:-1,TR: ERSAN KUNERI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ERSAN KUNERI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185147
-#EXTINF:-1,TR: GABBY HOUSE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", GABBY HOUSE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185118
-#EXTINF:-1,TR: GAME OF THRONES
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", GAME OF THRONES
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185148
-#EXTINF:-1,TR: GERCEK KESIT
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", GERCEK KESIT
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185044
-#EXTINF:-1,TR: GIZEMLI DIYARI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", GIZEMLI DIYARI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185078
-#EXTINF:-1,TR: HADISLERLE DIRILIS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HADISLERLE DIRILIS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185050
-#EXTINF:-1,TR: HAPSUU
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HAPSUU
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185079
-#EXTINF:-1,TR: HARRISON FORD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HARRISON FORD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185039
-#EXTINF:-1,TR: HARRY POTTER
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HARRY POTTER
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185006
-#EXTINF:-1,TR: HASAN VE HUSEYIN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HASAN VE HUSEYIN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185055
-#EXTINF:-1,TR: HAYALHANEM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HAYALHANEM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185045
-#EXTINF:-1,TR: HE-MAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HE-MAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185121
-#EXTINF:-1,TR: HEIDI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HEIDI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185119
-#EXTINF:-1,TR: HELLO NINJA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HELLO NINJA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185120
-#EXTINF:-1,TR: HIZLI VE OFKELI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HIZLI VE OFKELI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185117
-#EXTINF:-1,TR: HOBBIT
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HOBBIT
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185007
-#EXTINF:-1,TR: HZ MERYEM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HZ MERYEM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185057
-#EXTINF:-1,TR: HZ OMER
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HZ OMER
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185058
-#EXTINF:-1,TR: HZ YUSUF
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HZ YUSUF
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185060
-#EXTINF:-1,TR: IMAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", IMAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185056
-#EXTINF:-1,TR: IPMAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", IPMAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185008
-#EXTINF:-1,TR: IRON FIST
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", IRON FIST
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185149
-#EXTINF:-1,TR: ISLAM VE HAYAT
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ISLAM VE HAYAT
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185053
-#EXTINF:-1,TR: ITFAYECI SAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ITFAYECI SAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185080
-#EXTINF:-1,TR: JACKY CHAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", JACKY CHAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185040
-#EXTINF:-1,TR: JASON STATHOM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", JASON STATHOM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185034
-#EXTINF:-1,TR: JESSICA JONES
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", JESSICA JONES
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185154
-#EXTINF:-1,TR: JETLI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", JETLI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185036
-#EXTINF:-1,TR: JURASSIC WORLD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", JURASSIC WORLD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185122
-#EXTINF:-1,TR: KARANLIK ULKESI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KARANLIK ULKESI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185009
-#EXTINF:-1,TR: KARAYIP KORSANLARI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KARAYIP KORSANLARI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185010
-#EXTINF:-1,TR: KARE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KARE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185081
-#EXTINF:-1,TR: KATARSIS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KATARSIS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185046
-#EXTINF:-1,TR: KELOGLAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KELOGLAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185082
-#EXTINF:-1,TR: KONG KING
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KONG KING
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185123
-#EXTINF:-1,TR: KONUSANLAR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KONUSANLAR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185047
-#EXTINF:-1,TR: KOSTEBEKGILLER
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KOSTEBEKGILLER
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185083
-#EXTINF:-1,TR: KRAL SAKIR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KRAL SAKIR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185084
-#EXTINF:-1,TR: KUKULI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KUKULI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185085
-#EXTINF:-1,TR: KUNGFU PANDA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KUNGFU PANDA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185124
-#EXTINF:-1,TR: LA CASA DE PAPEL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", LA CASA DE PAPEL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185150
-#EXTINF:-1,TR: LEYLEK KARDES
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", LEYLEK KARDES
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185086
-#EXTINF:-1,TR: LIMON ZEYTIN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", LIMON ZEYTIN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185087
-#EXTINF:-1,TR: LOST
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", LOST
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185151
-#EXTINF:-1,TR: LOST IN SPACE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", LOST IN SPACE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185152
-#EXTINF:-1,TR: LOVE THE DEATH ROBOT
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", LOVE THE DEATH ROBOT
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185125
-#EXTINF:-1,TR: LUCIFER
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", LUCIFER
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185153
-#EXTINF:-1,TR: MASA KOCAAYI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MASA KOCAAYI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185088
-#EXTINF:-1,TR: MATRIX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MATRIX
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185011
-#EXTINF:-1,TR: MAYMUNLAR CEHHENEMI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MAYMUNLAR CEHHENEMI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185012
-#EXTINF:-1,TR: MERLIN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MERLIN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185157
-#EXTINF:-1,TR: MICKEY MOUSE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MICKEY MOUSE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185126
-#EXTINF:-1,TR: MIMOCAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MIMOCAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185089
-#EXTINF:-1,TR: MUMYA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", MUMYA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185013
-#EXTINF:-1,TR: NARCOS MEXICO
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", NARCOS MEXICO
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185158
-#EXTINF:-1,TR: NASRETTİN HOCA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", NASRETTİN HOCA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185090
-#EXTINF:-1,TR: NICHOLAS CAGE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", NICHOLAS CAGE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185037
-#EXTINF:-1,TR: NILOYA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", NILOYA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185091
-#EXTINF:-1,TR: ORUMCEK ADAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ORUMCEK ADAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185014
-#EXTINF:-1,TR: OSCAR COLLERDE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", OSCAR COLLERDE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185092
-#EXTINF:-1,TR: OZARK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", OZARK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185159
-#EXTINF:-1,TR: PAK PIRPIR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PAK PIRPIR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185093
-#EXTINF:-1,TR: PARADISE PD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PARADISE PD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185127
-#EXTINF:-1,TR: PATRON BEBEK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PATRON BEBEK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185128
-#EXTINF:-1,TR: PAW PETROL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PAW PETROL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185094
-#EXTINF:-1,TR: PEAKY BLINDERS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PEAKY BLINDERS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185160
-#EXTINF:-1,TR: PEEPA PIG
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PEEPA PIG
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185095
-#EXTINF:-1,TR: PEPE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PEPE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185096
-#EXTINF:-1,TR: PEYGAMBERLER TARIHI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PEYGAMBERLER TARIHI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185051
-#EXTINF:-1,TR: PIJAMA MASKE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PIJAMA MASKE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185097
-#EXTINF:-1,TR: PIRIL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PIRIL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185098
-#EXTINF:-1,TR: PISI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PISI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185099
-#EXTINF:-1,TR: POKEMON
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", POKEMON
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185100
-#EXTINF:-1,TR: POLIS AKADEMESI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", POLIS AKADEMESI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185015
-#EXTINF:-1,TR: PRISON BREAK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PRISON BREAK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185156
-#EXTINF:-1,TR: PUNISHER
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", PUNISHER
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185155
-#EXTINF:-1,TR: QUANTICO
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", QUANTICO
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185161
-#EXTINF:-1,TR: RAFADAN TAYFA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", RAFADAN TAYFA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185101
-#EXTINF:-1,TR: RAMBO
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", RAMBO
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185016
-#EXTINF:-1,TR: RECEP IVEDIK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", RECEP IVEDIK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185017
-#EXTINF:-1,TR: RESEDENT EVIL
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", RESEDENT EVIL
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185018
-#EXTINF:-1,TR: ROCKY BALBOA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ROCKY BALBOA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185019
-#EXTINF:-1,TR: RUYA TRENI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", RUYA TRENI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185102
-#EXTINF:-1,TR: SAHABE HAYATLARI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SAHABE HAYATLARI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185052
-#EXTINF:-1,TR: SEF ROKKA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SEF ROKKA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185103
-#EXTINF:-1,TR: SEKER HOCA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SEKER HOCA
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185104
-#EXTINF:-1,TR: SERCE KUS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SERCE KUS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185105
-#EXTINF:-1,TR: SEVIMLI DOSTLAR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SEVIMLI DOSTLAR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185106
-#EXTINF:-1,TR: SIRINLER
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SIRINLER
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185107
-#EXTINF:-1,TR: SLVEYSTER STALLONE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SLVEYSTER STALLONE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185035
-#EXTINF:-1,TR: SNOWPIERCER
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SNOWPIERCER
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185162
-#EXTINF:-1,TR: SON DURAK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SON DURAK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185020
-#EXTINF:-1,TR: SON OF ANARCY
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SON OF ANARCY
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185164
-#EXTINF:-1,TR: SONIC BOOM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SONIC BOOM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185129
-#EXTINF:-1,TR: SPIDERMAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SPIDERMAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185108
-#EXTINF:-1,TR: STAR TREK
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", STAR TREK
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185021
-#EXTINF:-1,TR: STAR WARS THE CLONE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", STAR WARS THE CLONE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185130
-#EXTINF:-1,TR: STARBREAM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", STARBREAM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185131
-#EXTINF:-1,TR: STRANGER THINKS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", STRANGER THINKS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185165
-#EXTINF:-1,TR: SUITS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SUITS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185163
-#EXTINF:-1,TR: SUPERMAN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SUPERMAN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185022
-#EXTINF:-1,TR: TAVSAN MOMO
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TAVSAN MOMO
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185109
-#EXTINF:-1,TR: TAYO
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TAYO
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185110
-#EXTINF:-1,TR: TEEM TİTANS GO
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TEEM TİTANS GO
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185132
-#EXTINF:-1,TR: TEEN WOLF
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TEEN WOLF
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185166
-#EXTINF:-1,TR: TERMINATOR
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TERMINATOR
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185023
-#EXTINF:-1,TR: TESTERE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TESTERE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185024
-#EXTINF:-1,TR: THE 100
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", THE 100
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185136
-#EXTINF:-1,TR: THE BLACKLIST
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", THE BLACKLIST
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185167
-#EXTINF:-1,TR: THE BOURNE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", THE BOURNE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185003
-#EXTINF:-1,TR: THE WALKING DEAD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", THE WALKING DEAD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185168
-#EXTINF:-1,TR: TOLGSHOW FILTRESIZ
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TOLGSHOW FILTRESIZ
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185048
-#EXTINF:-1,TR: TOY STORY
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TOY STORY
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185133
-#EXTINF:-1,TR: TRANSFORMERS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TRANSFORMERS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185025
-#EXTINF:-1,TR: TRANSFORMERS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TRANSFORMERS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185134
-#EXTINF:-1,TR: TRUE AND THE RAINBOW
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", TRUE AND THE RAINBOW
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185135
-#EXTINF:-1,TR: VAN DAMME
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", VAN DAMME
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185033
-#EXTINF:-1,TR: VAN HELSING
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", VAN HELSING
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185169
-#EXTINF:-1,TR: VIKINGLER
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", VIKINGLER
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185111
-#EXTINF:-1,TR: VIKINGS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", VIKINGS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185170
-#EXTINF:-1,TR: X-MEN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", X-MEN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185026
-#EXTINF:-1,TR: YER 6
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", YER 6
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185049
-#EXTINF:-1,TR: YUNUS EMRE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", YUNUS EMRE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185059
-#EXTINF:-1,TR: YURTSEVEN KARDESLER
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", YURTSEVEN KARDESLER
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/88954
-#EXTINF:-1,TR: ZOR OLUM
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ZOR OLUM
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185027
-#EXTINF:-1,TR: ÇILGIN DERSHANE
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ÇILGIN DERSHANE
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185005
-#EXTINF:-1,TR: ÇOK GUZEL HAREKETLER 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", ÇOK GUZEL HAREKETLER 2
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185042
 
 --------------------isaciraci FILM TV -------------------------------
-#EXTINF:-1,|TR| MAX FILM TV HD 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 1 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188107
-#EXTINF:-1,|TR| MAX FILM TV HD 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 2 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188108
-#EXTINF:-1,|TR| MAX FILM TV HD 3 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 3 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188109
-#EXTINF:-1,|TR| MAX FILM TV HD 4 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 4 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188110
-#EXTINF:-1,|TR| MAX FILM TV HD 5 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 5 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188111
-#EXTINF:-1,|TR| MAX FILM TV HD 6 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 6 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188112
-#EXTINF:-1,|TR| MAX FILM TV HD 7 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 7 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188113
-#EXTINF:-1,|TR| MAX FILM TV HD 8 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 8 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188114
-#EXTINF:-1,|TR| MAX FILM TV HD 9 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 9 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188115
-#EXTINF:-1,|TR| MAX FILM TV HD 10 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 10 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188116
-#EXTINF:-1,|TR| MAX FILM TV HD 11 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 11 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188117
-#EXTINF:-1,|TR| MAX FILM TV HD 12 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 12 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188118
-#EXTINF:-1,|TR| MAX FILM TV HD 13 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 13 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188119
-#EXTINF:-1,|TR| MAX FILM TV HD 14 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 14 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188120
-#EXTINF:-1,|TR| MAX FILM TV HD 15 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 15 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188121
-#EXTINF:-1,|TR| MAX FILM TV HD 16 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 16 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188122
-#EXTINF:-1,|TR| MAX FILM TV HD 17 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 17 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188123
-#EXTINF:-1,|TR| MAX FILM TV HD 18 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 18 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188124
-#EXTINF:-1,|TR| MAX FILM TV HD 19 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 19 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188125
-#EXTINF:-1,|TR| MAX FILM TV HD 20 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX FILM TV HD 20 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188126
-#EXTINF:-1,|TR| MAX VIP SINEMA 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX VIP SINEMA 1 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/112203
-#EXTINF:-1,|TR| MAX VIP SINEMA 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX VIP SINEMA 2 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/112204
-#EXTINF:-1,|TR| MAX VIP SINEMA 3 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX VIP SINEMA 3 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/112205
-#EXTINF:-1,|TR| MAX VIP SINEMA 4 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX VIP SINEMA 4 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/112206
-#EXTINF:-1,|TR| MAX VIP SINEMA 5 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX VIP SINEMA 5 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/112207
-#EXTINF:-1,|TR| MAX VIP SINEMA  6 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX VIP SINEMA  6 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/112208
-#EXTINF:-1,|TR| MAX VIP SINEMA 7 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX VIP SINEMA 7 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/112209
-#EXTINF:-1,|TR| MAX VIP SINEMA 8 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX VIP SINEMA 8 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/112210
-#EXTINF:-1,|TR| MAX VIP SINEMA 9 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX VIP SINEMA 9 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/112211
-#EXTINF:-1,|TR| MAX VIP SINEMA 10 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX VIP SINEMA 10 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/112212
-#EXTINF:-1,|TR| MAX CINEMA TV 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 1 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188040
-#EXTINF:-1,|TR| MAX CINEMA TV 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 2 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188041
-#EXTINF:-1,|TR| MAX CINEMA TV 3 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 3 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188042
-#EXTINF:-1,|TR| MAX CINEMA TV 4 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 4 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188043
-#EXTINF:-1,|TR| MAX CINEMA TV 5 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 5 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188044
-#EXTINF:-1,|TR| MAX CINEMA TV  6 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV  6 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188045
-#EXTINF:-1,|TR| MAX CINEMA TV 7 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 7 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188046
-#EXTINF:-1,|TR| MAX CINEMA TV 8 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 8 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188047
-#EXTINF:-1,|TR| MAX CINEMA TV 9 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 9 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188048
-#EXTINF:-1,|TR| MAX CINEMA TV 10 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 10 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188049
-#EXTINF:-1,|TR| MAX CINEMA TV 11 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 11 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188050
-#EXTINF:-1,|TR| MAX CINEMA TV 12 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 12 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188051
-#EXTINF:-1,|TR| MAX CINEMA TV 13 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 13 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188052
-#EXTINF:-1,|TR| MAX CINEMA TV 14 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 14 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188053
-#EXTINF:-1,|TR| MAX CINEMA TV 15 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 15 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188054
-#EXTINF:-1,|TR| MAX CINEMA TV 16 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 16 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188055
-#EXTINF:-1,|TR| MAX CINEMA TV 17 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 17 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188056
-#EXTINF:-1,|TR| MAX CINEMA TV 18 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 18 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188057
-#EXTINF:-1,|TR| MAX CINEMA TV 19 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 19 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188058
-#EXTINF:-1,|TR| MAX CINEMA TV 20 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA TV 20 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188059
-#EXTINF:-1,|TR| MAX CINEMA PLAY 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 1 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188791
-#EXTINF:-1,|TR| MAX CINEMA PLAY 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 2 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188792
-#EXTINF:-1,|TR| MAX CINEMA PLAY 3 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 3 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188793
-#EXTINF:-1,|TR| MAX CINEMA PLAY 4 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 4 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188794
-#EXTINF:-1,|TR| MAX CINEMA PLAY 5 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 5 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188795
-#EXTINF:-1,|TR| MAX CINEMA PLAY 6 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 6 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188796
-#EXTINF:-1,|TR| MAX CINEMA PLAY 7 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 7 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188797
-#EXTINF:-1,|TR| MAX CINEMA PLAY 8 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 8 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188798
-#EXTINF:-1,|TR| MAX CINEMA PLAY 9 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 9 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188799
-#EXTINF:-1,|TR| MAX CINEMA PLAY 10 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 10 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188800
-#EXTINF:-1,|TR| MAX CINEMA PLAY 11 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 11 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188801
-#EXTINF:-1,|TR| MAX CINEMA PLAY 12 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 12 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188802
-#EXTINF:-1,|TR| MAX CINEMA PLAY 13 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 13 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188803
-#EXTINF:-1,|TR| MAX CINEMA PLAY 14 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 14 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188804
-#EXTINF:-1,|TR| MAX CINEMA PLAY 15 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 15 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188805
-#EXTINF:-1,|TR| MAX CINEMA PLAY 16 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 16 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188806
-#EXTINF:-1,|TR| MAX CINEMA PLAY 17 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 17 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188807
-#EXTINF:-1,|TR| MAX CINEMA PLAY 18 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 18 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188808
-#EXTINF:-1,|TR| MAX CINEMA PLAY 19 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 19 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188809
-#EXTINF:-1,|TR| MAX CINEMA PLAY 20 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX CINEMA PLAY 20 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/188810
-#EXTINF:-1,|TR| MAX BOX OFFICE 1
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 1
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20343
-#EXTINF:-1,|TR| MAX BOX OFFICE 2
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 2
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20344
-#EXTINF:-1,|TR| MAX BOX OFFICE 3
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 3
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20345
-#EXTINF:-1,|TR| MAX BOX OFFICE 4
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 4
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20346
-#EXTINF:-1,|TR| MAX BOX OFFICE 5
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 5
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20347
-#EXTINF:-1,|TR| MAX BOX OFFICE 6
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 6
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20348
-#EXTINF:-1,|TR| MAX BOX OFFICE 7
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 7
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20349
-#EXTINF:-1,|TR| MAX BOX OFFICE 8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 8
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20350
-#EXTINF:-1,|TR| MAX BOX OFFICE 9
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 9
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20351
-#EXTINF:-1,|TR| MAX BOX OFFICE 10
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 10
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/20352
-#EXTINF:-1,|TR| MAX BOX OFFICE 11
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 11
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/187951
-#EXTINF:-1,|TR| MAX BOX OFFICE 12
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 12
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/187952
-#EXTINF:-1,|TR| MAX BOX OFFICE 13
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 13
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/187953
-#EXTINF:-1,|TR| MAX BOX OFFICE 14
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 14
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/187954
-#EXTINF:-1,|TR| MAX BOX OFFICE 15
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 15
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/187955
-#EXTINF:-1,|TR| MAX BOX OFFICE 16
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 16
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/187956
-#EXTINF:-1,|TR| MAX BOX OFFICE 17
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 17
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/187957
-#EXTINF:-1,|TR| MAX BOX OFFICE 18
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 18
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/187958
-#EXTINF:-1,|TR| MAX BOX OFFICE 19
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 19
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/187959
-#EXTINF:-1,|TR| MAX BOX OFFICE 20
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",MAX BOX OFFICE 20
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/187960
-#EXTINF:-1,TR: SİNE MAX 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SİNE MAX 1 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170441
-#EXTINF:-1,TR: SİNE MAX 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SİNE MAX 2 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170442
-#EXTINF:-1,TR: SİNE MAX 3 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SİNE MAX 3 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170443
-#EXTINF:-1,TR: SİNE MAX 4 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SİNE MAX 4 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170444
-#EXTINF:-1,TR: SİNE MAX 5 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SİNE MAX 5 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170445
-#EXTINF:-1,TR: SİNE MAX 6 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SİNE MAX 6 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170446
-#EXTINF:-1,TR: SİNE MAX 7 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SİNE MAX 7 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170447
-#EXTINF:-1,TR: SİNE MAX 8 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SİNE MAX 8 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170448
-#EXTINF:-1,TR: SİNE MAX 9 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SİNE MAX 9 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170449
-#EXTINF:-1,TR: SİNE MAX 10 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", SİNE MAX 10 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170450
-#EXTINF:-1,TR: CINE BOX 1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 1 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170451
-#EXTINF:-1,TR: CINE BOX 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 2 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170452
-#EXTINF:-1,TR: CINE BOX 3 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 3 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170453
-#EXTINF:-1,TR: CINE BOX 4 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 4 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170454
-#EXTINF:-1,TR: CINE BOX 5 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 5 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170455
-#EXTINF:-1,TR: CINE BOX 6 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 6 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170456
-#EXTINF:-1,TR: CINE BOX 7 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 7 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170457
-#EXTINF:-1,TR: CINE BOX 8 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 8 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170458
-#EXTINF:-1,TR: CINE BOX 9 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 9 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170459
-#EXTINF:-1,TR: CINE BOX 10 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 10 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170460
-#EXTINF:-1,TR: CINE BOX 11 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 11 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170461
-#EXTINF:-1,TR: CINE BOX 12 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 12 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170462
-#EXTINF:-1,TR: CINE BOX 13 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 13 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170463
-#EXTINF:-1,TR: CINE BOX 14 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 14 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170464
-#EXTINF:-1,TR: CINE BOX 15 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 15 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170465
-#EXTINF:-1,TR: CINE BOX 16 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 16 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170466
-#EXTINF:-1,TR: CINE BOX 17 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 17 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170467
-#EXTINF:-1,TR: CINE BOX 18 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 18 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170468
-#EXTINF:-1,TR: CINE BOX 19 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 19 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170469
-#EXTINF:-1,TR: CINE BOX 20 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CINE BOX 20 HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/170470
 #EXTINF:-1,|TR| Kurtlar Vadisi TV
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/190546
-#EXTINF:-1,|TR| beIN Box Office 1 FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Box Office 1 FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6195
-#EXTINF:-1,|TR| beIN Box Office 2 FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Box Office 2 FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6196
-#EXTINF:-1,|TR| beIN Box Office 3 FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Box Office 3 FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6197
-#EXTINF:-1,|TR| beIN Movies Action 1 FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Movies Action 1 FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6198
-#EXTINF:-1,|TR| beIN Movies Action 2 FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Movies Action 2 FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6199
-#EXTINF:-1,|TR| beIN Movies Premier 1 FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Movies Premier 1 FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6200
-#EXTINF:-1,|TR| beIN Movies Premier 2 FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Movies Premier 2 FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6201
-#EXTINF:-1,|TR| beIN Movies Turk FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Movies Turk FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6202
-#EXTINF:-1,|TR| beIN Movies Family FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Movies Family FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6204
-#EXTINF:-1,|TR| beIN Movies Stars FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Movies Stars FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/125800
-#EXTINF:-1,|TR| beIN Movies Comedy FHD
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",beIN Movies Comedy FHD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6205
 #EXTINF:-1,|TR| Moviesmart Premium 1
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6183
@@ -2241,7 +2234,7 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/9232
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/200
 #EXTINF:-1 tvg-id="sinema1001hd.tr" tvg-name="TR: SINEMA TV 1001" tvg-logo="https://i.hizliresim.com/3sm3jrv.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV 1001
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/201
-#EXTINF:-1 tvg-id="sinema1002.tr" tvg-name="TR: SINEMA TV 1002" tvg-logo="https://i.hizliresim.com/fs1gpzn.png" group-title="09)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV 1002
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",)TR➾ BeIN & D-SMART & TIVIBU",TR: SINEMA TV 1002
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/9231
 #EXTINF:-1 tvg-id="" tvg-name="EPIC DRAMA HD" tvg-logo="https://i.hizliresim.com/kwzyklp.png" group-title="10)TR➾ SINEMA & EGLENCE",EPIC DRAMA HD
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/19215
@@ -2431,7 +2424,7 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/22395
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/22396
 #EXTINF:-1 tvg-id="" tvg-name="SMARTBOX SAVAS" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX SAVAS
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/22397
-#EXTINF:-1 tvg-id="" tvg-name="SMARTBOX MACERA" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX MACERA
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",LENCE",SMARTBOX MACERA
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/22398
 #EXTINF:-1 tvg-id="" tvg-name="SMARTBOX YERLI" tvg-logo="https://i.hizliresim.com/4m06q6g.png" group-title="10)TR➾ SINEMA & EGLENCE",SMARTBOX YERLI
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/22399
@@ -2503,7 +2496,7 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/184977
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/8797
 #EXTINF:-1 tvg-id="" tvg-name="TR: TARIK AKAN" tvg-logo="https://i.hizliresim.com/jgdqkj3.png" group-title="7/24 YESILCAM",TR: TARIK AKAN
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/86622
-#EXTINF:-1 tvg-id="" tvg-name="ZEKI METIN TV FILMBOX" tvg-logo="https://i.hizliresim.com/7keokka.png" group-title="7/24 YESILCAM",ZEKI METIN TV FILMBOX
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",YESILCAM",ZEKI METIN TV FILMBOX
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/8799
 #EXTINF:-1 tvg-id="" tvg-name="TR: AYHAN IŞIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7WgHqShYzs_HHFAc6HWtDpo-xMhpnxCoHg&usqp=CAU" group-title="7/24 YESILCAM",TR: AYHAN IŞIK
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/86615
@@ -2929,11 +2922,11 @@ http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/33
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/37
 #EXTINF:-1,FIGHTBOX HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/3539
-#EXTINF:-1,PROTURK KICKBOKS
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK KICKBOKS
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20322
-#EXTINF:-1,PROTURK WWE SMACKDOWN
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK WWE SMACKDOWN
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20323
-#EXTINF:-1,PROTURK EGZERSIZ SPORLARI
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",PROTURK EGZERSIZ SPORLARI
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/20324
 #EXTINF:-1,EDGE SPORT HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/21010
@@ -3537,7 +3530,7 @@ http://aca3b.tk:8080/serkankul/GcEbVsLBU2/20948
 #EXTINF:-1,PALA TV
 http://tv86905.radyotelekomtv.com:22808/palatv/palatv/playlist.m3u8
 
-#EXTINF:-1,TR:YANSIMA TV
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",YANSIMA TV
 https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 
 #EXTINF:-,YANSIMA Dance TV HD
