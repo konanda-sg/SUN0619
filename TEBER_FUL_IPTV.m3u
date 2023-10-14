@@ -98,6 +98,9 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png", CINE1 HD
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAl_KADIN" logo="/İPTV_SİNEMA-logo-2.png",WOMAN HD
+https://s01.vpis.io/wmtv/wmtv.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV1
 http://89.187.191.99:8080/tdc/index.m3u8
 
