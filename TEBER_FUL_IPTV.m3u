@@ -175,6 +175,9 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL G 28
 https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",İLK TV
+https://592f1881b3d5f.streamlock.net:1443/santraltv_294/santraltv_294/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",İLKGÜN TV
 http://tv56245.ozelip.com:2052/ilkguntv/ilkguntv/İLKGÜN_TEBER_chunklist.m3u8
 
