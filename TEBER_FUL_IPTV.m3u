@@ -76,24 +76,35 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1,BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
 #EXTINF:-1,TR: The Flash [7/24]
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191413
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR
 https://ssh101.bozztv.com/ssh101/teber_star_tv/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.STAR EHLİBEYT TV 
 https://ssh101.bozztv.com/ssh101/ehlibeyt_tv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.STAR ÇOCUK TV
-https://ssh101.bozztv.com/ssh101/teber_çocuk_tv/chunks.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.STAR VE ROMAN TV
 https://ssh101.bozztv.com/ssh101/teber&romantv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",FD SİNEMA TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_ÇOCUK TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.STAR ÇOCUK TV
+https://ssh101.bozztv.com/ssh101/teber_çocuk_tv/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_ÇOCUK TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Şirinler TV HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6245
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_ÇOCUK TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Pembe Panter TV HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6235
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", Tom & Jerry TV HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6240
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",FD SİNEMA TV 
 https://250weu.bozztv.com/ssh101/ssh101/fdhdtv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",Yansinema TV HD
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Yansinema TV HD
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png", CINE1 HD
@@ -102,32 +113,80 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ULUSAl_KADIN" logo="/İPTV_SİNEMA-logo-2.png",WOMAN HD
 https://s01.vpis.io/wmtv/wmtv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV1
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ TV1
 http://89.187.191.99:8080/tdc/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV2 Ç.D.
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ TV2 Ç.D.
 https://livestream.zazerconer.workers.dev/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV3 M.Y.
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ TV3 M.Y.
 https://livestream.zazerconer.workers.dev/channel/UCkRY4J8G__K8SEWZRLbke-Q.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV4 C.M.
 https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",DİZİ TV5 Hz.Y.
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ TV5 Hz.Y.
 https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TELE ON
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL 19
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", SINEMA TV1
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/196
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", SINEMA TV 2
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/29068
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", SINEMA TV YERLI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/197
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", SINEMA TV YERLI 2
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/18781
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", SINEMA TV KOMEDI
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/198
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", SINEMA TV AKSIYON
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/199
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", SINEMA TV AKSIYON 2
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9232
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", SINEMA TV AILE
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/200
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", SINEMA TV 1001
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/201
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", SINEMA TV 1002
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9231
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TV 90 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV 90 
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TV 70 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV 70 
 https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="TEBER_KANALLARI" logo="TEBER_EĞLENCE-logo-2.png", Kurtlar Vadisi [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/190546
+#EXTINF:-1,TR: Ömer [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191389
+#EXTINF:-1,TR: John Wick [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191403
+#EXTINF:-1,TR: Kill Bill [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191404
+#EXTINF:-1,TR: Son Durak [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191405
+#EXTINF:-1,TR: Harry Potter [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191406
+#EXTINF:-1,TR: The Walking Dead [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191414
+#EXTINF:-1,TR: Black Mirror [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191415
+#EXTINF:-1,TR: Mr.Robot [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/192060
+#EXTINF:-1,TR:  Arrow [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/192061
+#EXTINF:-1,TR: Hunted [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/192062
+#EXTINF:-1,TR: La Casa De Papel [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/192063
+#EXTINF:-1,TR: Love Anarch [7/24]
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/192064
 
 #EXTINF:1,KOBİM TV
 https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist_w1769647051.m3u8
@@ -135,7 +194,7 @@ https://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist_w1769647051.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",İSTANBUL TV
 https://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ViYANA TÜRK TV HD
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ViYANA TÜRK TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",A52 TV
@@ -153,7 +212,7 @@ https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ADA TV
 https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",EM TV
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",EM TV
 http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ETV
@@ -168,9 +227,10 @@ https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",BİR TV
 https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", OA TV HD
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",OA TV HD
 https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",Tivi Turk
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Tivi Turk
 https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",KANAL G 28
@@ -232,51 +292,15 @@ https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
 #EXTINF:1,İSVİCRE TV 
 http://tv86905.radyotelekomtv.com:22808/isvicretv/isvicretv/chunklist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KEMAL SUNAL TV" logo="/İPTV_DİZİ-logo-2.png",KEMAL SUNAL TV1 YTB
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KEMAL SUNAL TV1 YTB
 https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KEMAL SUNAL TV" logo="/İPTV_DİZİ-logo-2.png",KEMAL SUNAL TV2 YTB
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KEMAL SUNAL TV2 YTB
 https://livestream.zazerconer.workers.dev/channel/UCE1XdVHzOdMnUsUMatIzjag.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KEMAL SUNAL TV" logo="/İPTV_DİZİ-logo-2.png",KEMAL SUNAL TV3 ʜᴅ
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KEMAL SUNAL TV3 ʜᴅ
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
 
-#EXTINF:-1,|TR| Kurtlar Vadisi [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/190546
-#EXTINF:-1,TR: Konuşanlar [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191388
-#EXTINF:-1,TR: Ömer [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191389
-#EXTINF:-1,TR: John Wick [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191403
-#EXTINF:-1,TR: Kill Bill [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191404
-#EXTINF:-1,TR: Son Durak [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191405
-#EXTINF:-1,TR: Harry Potter [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191406
-#EXTINF:-1,TR: The Flash [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191413
-#EXTINF:-1,TR: The Walking Dead [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191414
-#EXTINF:-1,TR: Black Mirror [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/191415
-#EXTINF:-1,TR: Mr.Robot [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/192060
-#EXTINF:-1,TR:  Arrow [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/192061
-#EXTINF:-1,TR: Hunted [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/192062
-#EXTINF:-1,TR: La Casa De Papel [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/192063
-#EXTINF:-1,TR: Love Anarch [7/24]
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/192064
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KÜRTCE_TEMATİK" logo="/KURTCE_TEMATİK-logo-2.png",DENGE ZELAL TV
-https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KÜRTCE_TEMATİK" logo="/KURTCE_TEMATİK-logo-2.png", AMED TV
-http://live.amedradyotv.net:2020/hls/ferat.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: FX HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FX HD RAW
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/59944
@@ -284,34 +308,6 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/59944
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/59916
 #EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FILMBOX RAW
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/59914
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA TV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA TV RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59900
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA 2 RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59905
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA 1001 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA 1001 RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59903
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA 1002 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA 1002 RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59904
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AKSİYON RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA AKSİYON RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59906
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AKSİYON 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA AKSİYON 2 RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59907
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AİLE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA AİLE RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59908
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA AİLE 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA AİLE 2 RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59909
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA KOMEDİ RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA KOMEDİ RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59910
-#EXTINF:-1 tvg-id="" tvg-name="TR: SİNEMA KOMEDİ 2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: SİNEMA KOMEDİ 2 RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59911
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE CLASSIC RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: MOVIE CLASSIC RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59901
-#EXTINF:-1 tvg-id="" tvg-name="TR: MOVIE TÜRK RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: MOVIE TÜRK RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59902
-#EXTINF:-1 tvg-id="" tvg-name="TR: DİZİ PREMIUM RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DİZİ PREMIUM RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59912
-#EXTINF:-1 tvg-id="" tvg-name="TR: DİZİSMART MAX RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DİZİSMART MAX RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59913
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ATV alanya
 http://88.99.211.53:1935/alanyatv/bant1/sec-f5-v1-a1.m3u8
@@ -337,23 +333,21 @@ https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ORT
 https://edge1.socialsmart.tv/orttv/bant1/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/KÜRTCE-MÜZİK-logo-2.png",ASLAN TV
-https://starkurd.ozelip.com:3459/stream/play.m3u8
-
 #EXTINF:1,ALMANYA TV
 http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
 
-#EXTINF:1,TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png", TRT BELGESEL 1 HD
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/96754
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",[TR] TRT 2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT BELGESEL 2 HD
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png", TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT3 TÜRK 
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TR: TRT 8K ( 8K cihaz destekler )
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/39
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png", TRT 4K (1080P)
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/9281
@@ -361,26 +355,26 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/9281
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT5 AVAZ HD
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT6 BELGESEL HD
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT ÇOCUK 7 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT ÇOCUK 6 HD
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT DİYANET ÇOCUK 8 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT DİYANET ÇOCUK 7 HD
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT9 HABER HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT8 HABER HD
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT TRT10 SPOR1 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT TRT9 SPOR1 HD
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT TRT11 SPOR2 HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT TRT10 SPOR2 HD
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT12 MÜZİK HD
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT11 MÜZİK HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",(TRT 12) 8K ( 8K cihaz destekler )
+http://191.96.100.42:8080/zihniyurtseven/zhni1133/39
 
 #EXTINF:0,KONYA OLAY TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
@@ -420,6 +414,12 @@ http://tv56245.ozelip.com:2052/marko/marko/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="HABER_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HABER ON
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8 
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KÜRTCE_TEMATİK" logo="/KURTCE_TEMATİK-logo-2.png",DENGE ZELAL TV
+https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KÜRTCE_TEMATİK" logo="/KURTCE_TEMATİK-logo-2.png", AMED TV
+http://live.amedradyotv.net:2020/hls/ferat.m3u8
 
 ------------------ÖZEL---SİNEMA İSARACİ---TV--------------------------
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/SİNEMA_MEDYA-logo-2.png", MAX FILM TV HD 1 HD
@@ -986,12 +986,12 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/118
 
 #EXTINF:-1,|TR| TRT Muzik HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/61298
-#EXTINF:-1,|TR| Kral TV HD
+#EXTINF:-1,|TR| Kral POP HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101123
-#EXTINF:-1,|TR| Kral Pop HD
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101124
 #EXTINF:-1,|TR| Tatlıses TV HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101125
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/KÜRTCE-MÜZİK-logo-2.png",ASLAN TV
+https://starkurd.ozelip.com:3459/stream/play.m3u8
 #EXTINF:-1,|TR| Power TV HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101126
 #EXTINF:-1,|TR| Dream Türk HD
@@ -18192,8 +18192,8 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/593
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/594
 #EXTINF:-1 tvg-id="numberoneturk.tr" tvg-name="TRM: NR1 TURK HD" tvg-logo="https://i.hizliresim.com/5s429lp.png" group-title="12)TR➾ MUZIK",TRM: NR1 TURK HD
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/595
-#EXTINF:-1 tvg-id="kralpop.tr" tvg-name="TRM: KRAL HD" tvg-logo="https://i.hizliresim.com/mgi82yp.png" group-title="12)TR➾ MUZIK",TRM: KRAL HD
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/597
+#EXTINF:-1,|TR| Kral Pop RADYO
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/101124
 #EXTINF:-1 tvg-id="" tvg-name="TRM: KRAL POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/9f/Kral_Pop_logosu.png" group-title="12)TR➾ MUZIK",TRM: KRAL POP HD
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/70405
 #EXTINF:-1 tvg-id="dreamturk.tr" tvg-name="TRM: DREAM TURK" tvg-logo="https://i.hizliresim.com/rhv0ybc.png" group-title="12)TR➾ MUZIK",TRM: DREAM TURK
