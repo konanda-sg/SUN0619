@@ -92,8 +92,8 @@ https://ssh101.bozztv.com/ssh101/teber&romantv/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YEŞİLÇAM Tv
 http://37.49.225.145:8080/iptvepic4/DzbGTtATy4DzmK8c/31169
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER MÜZİK DİNLETİ
-https://livestream.zazerconer.workers.dev/channel/UC0HC6-GUCO4ahc6R6Mb9g9A.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TELE ON
+https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_ÇOCUK TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", T.MAX P.PANTER TV TV 
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6235
@@ -113,15 +113,6 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png", CINE1 HD
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 4" tvg-logo="" group-title="Turkey",TR: MARVEL STUDIOS 4
-http://37.49.225.145:8080/iptvepic4/DzbGTtATy4DzmK8c/41361
-#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 5" tvg-logo="" group-title="Turkey",TR: MARVEL STUDIOS 5
-http://37.49.225.145:8080/iptvepic4/DzbGTtATy4DzmK8c/41368
-#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 7" tvg-logo="" group-title="Turkey",TR: MARVEL STUDIOS 7
-http://37.49.225.145:8080/iptvepic4/DzbGTtATy4DzmK8c/174506
-#EXTINF:-1 tvg-id="" tvg-name="TR: MARVEL STUDIOS 8" tvg-logo="" group-title="Turkey",TR: MARVEL STUDIOS 8
-http://37.49.225.145:8080/iptvepic4/DzbGTtATy4DzmK8c/174514
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ TV1
 http://89.187.191.99:8080/tdc/index.m3u8
 
@@ -136,9 +127,6 @@ https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ TV5 Hz.Y.
 https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TELE ON
-https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", SINEMA TV1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/196
@@ -1241,7 +1229,8 @@ http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/16914
 #EXTINF:-1,YABAN TV HD
 http://191.96.100.42:8080/zihniyurtseven/zhni1133/118
 ----------------------İSARACİ--MÜZİK-TV----------------
-
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER MÜZİK DİNLETİ
+https://livestream.zazerconer.workers.dev/channel/UC0HC6-GUCO4ahc6R6Mb9g9A.m3u8
 #EXTINF:-1,|TR| TRT Muzik HD
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/61298
 #EXTINF:-1,|TR| Kral POP HD
