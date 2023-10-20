@@ -87,7 +87,7 @@ https://ssh101.bozztv.com/ssh101/ehlibeyt_tv/chunks.m3u8
 https://ssh101.bozztv.com/ssh101/teber_star_tv/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÜPER TV  
-http://iptvh.it/süpertv_vizyon_özellink.m3u8
+http://169.53.242.72/SUPERTURKTV_vizyonHD/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",PRİME1 TV  
 https://ssh101.bozztv.com/ssh101/tvsd/chunks.m3u8
