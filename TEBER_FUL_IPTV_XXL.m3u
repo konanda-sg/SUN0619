@@ -86,15 +86,6 @@ https://ssh101.bozztv.com/ssh101/ehlibeyt_tv/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR
 https://ssh101.bozztv.com/ssh101/teber_star_tv/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER ON TV  
-https://ssh101.bozztv.com/ssh101/TEBER_ON_TV/chunks.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÜPER TV  
-http://169.53.242.72/SUPERTURKTV_vizyonHD/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",PRİME1 TV  
-https://ssh101.bozztv.com/ssh101/tvsd/chunks.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YEŞİLÇAM Tv1
 https://ssh101.bozztv.com/ssh101/yesilcamtv/chunks.m3u8
 
@@ -103,15 +94,6 @@ http://37.49.225.145:8080/iptvepic4/DzbGTtATy4DzmK8c/31169
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TELE ON
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_ÇOCUK TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", T.MAX P.PANTER TV TV 
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6235
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_ÇOCUK TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", T.MAX Şirinler TV 
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6245
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_ÇOCUK TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.MAX Tom & Jerry TV 
-http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6240
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",FD SİNEMA TV 
 https://250weu.bozztv.com/ssh101/ssh101/fdhdtv/chunks.m3u8
@@ -1310,8 +1292,15 @@ http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/167696
 #EXTINF:-1,ANKARA HAVALARI
 http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/167697
 
----------------------YENi--ÇOCUK-TV------------------
+---------------------YENi--ÇOCUK-TV1------------------
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_ÇOCUK TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", T.MAX P.PANTER TV TV 
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6235
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_ÇOCUK TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", T.MAX Şirinler TV 
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6245
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_ÇOCUK TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.MAX Tom & Jerry TV 
+http://maxlevt.xyz:8080/isaciraci/Re3MVMaCWi/6240
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d17ee4121212f3d15a6d3e96e1b78e6b.png" group-title="Turkey ➾ Kids",TR: Nick Junior
 http://37.49.225.145:8080/iptvepic4/DzbGTtATy4DzmK8c/675
