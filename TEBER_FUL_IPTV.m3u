@@ -28,10 +28,10 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8 
 
 #EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8 INT EU" tvg-logo="https://i.hizliresim.com/oh4f8m2.png" group-title="03)TR➾ ULUSAL",TR: TV 8 INT EU
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/21446
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/21446
 
 #EXTINF:0 user-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 FHD" tvg-logo="http://logo.hdplustv.us/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 FHD
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/56
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/56
 
 #EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
@@ -39,7 +39,7 @@ http://191.96.100.42:8080/zihniyurtseven/zhni1133/56
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX HD" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: SHOW MAX HD
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/33566
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/33566
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -51,22 +51,22 @@ https://showturk.blutv.com/blutv_showturk2/live.m3u8
 http://canli.haber365.com.tr/tr/startv/index.m3u8
 
 #EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR EU" tvg-logo="https://i.hizliresim.com/h36hs2e.png" group-title="03)TR➾ ULUSAL",TR: STAR EU
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/21444
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/21444
 
 #EXTINF:-40,Kanal D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D EU" tvg-logo="https://i.hizliresim.com/gm4o8nd.png" group-title="03)TR➾ ULUSAL",TR: KANAL D EU
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/21445
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/21445
 
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV EU" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",TR: ATV EU
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/21443
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",TR: ATV EU
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/21443
 
-#EXTINF:-1,ATV HD
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV HD
 http://116.202.238.88/ATV_TR/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2 RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: A2 RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59891
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", A2 
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/60
 
 #EXTINF:-1,TV 360 FHD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
@@ -102,7 +102,7 @@ https://ssh101.bozztv.com/ssh101/yesilcamtv/chunks.m3u8
 http://37.49.225.145:8080/iptvepic4/DzbGTtATy4DzmK8c/31169
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",FD SİNEMA TV 
-https://250weu.bozztv.com/ssh101/ssh101/fdhdtv/chunks.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/fdhdtv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Yansinema TV HD
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
@@ -117,7 +117,7 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV 70 
-https://ssh101.bozztv.com/ssh101/tv70/chunks.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/fdhdtv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KEMAL SUNAL TV1 YTB
 https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
@@ -173,9 +173,6 @@ https://ip252.ozelip.com:22524/kanalg/kanalg/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png"PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", AKTİF TV
-http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ TV1 Ç.D.
 https://livestream.zazerconer.workers.dev/channel/UCtjNs0q_cz-RdHy-HW2q8Cw.m3u8
 
@@ -188,6 +185,8 @@ https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ TV4 Hz.Y.
 https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TR MAÇ TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TR MAÇ TV
+https://rpn3.bozztv.com/ssh101/ssh101/rtvfolklori/playlist.m3u8
 
 --------------------GERÇEK-----HABER------------------------------
 
@@ -214,6 +213,9 @@ http://221.120.145.12:8000/play/a00y/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",MK HABER TV 
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",YOL TV 
+https://stream.yol.tv:9443/medialive/yolanayayin.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",ULUSAL TV 
 http://221.120.145.12:8000/play/a03n/index.m3u8
