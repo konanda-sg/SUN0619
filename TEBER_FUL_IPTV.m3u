@@ -113,8 +113,9 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV 90 
-https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV İZ 
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/135
+
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV 70 
 https://rpn3.bozztv.com/ssh101/ssh101/fdhdtv/playlist.m3u8
@@ -185,8 +186,77 @@ https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİZİ TV4 Hz.Y.
 https://livestream.zazerconer.workers.dev/channel/UCOpKuda5Ld_oc0Gdr31knmA.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TR MAÇ TV" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TR MAÇ TV
-https://rpn3.bozztv.com/ssh101/ssh101/rtvfolklori/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT 1 FHD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/40
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png", TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT3 TÜRK 
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT 1 FHD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/40
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png", TRT 2 HD
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT3 TÜRK 
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT 4K (1080)
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9281
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT5 AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT6 ÇOCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT7 DİYANET ÇOCUK HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT8 HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT TRT9 SPOR1 HD
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT TRT10 SPOR2 HD
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT11 MÜZİK HD
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT12 BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+ TRT 4K (1080)
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/9281
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT5 AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT6 ÇOCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT7 DİYANET ÇOCUK HD
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT8 HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT TRT9 SPOR1 HD
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT TRT10 SPOR2 HD
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT11 MÜZİK HD
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT12 BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
 
 --------------------GERÇEK-----HABER------------------------------
 
@@ -259,15 +329,6 @@ https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", CLC MEDYA TV HD
 https://clcmediatv.ozelip.com:3192/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TR: FX HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FX HD RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59944
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX CRIME HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FOX CRIME HD RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59916
-
-#EXTINF:-1 tvg-id="" tvg-name="TR: FILMBOX RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: FILMBOX RAW
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/59914
-
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",ATV alanya
 http://88.99.211.53:1935/alanyatv/bant1/sec-f5-v1-a1.m3u8
 
@@ -300,42 +361,6 @@ http://tv86905.radyotelekomtv.com:22808/almanyatv/almanyatv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: Tarih TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-10/24ef006bc44111f2cedad8705f424902.png" group-title="Turkey",TR: Tarih TV
 http://37.49.225.145:8080/iptvepic4/DzbGTtATy4DzmK8c/300437
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT BELGESELhttp://mysistembio.xyz:8080/get.php?username=tansukorkmaz&password=yVpyr3zQVA&type=m3u_plus HD
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png", TRT 2 HD
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT3 TÜRK 
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png", TRT 4K (1080P)
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/9281
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT5 AVAZ HD
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT ÇOCUK 6 HD
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT DİYANET ÇOCUK 7 HD
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT8 HABER HD
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT TRT9 SPOR1 HD
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT TRT10 SPOR2 HD
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT11 MÜZİK HD
-https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",(TRT 12) 8K ( 8K cihaz destekler )
-http://191.96.100.42:8080/zihniyurtseven/zhni1133/39
 
 #EXTINF:0,KONYA OLAY TV
 http://olayhabertv42.ozelip.com:28008/olay/olay/playlist.m3u8
@@ -383,8 +408,10 @@ https://dengezelaltv66.ozelip.com:3630/live/dengelive.m3u8
 http://live.amedradyotv.net:2020/hls/ferat.m3u8
 
 ----------------BELGESEL------------------------------------------------------
-#EXTINF:-1 tvg-id="" tvg-name="TR: BABY TV RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: BABY TV RAW
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/59931
+#EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DISCOVERY SCIENCE RAW
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/59943
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: LOVE NATURE RAW
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/59945
 #EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: NAT GEO HD RAW
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/59932
 #EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO WILD HD RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: NAT GEO WILD HD RAW
