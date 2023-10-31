@@ -113,8 +113,8 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL 19
 https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",GÖNÜL DAĞI HER HAFTA YENİ BÖLÜM EKLENECEK HD
-https://cms-tabii-public-video.tabii.com/vod/1ee75bcb-a663-6c18-b1af-93d638c17189/V0/packages/3386885023569499732/media-2/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gönül Dağı" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg" group-title="VOD-HAFTALIK DIZILER",Gönül Dağı
+http://mysistembio.xyz:8080/movie/tansukorkmaz/yVpyr3zQVA/191714.mkv
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV 70 
 https://rpn3.bozztv.com/ssh101/ssh101/fdhdtv/playlist.m3u8
