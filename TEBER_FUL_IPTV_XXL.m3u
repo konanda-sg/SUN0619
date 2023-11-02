@@ -117,8 +117,8 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 http://mysistembio.xyz:8080/movie/tansukorkmaz/yVpyr3zQVA/191714.mkv
 
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV 70 
-https://rpn3.bozztv.com/ssh101/ssh101/fdhdtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ONE STREAM LİVE TV 
+https://rpn3.bozztv.com/ssh101/ssh101/tv70/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KEMAL SUNAL TV1 YTB
 https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
