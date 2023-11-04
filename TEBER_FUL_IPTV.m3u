@@ -89,8 +89,11 @@ https://ssh101.bozztv.com/ssh101/TEBER_ON_TV/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV90  
 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ASKER TV  
-https://canliyayin.tv.tr/askertv/askertv/chunklist_w1458546861.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",PAZARCIK TV  
+https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KASTAMONU TV  
+http://51.158.204.52:8080/live/kastamonutv/kastamonutv/3385.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TELE ON
 https://streaming.netdirekt.com.tr/35757/teleontv/fogmediagroups_lisansli_ultrahd__/playlist.m3u8
@@ -220,11 +223,10 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT12 BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-
-
-
+ 
 --------------------GERÇEK-----HABER------------------------------
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ASKER TV  
+https://canliyayin.tv.tr/askertv/askertv/chunklist_w1458546861.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BABALA TV
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185041
@@ -270,6 +272,7 @@ https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",GÖZDE TV
 http://221.120.145.12:8000/play/a011/index.m3u8
+
 
 #EXTINF:-1 group-title="BURSA_ASTV",Bursa AS TV
 https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
