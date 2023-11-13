@@ -366,8 +366,8 @@ https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", VAN GÖLÜ TV
 https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/chunklist_w1465296297_b1696000.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", KANAL MARKA
-http://tv56245.ozelip.com:2052/marko/marko/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="HABER_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",Gazete tv
+https://livestream.zazerconer.workers.dev/channel/UCwAhtFkB09mqIO0X7SW18Sw.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="HABER_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", HABER ON
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8 
