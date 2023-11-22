@@ -83,6 +83,33 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",KRT TV
+https://livestream.zazerconer.workers.dev/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",FLASH HABER HD
+https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",SÖZCÜ TV
+https://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png", HALK TV HD
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png", TELE 1 YTB
+http://livestream.zazerconer.workers.dev/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",CADDE TV
+http://221.120.145.12:8000/play/a00y/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",MK HABER TV 
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",YOL TV 
+https://stream.yol.tv:9443/medialive/yolanayayin.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",ULUSAL TV 
+http://221.120.145.12:8000/play/a03n/index.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.STAR ROMAN TV
 https://ssh101.bozztv.com/ssh101/teber&romantv/chunks.m3u8
 
@@ -253,10 +280,6 @@ http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/117
 http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/1892
 #EXTINF:-1 tvg-id="BBCEarthTurkey.tr" tvg-name="TR: BBC EARTH HD" tvg-logo="https://i.ibb.co/GQMLWrp/bbce.png" group-title="Belgesel Kanalları",TR: BBC EARTH HD
 http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/120
-#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAUX HD" tvg-logo="https://i.ibb.co/C6cMvB7/animaux.png" group-title="Belgesel Kanalları",TR: ANIMAUX HD
-http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13572
-#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR CHANNEL HD" tvg-logo="https://i.ibb.co/pnGJym4/outdoor.png" group-title="Belgesel Kanalları",TR: OUTDOOR CHANNEL HD
-http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13573
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="TR: HISTORY UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/History1_Channel.png" group-title="Belgesel Kanalları",TR: HISTORY UHD
 http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/121
 #EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HİSTORY HD" tvg-logo="https://i.ibb.co/DDcbwMh/viasath.png" group-title="Belgesel Kanalları",TR: VIASAT HİSTORY HD
@@ -269,8 +292,6 @@ http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13870
 http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/54097
 #EXTINF:-1 tvg-id="DMAXTurkey.tr" tvg-name="TR: DMAX UHD" tvg-logo="https://i.ibb.co/Ss7DmRL/dmax.png" group-title="Belgesel Kanalları",TR: DMAX UHD
 http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/113
-#EXTINF:-1 tvg-id="" tvg-name="TR: TARIH TV UHD" tvg-logo="https://i.ibb.co/jJjYQ60/TAR-HTV.png" group-title="Belgesel Kanalları",TR: TARIH TV UHD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/68985
 #EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="TR: beIN GURME HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Gurme_HD_yeni.png" group-title="Belgesel Kanalları",TR: beIN GURME HD
 http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/123
 #EXTINF:-1 tvg-id="beINIZ.tr" tvg-name="TR: beIN IZ HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Iz_HD_250x150px_yeni.png" group-title="Belgesel Kanalları",TR: beIN IZ HD
@@ -365,39 +386,11 @@ http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/16146
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/16142
 #EXTINF:-1 tvg-id="" tvg-name="TR: DIGITURK BEIN MOVIES TURK HD" tvg-logo="https://i.hizliresim.com/36kYyp.png" group-title="TR: DIGITURK",TR: DIGITURK BEIN MOVIES TURK HD
 http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/16133
+#EXTINF:-1 tvg-id="" tvg-name="FLAHSH HABER HD" tvg-logo="https://i.ibb.co/pnGJym4/outdoor.png" group-title="Belgesel Kanalları",TR: OUTDOOR CHANNEL HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13573
 --------------------GERÇEK-----HABER------------------------------
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ASKER TV  
 https://canliyayin.tv.tr/askertv/askertv/chunklist_w1458546861.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png", BABALA TV
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/185041
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",KRT TV
-https://livestream.zazerconer.workers.dev/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",FLASH HABER HD
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",SÖZCÜ TV
-https://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png", HALK TV HD
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png", TELE 1 YTB
-http://livestream.zazerconer.workers.dev/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",CADDE TV
-http://221.120.145.12:8000/play/a00y/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",MK HABER TV 
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",YOL TV 
-https://stream.yol.tv:9443/medialive/yolanayayin.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",ULUSAL TV 
-http://221.120.145.12:8000/play/a03n/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",KUDÜS TV 
 https://yayin30.haber100.com/live/kudustv/chunklist_w473019502.m3u8
