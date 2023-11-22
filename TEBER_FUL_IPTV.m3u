@@ -224,6 +224,76 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT11 MÜZİK HD
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
+--------BELGESEL ALTINTABAK-------------------------
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT12 BELGESEL HD
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TARIH TV HD" tvg-logo="https://serviceprod.finans7.com/ProjectImages/PostImages/e1969f61-c175-44f5-8ad8-7570f4e073ab.png" group-title="08)TR➾ BELGESEL",TARIH TV HD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/68985
+
+
+#EXTINF:-1 tvg-id="NationalGeographicTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.ibb.co/WsyD2MR/natgeo.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13559
+#EXTINF:-1 tvg-id="NationalGeographicTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC UHD" tvg-logo="https://i.ibb.co/WsyD2MR/natgeo.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/118
+#EXTINF:-1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.ibb.co/zGkL0xB/wi.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC WILD HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13560
+#EXTINF:-1 tvg-id="NationalGeographicWildTurkey.tr" tvg-name="TR: NATIONAL GEOGRAPHIC WILD UHD" tvg-logo="https://i.ibb.co/zGkL0xB/wi.png" group-title="Belgesel Kanalları",TR: NATIONAL GEOGRAPHIC WILD UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/119
+#EXTINF:-1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="TR: DISCOVERY CHANNEL HD" tvg-logo="https://i.ibb.co/5MYZ93D/discovery.png" group-title="Belgesel Kanalları",TR: DISCOVERY CHANNEL HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13561
+#EXTINF:-1 tvg-id="DiscoveryChannelTurkey.tr" tvg-name="TR: DISCOVERY CHANNEL UHD" tvg-logo="https://i.ibb.co/5MYZ93D/discovery.png" group-title="Belgesel Kanalları",TR: DISCOVERY CHANNEL UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/116
+#EXTINF:-1 tvg-id="DiscoveryScienceTurkey.tr" tvg-name="TR: DISCOVERY SCIENCE HD" tvg-logo="https://i.ibb.co/MhTsrwV/discoveryscience.png" group-title="Belgesel Kanalları",TR: DISCOVERY SCIENCE HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13562
+#EXTINF:-1 tvg-id="DiscoveryScienceTurkey.tr" tvg-name="TR: DISCOVERY SCIENCE UHD" tvg-logo="https://i.ibb.co/MhTsrwV/discoveryscience.png" group-title="Belgesel Kanalları",TR: DISCOVERY SCIENCE UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/117
+#EXTINF:-1 tvg-id="discoveryid.tr" tvg-name="TR: DISCOVERY ID UHD" tvg-logo="https://i.ibb.co/ZHP5Xrc/discoveryid.png" group-title="Belgesel Kanalları",TR: DISCOVERY ID UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/1892
+#EXTINF:-1 tvg-id="BBCEarthTurkey.tr" tvg-name="TR: BBC EARTH HD" tvg-logo="https://i.ibb.co/GQMLWrp/bbce.png" group-title="Belgesel Kanalları",TR: BBC EARTH HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/120
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAUX HD" tvg-logo="https://i.ibb.co/C6cMvB7/animaux.png" group-title="Belgesel Kanalları",TR: ANIMAUX HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13572
+#EXTINF:-1 tvg-id="" tvg-name="TR: OUTDOOR CHANNEL HD" tvg-logo="https://i.ibb.co/pnGJym4/outdoor.png" group-title="Belgesel Kanalları",TR: OUTDOOR CHANNEL HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13573
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="TR: HISTORY UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/History1_Channel.png" group-title="Belgesel Kanalları",TR: HISTORY UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/121
+#EXTINF:-1 tvg-id="" tvg-name="TR: VIASAT HİSTORY HD" tvg-logo="https://i.ibb.co/DDcbwMh/viasath.png" group-title="Belgesel Kanalları",TR: VIASAT HİSTORY HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13565
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: VIASAT HİSTORY UHD" tvg-logo="https://i.ibb.co/DDcbwMh/viasath.png" group-title="Belgesel Kanalları",TR: VIASAT HİSTORY UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/712
+#EXTINF:-1 tvg-id="" tvg-name="TR: LOVE NATURE UHD" tvg-logo="https://i.ibb.co/9tRtyfR/lovenature.png" group-title="Belgesel Kanalları",TR: LOVE NATURE UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13870
+#EXTINF:-1 tvg-id="DMAXTurkey.tr" tvg-name="TR: DMAX HD" tvg-logo="https://i.ibb.co/Ss7DmRL/dmax.png" group-title="Belgesel Kanalları",TR: DMAX HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/54097
+#EXTINF:-1 tvg-id="DMAXTurkey.tr" tvg-name="TR: DMAX UHD" tvg-logo="https://i.ibb.co/Ss7DmRL/dmax.png" group-title="Belgesel Kanalları",TR: DMAX UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/113
+#EXTINF:-1 tvg-id="" tvg-name="TR: TARIH TV UHD" tvg-logo="https://i.ibb.co/jJjYQ60/TAR-HTV.png" group-title="Belgesel Kanalları",TR: TARIH TV UHD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/68985
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="TR: beIN GURME HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Gurme_HD_yeni.png" group-title="Belgesel Kanalları",TR: beIN GURME HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/123
+#EXTINF:-1 tvg-id="beINIZ.tr" tvg-name="TR: beIN IZ HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Bein_Iz_HD_250x150px_yeni.png" group-title="Belgesel Kanalları",TR: beIN IZ HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/122
+#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="TR: 24 KITCHEN UHD" tvg-logo="https://i.ibb.co/y6cHzCw/24k.png" group-title="Belgesel Kanalları",TR: 24 KITCHEN UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13569
+#EXTINF:-1 tvg-id="" tvg-name="TR: DOCUBOX HD" tvg-logo="https://i.ibb.co/RzdXGd0/docubox.png" group-title="Belgesel Kanalları",TR: DOCUBOX HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13571
+#EXTINF:-1 tvg-id="" tvg-name="TR: SCIENCE & VIE TV" tvg-logo="https://i.ibb.co/s5D6p8M/science.png" group-title="Belgesel Kanalları",TR: SCIENCE & VIE TV
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13563
+#EXTINF:-1 tvg-id="24.tr" tvg-name="TR: FAST & FUN HD" tvg-logo="https://i.ibb.co/fY1k8X6/fastfun.png" group-title="Belgesel Kanalları",TR: FAST & FUN HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13568
+#EXTINF:-1 tvg-id="" tvg-name="TR: DA VINCI HD" tvg-logo="https://i.ibb.co/4RbYbPP/davinci.png" group-title="Belgesel Kanalları",TR: DA VINCI HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13566
+#EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-name="TR: TLC HD" tvg-logo="https://i.ibb.co/SR0KWCS/tlc.png" group-title="Belgesel Kanalları",TR: TLC HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/13570
+#EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-name="TR: TLC UHD" tvg-logo="https://i.ibb.co/SR0KWCS/tlc.png" group-title="Belgesel Kanalları",TR: TLC UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/114
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR: TRT BELGESEL HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtbelgesel_new_250x150.png" group-title="Belgesel Kanalları",TR: TRT BELGESEL HD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/115
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TR: TRT BELGESEL UHD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/trtbelgesel_new_250x150.png" group-title="Belgesel Kanalları",TR: TRT BELGESEL UHD
+http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/850
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT12 BELGESEL HD
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
