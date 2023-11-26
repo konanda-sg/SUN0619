@@ -95,17 +95,14 @@ https://livestream.zazerconer.workers.dev/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png", HALK TV HD
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png", TELE 1 YTB
-http://livestream.zazerconer.workers.dev/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png", TELE 1 HD
+http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/4775
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",CADDE TV
 http://221.120.145.12:8000/play/a00y/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",MK HABER TV 
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",YOL TV 
-https://stream.yol.tv:9443/medialive/yolanayayin.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",ULUSAL TV 
 http://221.120.145.12:8000/play/a03n/index.m3u8
@@ -165,6 +162,15 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI-HAFTALIK DIZILER"" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Gönül Dağı(YENİ)
 http://mysistembio.xyz:8080/movie/tansukorkmaz/yVpyr3zQVA/191714.mkv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI-HAFTALIK DIZILER"" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Kendi Dusen Aglamaz (YENİ)
+http://mysistembio.xyz:8080/movie/tansukorkmaz/yVpyr3zQVA/227961.mkv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI-HAFTALIK DIZILER"" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Cok Guzel Hareketler 2 (YENİ)
+http://mysistembio.xyz:8080/movie/tansukorkmaz/yVpyr3zQVA/219998.mkv
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI-HAFTALIK DIZILER"" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Arka Sokaklar (YENİ)
+http://mysistembio.xyz:8080/movie/tansukorkmaz/yVpyr3zQVA/192076.mkv
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Canlı 1 Yayın Tv 
 https://rpn3.bozztv.com/ssh101/ssh101/tv70/chunks.m3u8
