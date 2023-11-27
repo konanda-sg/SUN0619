@@ -125,12 +125,6 @@ https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/c
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Yansinema TV HD
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJ1jU6jgtFyKhiRpR4c0BqYRTKO.jpg" group-title="VOD-FILMLER",Süper Türk Tv 
-http://75.119.144.48/SUPERTURK_TV_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJ1jU6jgtFyKhiRpR4c0BqYRTKO.jpg" group-title="VOD-FILMLER",Süper Türk MAX
-http://75.119.144.48/SUPERTURK_TV_2HD/index.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV90 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",PAZARCIK TV  
@@ -148,11 +142,26 @@ https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KEMAL SUNAL TV2 HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184971
 
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ARENA BOX KEMAL SUNAL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ FIX SINEMA & EGLENCE",KEMAL SUNAL TV3
+http://cnr.nxdns5.com:8080/Durmus.kara/8gSvktwLwsMD/124755
+
+#EXTINF:-1 tvg-id="" tvg-name="[TR] KING BOX KEMAL SUNAL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ FIX SINEMA & EGLENCE",KEMAL SUNAL TV4
+http://cnr.nxdns5.com:8080/Durmus.kara/8gSvktwLwsMD/124783
+
+#EXTINF:-1 tvg-id="" tvg-name="[TR]: DREAM BOX KEMAL SUNAL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ FIX SINEMA & EGLENCE",KEMAL SUNAL TV5
+http://cnr.nxdns5.com:8080/Durmus.kara/8gSvktwLwsMD/124823
+
+#EXTINF:-1 tvg-id="" tvg-name="[TR] FILM BOX KEMAL SUNAL" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062015/fix.png" group-title="TR➤ FIX SINEMA & EGLENCE",KEMAL SUNAL TV6
+http://cnr.nxdns5.com:8080/Durmus.kara/8gSvktwLwsMD/124834
+
+#EXTINF:-1 tvg-id="" tvg-name="[TR] ICE ➠ Kemal Sunal" tvg-logo="" group-title="TR➤ FIX SINEMA YESILCAM",KEMAL SUNAL TV7
+http://cnr.nxdns5.com:8080/Durmus.kara/8gSvktwLwsMD/171693
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HABABAM SINIFI 1
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184936
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",HABABAM SINIFI 2
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/184968
+http://cnr.nxdns5.com:8080/Durmus.kara/8gSvktwLwsMD/171695
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png", CINE1 HD
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
