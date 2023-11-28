@@ -12,7 +12,7 @@ https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png",TV4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",OCAK5tv
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",OCAK 5 tv
 https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w1597550234.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-ANGARA_BELEDİYESİ" logo="/ANGAR_BELEDİYESİ_TV-logo-2.png",TIVI 6 
@@ -125,7 +125,23 @@ https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/c
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Yansinema TV HD
 https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÜPER TÜRK TV1 
+http://75.119.144.48:3000/hybrid/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÜPER TÜRK TV2
+http://75.119.144.48:3501/hybrid/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÜPER TÜRK TV3 
+http://75.119.144.48:3203/hybrid/play.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV90 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",K.OLAY TV https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TON TV https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL68  
+https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",PAZARCIK TV  
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
@@ -133,8 +149,71 @@ https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Deniz postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png", GÜNEY TV HD
+https://live.artidijitalmedya.com/artidijital_guneytv/guneytv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png", BRTV HD
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png", ERTV HD
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png", ETV HD
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png", LİFE TV HD
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png", HUNAT TV HD
+https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png", KANAL23 HD
+https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png", KANAL26 HD
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png", DİM TV HD
+https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png", CINE5 TV HD
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png", TRAKYA TÜRK TV
+https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png", MERCAN TV
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png", WORLD TÜRK TV
+https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png", Anadolu Net TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png", URFANATİK TV
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png", AKSU TV
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png", kanal58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png",kentturktv
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png",kay tv
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png",kanal V
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png", kanal58
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png", kanal FIRAT
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 
 #EXTINF: -1 tvg-name="SAMANYOLU TV" group-title="ULUSAL", (SAMANYOLU) MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
@@ -585,11 +664,6 @@ http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/32920
 #EXTINF:-1 tvg-id="" tvg-name="TR: STINGRAY AMBIANCE HD" tvg-logo="https://i.ibb.co/SnLSVmW/naturespace.png" group-title="Belgesel Kanalları",TR: STINGRAY AMBIANCE HD
 http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/32935
 
-----FB SPOR --------
-
-#EXTINF:-1 tvg-id="" tvg-name="SPOR" tvg-logo="TEBERTV group-title="☘TR SPOR",FENER BAHCE TV
-https://github.com/ipstreet312/freeiptv/blob/master/ressources/dmotion/py/fbtv/fbtv.m3u8
- 
 
 -----------BELGESEL TANSU-------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="TR: DISCOVERY SCIENCE RAW" tvg-logo="" group-title="07)TR➾ RAW",TR: DISCOVERY SCIENCE RAW
