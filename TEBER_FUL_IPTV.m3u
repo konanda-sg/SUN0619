@@ -128,10 +128,10 @@ https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
 https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÜPER KANAL TV1 
-https://yayin1.canlitv.day/canlitv/superkanal.stream/chunklist_w1903069681.m3u8
+https://yayin1.canlitv.day/canlitv/superkanal.stream/chunklist_w1155247899.m3u8?hash=ab77de5334c8e65553fbc0597e9cc6ba
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÜPER KANAL TV2
-https://yayin1.canlitv.day/canlitv/tokatsupertv.stream/chunklist_w1441241432.m3u8
+https://yayin1.canlitv.day/canlitv/tokatsupertv.stream/chunklist_w861869581.m3u8?hash=ab77de5334c8e65553fbc0597e9cc6ba
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ATV ALANYA 
 https://edge1.socialsmart.tv/alanyatv/bant1/chunks.m3u8
@@ -212,6 +212,9 @@ https://edge1.socialsmart.tv/kanal33/bant1/chunks.m3u8?nimblesessionid=995504140
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png",GTV
 https://edge1.socialsmart.tv/gtv/bant1/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png",GÖRELE TV
+https://goreletv.ozelip.com.tr:3843/hybrid/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png",FTV TÜRK
 https://fortunacdn.socialsmart.tv/ftvturk/bant1/chunks.m3u8
