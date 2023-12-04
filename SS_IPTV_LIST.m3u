@@ -14,6 +14,9 @@ https://ssh101.bozztv.com/ssh101/TEBER_ON_TV/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TELE ON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Yılan Hikayesi Tv [7/24]
+http://maxsrvby.xyz:8080/crusen153/dbn124mnd/192686
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png", CINE1 HD
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
