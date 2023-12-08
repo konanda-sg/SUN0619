@@ -106,6 +106,18 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="24.tr" tvg-name="beyaztv" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",BEYAZ TV 
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",HİPOTROM TV
+https://livestream.zazerconer.workers.dev/channel/UCQgq6bnp3N_ZlyNq5dHmkNw.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",TAY TV
+https://livestream.zazerconer.workers.dev/channel/UCjkRA7KEdp7PDKDUs396XHg.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",TJK TV HD
+https://tjktv-live.tjk.org/tjktv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",TJK TV2 HD
+https://tjktv-live.tjk.org/tjktv2.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",KRT TV
 https://livestream.zazerconer.workers.dev/channel/UCT1QJrOPtGWYyWkXry8uT4w.m3u8
 
@@ -1681,8 +1693,7 @@ http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/32990
 http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/709
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="TR: A SPOR HD" tvg-logo="https://i.ibb.co/WBf55VR/aspor.png" group-title="Spor Kanalları",TR: A SPOR HD
 http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/112
-#EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TR: TJK TV HD" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TJK-250x150.png" group-title="Spor Kanalları",TR: TJK TV HD
-http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/110
+
 #EXTINF:-1 tvg-id="FightSports.us" tvg-name="TR: FIGHT NETWORK UHD" tvg-logo="https://i.ibb.co/r7P44T0/fight-network.png" group-title="Spor Kanalları",TR: FIGHT NETWORK UHD
 http://panel.meytv.org:8080/altuntabakayberk207/VR9B734y9H/54103
 #EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT1+ HD (MAÇ ZAMANI AKTIF)" tvg-logo="https://i.ibb.co/F3Vg4fT/ssport.png" group-title="Spor Kanalları",TR: S SPORT1+ HD (MAÇ ZAMANI AKTIF)
