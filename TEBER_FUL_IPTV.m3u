@@ -24,6 +24,9 @@ http://cdn-tvem.yayin.com.tr/TVEM/TVEM/chunklist_w1583799478.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",ÖNCÜ TV 
 https://edge1.socialsmart.tv/oncurtv/bant1/chunks.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT HD
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
@@ -2154,9 +2157,6 @@ https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KANAL Z 
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT HD
-https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="7-MÜZİK_KANLALARI" logo="/TBRT-TV-logo-2.png",DOSTELİ TV
 http://91.134.203.253:30124/dost/dost/chunklist.m3u8
 
@@ -2219,9 +2219,6 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",KANAL AVRUPA" group-title="TURK ULUSAL",TR:KANAL AVRUPA
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/80
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT HD
-https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 
 #EXTINF:1,SÜPRİZ TV 
 https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
