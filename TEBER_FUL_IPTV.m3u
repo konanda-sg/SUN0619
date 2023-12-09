@@ -1,4 +1,5 @@
 ﻿#EXTM3U
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEBER STAR1 AXİON
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
 
@@ -13,12 +14,6 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TELE ON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SİHİRLİ ANNEM Tv [7/24]
-https://livestream.zazerconer.workers.dev/channel/UCNjRKDlSvo1H38XTkbIrMsA.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BEHZAT Ç. Tv [7/24]
-https://livestream.zazerconer.workers.dev/channel/UCH3WnhFSx9r850HJRRs16lQ.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_SİNEMA" logo="/İPTV_SİNEMA-logo-2.png", CINE1 HD
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
@@ -66,9 +61,6 @@ http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/56
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",MELTEM TV HD
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-DİZİ" logo="/TEBER_MEDYA-logo-2.png",SHOW CENNET MAHALLESİ TV 
-https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 
 EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX HD" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: SHOW MAX HD
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/33566
