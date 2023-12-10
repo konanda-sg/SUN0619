@@ -64,7 +64,7 @@ http://motun.xyz:8080/mstf5856/mstf.5856/192685
 http://motun.xyz:8080/mstf5856/mstf.5856/192686
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER STAR SİNEMASI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR SİNEMASI HD
-https://rovideo.xyz/118/tt11866324.1080p.tr.m3u8#https://rovideo.xyz/220/tt22037984.480p.tr.m3u8
+https://rovideo.xyz/220/tt22037984.480p.tr.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -338,8 +338,8 @@ https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png", kanal FIRAT
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png",kanal 56
-https://cdn-kanal56tv.yayin.com.tr/kanal56tv/kanal56tv/chunklist_w2141812932.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV" logo="/İPTV_MODA-logo-2.png",SİNEMA  TBRT
+https://rovideo.xyz/118/tt11866324.1080p.tr.m3u8
 
 #EXTINF: -1 tvg-name="SAMANYOLU TV" group-title="ULUSAL", (SAMANYOLU) MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
