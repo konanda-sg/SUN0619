@@ -190,8 +190,6 @@ http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TON TV https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KANAL68  
 https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8
 
@@ -1831,7 +1829,7 @@ https://h125.artiyerelmedya.net/tv41/bant1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",SUN TV
 https://h125.artiyerelmedya.net/sunrtv/bant1/chunks.m3u8
 
-#EXTINF:0,TON TV
+#EXTINF:0,ÇANAKKALE TON TV
 https://h125.artiyerelmedya.net/tontv/bant1/chunks.m3u8
 
 #EXTINF:0,OLAY TÜRK
