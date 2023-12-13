@@ -33,6 +33,18 @@ https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV
 https://livestream.zazerconer.workers.dev/channel/UCfoQxHKIWW_HrECGLaDrBEw.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kemal Sunal TV 1" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ Yeşilcam Loca ",|TR| Kemal Sunal TV 1
+http://motun.xyz:8080/mstf5856/mstf.5856/6325
+
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Kemal Sunal TV 2" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ Yeşilcam Loca ",|TR| Kemal Sunal TV 2
+http://motun.xyz:8080/mstf5856/mstf.5856/101136
+
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Zeki Metin TV" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ Yeşilcam Loca ",|TR| Zeki Metin TV
+http://motun.xyz:8080/mstf5856/mstf.5856/6320
+
+#EXTINF:-1 tvg-id="" tvg-name="|TR| Şener Şen TV" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/MaxLogolar/salonLogo.png" group-title="TR/ Yeşilcam Loca ",|TR| Şener Şen TV
+http://motun.xyz:8080/mstf5856/mstf.5856/23578
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_DİZİLEİRİ" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SHOW CENNET MAHALLESİ TV 
 https://livestream.zazerconer.workers.dev/channel/UCOqe-z52nnpVSAe8Ds0fxaA.m3u8
 
@@ -100,18 +112,13 @@ https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/21446
 
 #EXTINF:-1 tvg-id="tv85.tr" tvg-name="TR: TV 8,5 UHD-4K" tvg-logo="http://hasbahca.net/TVLogo/TR/tv85_tr.png" group-title="TR: ULTRA HD KANALLAR",TR: TV 8,5 UHD-4K
-http://www.x-changer.org:80/017474BxjFt3El9a/56N944MUzR/24512
+http://motun.xyz:8080/mstf5856/mstf.5856/6281
 
-#EXTINF:0 user-agent="Firefox" tvg-id="TV 8, 5" tvg-name="TR: TV 8.5 HD" tvg-logo="http://logo.hdplustv.us/logoslar/tv85.png" group-title="TR-SPOR",TR: TV 8.5 FHD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/56
 
 #EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",MELTEM TV HD
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-
-EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX HD" tvg-logo="https://seeklogo.com/images/S/show-max-logo-7A59619D4C-seeklogo.com.png" group-title="03)TR➾ ULUSAL",TR: SHOW MAX HD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/33566
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
@@ -122,23 +129,17 @@ https://showturk.blutv.com/blutv_showturk2/live.m3u8
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/STAR.TV.png" group-title="TURK ULUSAL",STAR TV HD
 http://canli.haber365.com.tr/tr/startv/index.m3u8
 
-#EXTINF:-1 tvg-id="startv.tr" tvg-name="TR: STAR EU" tvg-logo="https://i.hizliresim.com/h36hs2e.png" group-title="03)TR➾ ULUSAL",TR: STAR EU
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/21444
-
 #EXTINF:-1 tvg-id="24.tr" tvg-name="kanald" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",Kanal D HD
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kanald.tr" tvg-name="TR: KANAL D EU" tvg-logo="https://i.hizliresim.com/gm4o8nd.png" group-title="03)TR➾ ULUSAL",TR: KANAL D EU
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/21445
-
-#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",TR: ATV EU
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/21443
+http://motun.xyz:8080/mstf5856/mstf.5856/102083
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL",ATV HD
 http://116.202.238.88/ATV_TR/index.m3u8
 
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="TR:ATV" tvg-logo="https://i.hizliresim.com/el3l0z2.png" group-title="03)TR➾ ULUSAL", A2 
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/60
+http://motun.xyz:8080/mstf5856/mstf.5856/6268
 
 #EXTINF:-1 tvg-id="24.tr" tvg-name="TR: 360 TV FHD" tvg-logo="http://hasbahca.net/TVLogo/TR/tv360tr.png" group-title="TR: ULTRA HD KANALLAR",TV 360 FHD
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
@@ -424,7 +425,7 @@ https://starkurd.ozelip.com:3459/stream/play.m3u8
 http://live.amedradyotv.net:2020/hls/ferat.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",TRT 1 FHD
-http://mysistembio.xyz:8080/tansukorkmaz/yVpyr3zQVA/40
+http://motun.xyz:8080/mstf5856/mstf.5856/20484
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-TRT-TV LERİ" logo="/TEBER_MEDYA-logo-2.png", TRT 2 HD
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
@@ -9197,6 +9198,10 @@ https://vod.mycamtv.net/284.m3u8
 https://vod.mycamtv.net/285.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="O_RUSBU_GIYLAŞANLAR" logo="/O_RUSBU_GIYLAŞANLAR-logo-2.png",AFALAŞMA71
 https://vod.mycamtv.net/286.m3u8
+
+
+
+
 
 
 
