@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEBER STAR1 AXİON
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
+https://stream-cdn-iad.vaughnsoft.net/play/live_husso19.flv
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR2 VATAN TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber2/chunklist_w909642297.m3u8
@@ -13,7 +13,7 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/bulut/chunklist_w110952983.m3
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Yansinema TV SD 
-https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8 
+https://rpn3.bozztv.com/ssh101/ssh101/yansinemaatv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SÜPRÜZ TV
 https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
@@ -44,16 +44,19 @@ https://play1dvr.blutv.com/blutv_play1_dvr/live_1080p3500000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", BULU PLAY2
 https://play2dvr.blutv.com/blutv_play2_dvr/live_1080p3500000kbps/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",gopsentv
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",Gopsen tv
 http://palatv34.ozelip.com:22372/gopsentv/gopsentv/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",ÇAĞRI TV 
+http://palatv34.ozelip.com:22372/cagritv/cagritv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ATV ALANYA 
 https://edge1.socialsmart.tv/alanyatv/bant1/chunks.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV70 
-https://tv90-https://edge1-eu-west.picarto.tv/stream/hls/golive%2Bc70/1_0/index.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV90 https://tv90-live.cdnnew.com/tv90/tv90.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TV70 
+https://ssh101.bozztv.com/ssh101/tv70/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png"PAZARCIK TV
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
@@ -65,9 +68,6 @@ https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",Eva Tv 
 https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/chunklist_w1737792438.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", AFYON TÜRK 
-http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", SKY HABER TV HD
 https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
@@ -275,8 +275,6 @@ http://palatv34.ozelip.com:22372/demircitv/demircitv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",BİLSEM TV
 http://palatv34.ozelip.com:22372/bilsem/bilsem/playlist.m3u8
-
-u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",Adana
 http://palatv34.ozelip.com:22372/adana/adana/chunklist.m3u8
@@ -504,6 +502,9 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 
 -----------------YEREL TV--------------
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png", AFYON TÜRK 
+http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
+
 ----GERÇEK-----HABER------------------
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ASKER TV  
 https://canliyayin.tv.tr/askertv/askertv/chunklist_w1458546861.m3u8
@@ -636,21 +637,10 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kanalt/bantp1/playlist.m3u8
 http://rtmp2.abnvideos.com/hls/abnturkey.m3u8
 
 ---------------BİZİM---YEREL--KANALLAR--------------
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",SÜPRİZ TV 
-https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
-
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-YANSIMA_TV_TEBER_GURUP" logo="/TEBER_MEDYA-logo-2.png",Yansıma Muzik TV HD
-https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-YANSIMA_TV_TEBER_GURUP" logo="/TEBER_MEDYA-logo-2.png",Yansıma Dance TV HD
-https://ssh101.bozztv.com/ssh101/yansimamuzik/chunks.m3u8
 
 #EXTINF:0, YAGMURLU TV
 http://91.134.203.253:30124/yagmur/yagmur/chunklist.m3u8
 
-#EXTINF:60 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://btv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BTV
-https://edge1.socialsmart.tv/btv/bant1/chunks.m3u8
 
 #EXTINF:103,DEMİRCİ TV
 http://91.134.203.253:30124/demircitv/demircitv/chunklist.m3u8
@@ -673,8 +663,11 @@ https://livestream.zazerconer.workers.dev/channel/UCjpoTfA8TXO6QfAWiAB67eA.m3u8
 #EXTINF:119,NEFTCİ TV
 https://livestream.zazerconer.workers.dev/channel/UCaRFVSGWHqCDjWR69_VlZdg.m3u8
 
-#EXTINF:1,TATLISES TV  
-https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8?nimblesessionid=1416966032
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",SÜPRİZ TV 
+https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YANSIMA_TV_TEBER_GURUP" logo="/TEBER_MEDYA-logo-2.png",Yansıma Muzik TV HD
+https://rpn3.bozztv.com/ssh101/ssh101/yansiimamuziktv/playlist.m3u8
 
 #EXTINF:1,DAMAR TV  
 https://tvmesaj.ozelip.com:3673/hybrid/play.m3u8
@@ -697,8 +690,11 @@ https://host.onlineradyotv.net:8081/birguntv/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",TV A 
 https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
 
-#EXTINF: 28 tvg-logo="http://i.ibb.co/8NqZMWT/TGRT-EU.png" group-title="AVRUPA", TGRT EU
-https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
+#EXTINF:-1,Y-KARADENİZ TV
+http://palatv34.ozelip.com:22372/ykaradeniztv/ykaradeniztv/playlist.m3u8
+
+#EXTINF:-1,TV ÖNCÜ
+http://palatv34.ozelip.com:22372/tvoncu/tvoncu/playlist.m3u8
 
 #EXTINF:30,REHBERİM TV
 http://nrttn172.kesintisizyayin.com:29010/rehbermitv/rehbermitv/sec-f5-v1-a1.m3u8
@@ -880,8 +876,6 @@ https://360tv.blutv.com/blutv_360tv_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1,MUGLA TÜRK 
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 
-#EXTINF:-1,WOMAN TV 
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 
 #EXTINF:-1,TÜRK HABER 
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8 
@@ -891,9 +885,11 @@ https://live.artidijitalmedya.com/artidijital_birtv/birtv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",KANAL AVRUPA" group-title="TURK ULUSAL",TR:KANAL AVRUPA
 http://nk.hdiptv.in:8080/tvfunsat/7ORKJabh818/80
-
-#EXTINF:1,SÜPRİZ TV 
+#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",SÜPRİZ TV 
 https://yayin30.haber100.com/live/surpriztv/chunklist_w313408686.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-YANSIMA_TV_TEBER_GURUP" logo="/TEBER_MEDYA-logo-2.png",Yansıma Muzik TV HD
+https://rpn3.bozztv.com/ssh101/ssh101/yansiimamuziktv/playlist.m3u8
 
 #EXTINF:0, YAGMURLU TV
 http://91.134.203.253:30124/yagmur/yagmur/chunklist.m3u8
@@ -981,9 +977,6 @@ https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
 
 #EXTINF:-1,AFYON TÜRK 
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
-
-#EXTINF:-1,YANSIMA TV
-https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",TV4 
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
@@ -1142,10 +1135,7 @@ http://vod02.cdn.web.tv/is/to/istodk0jlai_,720,.mp4.urlset/playlist.m3u8
 https://vod02.cdn.web.tv/c8/xe/c8xe6mbjb6w_,720,.mp4.urlset/playlist.m3u8
 
 
---------------DİNİ KANALLAR----------------------
-
-#EXTINF:1, CAMiA TV HD
-http://camiatv-live.ercdn.net/camiatv/camiatv_1080p.m3u8
+--------------DİN KANALLARI----------------------
 
 #EXTINF:0 type="stream" channelId="1129" group-title="9_DiNi_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=1129", DiYANET TV
 http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
@@ -1625,15 +1615,6 @@ http://aca3b.tk:8080/serkankul/GcEbVsLBU2/20948
 
 #EXTINF:-1,PALA TV
 http://tv86905.radyotelekomtv.com:22808/palatv/palatv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="SİNEMA_MEDYA" logo="/TEBER_EĞLENCE-logo-2.png",YANSIMA TV
-https://live-server-2.splitstream.io/5438e115-c1ad-41f1-84fe-adb059606c8b/tracks-v1a1/mono.m3u8
-
-#EXTINF:-,YANSIMA Dance TV HD
-https://ssh101.bozztv.com/ssh101/yansimamuzik/chunks.m3u8 
-
-#EXTINF:-1,YANSIMA Muzik TV HD 
-https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
 
 #EXTINF:1,SLOW K.DENİZ TV
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
