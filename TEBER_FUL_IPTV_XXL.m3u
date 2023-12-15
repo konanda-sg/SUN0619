@@ -365,6 +365,9 @@ https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png",Bürüksel Türk
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ_YAYINLARI-logo-2.png",TEMPO TV
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="7-İPTV_MODA" logo="/İPTV_MODA-logo-2.png",EDESA TV
 https://tv.digitalbox.xyz:19360/edessatv/edessatv.m3u8
 
@@ -722,9 +725,6 @@ http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 
 #EXTINF:1,KANAL 26
 https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ_YAYINLARI-logo-2.png",TEMPO TV
-https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="7-HABER" logo="/TEBER_MEDYA-logo-2.png",KANAL FIRAT
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/chunks.m3u8
