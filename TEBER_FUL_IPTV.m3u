@@ -187,8 +187,8 @@ https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",ÇAKAL SPOR TV 
 https://corsproxy.org/?https://esra-erol-fileli-corap.esraerolofffff.workers.dev/hls/bein-sports-1.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",CORSPORX TR 
-https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",ÇAKAL SPOR TV YDK
+https://www.hlsplayer.org/play?url=https%3A%2F%2Fcorsproxy.org%2F%3Fhttps%3A%2F%2Fesra-erol-fileli-corap.esraerolofffff.workers.dev%2Fhls%2Fbein-sports-1.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
