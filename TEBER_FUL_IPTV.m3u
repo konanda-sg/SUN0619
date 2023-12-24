@@ -184,8 +184,11 @@ https://corsproxy.org/?https://cakal.click/yayintv85.m3u8
 
 #EXTINF:-34 tvg-id="FoxTurkey.tr"tvg-name="Fox.tr" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="ULUSAL",FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",MELTEM TV HD
-https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",ÇAKAL SPOR TV 
+https://corsproxy.org/?https://cakal.click/yayinzirve.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="7-MELTEM-TV LERİ" logo="/TEBER_MEDYA-logo-2.png",CORSPORX TR 
+https://corsproxy.org/?https://worker-falling-waterfall-c56d.loyefnbyf.workers.dev/601?.m3u8
 
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV HD" tvg-logo="https://www.server365.dev/logo/AAA_VIP_LOGOLAR/ulusal/hd/SHOW.TV.png" group-title="TURK ULUSAL",SHOW TV HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
