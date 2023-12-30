@@ -33,6 +33,9 @@ https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/tebe
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER ON 
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/demir/chunklist_w864557433.m3u8
 
+#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: ROMAN TV" tvg-logo="http://logo.multicms.info/logoslar/roman.png" group-title="TR-MUZIK",TR: ROMAN TV
+http://143951.iptvone.eu:80/ufukhalis/ndl62532144/23976
+
 #EXTINF: -1 group-title="Sinema", TeleON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
 
@@ -1006,8 +1009,7 @@ http://143951.iptvone.eu:80/ufukhalis/ndl62532144/234451
 http://143951.iptvone.eu:80/ufukhalis/ndl62532144/291
 #EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: DAMAR TV" tvg-logo="http://logo.multicms.info/logoslar/damartv.jpg" group-title="TR-MUZIK",TR: DAMAR TV
 http://143951.iptvone.eu:80/ufukhalis/ndl62532144/41839
-#EXTINF:0 user-agent="Firefox" tvg-id="NULL" tvg-name="TR: ROMAN TV" tvg-logo="http://logo.multicms.info/logoslar/roman.png" group-title="TR-MUZIK",TR: ROMAN TV
-http://143951.iptvone.eu:80/ufukhalis/ndl62532144/23976
+
 ***********NTV SPOR PAKETİ**BELGESEL**************
 
 #EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-logo="http://iptvabonelik.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/national_geo_wild.png" tvg-name="|TR| National Geographic Wild HD" group-title="TR➾ Full Liste",-1    , |TR| National Geographic Wild HD
