@@ -1,0 +1,41 @@
+#EXTM3U 
+
+#EXTINF: -1 group-title="TR Turkey", TRT 1 1080P
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+#EXTINF: -1 group-title="TR Turkey", TEVE2 1080P
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", KANAL D 1080p
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", KANAL D 720p
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+#EXTINF: -1 group-title="TR Turkey", SHOW TV 1080p
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", ATV 720p
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF: -1 group-title="TR Turkey", SHOW TV 720p
+http://canli.haber365.com.tr/tr/showtv/index.m3u8
+#EXTINF: -1 group-title="TR Turkey", STAR TV 720p
+http://canli.haber365.com.tr/tr/startv/index.m3u8
+#EXTINF: -1 group-title="TR Turkey", BEYAZ TV 1080p
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", KANAL 7 1080P
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", TV8 1080p
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+**********HABER**********
+#EXTINF: -1 group-title="TR Turkey", HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", HABER TURK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", CNN TURK
+https://teve2.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+*******TR*SPOR**********
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/499ba430-2ca5-11ee-b2f5-69de0dccc687/5047437/889983241.jpeg" group-title="TR Turkey", 3TR: NTVSPOR HD
+http://5.9.136.157/ntvspor/ntvspor/playlist.m3u8
+#EXTINF: -1 tvg-id="trtspor.tr" tvg-name="TR: TRT SPOR HD" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/TRT.SPOR.png" group-title="TR Turkey", TRT SPOR HD
+http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6392.m3u
+#EXTINF: -1 tvg-logo="http://11.somee.com/images/TRT.SPOR.png" group-title="TR Turkey", Trt Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF: -1 tvg-logo="http://11.somee.com/images/TRT.SPOR.png" group-title="TR Turkey", Trt Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
