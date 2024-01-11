@@ -1,22 +1,22 @@
 ﻿#EXTM3U
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",BİZİM TV1 SİNEMA
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv1/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv1/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TV2 EHLİBEYT
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv2/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv2/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TV3 MÜZİK
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv3/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv3/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM TV4 çocuk
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv4/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_tv4/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR TV
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Teber_star_tv/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Teber_star_tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER BİZ ON TV
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Biz_on_tv/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Biz_on_tv/playlist.m3u8
 
 #EXTINF: -1 group-title="Sinema", TeleON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
@@ -25,10 +25,13 @@ https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_h
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA sinema TV 
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/yansinemaatv/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/yansinemaatv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SUPERMAN TV
+http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/132577.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",BİZİM MEDYA TV
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/Bizim_spor_tv/playlist.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/Bizim_spor_tv/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -54,18 +57,43 @@ https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m
 #EXTINF: -1 group-title="Sinema", FİLM CLUP ACTİON
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1281/index.m3u8
 
-
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AKTİF TV
+http://nrttn172.kesintisizyayin.com:29010/aktif/aktif/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-KARADENİZ_YAYINLARI" logo="/KARADENİZ YAYINLARI-logo-2.png",VRT TV HD
 https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",AFYON TÜRK TV
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV 1
+https://tivi191.ozelip.com:3463/stream/play.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV 2
+https://ythls.armelin.one/video/lDI6Lbxhz6Y.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV 3
 http://new.cache-stream.workers.dev/stream/UCoIUysIrvGxoDw-GkdOGjRw/live.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",ŞABAN TV2
-http://new.cache-stream.workers.dev/stream/UCE1XdVHzOdMnUsUMatIzjag/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.KOBİM TV
+http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",WOMAN TV
+https://embedlp.becdn.net/womantv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",G.İZ TV
+http://nrttn172.kesintisizyayin.com:29010/acitv/acitv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SİLE TV
+http://164.132.23.92:22372/siletv/siletv/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",SOLAKLI TV
+http://164.132.23.92:22372/solak/solak/playlist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",T.KILİNİKLERİ TV
+http://mn-nl.mncdn.com/turkiyeklinikleri/smil:turkiyeklinikleri/chunklist_b3128000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",DİYAR TV
+https://yayin30.haber100.com/live/diyartv/chunklist_w1634409720.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="png",YEŞİLÇAM TV1 
 https://new.cache-stream.workers.dev/stream/UCulg-mlXf314L1pemPqCVng/live.m3u8
@@ -475,8 +503,7 @@ http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/130652.m3u
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/130666.m3u
 #EXTINF:-1,TRANSFORMERS
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/130667.m3u
-#EXTINF:-1,SUPERMAN
-http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/132577.m3u
+
 #EXTINF:-1,JURASSIC WORLD
 http://xc.ftrhd.com:8080/live/hmt0010/rs.0302/132101.m3u
 #EXTINF:-1,ALIEN
@@ -2748,7 +2775,7 @@ https://cdn-kanals.yayin.com.tr/kanals/kanals/chunklist_w486539089.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal16/kanal16/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",KASTAMONU TV  
-http://51.158.204.52:8080/live/kastamonutv/kastamonutv/3385.m3u8
+http://kastamonutv37.com:8080/kastamonutv37/kastamonutv37/37
 
 #EXTINF:0 type="stream" channelId="-1" group-title="BELGESEL_TV" logo="/YEREL_TV-logo-2.png",TV55
 https://cdn-tv55.yayin.com.tr/tv55/tv55/playlist.m3u8
