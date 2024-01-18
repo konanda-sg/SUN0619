@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER TEBER STAR
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_STAR_TV/playlist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER EHLİBEYT
@@ -21,18 +21,17 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/TEBER_MUZIK/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",OTT SPORT TV
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/OTT_SPORT/chunklist_w587040219.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="png",YANSIMA sinema TV 
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA MÜZİK
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1448699434.m3u8
+
 #EXTINF: -1 group-title="Sinema", TeleON
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin_hd_live/chunks.m3u8
 
 #EXTINF: -1 group-title="Sinema",MEDYA ON
 https://yayin11.sunucuodasi.com/hls/mtv/live.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_YEDEK_TEBER_KANALLARI" logo="png",YANSIMA sinema TV 
-https://rpn3.bozztv.com/ssh101/ssh101/yansinemaatv/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA sinema TV AVRUPA
-https://proxy.linkeddatafragments.org/https://rpn3.bozztv.com/ssh101/ssh101/yansinemaatv/playlist.m3u8
-
 
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -1602,9 +1601,8 @@ http://65822363.xyz:80/live/grx313/sdfg456ghy/181592.ts
 #EXTINF:-1,TR: TV Net
 http://65822363.xyz:80/live/grx313/sdfg456ghy/205024.ts
 
-
-
 *********aflaxtv**ULUSAL**************
+
 #EXTINF:-1,TR: Cine 1
 http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300983
 #EXTINF:-1,TR: Cine 5
@@ -1742,7 +1740,8 @@ http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/174433
 #EXTINF:-1,TR: Tarim Türk
 http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/281364
 
-**********MÜZİK********************
+********aflax**MÜZİK********************
+
 #EXTINF:-1,TR: MUSLUM GURSES
 http://aflaxtv.xyz:8080/newoutputofflinechecker/GJQNq4AjPVFHyrZ5/300401
 #EXTINF:-1,TR: Medine TV
@@ -17902,9 +17901,7 @@ http://nvid101.cdnii.com/2019/0/20190597-720p.mp4
 #EXTINF:-1 group-title="18+",cdnii.com xxx100
 http://nvid101.cdnii.com/2019/0/20190291-720p.mp4
 
-
-
-*************************************************************
+***********************************************************
 #EXTINF:-1 type="stream" group-title="Radyolar",TÜRK SANAT MÜZİĞİ FM
 http://TsmFm.Com:9100
 #EXTINF:-1 type="stream" group-title="Radyolar",TÜRKCENIN SESI RADYOSU
